@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-04T12:56:11.569Z</updated>
+    <updated>2022-10-04T14:01:04.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유해진-류준열 '올빼미' 11월 23일 개봉 확정]]></title>
+        <id>https://v.daum.net/v/20221004220007244</id>
+        <link href="https://v.daum.net/v/20221004220007244"/>
+        <updated>2022-10-04T14:01:03.302Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 유해진-류준열 ‘올빼미’ 11월 23일 개봉 확정 [공식] 영화 ‘올빼미’가 오는 11월 23일 개봉을 확정하고 1차 포스터 2종을 소개했다. ‘올빼미’는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러. 공개된 2종의 1차 포스터는 촛불 앞의 ‘인조’와 불이 꺼진 초 앞의 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기다렸다, 부산국제영화제]]></title>
         <id>https://v.daum.net/v/20221004214201985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221004165504325"/>
         <updated>2022-10-04T08:35:03.209Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '나를 죽여줘' 감독이 극 중 장애를 가진 아들 역을 연기한 안승균을 칭찬했다. 4일 서울 광진구 롯데시네마 건대입구에서 영화 '나를 죽여줘'(감독 최익환) 언론시사회가 열렸다. 이 자리에는 최익환 감독과 배우 장현성, 이일화, 김국희, 양희준이 참석했다. 이날 연출을 맡은 최익환 감독은 현재 입대 후 대체 복무 중인 안승균의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나를 죽여줘' 장현성 "'절친' 김진수 제작 도전, '돈 있냐'고 물어"]]></title>
-        <id>https://v.daum.net/v/20221004164954134</id>
-        <link href="https://v.daum.net/v/20221004164954134"/>
-        <updated>2022-10-04T08:35:03.210Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 건대입구=김나연 기자] 장현성 / 사진=영화 스틸컷배우 장현성이 제작자로 변신한 김진수에 대해 밝혔다. 4일 서울시 광진구 롯데시네마 건대입구에서는 영화 '나를 죽여줘'의 언론배급시사회가 개최됐다. 이 자리에는 최익환 감독을 비롯해 배우 장현성, 이일화, 김국희, 양희준이 참석해 다양한 이야기를 나눴다. '나를 죽여줘'는 선천적 지체장애를]]></content>
     </entry>
 </feed>
