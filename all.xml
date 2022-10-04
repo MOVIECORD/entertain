@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-04T11:22:47.791Z</updated>
+    <updated>2022-10-04T12:56:11.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[기다렸다, 부산국제영화제 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221004214201985</id>
+        <link href="https://v.daum.net/v/20221004214201985"/>
+        <updated>2022-10-04T12:56:10.931Z</updated>
+        <content type="html"><![CDATA[제27회 부산국제영화제(BIFF)의 전야제가 오늘(4일) 부산 중구 비프(BIFF)광장에서 열린 가운데 우천 속에서도 축제 준비를 모두 마쳤다. 아시아 최대 영화축제 '제27회 부산국제영화제' 개막을 하루 앞둔 이날 오후 부산 중구 BIFF광장 특설무대에서 전야제가 개최됐다. 최진봉 중구청장의 개막 선언과 함께 시작돼 이용관 부산국제영화제 이사장 등 참]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼 리치' 탈북인 모자의 진짜 남한 정착기 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221004201202707</id>
@@ -16,7 +23,7 @@
         <id>https://v.daum.net/v/20221004195054330</id>
         <link href="https://v.daum.net/v/20221004195054330"/>
         <updated>2022-10-04T11:22:46.927Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“제가 장애인이 아니고서야 그들을 대변할 수 없다고 생각한다.” 최익환 감독은 4일 오후 서울 자양동 건대입구 롯데시네마에서 열린 영화 ‘나를 죽여줘’의 언론배급시사회에서 “몸과 마음, 관계가 아픈 사람들의 이야기를 할 수 있다면, 그들을 들여다볼 준비가 됐다면 제가 이 얘기를 할 수 있다고 생각했다”라며 장애인의 삶을 그린 영]]></content>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“제가 장애인이 아니고서야 그들을 대변할 수 없다고 생각한다.” 최익환 감독은 4일 오후 서울 자양동 건대입구 롯데시네마에서 열린 영화 ‘나를 죽여줘’의 언론배급시사회에서 “몸과 마음, 관계가 아픈 사람들의 이야기를 할 수 있다면, 그들을 들여다 볼 준비가 됐다면 제가 이 얘기를 할 수 있다고 생각했다”라며 장애인의 삶을 그린]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['나를 죽여줘' 장현성 "이일화, 우리 또래 여신..로맨스 영광" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221004164954134"/>
         <updated>2022-10-04T08:35:03.210Z</updated>
         <content type="html"><![CDATA[[스타뉴스 건대입구=김나연 기자] 장현성 / 사진=영화 스틸컷배우 장현성이 제작자로 변신한 김진수에 대해 밝혔다. 4일 서울시 광진구 롯데시네마 건대입구에서는 영화 '나를 죽여줘'의 언론배급시사회가 개최됐다. 이 자리에는 최익환 감독을 비롯해 배우 장현성, 이일화, 김국희, 양희준이 참석해 다양한 이야기를 나눴다. '나를 죽여줘'는 선천적 지체장애를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알폰소 쿠아론 제작 '레이먼드 & 레이', 21일 Apple TV+ 공개 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221004164918107</id>
-        <link href="https://v.daum.net/v/20221004164918107"/>
-        <updated>2022-10-04T08:35:03.210Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 할리우드 대표 연기파 배우 에단 호크와 이완 맥그리거의 진한 브로맨스를 기대케 하는 Apple Original Film ‘레이먼드 &amp; 레이’ – Raymond &amp; Ray가 제27회 부산국제영화제에서 아시아 프리미어로 상영되며 관심을 모으고 있는 한편, 1전 세계 공개일을 확정 짓고 예고편을 공개했다. ‘레이먼드 &amp; 레이’ - R]]></content>
     </entry>
 </feed>
