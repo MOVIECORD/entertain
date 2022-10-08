@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-08T07:25:44.382Z</updated>
+    <updated>2022-10-08T08:32:09.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장항준·송은이, 제작자·감독으로 뭉친 절친 "영화제 올 줄 몰랐다"]]></title>
+        <id>https://v.daum.net/v/20221008172003536</id>
+        <link href="https://v.daum.net/v/20221008172003536"/>
+        <updated>2022-10-08T08:32:09.017Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 방송인 송은이와 장항준 감독이 영화 '오픈 더 도어'를 통해 제작자와 감독으로 마주하며 남다른 절친 시너지를 발휘했다. 8일 오후 부산 해운대구 우동 롯데시네마 센텀시티에서 제27회 부산국제영화제(BIFF) '한국영화의 오늘-파노라마' 섹션에 초청된 장항준 감독의 연출작 '오픈 더 도어'의 상영 및 GV(관객과의 대화)가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송은이, 장항준 영화 제작자로 첫 BIFF 참석 "엔딩크레딧 내 이름 뭉클"]]></title>
+        <id>https://v.daum.net/v/20221008164003648</id>
+        <link href="https://v.daum.net/v/20221008164003648"/>
+        <updated>2022-10-08T08:32:09.017Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 멀티테이너로 활약 중인 방송인 송은이가 영화 제작자로 부산국제영화제 현장을 처음 찾았다.&nbsp; 송은이는 지난 5일 개막한 제27회 부산국제영화제(BIFF) '한국영화의 오늘-파노라마' 섹션에 초청된 장항준 감독의 연출작 '오픈 더 도어'의 제작자 자격으로 영화제에 방문했다. 지난 7일 부산 해운대구 우동 롯데시네마 센텀시티에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현실과 동화 오가는 영화 '스칼렛'..감독 "주체적 여성상 반영"]]></title>
         <id>https://v.daum.net/v/20221008162304462</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221008141701999"/>
         <updated>2022-10-08T05:34:02.924Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  김유정→노윤서 ‘20세기 소녀’ 4인방, ‘찐친’ 바이브♥ (종합)[BIFF 현장] 넷플릭스 오리지널 ‘20세기 소녀’ 청춘스타 4인방이 ‘찐친’ 바이브로 부산국제영화제를 물들였다. 8일 오후 부산 해운대구 영화의 전당 BIFFXGENESIS 야외무대에서 진행된 넷플릭스 오리지널 ‘20세기 소녀’ 오픈토크. 이날 행사에는 방우리 감독을 비롯]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 아이유 보러가자..쌀쌀한 날씨 속 후끈한 열기]]></title>
-        <id>https://v.daum.net/v/20221008141602991</id>
-        <link href="https://v.daum.net/v/20221008141602991"/>
-        <updated>2022-10-08T05:34:02.924Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 |부산=조은별기자]“와~아이유다!” 부산국제영화제 나흘째인 8일, 제법 쌀쌀한 날씨에도 해운대구 영화의 전당 야외무대가 꽉 들어찼다. 영화 ‘브로커’의 주인공 이지은(아이유)을 보기 위한 인파다. 이날 정오 마련된 ‘브로커’의 고레에다 히로카즈 감독과 이지은, 이주영의 오픈토크 행사를 보기 위해 무대 앞에 놓인 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정 "'20세기 소녀' 애정 커..일정 끝나는 게 아쉬울 정도"]]></title>
-        <id>https://v.daum.net/v/20221008140906893</id>
-        <link href="https://v.daum.net/v/20221008140906893"/>
-        <updated>2022-10-08T05:34:02.924Z</updated>
-        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 배우 김유정과 변우석이 1999년을 배경으로 사랑스러운 세기말 감성 멜로를 완성해냈다. 8일 오후 1시 부산 해운대구 영화의전당 야외극장에서 진행된 제27회 부산국제영화제(BIFF) '20세기 소녀' 오픈토크에는 김유정, 변우석, 박정우, 노윤서, 방우리 감독이 참석했다. 넷플릭스 영화 '20세기 소녀'는 어느 겨울 도착]]></content>
     </entry>
 </feed>
