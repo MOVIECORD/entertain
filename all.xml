@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T20:29:17.291Z</updated>
+    <updated>2022-10-13T21:25:45.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3년만의 정상화 BIFF..양조위 초청 등 숱한 화제 속 성공적 폐막 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221014060003238</id>
+        <link href="https://v.daum.net/v/20221014060003238"/>
+        <updated>2022-10-13T21:25:45.124Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]제 27회부산국제영화제(BIFF)가 열흘간의 일정을 마무리하고 내년을 기약한다. 부산국제영화제는 14일 오후 6시 해운대 영화의 전당 야외극장에서 배우 권율, 한선화의 사회로 폐막식을 진행한다. 폐막작은 2022 베니스국제영화제 오리종티 초청작인 이시카와 케이 감독의 ‘한 남자’가 상영될 예정이다. 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흥행 뒷심 '인생은 아름다워' 이틀 연속 역주행 1위..70만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221014052339753</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221013191521738"/>
         <updated>2022-10-13T10:29:08.940Z</updated>
         <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;배우 하정우(45)가 넷플릭스 드라마 ‘수리남’에 대해 “이야기가 방대했기 때문에 6시간 짜리 영화 같았다”라고 소개했다. 하정우는 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 액터스 하우스에서 “영화는 2~3시간 안에 인물을 표현하는데 ‘수리남’은 6시간이라는 긴 시간이 주어졌다. (영화라면)디테일하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 "아직은 미혼, 윤종빈 감독 통해 아버지 대리경험" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221013191514731</id>
-        <link href="https://v.daum.net/v/20221013191514731"/>
-        <updated>2022-10-13T10:29:08.943Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;배우 하정우(45)가 아버지 캐릭터를 소화하는 데 윤종빈(44) 감독의 영향을 받았다고 전했다. 하정우는 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 액터스 하우스에서 “최민식 선배가 ‘범죄와의 전쟁’에서 연기한 캐릭터와 윤종빈 감독이 아버지로서 만들어온 모습을 이해했다”며 “제가 아직은 미혼이지만 윤]]></content>
     </entry>
 </feed>
