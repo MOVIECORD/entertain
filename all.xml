@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T20:26:25.256Z</updated>
+    <updated>2022-10-31T21:22:58.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤시윤X안성기 주연 ‘탄생’ 제작보고회 연기‥“이태원 희생자들 명복 빈다” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221101062020145</id>
+        <link href="https://v.daum.net/v/20221101062020145"/>
+        <updated>2022-10-31T21:22:55.203Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 윤시윤과 안성기 주연 영화 '탄생'이 이태원 참사 여파로 제작보고회를 연기했다. 10월 31일 영화 '탄생'(감독 박흥식) 측은 오는 3일 서울 용산구 CGV용산아이파크몰에서 진행하기로 예정했던 제작보고회를 11일로 변경해 연다고 알렸다. 박흥식 감독은 "이태원에서 불의의 사고를 당하신 분들이 하늘나라에서 평안하기를 바란다"며 "슬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반전 스릴러 ‘자백’ 5일 연속 1위‥누적 28만↑ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221101052109588</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221031165949479"/>
         <updated>2022-10-31T08:34:43.094Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 릴리풋 왕국 사람들은 40년 전 자신들을 위기에서 구해냈던 거인 걸리버의 귀환을 손꼽아 기다려왔다. 그가 돌아오기로 한 날, 한껏 들떴던 마을 분위기는 걸리버의 등장과 함께 차갑게 식어버린다. 자신을 걸리버라고 소개하며 등장한 사람은 너무나도 작고 평범한 남자였기 때문이다. 졸지에 사기꾼 취급을 받게 된 걸리버는 감옥에 갇]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘옆집사람’ 이정현, 스릴러 속 키 플레이어로 활약 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221031165350296</id>
-        <link href="https://v.daum.net/v/20221031165350296"/>
-        <updated>2022-10-31T08:34:43.094Z</updated>
-        <content type="html"><![CDATA[배우 이정현이 새로운 연기에 도전한다. 11월 3일 개봉하는 ‘옆집사람’은 원서 접수비 만 원을 빌리려다 시체와 원룸에 갇힌 5년 차 경시생 찬우의 기막힌 하루를 그린 영화. 이정현은 극의 판도를 바꿀 키 플레이어로 활약을 예고한다. 극 중 이정현은 모든 사건의 중심이 되는 404호 원룸에 뻗어 있는 의문의 남자 기철로 등장한다. 별다른 부연 설명 없]]></content>
     </entry>
 </feed>
