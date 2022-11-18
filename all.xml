@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-18T21:18:48.916Z</updated>
+    <updated>2022-11-18T22:21:16.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘세이레’ 금기 깬 후 찾아온 공포 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221119072101495</id>
+        <link href="https://v.daum.net/v/20221119072101495"/>
+        <updated>2022-11-18T22:21:16.111Z</updated>
+        <content type="html"><![CDATA[독창적인, 실험적인 심리 스릴러가 올가을 스크린을 찾는다. 영화 ‘세이레’(감독 박강)는 아기 아빠 우진(서현우)이 외부의 출입을 막고 부정한 것을 조심해야 하는 세이레의 금기를 깨고, 과거의 연인 세영(류아벨)의 장례식장에 다녀온 뒤부터 벌어지는 기이한 일들을 그린다. 세이레는 7일이 세 번 지날 때까지의 기간으로, 아기가 태어난 지 스무하루가 되는 동안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“좋은 배우 되겠다” 학폭 논란 심은우 1년6개월만 ‘세이레’로 복귀‥홍보도 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221118180828445</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221118152725990"/>
         <updated>2022-11-18T06:33:17.979Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘세이레’로 활동을 재개한 배우 심은우가 매니저 없이 홀로 일하고 있다. 최근 진행된 새 영화 ‘세이레’의 일정 참석도 주변의 도움을 받지 않고 독자적으로 움직이고 있다. 심은우는 전 소속사 에스에이치미디어코프와 지난달 1일 전속 계약이 만료됐고, 재계약 하지 않은 것으로 18일 OSEN 취재 결과 확인됐다. 계약 종료 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데시벨' 김래원의 새로운 시작 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221118152603960</id>
-        <link href="https://v.daum.net/v/20221118152603960"/>
-        <updated>2022-11-18T07:19:36.821Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 좋은 배우는 좋은 장면을 위해 몸을 사리지 않는다. 작품을 위해 기꺼이 두 팔을 걷고 나선 김래원은 여전히 연기를 위해선 가야할 길이 멀다고 말한다. 김래원의 맨몸 액션이 돋보이는 영화 '데시벨'(감독 황인호·제작 이스트드림시노펙스)은 소음이 커지는 순간 폭발하는 특수 폭탄으로 도심을 점거하려는 폭탄 설계자(이종석)와 그의 타깃]]></content>
     </entry>
 </feed>
