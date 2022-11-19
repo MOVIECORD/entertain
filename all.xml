@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-19T21:18:19.786Z</updated>
+    <updated>2022-11-19T22:19:52.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['올빼미' 유해진, 편견 깨부순 '王이 될 상' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221120070031335</id>
+        <link href="https://v.daum.net/v/20221120070031335"/>
+        <updated>2022-11-19T22:19:51.787Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 관객들에 가장 익숙한 배우 유해진의 매력이 담긴 작품은 영화 '타짜'(2006, 감독 최동훈)였다. '타짜'에서 주인공 고니(조승우 분)의 조력자이자 고광렬을 연기한 그는 특유의 유쾌하고 방정맞은 캐릭터로 관객들의 많은 사랑을 받았다. 1997년 영화 '블랙잭'으로 데뷔한 이래 유해진은 여러 작품에서 다양한 조연 캐릭터를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국내 영화' 30일 대거 출격… 마동석 vs 3관왕 vs 좀비 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221120061606110</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221119084220058"/>
         <updated>2022-11-19T01:50:45.549Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 블랙 팬서: 와칸다 포에버 / 사진=영화 포스터'블랙 팬서: 와칸다 포에버'가 박스오피스 1위를 수성했다. 19일 영화진흥위원회 통합전산망에 따르면 전날 '블랙 팬서: 와칸다 포에버'(이하 '블랙 팬서2')는 8만 3628명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 144만 78명. '블랙 팬서2'는 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙 팬서: 와칸다 포에버', 이틀째 1위 유지…'데시벨' 2위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221119084139050</id>
-        <link href="https://v.daum.net/v/20221119084139050"/>
-        <updated>2022-11-19T01:50:45.551Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '블랙 팬서: 와칸다 포에버'(감독 라이언 쿠글러)가 개봉 이틀째 박스오피스 1위 자리를 지키고 있다. 19일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '블랙 팬서: 와칸다 포에버'는 지난 18일 하루 8만3628명을 동원, 이틀째 박스오피스 1위를 유지 중이다. 누적관객수는 144만78명이다. 이어 '데]]></content>
     </entry>
 </feed>
