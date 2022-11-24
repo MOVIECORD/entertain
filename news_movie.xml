@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-24T02:56:24.324Z</updated>
+    <updated>2022-11-24T03:29:39.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['칸 감독상' 박찬욱 감독→故강수연, 대중문화예술상 은관문화훈장..송강호는 보관문화훈장 수훈]]></title>
+        <id>https://v.daum.net/v/20221124115833411</id>
+        <link href="https://v.daum.net/v/20221124115833411"/>
+        <updated>2022-11-24T03:29:38.848Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 한국을 대표하는 명장 박찬욱 감독과 지난 5월 갑작스레 팬들의 곁을 떠난 배우 강수연이 대중문화예술 최고 영예인 문화훈장을 받는다. 문화체육관광부와 한국콘텐츠진흥원은 24일 '2022 대한민국 대중문화예술상' 문화훈장 수훈자 5명과 대통령 표창 6명, 국무총리 표창 8명(팀), 문체부장관 표창 9명(팀) 등 총 28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민-염정아-전혜진 ‘크로스’ 크랭크업]]></title>
         <id>https://v.daum.net/v/20221124115042129</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221124103818492"/>
         <updated>2022-11-24T01:46:27.601Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 역사가 스포여도 잘 만들면 본다. 배우 류준열, 유해진 주연 사극 스릴러 '올빼미'(감독 안태진, 제공배급 NEW, 제작 씨제스엔터테인먼트 영화사 담담)가 개봉 첫날 박스오피스 1위를 달성한 가운데 호평세례가 이어져 시선을 사로잡는다. 이른바 '오픈빨' 1위가 아닌 '제대로 된 1위다운 영화를 봤다'란 반응이 줄을 잇고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해진X류준열 '올빼미', 개봉 첫날 박스오피스 1위]]></title>
-        <id>https://v.daum.net/v/20221124103402335</id>
-        <link href="https://v.daum.net/v/20221124103402335"/>
-        <updated>2022-11-24T01:46:27.601Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 영화 '올빼미'가 박스오피스 1위를 차지했다. 24일 영화진흥위원회 통합전산망에 따르면 '올빼미'는 개봉 첫날인 23일 10만1599명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 11만4582명이다. 유해진, 류준열이 주연을 맡은 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을]]></content>
     </entry>
 </feed>
