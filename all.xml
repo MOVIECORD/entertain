@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-27T09:18:08.512Z</updated>
+    <updated>2022-11-27T10:20:13.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['달은 어디에 떠 있는가' 재일교포 최양일 감독 별세…향년 73세 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221127191706961</id>
+        <link href="https://v.daum.net/v/20221127191706961"/>
+        <updated>2022-11-27T10:20:12.383Z</updated>
+        <content type="html"><![CDATA[(도쿄=연합뉴스) 박성진 특파원 = 영화 '달은 어디에 떠 있는가', '피와 뼈' 등 재일교포 이야기를 생생하게 그려낸 재일교포 출신 최양일 감독이 27일 향년 73세로 별세했다. 최 감독은 이날 방광암으로 도쿄 자택에서 숨졌다고 교도통신 등 일본 언론이 보도했다. 1949년 일본 나가노현에서 재일 조선인 아버지와 일본인 어머니 사이에서 태어난 최 감독은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영화 역사상 최악의 나쁜X?"..너무 사랑스러운 그녀의 과거 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221127171823242</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221127090001224"/>
         <updated>2022-11-27T01:48:43.076Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 압꾸정, 탄생 / 사진=영화 포스터팬데믹 이후 여전히 침체돼 있는 극장가에 '올빼미'(감독 안태진)가 나타났다. '올빼미'는 개봉 이후 실관람객들의 호평을 받으며 비수기 극장가 박스오피스 정상에 안착했고, 개봉 첫 주말을 맞아 관객몰이에 나선다. 극장가 대목인 12월에는 '영웅'부터 '아바타: 물의 길'까지 대작들의 개봉이 기다리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘올빼미’ 벌써 50만 돌파‥주말 흥행 독주 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221127082952993</id>
-        <link href="https://v.daum.net/v/20221127082952993"/>
-        <updated>2022-11-27T01:48:43.079Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 50만 관객을 돌파했다. 11월 27일 영화진흥위원회 통합전산망 집계에 따르면 26일 영화 '올빼미'(감독 안태진)가 26만529명의 관객을 동원하며 전체 박스오피스 1위에 올랐다. 지난 23일 개봉 후 4일 연속 박스오피스 정상을 유지하고 있는 '올빼미'의 누적 관객은 56만5,197명이다. '올빼미'는 밤에만 앞이]]></content>
     </entry>
 </feed>
