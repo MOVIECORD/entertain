@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-01T09:19:57.668Z</updated>
+    <updated>2022-12-01T10:22:33.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20221201175112386"/>
         <updated>2022-12-01T09:19:57.079Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;압꾸정&gt; 스틸컷    ⓒ (주)쇼박스  &nbsp; &lt;압꾸정&gt;은 오랜만에 핵주먹이 아닌 마블리로 돌아온 마동석의 입담이 살아 있는 영화다. "형만 믿어. 뭔 말인지 알지?"라는 시그니처 대사가 인상적이다. &lt;범죄도시&gt;의 거친 이미지를 버리고 차별화를 위해 &lt;굿바이 싱글&gt; 이후 가장 많은 옷을 갈아입었다고 말했을 정도다. 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2022국제평화영화제’ 7일 개막…‘희망의 빛과 평화’ 담아]]></title>
+        <id>https://v.daum.net/v/20221201172743583</id>
+        <link href="https://v.daum.net/v/20221201172743583"/>
+        <updated>2022-12-01T10:22:33.266Z</updated>
+        <content type="html"><![CDATA[10개국 다양한 30여 편 …7일 개막 개막작 ‘페르시아어 수업’, 폐막작 ‘그레타 툰베리’ 10회 김대중노벨평화영화상 수상 [더팩트 l 김건완 기자] 2022국제평화영화제가 ‘희망의 빛 함께하는 평화’라는 주제를 담아 오는 7일 광주전남공동혁신도시 한전 KDN 홀에서 화려한 막을 올린다. 또 제10회 김대중노벨평화영화상 수상식도 함께 진행한다. 20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현빈 측 "'하얼빈' 안중근役 탓 日 패싱? 변화 체감 無"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201153004555"/>
         <updated>2022-12-01T06:32:16.314Z</updated>
         <content type="html"><![CDATA[텅 비어버린 극장가의 구원투수로 '블랙 팬서 2'가 출격했지만, 역부족이었다. 11월 전체 관객 수는 637만 6950명으로, 팬데믹 이전 2019년 11월 관객 수 1860만 679명에 비해 세 배 정도 적은 수치다. 팬데믹을 맞은 첫 해였던 2020년 11월 359만 5310명보다는 늘었지만 2021년 11월 651만 2815명보다는 줄어들었다. 202]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['젠틀맨' 박성웅 "비슷한 악역 처음엔 고사…이번엔 고급 빌런"]]></title>
-        <id>https://v.daum.net/v/20221201152821491</id>
-        <link href="https://v.daum.net/v/20221201152821491"/>
-        <updated>2022-12-01T06:32:16.316Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김경윤 기자 = "처음에는 '젠틀맨' 대본을 받고 너무 그런 (악당) 역할을 많이 한 것 같아 거절했어요. 그런데 주지훈 씨와 '헌트' 촬영장에서 만나 자초지종을 들어보니 우리 둘이 정식으로 맞닥뜨리는 것도 나쁘지 않을 것 같더라고요. 결과적으로 득이 된 것 같습니다." 배우 박성웅은 1일 서울 메가박스 성수에서 열린 영화 '젠틀맨' 제작]]></content>
     </entry>
 </feed>
