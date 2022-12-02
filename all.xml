@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-02T07:17:23.236Z</updated>
+    <updated>2022-12-02T08:24:04.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박진영 "'재벌집 막내아들' 덕분에 튀르키예行..오버스럽게 표현하려 노력" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221202171518279</id>
+        <link href="https://v.daum.net/v/20221202171518279"/>
+        <updated>2022-12-02T08:24:03.658Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 박진영이 영화 ‘크리스마스 캐럴’ 개봉을 앞두고 최근 ‘재벌집 막내아들’에 출연한 소감을 전했다. 2일 오후 서울 종로구 삼청동의 한 카페에서 박진영은 OSEN과 인터뷰를 진행했다. 이날 박진영은 ‘재벌집 막내아들’ 출연과 관련해 “인연이 없었는데, 특별출연할 기회를 주셨다. 대본에서 캐릭터가 너무 재밌었다. 몇 회차 되지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘믿고 보던’ 배우·감독이 사라졌어요 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221202160107351</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221202145335136"/>
         <updated>2022-12-02T06:24:06.641Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박진영이 '크리스마스 캐럴'을 통해 이미지 변신에 도전한 소감을 밝혔다. 영화 '크리스마스 캐럴'(감독 김성수)에 출연한 박진영은 12월 2일 서울 종로구 삼청동에서 진행된 인터뷰를 통해 출연 소회를 전했다. 오는 7일 개봉하는 영화 '크리스마스 캐럴'은 쌍둥이 동생 '월우'가 죽은 후, 복수를 위해 스스로 소년원에 들어간 형 '일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내년 입대’ 박진영 “눈물 한 방울 흘리겠지만 마음 편하게” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221202145327132</id>
-        <link href="https://v.daum.net/v/20221202145327132"/>
-        <updated>2022-12-02T06:24:06.649Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 30대를 한 달 앞둔 앞둔 박진영. 그가 내년 입대를 앞둔 소회를 전했다. 영화 '크리스마스 캐럴'(감독 김성수)에 출연한 박진영은 12월 2일 서울 종로구 삼청동에서 진행된 인터뷰를 통해 30대를 앞둔 속마음을 밝혔다. 오는 7일 개봉하는 영화 '크리스마스 캐럴'은 쌍둥이 동생 '월우'가 죽은 후, 복수를 위해 스스로 소년원에]]></content>
     </entry>
 </feed>
