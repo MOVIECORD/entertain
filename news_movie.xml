@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-03T01:25:34.219Z</updated>
+    <updated>2022-12-03T02:38:09.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트랜스포머: 비스트의 서막' 내년 6월 개봉 확정..예고편 최초 공개]]></title>
+        <id>https://v.daum.net/v/20221203112450081</id>
+        <link href="https://v.daum.net/v/20221203112450081"/>
+        <updated>2022-12-03T02:38:08.756Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 전 세계가 기다려온 로봇 군단의 화려한 귀환 '트랜스포머: 비스트의 서막'이 2023년 6월 개봉을 확정 짓고 1차 포스터와 예고편을 공개했다. 2007년 획기적인 캐릭터, 차원이 다른 액션과 볼거리로 전 세계 극장가를 강타하며 시리즈의 성공적인 신호탄을 쏘아 올린 데 이어 매 작품마다 세계적인 신드롬과 흥행 돌풍을 일으켰던 ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극장서 배우 연기력보단 줄거리 보는 세대]]></title>
+        <id>https://v.daum.net/v/20221203110035881</id>
+        <link href="https://v.daum.net/v/20221203110035881"/>
+        <updated>2022-12-03T02:38:08.767Z</updated>
+        <content type="html"><![CDATA[올해 '외계+인'과 '비상선언'의 흥행 실패는 더 이상 배우들의 이름값에 작품이 기댈 수 없다는 걸 확인 시켜줬다. 하지만 흥행 실패가 배우들만의 탓으로도 돌릴 수 없다. 팬데믹 이후 진입장벽이 높아진 극장가는 회복이 쉽사리 이뤄지지 않고 있으며 콘텐츠 소비습관들도 바뀌고 있다. 영화 제작진이 OTT로 넘어가면서 영화와 드라마 시리즈 콘텐츠의 완성도 차이도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독의 애니메이션 꿈]]></title>
         <id>https://v.daum.net/v/20221203094741140</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202181058601"/>
         <updated>2022-12-02T09:18:27.264Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] 영화 '크리스마스 캐럴'(감독 김성수)의 주연배우 박진영이 2일 오후 진행된 인터뷰를 위해 포즈를 취하고 있다. 쌍둥이 동생 월우(박진영)가 죽은 후, 복수를 위해 스스로 소년원에 들어간 형 일우(박진영)가 소년원 패거리와 잔혹한 대결을 펼치는 액션 스릴러 '크리스마스 캐럴'은 12월 7일 개봉한다. /사진제공=엔케이컨텐츠 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지우 감독이 '썸바디'를 통해 말하고자 한 것]]></title>
-        <id>https://v.daum.net/v/20221202180335407</id>
-        <link href="https://v.daum.net/v/20221202180335407"/>
-        <updated>2022-12-02T09:18:27.265Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "기괴한 멜로드라마를 만들고 싶었다. 또한 소통하고 싶고 내 마음을 알아주는 사람을 찾아가는 과정을 담았다" '썸바디'를 만든 정지우 감독의 변이다. 지난달 18일 넷플릭스를 통해 공개된 '썸바디'는 시청자들의 격렬한 저항과 부딪히고 있다. '무슨 이야기를 하려고 하는지 모르겠다', '관계 묘사가 너무 극단적이고 불편하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 자동차 산업을 흔든 외국인, 그가 도망간 까닭]]></title>
-        <id>https://v.daum.net/v/20221202180000288</id>
-        <link href="https://v.daum.net/v/20221202180000288"/>
-        <updated>2022-12-02T09:18:27.267Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;도망자&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2019년 마지막 날, 레바논에서 믿기 힘든 상황이 연출된다. 르노, 닛산, 미쓰비시 3사의 전 회장 '카를로스 곤'이 일본에서 탈출해 레바논에 와 있다는 것이었다. 그는 직접 성명을 냈다. 유죄가 전제되고 차별이 만연하고 기본적 인권이 무시되는 일본]]></content>
     </entry>
 </feed>
