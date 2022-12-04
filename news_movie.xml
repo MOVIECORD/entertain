@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-04T01:36:50.815Z</updated>
+    <updated>2022-12-04T02:45:58.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타란티노 감독이 "꼭 봐야한다" 말한 한국영화들은?]]></title>
+        <id>https://v.daum.net/v/20221204113023497</id>
+        <link href="https://v.daum.net/v/20221204113023497"/>
+        <updated>2022-12-04T02:45:58.040Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적 거장 감독 쿠엔틴 타란티노가&nbsp;가장 좋아하는 한국영화들은 무엇일까. 인디와이어는 2일(현지시간) 타란티노가 좋아하고 관객에게 보기를 추천하는&nbsp;48편의 영화들을 소개했다. 인디와이어는&nbsp;"타란티노만큼 영화를 좋아하는 사람은 드물고, 영화 애호가들의 취향은 계속해서 할리우드를 형성하고 있다. 비디오 가게 점원에서 감독으로 변신한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['子이태성'보다 잘나가는 박영혜 감독 '짜장면 고맙습니다' 총 53관왕]]></title>
         <id>https://v.daum.net/v/20221204102753595</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203153755222"/>
         <updated>2022-12-03T07:16:01.862Z</updated>
         <content type="html"><![CDATA[두 마리 토끼를 잡는 일은 쉽지 않다. 그래서 배우 박진영은 선택과 집중을 했다. 그룹 갓세븐으로 활동하다 휴가를 받으면 연기에 도전했다. 쉼 대신 연기를 택했던 일에 대해 "욕심을 채웠다"고 표현한 박진영에게서는 연기를 향한 깊은 열정이 느껴졌다. 박진영은 지난 2일 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해 영화 '크리스마스 캐럴'에 대한 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[염동헌, 투병 중 2일 별세...유작은 영화 '서울의 봄']]></title>
-        <id>https://v.daum.net/v/20221203133757944</id>
-        <link href="https://v.daum.net/v/20221203133757944"/>
-        <updated>2022-12-03T05:16:53.712Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 배우 고(故) 염동헌./사진=스타빌리지엔터테인먼트"연기를 사랑하고 열정적이었던 염동헌" 배우 염동헌이 세상을 떠났다. 3일 스타빌리지엔터테인먼트는 공식입장을 통해 "배우 염동헌씨가 2022년 12월 2일 밤 11시 50분경 향년 55세의 나이로 별세하셨습니다"고 밝혔다. 이와 함께 "스타빌리지엔터테인먼트는 연기를 사랑하고 열]]></content>
     </entry>
 </feed>
