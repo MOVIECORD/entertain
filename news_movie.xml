@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-12T01:38:08.966Z</updated>
+    <updated>2022-12-12T02:51:01.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올빼미' 손익분기점 넘고 장기 흥행…개봉 3주 연속 주말 1위]]></title>
+        <id>https://v.daum.net/v/20221212114258972</id>
+        <link href="https://v.daum.net/v/20221212114258972"/>
+        <updated>2022-12-12T02:51:01.112Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;손익분기점을 돌파하며 흥행 질주 중인 새로운 스타일의 스릴러 '올빼미'가 개봉 3주차 주말에도 박스오피스 1위 자리를 유지하며 극장가에 활력을 불어넣고 있다. '올빼미'(감독 안태진, 제공배급 NEW, 제작 씨제스엔터테인먼트 영화사 담담)는 밤에만 앞이 보이는 맹인 침술사 경수(류준열 분)가 소현세자(김성철 분)의 죽음을 목격한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아라한 장풍대작전' 숨은 도인들, 류승완 감독의 메시지]]></title>
+        <id>https://v.daum.net/v/20221212104803433</id>
+        <link href="https://v.daum.net/v/20221212104803433"/>
+        <updated>2022-12-12T02:51:01.113Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 영화 감독들은 연예인은 아니지만 대중들에게 이름이 노출되는 직업적 특성상 이런 저런 별명이 만들어 지기도 한다. 현재 로버트 패틴슨, 마크 러팔로 등 할리우드 스타들과 함께 8번째 장편영화 &lt;미키17&gt;을 촬영하고 있는 봉준호 감독의 초창기 별명은 바로 '봉테일'이었다. 영화 속에서 관객들이 쉽게 찾아내기 힘든 의미를 가진 디테일한 장면들을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정홍 감독 '괴인' 서울독립영화제 대상..단편대상 '자르고 붙이기']]></title>
         <id>https://v.daum.net/v/20221212102858492</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221212082301213"/>
         <updated>2022-12-12T01:38:08.374Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '올빼미'(감독 안태진)가 3주 연속 주말 박스오피스 1위에 올랐다. 12일 영화관입장권 통합전산망에 따르면 '올빼미'는 지난 11일 17만 2803명을 불러 모았다. 이에 19일 연속 박스오피스 1위 자리를 지켰다.&nbsp; '올빼미' 누적 관객 수는 252만 512명. 손익분기점을 가볍게 돌파하며 3주 연속 주말 박스오피스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[250만 돌파 ‘올빼미’ 3주 연속 주말 1위→손익분기점 훌쩍]]></title>
-        <id>https://v.daum.net/v/20221212082223204</id>
-        <link href="https://v.daum.net/v/20221212082223204"/>
-        <updated>2022-12-12T01:38:08.377Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 3주 연속 주말 박스오피스 1위를 차지한 가운데, 손익분기점까지 돌파했다. 12월 12일 영화진흥위원회 통합전산망 집계 기준 영화 '올빼미'(감독 안태진)가 개봉일인 지난달 23일부터 19일 연속 박스오피스 1위를 유지하고 있다. '올빼미'의 누적 관객은 252만509명으로, 손익분기점을 가볍게 돌파하며 3주 연속 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘올빼미’ 3주 연속 1위…손익분기점 돌파]]></title>
-        <id>https://v.daum.net/v/20221212075402765</id>
-        <link href="https://v.daum.net/v/20221212075402765"/>
-        <updated>2022-12-11T23:18:54.523Z</updated>
-        <content type="html"><![CDATA[‘올빼미’가 개봉 3주에도 박스오피스 1위 자리를 유지하고 있다. ‘올빼미’는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러다. 영화관입장권 통합전산망에 따르면(12월 12일(월) 오전 7시 기준) ‘올빼미’는 개봉일부터 19일 연속 박스오피스 1위를 유지하고 있다. 뿐만 아니라 누적 관객]]></content>
     </entry>
 </feed>
