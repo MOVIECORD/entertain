@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-14T10:20:23.736Z</updated>
+    <updated>2022-12-14T11:16:22.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조니 뎁, '캐리비안의 해적' 복귀? 제작자 "작업 중"]]></title>
+        <id>https://v.daum.net/v/20221214200001168</id>
+        <link href="https://v.daum.net/v/20221214200001168"/>
+        <updated>2022-12-14T11:16:21.508Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 조니 뎁 / 사진=/AFPBBNews=뉴스1=스타뉴스할리우드 배우 조니 뎁이 '캐리비안의 해적' 시리즈로 복귀할 수 있을까. 13일(현지시간) '캐리비안의 해적' 시리즈의 제작자인 제리 브룩하이머는 AP통신과의 인터뷰에서 조니 뎁의 복귀 루머에 대한 질문을 받고 "작업 중"이라고 조심스럽게 밝혔다. 조니 뎁과 '캐리비안의 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영웅' 윤제균 감독 "원하는 캐스팅 위해 무릎꿇을 각오까지, 100번이라도 가능하다"]]></title>
         <id>https://v.daum.net/v/20221214191323333</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214170522052"/>
         <updated>2022-12-14T10:20:23.162Z</updated>
         <content type="html"><![CDATA[대한민국 영화계의 첫 쌍 천만 감독인 윤제균 감독을 만났다. 2009년 '해운대' 2014년 '국제시장'으로 1132만, 1426만 관객을 동원했던 윤제균 감독은 한국적인 소재를 바탕으로 탁월한 연출력과 흡인력 있는 스토리텔링으로 세대를 초월한 감동을 선보여 왔다. 최근에는 '히말라야' '공조' '협상' '담보' 등의 작품의 제작에 주력하던 윤제균 감독은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤제균 감독 "영웅', 쉬운 길은 가지 말자고…처한 상황에서 최선을"]]></title>
-        <id>https://v.daum.net/v/20221214165009531</id>
-        <link href="https://v.daum.net/v/20221214165009531"/>
-        <updated>2022-12-14T08:24:27.987Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 대한민국 최초 쌍천만 감독 타이틀을 갖고 있는 윤제균 감독이 '영웅'을 작업하며 마음을 다잡았던 시간들을 떠올렸다. 윤제균 감독은 14일 오후 서울 종로구 소격동의 한 카페에서 열린 영화 '영웅' 인터뷰에서 다양한 이야기를 전했다.&nbsp; '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법]]></content>
     </entry>
 </feed>
