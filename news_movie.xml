@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-16T06:23:13.357Z</updated>
+    <updated>2022-12-16T07:16:15.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광대였던 유해진, 300만 향해 중 '올빼미'로 가장 높은 곳에 '안착']]></title>
+        <title type="html"><![CDATA[조민수 ‘행동하는 진심’의 표본 자비로 독립영화 상영회 개최]]></title>
+        <id>https://v.daum.net/v/20221216161105287</id>
+        <link href="https://v.daum.net/v/20221216161105287"/>
+        <updated>2022-12-16T07:16:14.340Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘자비’로 상영관 전체를 빌려 독립영화 상영회를 여는 이것이 ‘행동하는 진심’의 표본 아닐까. 배우 조민수가 그렇다. 이번이 벌써 4번째로, 12월23일 오후7시 독립영화전용관 서울 마포구 인디스페이스에서 무료 상영회를 연다. ‘조민수와 함께 독립영화 보기’로 명명된 뜻깊은 행사에 초대된 작품은 대한민국 포크계의 전설 정태춘 데뷔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤제균 감독 야심작 ‘영웅’ 흥행 예고하는 결정적 단서는 이것]]></title>
+        <id>https://v.daum.net/v/20221216152850077</id>
+        <link href="https://v.daum.net/v/20221216152850077"/>
+        <updated>2022-12-16T07:16:14.342Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 올해 흥행작에서 빼놓을 수 없는 필승 키워드가 있다면 그건 ‘팬덤.’ 개봉 후 자연발생적으로 형성되는 게 일반적이긴 하지만 화제작 ‘영웅’의 경우 좀 다를 것 같다. 동명 원작 뮤지컬을 기반으로 한 두텁고도 충성도 높은 팬 층이 존재하기 때문. 영화 개봉일인 12월21일에 맞춰 원작 뮤지컬도 함께 상연에 들어가는 가운데, ‘영웅’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광대였던 유해진, 300만 항해 중 '올빼미'로 가장 높은 곳에 '안착']]></title>
         <id>https://v.daum.net/v/20221216145904012</id>
         <link href="https://v.daum.net/v/20221216145904012"/>
         <updated>2022-12-16T06:23:12.477Z</updated>
@@ -69,6 +83,13 @@
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '박하선의 씨네타운'에서 윤제균 감독과 배우 정성화가 입담을 뽐내며 '영웅'에 대한 기대감을 높였다. 16일 오후 방송된 SBS 파워FM '박하선의 씨네타운'에는 뮤지컬 영화 '영웅'의 윤제균 감독과 주연 정성화가 게스트로 등장했다. '영웅'은 동명의 오리지널 뮤지컬을 영화화한 작품. 1909년 10월, 하얼빈에서 이토 히로]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['영웅' 윤제균 감독 "개연성 위해 원작 각색…母子의 이야기" ①]]></title>
+        <id>https://v.daum.net/v/20221216120008960</id>
+        <link href="https://v.daum.net/v/20221216120008960"/>
+        <updated>2022-12-16T07:16:14.370Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '쌍천만' 감독 윤제균이 8년 만에 신작 '영웅'을 내놓는다. 영화는 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사(정성화 분)가 거사를 준비하던 때부터 죽음을 맞이하던 순간까지, 잊을 수 없는 마지막 1년을 그린 영화다. 2012년 정성화의 '영웅' 공연을 보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['올빼미' 유해진, 12월 영화배우 브랜드평판 1위]]></title>
         <id>https://v.daum.net/v/20221216115501842</id>
         <link href="https://v.daum.net/v/20221216115501842"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221216114940693"/>
         <updated>2022-12-16T03:19:40.443Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 제임스 카메론 감독이 9일 오전 서울 영등포구 여의도동 콘래드 서울 호텔에서 열린 '아바타2: 물의 길' 내한 기자간담회에 참석해 포즈를 취하고 있다.  '아바타' 이후 제임스 카메론 감독이 13년 만에 내놓은 '아바타2'는 판도라 행성에서 '제이크 설리'와 '네이티리'가 이룬 가족이 겪게 되는 무자비한 위협과 살아남기 위해 떠나야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정성화 "영화 '영웅' 위해 14kg 감량, 발성법도 새로 익혔다"]]></title>
-        <id>https://v.daum.net/v/20221216114408517</id>
-        <link href="https://v.daum.net/v/20221216114408517"/>
-        <updated>2022-12-16T03:19:40.446Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 뮤지컬 배우 정성화가 영화 '영웅'을 찍기 위해 기울인 노력을 들려줬다. 16일 오전 방송된 SBS 파워FM '박하선의 씨네타운'(이하 '씨네타운')에는 영화 '영웅'(감독 윤제균·제작 JK필름)의 윤제균 감독과 배우 정성화가 게스트로 출연해 이야기를 나눴다. '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영웅’ 윤제균 감독 “IMF 무급휴직 때 쓴 시나리오 당선..인생은 새옹지마”]]></title>
-        <id>https://v.daum.net/v/20221216113515249</id>
-        <link href="https://v.daum.net/v/20221216113515249"/>
-        <updated>2022-12-16T02:35:51.179Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 영화 ‘영웅’의 윤제균 감독이 영화감독으로 데뷔하게 된 계기를 밝혔다. 16일 오전 방송된 SBS 파워FM ‘박하선의 씨네타운’에서는 영화 ‘영웅’의 윤제균 감독, 배우 정성화가 출연해 영화에 대한 이야기를 나눴다. 이날 한 청취자는 윤제균 감독에게 “광고회사 다니시다가 IMF 무급휴직으로 인해 영화감독이 되셔다고 들었다. 또 광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영웅' 윤제균 감독 "경제학 전공, IMF로 광고회사 무급휴직 중 얼결에 데뷔"]]></title>
-        <id>https://v.daum.net/v/20221216113220151</id>
-        <link href="https://v.daum.net/v/20221216113220151"/>
-        <updated>2022-12-16T02:35:51.182Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '박하선의 씨네타운'에서 '영웅'의 윤제균 감독이 연출 데뷔 전 과거를 회상했다. 16일 오후 방송된 SBS 파워FM '박하선의 씨네타운'에는 영화 '영웅'의 윤제균 감독과 주연 정성화가 게스트로 등장했다. 이날 윤제균 감독은 "제 전공은 경제학과다. 광고회사의 전략기획팀에서 4년 동안 있었다. 근데 IMF가 터졌고, 결혼하]]></content>
     </entry>
 </feed>
