@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-24T06:20:59.439Z</updated>
+    <updated>2022-12-24T07:15:21.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['젠틀맨' 박성웅 "영화에 애정 많은 주지훈에게 2시간 동안 설득당해 출연"]]></title>
+        <id>https://v.daum.net/v/20221224161443868</id>
+        <link href="https://v.daum.net/v/20221224161443868"/>
+        <updated>2022-12-24T07:15:21.201Z</updated>
+        <content type="html"><![CDATA[영화 '젠틀맨'에서 귀족 검사 출신 언터처블 대형 로펌 재벌 ‘권도훈’을 연기하며 지금까지 보지 못한 새로운 결의 빌런을 연기한 박성웅을 만났다. 영화 속에서 박성웅은 특수부 검사 출신이자 대형 로펌의 대표 변호사 ‘권도훈’으로 검사직을 내려놓고 사법계 인사들에게 전방위적인 로비를 해서 대형 로펌을 세운뒤 자신의 비리를 유지하기 위해 권력층에게 끊임없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년을 보내며, 영화의 디지털 소장과 강박증에 대하여]]></title>
         <id>https://v.daum.net/v/20221224140134835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224085317048"/>
         <updated>2022-12-24T01:19:41.231Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='아바타 : 물의길' 영화 '아바타 : 물의길'이 누적관객수 400만 명을 돌파했다. 24일 영진위 영화관입장권 통합전산망에 따르면 '아바타: 물의 길'은 개봉 11일 차인 이날 오전 7시 기준 400만 관객을 돌파하며 전체 박스오피스 부동의 1위를 기록했다. 이날 오전 7시 기준 예매량 124만 949장을 기록하며 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 개봉 11일만에 400만 돌파…흥행 질주중]]></title>
-        <id>https://v.daum.net/v/20221224085017032</id>
-        <link href="https://v.daum.net/v/20221224085017032"/>
-        <updated>2022-12-24T01:19:41.233Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;적수 없는 흥행 강세로 연일 압도적 박스오피스 1위를 유지하며 올 연말 극장가를 점령하고, 다시 한 번 전세계적인 신드롬을 예고하는 영화 '아바타: 물의 길'이 400만 관객을 돌파하며 그야말로 흥행 저력을 보여주고 있다. 영화 '아바타: 물의 길'이 오늘 400만 관객을 돌파하는 기염을 토해냈다. 지난 2009년 혁신적인 기술]]></content>
     </entry>
 </feed>
