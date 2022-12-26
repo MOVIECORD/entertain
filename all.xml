@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-26T09:17:24.878Z</updated>
+    <updated>2022-12-26T10:19:09.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[거장이 탄생시킨 '피노키오', 역대급 감동을 선사하다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20221226182105071</id>
+        <link href="https://v.daum.net/v/20221226182105071"/>
+        <updated>2022-12-26T10:19:08.998Z</updated>
+        <content type="html"><![CDATA[[김형욱 기자] 월트 디즈니의 1940년작 장편 애니메이션 &lt;피노키오&gt;로 잘 알려져 있는 '피노키오'는 일찍이 1883년 이탈리아 소설가 카를로 콜로디가 지은 소설이다. 이미 세계적으로 유명한 동화를 디즈니가 애니메이션으로 만들었고 역대 최고의 애니메이션으로 추앙받으며 지금에 이르렀다. 이후 오랫동안 '피노키오'는 미국, 유럽, 일본 등지에서 영화와 애니메]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칼갈고 나온 드림웍스 ‘장화신은 고양이’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20221226181354915</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221226155056537"/>
         <updated>2022-12-26T07:16:32.855Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 주지훈과 박성웅, 이들 센 남자 사이 신인배우 최성은이 당찬 검사로 열연하는 '젠틀맨'이 개봉을 앞두고 있다. 영화 '젠틀맨'(감독 김경원)에 출연한 최성은은 12월 26일 서울 종로구 모처에서 진행된 언론 인터뷰를 통해 개봉 소회를 전했다. 오는 28일 개봉하는 '젠틀맨'은 성공률 100% 흥신소 사장 '지현수'가 실종된 의뢰인을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 편의 '영웅'과 한 명의 안중근 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20221226153913152</id>
-        <link href="https://v.daum.net/v/20221226153913152"/>
-        <updated>2022-12-26T07:16:32.856Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '영웅'(감독 윤제균)은 칼바람을 헤치며 설원을 걷는 한 남자의 모습으로 시작된다. 지친 몸을 이끌고 황량한 벌판을 걷던 사내는 눈밭에 무릎을 꿇는다. 이때 화면은 물 흐르듯 전환돼 11명의 사내들이 그의 뒤에 정렬해 앉는다. 그리고 한 남자의 나지막한 목소리가 흐른다. "내 조국의 하늘 아래서 살아갈 그날을 위해]]></content>
     </entry>
 </feed>
