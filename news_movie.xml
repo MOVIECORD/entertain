@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-26T20:18:57.740Z</updated>
+    <updated>2022-12-26T21:15:25.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“캐릭터의 영혼 느낄 수 있을 것…라이브 콘서트 같은 ‘경험’ 선사”]]></title>
+        <id>https://v.daum.net/v/20221227061026726</id>
+        <link href="https://v.daum.net/v/20221227061026726"/>
+        <updated>2022-12-26T21:15:25.112Z</updated>
+        <content type="html"><![CDATA[“관객이 ‘경험했다’고 말할 수 있는 영화가 있다면, 그것은 ‘아바타: 물의 길’일 것이다. 디지털화한 클로즈업 화면에 배우의 얼굴을 넣을 수 있을 만큼 발전한 기술로 미묘하고 세세한 연기를 전부 실감할 수 있도록 했다. 관객이 영화를 통해 캐릭터의 영혼을 느낄 수 있게 끌어들이고 싶었다.” 13년째 월드와이드 역대 흥행 순위 1위 기록을 유지하고 있는 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타2’ 환상적 CG, 한국인 손에서 나왔다]]></title>
         <id>https://v.daum.net/v/20221227040910658</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221226161757443"/>
         <updated>2022-12-26T09:17:24.310Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] “아티스트로서 제임스 카메론 감독과 작업하는 기회를 얻는 건 행운입니다. 예산 등 제약 때문에 작업의 질을 타협해야 하는 경우가 한 번도 없었죠.” 영화 ‘아바타: 물의 길’(감독 제임스 카메론, 이하 ‘아바타2’)의 CG 작업에 참여한 두 한국인 스태프 웨타FX의 최종진 CG 슈퍼바이저와 황정록 시니어 아티스트는 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 70대 시고니 위버의 14세 소녀 연기, 韓 스태프 CG 기술 있었다]]></title>
-        <id>https://v.daum.net/v/20221226161443330</id>
-        <link href="https://v.daum.net/v/20221226161443330"/>
-        <updated>2022-12-26T07:16:32.855Z</updated>
-        <content type="html"><![CDATA[[서울경제] 영화 ‘아바타: 물의 길’의 배우 시고니 위버가 74세의 나이에 14세 소녀를 연기할 수 있었던 이유가 밝혀졌다. 26일 오전 ‘아바타: 물의 길’(감독 제임스 카메론/이하 ‘아바타2’)의 VFX를 담당한 웨타 FX의 최종진 CG 슈퍼바이저, 황정록 시니어 아티스트와 화상 인터뷰가 진행됐다. ‘아바타2’는 전 세계 박스오피스 1위의 ‘아바타’]]></content>
     </entry>
 </feed>
