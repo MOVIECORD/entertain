@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-29T03:20:10.425Z</updated>
+    <updated>2022-12-29T04:22:32.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스위치’ 감독 “권상우, 이민정과 키스신 긴장‥‘이병헌 싸다’ 대사 애드리브”]]></title>
+        <id>https://v.daum.net/v/20221229122207227</id>
+        <link href="https://v.daum.net/v/20221229122207227"/>
+        <updated>2022-12-29T04:22:31.884Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 권상우와 이민정의 부부 케미스트리에 '스위치' 감독이 만족감을 전했다. 영화 '스위치'를 연출한 마대윤 감독은 12월 29일 서울 종로구 모처에서 진행된 인터뷰를 통해 캐스팅 뒷이야기들을 밝혔다. 1월 4일 개봉하는 '스위치'는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’이 크리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스위치’ 감독 “소라게 신, 권상우 캐스팅 전부터 시나리오에‥믿었다”]]></title>
         <id>https://v.daum.net/v/20221229121344057</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229093824630"/>
         <updated>2022-12-29T01:26:34.684Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '스위치' 주역 오정세가 '신비한TV 서프라이즈' 출격을 예고, 예비 관객들의 이목을 끌었다. '스위치'(감독 마대윤)는 캐스팅 0순위 천만 배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 박강(권상우)이 크리스마스에 매니저 조윤(오정세)으로 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 첫 내한 스타는 견자단, ..1월 17일 만난다]]></title>
-        <id>https://v.daum.net/v/20221229092400085</id>
-        <link href="https://v.daum.net/v/20221229092400085"/>
-        <updated>2022-12-29T01:26:34.684Z</updated>
-        <content type="html"><![CDATA[2023년 처음 만나는 해외 스타는 바로 홍콩 톱스타 견자단이다. 견자단은 내년 1월 25일 개봉하는 영화 ‘천룡팔부: 교봉전’으로 내한을 확정했다. 그는 왕정 감독과 함께 신작 홍보를 위헤한국을 찾는다. ‘천룡팔부: 교봉전’은 전 세계적 레전드 무협 소설로 손꼽히고 있는 신필 김용 작가의 ‘천룡팔부’를 영화화한 작품. 북송 초기 송나라와 거란족의 요나라가]]></content>
     </entry>
 </feed>
