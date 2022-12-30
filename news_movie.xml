@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-30T04:21:41.478Z</updated>
+    <updated>2022-12-30T05:16:30.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[26년 날리고... 위험해도 멈출 수 없는 마성의 보드게임]]></title>
+        <id>https://v.daum.net/v/20221230141519414</id>
+        <link href="https://v.daum.net/v/20221230141519414"/>
+        <updated>2022-12-30T05:16:29.743Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 2022년 연말 세계 극장가는 제임스 카메론 감독의 &lt;아바타: 물의 길&gt;이 지배하고 있다고 해도 전혀 과장이 아니다. &lt;아바타: 물의 길&gt;은 국내에서 지난 14일에 개봉해 28일까지 2주 만에 전국 620만 관객을 동원했다(영화관입장권 통합전산망 기준). 지난 21일 '쌍천만 감독' 윤제균 감독의 야심작 &lt;영웅&gt;이 개봉했지만 8일 동안 전국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말은 ‘아바타2’, 700만 목전…‘영웅’ 역부족]]></title>
+        <id>https://v.daum.net/v/20221230133902558</id>
+        <link href="https://v.daum.net/v/20221230133902558"/>
+        <updated>2022-12-30T05:16:29.744Z</updated>
+        <content type="html"><![CDATA[영화 ‘아바타: 물의 길’(이하 ‘아바타2’)이 700만을 향해 질주 중인 가운데 주말께 무난하게 돌파할 전망이다. 30일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면, 전날 ‘아바타2’는 21만 6304명을 동원해 16일간 박스오피스 왕좌를 차지했다. 누적관객수는 649만 9053명이다. 전편에 이어 제임스 카메론 감독이 13년 만에 선보이는 ‘아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강동원도 YG 떠난다…7년 만에 FA로]]></title>
         <id>https://v.daum.net/v/20221230131413100</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221230111248782"/>
         <updated>2022-12-30T02:40:15.891Z</updated>
         <content type="html"><![CDATA[[스타뉴스 안윤지 기자]  배우 이병헌, 이민정 부부/사진=이기범 기자 leekb@배우 이병헌, 이민정 부부가 결혼 생활도 즐겁게 한다. 이민정은 지난 29일 서울 종로구 소격동 한 카페에서 영화 '스위치'(감독 마대윤) 인터뷰를 진행했다. '스위치'는 캐스팅 0순위 천만 배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 박강이 크리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원 탈YG ‘7년만’]]></title>
-        <id>https://v.daum.net/v/20221230110819643</id>
-        <link href="https://v.daum.net/v/20221230110819643"/>
-        <updated>2022-12-30T02:40:15.897Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 강동원 탈YG ‘7년만’ [공식] 배우 강동원이 YG엔터테인먼트를 떠난다. 30일 YG엔터테인먼트는 “강동원 배우가 논의 끝에 매니지먼트 업무를 종료하기로 했다”고 밝혔다. 이들은 “오랜 시간 함께해 준 강동원 배우에게 진심 어린 감사와 응원의 말씀을 전한다”며 “배우 강동원을 사랑해 주신 팬 여러분께도 감사드리며, 변함없는 관심과 성원 부탁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[317만 돌파·21일 연속 1위 ‘올빼미’ 새해에도 훨훨 난다‥관람 이벤트 개최]]></title>
-        <id>https://v.daum.net/v/20221230110733622</id>
-        <link href="https://v.daum.net/v/20221230110733622"/>
-        <updated>2022-12-30T02:40:15.899Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 317만 관객을 돌파하며 흥행한 '올빼미'가 관객을 위한 특별한 이벤트를 준비했다. 11월 23일 개봉한 영화 '올빼미'(감독 안태진)는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러. 210만 명으로 알려진 손익분기점을 가볍게 돌파한 '올빼미'는 12월 30일 오]]></content>
     </entry>
 </feed>
