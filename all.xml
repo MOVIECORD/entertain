@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-09T03:20:42.150Z</updated>
+    <updated>2023-01-09T04:22:38.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정서경·마동석, 2023 비저너리 선정‥이미경 CJ 부회장 “응원과 찬사” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230109131748463</id>
+        <link href="https://v.daum.net/v/20230109131748463"/>
+        <updated>2023-01-09T04:22:37.682Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '헤어질 결심'과 '작은 아씨들' 정서경 작가와 '범죄도시' 마동석이 2023 비저너리로 선정됐다. 2023 비저너리 어워즈가 1월 8일 오후 서울 마포구 상암동 CJ ENM 센터에서 열렸다. 이미경 CJ 부회장은 본격적인 시상에 앞서, “진정한 스토리에는 장벽이 없다는 말을 실감하고 있는 요즘”이라며, “우리의 이야기가 전 세계인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마동석·박은빈·박찬욱 감독 등 10인, CJ '2023 비저너리' 선정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230109124330919</id>
+        <link href="https://v.daum.net/v/20230109124330919"/>
+        <updated>2023-01-09T04:22:37.682Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 김혜수, 나영석, 마동석, 박은빈, 박찬욱, 아이유, (여자)아이들, 이정재, 이진주, 정서경 총 10인(가나다 순)이 '2023 비저너리'(Visionary)에 선정됐다. CJ ENM(대표 구창근)은 엔터테인먼트 산업의 트렌드를 주도하며 변화와 혁신을 선도하는 선구적인 인물로 꼽힌 '2023 비저너리'를 초청해 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 카메론 "'아바타 5'까지 각본 완성" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230109113931514</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20230109103303848"/>
         <updated>2023-01-09T03:20:41.481Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '참, 잘했어요!'가 배우 유선호, 강미나, 유인수의 캐스팅을 확정 지었다. 9일 영화 '참, 잘했어요!'(감독 황동석·제작 ㈜26컴퍼니)가 제작가 유선호, 강미나, 유인수 등 충무로 라이징 스타들로 이뤄진 캐스팅 라인업을 공개했다. '참, 잘했어요!'는 꿈도 희망도 없이 살아가던 최하위층의 소년이 우연한 기회에 '돈'이라는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 전세계 2조원 넘게 벌며 역대 흥행 7위 등극 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230109102619527</id>
-        <link href="https://v.daum.net/v/20230109102619527"/>
-        <updated>2023-01-09T01:27:03.904Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 개봉 4주차 주말 국내 및 북미 박스오피스 1위를 차지하며 글로벌 흥행작의 위력을 보여주고 있다. 1월 9일 영화진흥위원회 통합전산망 집계에 따르면 영화 '아바타: 물의 길'(감독 제임스 카메론)이 지난 6일~8일 3일 간 59만2,005명, 누적 877만6,660명의 관객수를 기록하며 개봉 4주 차에도 박스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 주말 1위 수성, 877만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230109100710676</id>
-        <link href="https://v.daum.net/v/20230109100710676"/>
-        <updated>2023-01-09T01:27:03.908Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 '아바타: 물의 길'이 주말 박스오피스 1위를 수성했다. 9일 영화진흥위원회 통합전산망에 따르면 '아바타: 물의 길'(감독 제임스 카메론·배급 월트디즈니 컴퍼니 코리아)이 지난 주말 59만2002명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 877만6657명이다. '아바타: 물의 길'은 판도라 행성]]></content>
     </entry>
 </feed>
