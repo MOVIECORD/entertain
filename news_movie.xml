@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-10T03:20:09.651Z</updated>
+    <updated>2023-01-10T04:22:29.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유령’ 1월18일 개봉 기념 무대인사→메가토크 GV 개최]]></title>
+        <id>https://v.daum.net/v/20230110122340277</id>
+        <link href="https://v.daum.net/v/20230110122340277"/>
+        <updated>2023-01-10T04:22:28.456Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '유령'이 개봉일 무대인사와 메가토크 GV로 관객과 만난다. 영화 '유령'(감독 이해영)은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 ‘유령’의 멈출 수 없는 작전을 그리는 작품이다. 1월 18일 메가박스 성수 2관,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 주종혁 측 "한국이 싫어서' 출연"...고아성과 로맨스]]></title>
         <id>https://v.daum.net/v/20230110121530032</id>
@@ -24,7 +31,7 @@
         <id>https://v.daum.net/v/20230110113906557</id>
         <link href="https://v.daum.net/v/20230110113906557"/>
         <updated>2023-01-10T02:47:22.953Z</updated>
-        <content type="html"><![CDATA[3040 남성 관객들의 심장이 제대로 어택 당했다. ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)의 신드롬이 새해 극장가를 덮친 가운데 역주행에 성공하며 박스오피스 2위를 거머쥐었다. 10일 영화진흥위원회 통합전산망에 따르면 ‘더 퍼스트 슬램덩크’는 ‘영웅’을 제치고 ‘아바타: 물의 길’에 이어 박스오피스 2위에 올랐다. 현재 오전 11시 30분 기준,]]></content>
+        <content type="html"><![CDATA[3040 남성 관객들의 심장이 제대로 어택 당했다. ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)의 신드롬이 새해 극장가를 덮친 가운데 역주행에 성공하며 박스오피스 2위를 거머쥐었다. 10일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 ‘더 퍼스트 슬램덩크’는 ‘영웅’을 제치고 ‘아바타: 물의 길’에 이어 박스오피스 2위에 올랐다. 이날 오전 11시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['유령' 박소담vs박해수, 야심 위해 맞선다..날 선 신경전 포착]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230110090321873"/>
         <updated>2023-01-10T01:37:33.927Z</updated>
         <content type="html"><![CDATA[■ ‘아바타’ 독주 막을 ‘교섭’ · ‘유령’ 18일 개봉 최근 10년간 관객수 분석 결과 ‘7번방의 선물’ ‘검사외전’ 등 국내영화 총 8번의 왕좌 차지 올 ‘교섭’ ‘유령’ 흥행 예상 속 가족 단위 관객들 몰리는 명절 ‘아바타’ ‘슬램덩크’ 등 변수로 올해 설 연휴(1월 21∼24일) 극장가에서 어떤 영화가 웃게 될까. 코로나19 팬데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 900만 초읽기...‘슬램덩크’ 2위]]></title>
-        <id>https://v.daum.net/v/20230110084201264</id>
-        <link href="https://v.daum.net/v/20230110084201264"/>
-        <updated>2023-01-10T01:37:33.927Z</updated>
-        <content type="html"><![CDATA[‘아바타: 물의 길’(이하 ‘아바타2’)가 900만 돌파를 앞둔 가운데 ‘더 퍼스트 슬램덩크’가 2위에 오르며 신드롬급 인기를 과시했다. 10일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘아바타2’는 전날 7만 520명의 관객을 동원해 박스오피스 왕좌를 지켰다. 누적관객수 884만 7174명. ‘더 퍼스트 슬램덩크’는 같은 날 4만 3230명 관객을]]></content>
     </entry>
 </feed>
