@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-13T02:55:43.033Z</updated>
+    <updated>2023-01-13T03:27:36.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남자들이 더 편한 최성은 "'괴물 신인'? 감사하나 별 의미 없어"]]></title>
+        <id>https://v.daum.net/v/20230113120703552</id>
+        <link href="https://v.daum.net/v/20230113120703552"/>
+        <updated>2023-01-13T03:27:35.516Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] "연기 빼면 아직 다른 어떤 것에 확실하게 재미를 못 느꼈어요. 다른 특정한 것에 시간을 쓰는 일이 별로 없어요. 영화 보고, 책도 보는 건 연기 때문에 하는 게 커요. 여전히 지금까지 취미를 찾지 못한 것 같아요. '괴물 신인'이라는 수식어는 감사하지만, 의미가 있나 싶어요. 괴물 신인은 내년에도, 후년에도 나올 거니까요. 하하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤시윤♥설인아 로맨스 '우리 사랑이 향기로 남을 때' 2월 개봉]]></title>
+        <id>https://v.daum.net/v/20230113115822380</id>
+        <link href="https://v.daum.net/v/20230113115822380"/>
+        <updated>2023-01-13T03:27:35.528Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '우리 사랑이 향기로 남을 때'가 오는 2월 극장 개봉을 확정짓고, 로맨틱한 분위기로 마음을 설레게 하는 론칭 포스터를 공개했다. '우리 사랑이 향기로 남을 때'(감독 임성용, 제작 도깨비미디어 콘텐츠존, 배급 콘텐츠존, 공동배급 다자인소프트)는 일도 연애도 마음 같지 않은 창수(윤시윤 분)와 모든 걸 가졌지만 연애는 쉽지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘영웅’ 정성화X나문희 모자 투샷, 눈물 제조기]]></title>
         <id>https://v.daum.net/v/20230113114440900</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230113101955216"/>
         <updated>2023-01-13T02:55:42.452Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 로맨스 영화 '우리 사랑이 향기로 남을 때'(임성용 감독, 도깨비미디어·콘텐츠존 제작)가 오는 2월 개봉을 확정 짓고 로맨틱한 분위기로 마음을 설레게 하는 런칭 포스터를 공개했다. 그간 다양한 작품을 통해 인상 깊은 캐릭터를 선보인 것은 물론, 지난 2022년 드라마 '현재는 아름다워'를 통해 KBS 연기대상 장편드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트리플 천만 배우' 최귀화, 신생 781컴퍼니行…이태성·윤진영 한솥밥]]></title>
-        <id>https://v.daum.net/v/20230113100501635</id>
-        <link href="https://v.daum.net/v/20230113100501635"/>
-        <updated>2023-01-13T02:55:42.453Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 최귀화가 신생 소속사 781컴퍼니와 함께한다. 13일 781컴퍼니는 최귀화의 전속 계약 소식을 알렸다. 781컾머니는 구 현컴퍼니의 조강현 대표가 새롭게 설립한 엔터테인먼트사다. 최귀화는 드라마 '미생', '황금빛 내 인생', '나쁜 녀석들: 악의 도시', '슈츠'를 비롯해 영화 '곡성', '부산행', '더 킹', '택시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['약 부작용'으로 관심받으려다... 충격적 행동의 결말]]></title>
-        <id>https://v.daum.net/v/20230113100000365</id>
-        <link href="https://v.daum.net/v/20230113100000365"/>
-        <updated>2023-01-13T02:55:42.455Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;해시태그 시그네&gt; 스틸컷    ⓒ 판씨네마(주)  &nbsp; 요즘 북유럽 영화의 전성기다. &lt;어나더 라운드&gt; &lt;사랑할 땐 누구나 최악이 된다&gt; &lt;슬픔의 삼각형&gt; 등 시크하게 정곡을 찌르는 날 선 감성이 인기 요인이다. 대열에 합류한 영화 &lt;해시태크 시그네&gt;는 자기혐오에 빠진 어설픈 관종이 결국 자기를 사랑하게 되는 블랙]]></content>
     </entry>
 </feed>
