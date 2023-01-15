@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-15T02:45:47.450Z</updated>
+    <updated>2023-01-15T03:19:05.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김상진 열사 "민주주의는 지식의 산물이 아니라 투쟁의 결과이다"]]></title>
+        <id>https://v.daum.net/v/20230115120601364</id>
+        <link href="https://v.daum.net/v/20230115120601364"/>
+        <updated>2023-01-15T03:19:05.188Z</updated>
+        <content type="html"><![CDATA[[윤종은 기자] ▲ 시사회&nbsp;1월 14일 오전 서울 관악구 서울대학교 농업생명과학대학 201동에서 여러 영화관계자들이 참석한 가운데 안병권 감독의 독립 다큐멘터리 영화 '1975, 김상진'의 시사회가 열렸다.    ⓒ 윤종은  &nbsp; 전북 김제에서 직접 농사를 짓고 있는 안병권&nbsp;이야기농업연구소 소장은 몇년째 많은 농민단체와 농민들의 초청으로 전국을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연·설경구 '길복순', 베를린 국제영화제 스페셜 부문 초청]]></title>
         <id>https://v.daum.net/v/20230115114502962</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114163014884"/>
         <updated>2023-01-14T08:22:12.447Z</updated>
         <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;나는 마을 방과후 교사입니다&gt; 포스터 이미지    ⓒ 스튜디오 그레인풀  &nbsp; '돌봄'이라는 단어가 어느새 우리 사회 곳곳에서 물이 스며들 듯 번진 지 오래다. 아이들로부터 노인, 장애인에 이르기까지 그 대상과 범위는 무한 확장 중이다. 분명히 예전에는 생소한 개념이었는데 말이다. 이렇게 전 사회적으로 범람하고 있지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에브리씽 에브리웨어 올 앳 원스' 3월 국내 재개봉]]></title>
-        <id>https://v.daum.net/v/20230114145619105</id>
-        <link href="https://v.daum.net/v/20230114145619105"/>
-        <updated>2023-01-14T06:21:52.586Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 지난해 국내 관객과 영화업계에서 가장 뜨거운 작품이었던 '에브리씽 에브리웨어 올 앳 원스'가 10일(현지 시각) 미국 LA에서 열린 제80회 골든 글로브시상식에서 여우주연상(뮤지컬코미디 부문)과 남우조연상을 석권하며 시상식 무대의 주인공으로 기록됐다. 이날 남우조연상을 수상한 웨이먼드 역의 배우 키 호이 콴은 무대에 올라 올해]]></content>
     </entry>
 </feed>
