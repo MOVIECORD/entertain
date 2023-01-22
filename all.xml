@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-22T07:16:27.972Z</updated>
+    <updated>2023-01-22T08:22:37.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[강수연 유작 '정이', 공개 하루 만에 전세계 1위…글로벌 흥행 신호탄 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230122163533641</id>
+        <link href="https://v.daum.net/v/20230122163533641"/>
+        <updated>2023-01-22T08:22:36.927Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 넷플릭스 오리지널 '정이'가 공개 하루 만에 글로벌 시청 1위를 기록했다. 스트리밍 서비스 콘텐츠 순위 집계 사이트인 플릭스 패트롤에 따르면, 21일 기준으로 '정이'는 넷플릭스 영화 부문 전 세계 1위 시청을 차지했다. 또 넷플릭스 미국을 비롯한 전 세계 32개국에서 영화 부문 1위에 올라, 글로벌 흥행 시작을 알렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유령’ 이하늬 “출산 후 극상의 행복 경험...삶 녹여내는 배우 되고파” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230122161201443</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230122115400386"/>
         <updated>2023-01-22T03:19:41.913Z</updated>
         <content type="html"><![CDATA[민족 최대의 명절 설이 코앞으로 다가왔습니다. 여느 때보다 이른 설 명절이 반갑기만 하면 좋으련만 생각만 해도 가슴 한 편이 답답해지는 이들도 있죠. 남편 뒷바라지만 강요하는 시어머니, 걱정인지 염장인지 모를 말만 늘어놓는 친척들, 설 연휴에도 일하라는 사장님, 찬바람 불면 생각나는 '추억의 빌런'까지. 그들이 보고 무언가 깨달을 수 있는 영화와 드라마,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세시대 '마녀'는 어떻게 생겨났나 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230122110302952</id>
-        <link href="https://v.daum.net/v/20230122110302952"/>
-        <updated>2023-01-22T02:47:21.451Z</updated>
-        <content type="html"><![CDATA[[정병진 기자] &nbsp;        ▲ 영화 &lt;레커닝&gt; 포스터&nbsp;넷플릭스 영화 &lt;레커닝&gt; 포스터    ⓒ 넷플릭스  &nbsp; '레커닝'(reckoning)은&nbsp;계산,&nbsp;벌,&nbsp;응징이란&nbsp;의미다.&nbsp;이&nbsp;영화는&nbsp;흥행에&nbsp;실패한&nbsp;작품이다.&nbsp;국내&nbsp;누적&nbsp;관객수가&nbsp;겨우&nbsp;2백&nbsp;명&nbsp;정도(2021.09.18,&nbsp;영화진흥위원회&nbsp;영화관입장권통합전산망)에&nbsp;불과하다.&nbsp;마녀사냥이란&nbsp;뻔한&nbsp;주제를&nbsp;다루기&nbsp;때]]></content>
     </entry>
 </feed>
