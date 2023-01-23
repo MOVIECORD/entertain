@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-23T05:17:33.101Z</updated>
+    <updated>2023-01-23T06:22:37.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘유령’ 액션 장학생 이하늬, 성별 차이 느껴지지 않는 에너지 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230123150933946</id>
+        <link href="https://v.daum.net/v/20230123150933946"/>
+        <updated>2023-01-23T06:22:36.863Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '유령' 이하늬에 호평이 쏟아지고 있다. 배우 이하늬는 절찬 상영중인 영화 ‘유령’에서 강렬한 액션과 깊이 있는 감정연기로 ‘박차경’이라는 역대급 캐릭터를 탄생시켰다. 이하늬 주연 영화 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘별 볼일 없는 인생’ 정가은 “내 원동력은 딸, 자랑스러운 엄마 되고파” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230123141200513</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230123110601072"/>
         <updated>2023-01-23T02:41:54.163Z</updated>
         <content type="html"><![CDATA[[김상목 기자] ▲ "라인" 포스터&nbsp;영화 포스터 이미지    ⓒ 엠엔엠인터내셔널㈜  어두운 화면이 밝아지면서 몇 가지 정보가 기입된 자막과 함께 영화가 시작된다. 하지만 구체적인 설명 대신에 (잔뜩 호기심에 차 있을) 관객의 눈앞엔 화면 한가득 혼란이 소용돌이친다. 새하얀 배경을 향해 연달아 물건들이 던져지고 부셔진다. 관객은 지금 상황에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다작’ 독 됐나…‘평범해진’ 연상호 감독 향한 우려 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230123101531557</id>
-        <link href="https://v.daum.net/v/20230123101531557"/>
-        <updated>2023-01-23T01:26:50.297Z</updated>
-        <content type="html"><![CDATA[연상호 감독이 연출한 넷플릭스 오리지널 ‘정이’가 시청자들의 엇갈린 평을 받고 있다. 전작인 ‘괴이’에 이어 또 한 번 호불호가 강하게 갈리고 있는 것이다. 영화 ‘부산행’ 통해 K-좀비가 해외에서도 통한다는 것을 입증한 이후, 스크린으로 OTT로 부지런히 시청자들을 만나고 있으나, 이것이 독이 된 것일까. 상상력은 줄어들고, 완성도는 낮아지고 있다는 아쉬]]></content>
     </entry>
 </feed>
