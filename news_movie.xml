@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-23T21:16:14.460Z</updated>
+    <updated>2023-01-23T22:17:19.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감독 홍상수♥︎제작실장 김민희, '물안에서' 또 베를린 초청 쾌거..8년♥︎ 굳건]]></title>
+        <id>https://v.daum.net/v/20230124071321677</id>
+        <link href="https://v.daum.net/v/20230124071321677"/>
+        <updated>2023-01-23T22:17:18.906Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;홍상수&nbsp;감독의 신작이자 29번째 작품인 '물안에서'(각본/감독/촬영/편집/음악:&nbsp;홍상수, 제작실장: 김민희, 출연: 신석호 하성국 김승윤 외, 제작: (주) 영화제작 전원사, 국내배급: (주)영화제작전원사, 콘텐츠판다, 해외배급: (주)화인컷)가 오는 2월 16일 열리는 제73회 베를린국제영화제 인카운터(ENCOUNTERS)부문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균·이승기·박지훈, 2023년 스크린 책임질 토끼띠★]]></title>
         <id>https://v.daum.net/v/20230124000011225</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123131105020"/>
         <updated>2023-01-23T04:22:27.992Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 로봇 개발자 젬마(앨리슨 윌리엄스 분)는 교통사고로 부모를 잃은 조카 케이디(바이올렛 맥그로우)와 함께 살게 된다. 이제는 조카를 책임져야 할 젬마지만 육아는 젬병이다. 그는 고민 끝에 케이디를 안전하게 보호할 인공지능(AI) 로봇 '메간'을 개발해 선물한다. 케이디는 사람을 꼭 빼닮은 메간을 만난 뒤로 엄마, 아빠를 잃은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리 사랑이 향기로 남을 때' 윤시윤♥설인아, 사랑에 빠졌다…포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230123130321965</id>
-        <link href="https://v.daum.net/v/20230123130321965"/>
-        <updated>2023-01-23T04:22:27.994Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '우리 사랑이 향기로 남을 때' 측이 사랑의 향기가 물씬 느껴지는 티저 포스터를 23일 전격 공개했다. '우리 사랑이 향기로 남을 때'(감독 임성용, 제작 도깨비미디어 콘텐츠존, 배급 콘텐츠존, 공동배급 다자인소프트)는 일도 연애도 마음 같지 않은 창수(윤시윤 분)와 모든 걸 가졌지만 연애는 쉽지 않은 아라(설인아 분),]]></content>
     </entry>
 </feed>
