@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-07T02:41:13.803Z</updated>
+    <updated>2023-02-07T03:20:34.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['가정부와 불륜' 아놀드 슈왈제네거 전처 "이혼 후 수녀원 들어가" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230207115252217</id>
+        <link href="https://v.daum.net/v/20230207115252217"/>
+        <updated>2023-02-07T03:20:33.519Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=/AFPBBNews=뉴스1=스타뉴스배우 아놀드 슈왈제네거의 전처인 마리아 슈라이버가 이혼 후 수녀원에 들어갔다고 밝혔다. 마리아 슈라이버는 6일(현지시간) 한 팟캐스트에 출연해 25년간의 결혼 끝에 아놀드 슈왈제네거와 이혼한 뒤 "자유 또는 허가를 받은 것 같은 느낌이 들었다"고 밝혔다. 이어 "저는 침묵 속에 조언을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키아누 리브스 온다…'존윅4' 4월 국내 극장 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230207113153461</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230207102217254"/>
         <updated>2023-02-07T01:34:53.994Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 존 윅 4 / 사진=㈜제이앤씨미디어, ㈜레드아이스엔터테인먼트 '존 윅 4'가 4월 국내 개봉을 확정하며 런칭 포스터와 예고편을 공개했다. '존 윅' 시리즈가 '존 윅 4'로 돌아온다. '존 윅' 시리즈는 총 월드와이드 흥행 수익 5억 8천만 달러를 기록하였으며, 이번 '존 윅 4'의 개봉으로 시리즈 수익 10억 달러를 넘볼 것으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 퍼스트 슬램덩크’ 일본 애니 흥행 TOP3 등극→극장에 북산고 뜬다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230207101025728</id>
-        <link href="https://v.daum.net/v/20230207101025728"/>
-        <updated>2023-02-07T01:34:53.996Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '더 퍼스트 슬램덩크'가 역대 일본 애니메이션 흥행 순위 3위에 등극했다. 2월 7일 영화진흥위원회 통합전산망 집계에 따르면 영화 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)가 누적 관객 239만2,406명을 기록했다. 이는 '너의 이름은.'(2016) 379만 명, '하울의 움직이는 성'(2004) 261만 명에 이어 역대 일]]></content>
     </entry>
 </feed>
