@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-07T03:20:34.356Z</updated>
+    <updated>2023-02-07T04:22:53.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴 ‘앤트맨’이 MCU 마니아의 필람 영화일 수밖에 없는 이유]]></title>
+        <id>https://v.daum.net/v/20230207132135859</id>
+        <link href="https://v.daum.net/v/20230207132135859"/>
+        <updated>2023-02-07T04:22:52.531Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 사상초유와 사상초유의 대결. MCU 마블 시네마틱 유니버스의 새 장을 열 ‘앤트맨과 와스프:퀀텀 매니아’를 향한 팬들의 기대 또 관전 포인트는 바로 이게 아닐까 싶다. 타노스를 능가하는 역대급 빌런의 등장에 마블이 내세운 카드는 이 또한 사상초유인 ‘초능력 패밀리’란 설정이다. 여기서 앤트맨 완전체로도 불리는 5인조 앤트맨 패밀리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가정부와 불륜' 아놀드 슈왈제네거 전처 "이혼 후 수녀원 들어가"]]></title>
         <id>https://v.daum.net/v/20230207115252217</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230207104401135"/>
         <updated>2023-02-07T02:41:13.248Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 60세 키아누 리브스 열혈 액션…‘존 윅4’ 4월 개봉 확정 [공식] 영화 ‘존 윅 4’가 4월 국내 개봉을 확정했다. 총 월드와이드 흥행 수익 5억 8천만 달러를 기록한 ‘존 윅’ 시리즈의 새 작품 ‘존 윅4’는 자유를 위해 모든 것을 건 반격을 준비하는 존 윅(키아누 리브스)이 최고 회의를 쓰러트리기 위해 거대한 전쟁에 나서는 이야기를 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅 4', 4월 개봉 확정..키아누 리브스 "한마디로 미쳤다"]]></title>
-        <id>https://v.daum.net/v/20230207102217254</id>
-        <link href="https://v.daum.net/v/20230207102217254"/>
-        <updated>2023-02-07T01:34:53.994Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 존 윅 4 / 사진=㈜제이앤씨미디어, ㈜레드아이스엔터테인먼트 '존 윅 4'가 4월 국내 개봉을 확정하며 런칭 포스터와 예고편을 공개했다. '존 윅' 시리즈가 '존 윅 4'로 돌아온다. '존 윅' 시리즈는 총 월드와이드 흥행 수익 5억 8천만 달러를 기록하였으며, 이번 '존 윅 4'의 개봉으로 시리즈 수익 10억 달러를 넘볼 것으로]]></content>
     </entry>
 </feed>
