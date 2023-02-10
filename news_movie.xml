@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-10T04:23:36.469Z</updated>
+    <updated>2023-02-10T05:17:56.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유예된 시간을 경유하는 오래된 커플]]></title>
+        <id>https://v.daum.net/v/20230210141201350</id>
+        <link href="https://v.daum.net/v/20230210141201350"/>
+        <updated>2023-02-10T05:17:56.362Z</updated>
+        <content type="html"><![CDATA[[김상목 기자] 영화는 오래 만난 커플이 헤어지고 얼마간의 시간이 경과한 뒤 다시 만나면서 각자 서로가 품었던 감정을 확인하고 정리하는 과정을 다룬다. 본래 처음 출발점은 꽤나 간소했던 이야기다. 헤어진 커플이 각자 새로운 삶을 살던 중 재회하게 된 순간에 초점을 맞춘 단편 제작 기획이었기 때문이다. 하지만 제작을 위한 투자가 들어오는 과정에서 '기왕이면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 카메론 "실제 배 잔해 못 찍으면 영화 '타이타닉' 안 찍겠다 해"]]></title>
         <id>https://v.daum.net/v/20230210130030572</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210091518696"/>
         <updated>2023-02-10T01:43:14.164Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 향정신성 약품인 프로포폴을 상습 투약한 혐의를 받고 있는 배우 유아인이 프로포폴 외에 추가적으로 다른 마약을 투약했다는 의혹이 불거졌다. 지난 9일 방송된 TV조선 '뉴스9'은 이번 유아인의 프로포폴 상승 투약 혐의에 초점을 맞춰 집중 보도했다. 유아인이 병원 10곳을 돌며 프로포폴을 상습 투약한 기록을 확보했다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슬램덩크’ 250만 돌파..이번주 ‘하울’ 사냥]]></title>
-        <id>https://v.daum.net/v/20230210091500683</id>
-        <link href="https://v.daum.net/v/20230210091500683"/>
-        <updated>2023-02-10T01:43:14.167Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)가 박스오피스 왕좌를 지키며 저력을 과시하고 있다. 10일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 ‘더 퍼스트 슬램덩크’는 전날 4만 4741명을 동원해 누적 관객수 253만 1843명을 기록했다. 이번 주말께 역대 일본 애니메이션 가운데 국내 흥행 2위인 ‘하울의 움직이는 성’(]]></content>
     </entry>
 </feed>
