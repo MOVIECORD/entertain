@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-10T11:17:03.026Z</updated>
+    <updated>2023-02-10T12:35:39.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘살수’ 곽정덕 감독 “신현준, 캐릭터 싱크로율 100%”]]></title>
+        <id>https://v.daum.net/v/20230210212215587</id>
+        <link href="https://v.daum.net/v/20230210212215587"/>
+        <updated>2023-02-10T12:35:39.364Z</updated>
+        <content type="html"><![CDATA[곽정덕 감독이 배우 신현준을 캐스팅한 이유에 대해 밝혔다. 10일 서울시 화양구에 위치한 롯데시네마에서 영화 ‘살수’ 시사회가 열렸다. 현장에는 곽정덕 감독과 배우 신현준, 이문식, 김민경, 홍은기가 참석했다. 이날 연출과 각본을 맡은 곽정덕 감독은 개봉 소감에 대해 “많은 고생을 하며 영화를 만들었다. 개봉하게 해주신 여러분들께 감사드린다. 배우분]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘살수’, 활극의 정석이 뜬다]]></title>
+        <id>https://v.daum.net/v/20230210212104566</id>
+        <link href="https://v.daum.net/v/20230210212104566"/>
+        <updated>2023-02-10T12:35:39.366Z</updated>
+        <content type="html"><![CDATA[영화 ‘살수’의 제작진과 출연진들이 벅찬 소감을 전했다. 10일 서울시 화양구에 위치한 롯데시네마에서 영화 ‘살수’ 시사회가 열렸다. 현장에는 곽정덕 감독과 배우 신현준, 이문식, 김민경, 홍은기가 참석했다. 곽 감독은 각본과 연출을 맡았다. 그는 개봉 소감에 대해 “여러분들과 많은 고생을 하며 영화를 만들었다. 개봉하게 해주신 여러분들께 감사드린다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘유령’의 주거침입죄]]></title>
         <id>https://v.daum.net/v/20230210185456377</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210165043251"/>
         <updated>2023-02-10T08:24:34.280Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 신현준이 자신인 출연한 진지한 장면들이 '밈'으로 활용되고 있는 것에 대한 심정을 밝혔다. 신현준은 10일 오후 서울 광진구 건대입구 롯데시네마에서 진행된 영화 '살수'(감독 곽정덕)의 언론배급시사회 및 기자간담회에서 "황장군을 기억하는 이들에게 '살수' 속 살수 캐릭터가 어떻게 다가갔으면 좋겠느냐"는 질문에 "솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[+반백살 신현준의 극한 도전, ‘살수’]]></title>
-        <id>https://v.daum.net/v/20230210164810181</id>
-        <link href="https://v.daum.net/v/20230210164810181"/>
-        <updated>2023-02-10T08:24:34.282Z</updated>
-        <content type="html"><![CDATA[신현준(55)이 조선 최고의 살수로 분한다. 오는 22일 개봉하는 영화 ‘살수’를 통해서다. 10일 오후 서울 건대입구 롯데시네마에서 열린 언론배급시사회를 통해 베일을 벗은 ‘살수’는 혼돈의 세상, 거스를 수 없는 운명의 앞에 놓인 조선 최고의 살수 ‘이난’(신현준 분)의 이야기를 그린 조선 액션 활극이다. 신현준, 이문식, 김민경, 홍은기가 출연한다. 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준 “‘황장군’ 슬픈 역할인데 짤로 돌아다녀”‥56세에 ‘살수’로 복귀]]></title>
-        <id>https://v.daum.net/v/20230210164306003</id>
-        <link href="https://v.daum.net/v/20230210164306003"/>
-        <updated>2023-02-10T08:24:34.285Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] '56세' 신현준이 다시 한 번 검을 잡고, 조선 최고 살수로 분했다. 영화 '살수'(감독 곽정덕) 언론 시사회가 2월 10일 서울 광진구 롯데시네마 건대입구에서 열렸다. 영화 상영 후 진행된 간담회에는 곽정덕 감독, 신현준, 이문식, 김민경, 홍은기가 참석했다. 오는 22일 개봉하는 '살수'는 혼돈의 세상,]]></content>
     </entry>
 </feed>
