@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-13T13:27:04.474Z</updated>
+    <updated>2023-02-13T14:18:24.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어제의 죽음 내일로 이어지는, ‘다음 소희’ 막아야 해 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230213231504967</id>
+        <link href="https://v.daum.net/v/20230213231504967"/>
+        <updated>2023-02-13T14:18:24.179Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. ※이 글은 영화 &lt;다음 소희&gt;의 내용을 구체적으로 소개하고 있습니다. 0건. 2021년 대한민국의 근로복지공단이 2012년부터 2021년까지 산재로 목숨을 잃은 현장실습생 현황을 파악한 숫자다. 다시 한번, 0건. 이 숫자에는 홍성대(19), 김대환(19), 김동준(19), 김동균(19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["가짜로 하면 티 많이 나"…'카운트' 진선규→성유빈, 페어플레이 정신 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230213212224113</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230213172506636"/>
         <updated>2023-02-13T08:25:58.045Z</updated>
         <content type="html"><![CDATA[(사진=뉴스1)[이데일리 스타in 김보영 기자] 1988년 서울 올림픽 복싱 금메달리스트 박시헌 선수의 실화를 모티브로 한 ‘카운트’가 꺾이지 않는 마음, 희망의 메시지로 2월 극장가를 따뜻하게 데울 전망이다. 유쾌한 웃음과 감동 두 마리 토끼로 관객들의 마음을 저격할 예정이다. 13일 오후 서울 용산구 CGV 아이파크몰점에서 열린 영화 ‘카운트’(감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["포기 않는 희망"…'카운트' 진선규→성유빈, '슬램덩크' 잇는 눈물의 '중꺾마' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230213172421605</id>
-        <link href="https://v.daum.net/v/20230213172421605"/>
-        <updated>2023-02-13T08:25:58.053Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“주변에서 너무 응원을 해주셔서 감사한 마음이다. 잘해보겠다.” 진선규가 13일 오후 서울 이촌동 용산 CGV 아이파크몰에서 열린 영화 ‘카운트’의 언론배급시사회에서 “제가 맡은 시헌이 영화의 서사를 이끄는 캐릭터라 부담감이 없다면 거짓말”이라고 이같이 털어놓으며 뜨거운&nbsp;눈물을 흘렸다. ‘카운트’(감독 권혁재, 제공배급 CJ E]]></content>
     </entry>
 </feed>
