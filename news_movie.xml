@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-14T02:50:57.491Z</updated>
+    <updated>2023-02-14T03:23:40.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오, ♥지지 하디드와 끝났나 "서로 말도 안해"]]></title>
+        <id>https://v.daum.net/v/20230214120229249</id>
+        <link href="https://v.daum.net/v/20230214120229249"/>
+        <updated>2023-02-14T03:23:40.312Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 지지 하디드, 레오나르도 디카프리오 / 사진=/AFPBBNews=뉴스1=스타뉴스할리우드 배우 레오나르도 디카프리오(이하 디카프리오)와 톱모델 지지 하디드 사이에 심상치 않은 장면이 포착됐다. 13일(현지 시각) 미국 매체 페이지식스는 지난 11일부터 미국 뉴욕에서 진행된 '2023 뉴욕 패션위크'에 디카프리오와 지지 하디드가 참석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수·김민희, "모르겠다"면서 해외 일정은 필참]]></title>
         <id>https://v.daum.net/v/20230214115002696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214104806957"/>
         <updated>2023-02-14T02:50:56.856Z</updated>
         <content type="html"><![CDATA[(파리,서울=뉴스1) 고승아 기자 이준성 프리랜서기자 = 홍상수(63) 감독과 배우 김민희(41)가 베를린영화제에 앞서 프랑스 파리에서 열린 회고전에 함께 참석했다. 14일(한국시간, 현지시간 13일 오후) 프랑스 파리 시네마테크 프랑세즈에서 '홍상수 감독 전작 회고전'이 열려 홍상수 감독과 김민희가 참석해 이날 회고전을 찾은 관객들에 인사했다. 개막작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 잃어버리면 생길 수 있는 최악의 악몽]]></title>
-        <id>https://v.daum.net/v/20230214104717921</id>
-        <link href="https://v.daum.net/v/20230214104717921"/>
-        <updated>2023-02-14T02:50:56.858Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 정유미(칼럼니스트)한국갤럽조사연구소에 따르면 2022년 한국 성인 스마트폰 사용률은 97%로 나타났다. 아침 기상 알람부터 시작해 잠들기 전까지 들여다보는 이 기기와 물아일체 생활을 한 지 10년이 훌쩍 넘은 이들도 많을 것이다. 동명의 일본 베스트셀러 원작을 각색한 넷플릭스 한국 영화 '스마트폰을 떨어뜨렸을 뿐인데'는 스마트 기기 없이 일상]]></content>
     </entry>
 </feed>
