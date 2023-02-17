@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-17T09:19:26.293Z</updated>
+    <updated>2023-02-17T10:20:58.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석 "이효리 '캐나다 체크인' 보고 눈물…그냥 감동적"]]></title>
+        <id>https://v.daum.net/v/20230217185003440</id>
+        <link href="https://v.daum.net/v/20230217185003440"/>
+        <updated>2023-02-17T10:20:57.490Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 유연석이 '멍뭉이'를 향한 아낌없는 애정을 드러냈다. 유연석은 17일 오전 서울 종로구 소격동의 한 카페에서 열린 영화 '멍뭉이'(감독 김주환) 인터뷰에서 다양한 이야기를 전했다.&nbsp; '멍뭉이'는 견주 인생 조기 로그아웃 위기에 처한 민수(유연석 분)와 인생 자체가 위기인 진국(차태현), 두 형제가 사랑하는 반려견 루니의 완]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드래곤 길들이기' 드림웍스 최초 실사화..캐스팅 진행중 '2025년 개봉']]></title>
         <id>https://v.daum.net/v/20230217181722917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217153716955"/>
         <updated>2023-02-17T07:17:47.367Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '곰돌이 푸: 피와 꿀(Winnie the Pooh: Blood and Honey)' 감독이&nbsp;속편에 대한 계획을 언급했다. 저작권이 풀리면서 공포영화로 재탄생한&nbsp;'곰돌이 푸:블러드 앤 허니'가 최근 흥행에 성공을 거둔 가운데 속편에&nbsp;좀 더 큰 제작비가 투입되는 것. 5만 달러(한화 약 6,495만 원) 미만의 제작비를 들여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스마트폰을 떨어뜨렸을 뿐인데', 임시완·천우희가 전한 현실 공포]]></title>
-        <id>https://v.daum.net/v/20230217152024466</id>
-        <link href="https://v.daum.net/v/20230217152024466"/>
-        <updated>2023-02-17T06:24:49.585Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 일상 속 현실 공포를 선사할 넷플릭스 영화 ‘스마트폰을 떨어뜨렸을 뿐인데’(감독 김태준)가 드디어 오늘(17일) 오후 5시 베일을 벗는다. ‘스마트폰을 떨어뜨렸을 뿐인데’는 평범한 회사원이 자신의 모든 개인 정보가 담긴 스마트폰을 분실한 뒤 일상 전체를 위협받기 시작하며 벌어지는 현실 밀착 스릴러다. 스마트폰에 대한 의]]></content>
     </entry>
 </feed>
