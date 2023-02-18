@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-18T03:19:45.091Z</updated>
+    <updated>2023-02-18T04:36:27.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1위 ‘앤트맨과 와스프’, 2023 첫 마블 신작 파워]]></title>
+        <id>https://v.daum.net/v/20230218122207698</id>
+        <link href="https://v.daum.net/v/20230218122207698"/>
+        <updated>2023-02-18T04:36:26.871Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '앤트맨과 와스프: 퀀텀매니아', 오랜만에 귀환한 마블 신작으로 국내 두터운 관객층을 확보 중이다. 18일 영화진흥위원회 통합전산망에 따르면 전날 '앤트맨과 와스프: 퀀텀매니아'는 11만 6916명의 관객을 불러 모았음 이는 박스오피스 1위인 수치다. 누적 관객 수는 38만 9636명으로 집계됐다. 영화는 미지의 세계 '양자 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앤트맨3' 1위 속 꺾이지 않는 2위 '슬램덩크']]></title>
         <id>https://v.daum.net/v/20230218115847487</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218094610172"/>
         <updated>2023-02-18T01:37:14.547Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '앤트맨과 와스프: 퀀텀매니아'(감독 페이튼 리드)가 3일 연속 박스오피스 1위에 올랐다. 18일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '앤트맨과 와스프: 퀀텀매니아'(이하 '앤트맨3')는 전날 전국 2016개 스크린에서 11만6916명을 동원해 박스오피스 1위를 유지했다. 누적 관객수는 38만963]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘애프터 썬’소중한 이와의 친밀감 & 상실과 사랑에 대한 아름답고 슬픈 기억]]></title>
-        <id>https://v.daum.net/v/20230218090908766</id>
-        <link href="https://v.daum.net/v/20230218090908766"/>
-        <updated>2023-02-18T01:37:14.549Z</updated>
-        <content type="html"><![CDATA[깊은 밤 잠든 딸을 물끄러미 바라보는 아빠 갤럼의 시선과, 아침이 되어 잠든 아빠를 바라보는 딸 소피의 시선이 교차 된다. 영화를 보는 내내 소피의 시선과 글램의 시선으로 교차하며 기억의 상자를 열게 한다. 그리고, 오로지 관객으로서의 시선은 무엇을 보았을지. 서른 한 살 생일을 앞둔 소피가 20년 전 아빠와 함께 갔던 튀르키예 여행에서 촬영한 캠코더를]]></content>
     </entry>
 </feed>
