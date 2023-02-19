@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-19T04:22:23.847Z</updated>
+    <updated>2023-02-19T05:17:27.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 로맨스 영화 매력 분석]]></title>
+        <id>https://v.daum.net/v/20230219141439211</id>
+        <link href="https://v.daum.net/v/20230219141439211"/>
+        <updated>2023-02-19T05:17:26.574Z</updated>
+        <content type="html"><![CDATA[국내 로맨스 영화들이 2월의 극장가를 장식했다. 배우 윤시윤 설인아 주연의 '우리 사랑이 향기로 남을 때'와 이동휘 정은채가 이끈 '어쩌면 우린 헤어졌는지 모른다'가 그 주인공이다. 두 작품의 매력이 다른 만큼 골라 보는 재미가 쏠쏠하다. '우리 사랑이 향기로 남을 때'는 일도 연애도 마음 같지 않은 남자와 모든 걸 가졌지만 연애는 쉽지 않은 여자의 이야기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["왜 화난 표정이냐" 차태현의 남모를 고충]]></title>
+        <id>https://v.daum.net/v/20230219140423025</id>
+        <link href="https://v.daum.net/v/20230219140423025"/>
+        <updated>2023-02-19T05:17:26.574Z</updated>
+        <content type="html"><![CDATA[배우 차태현은 부드럽고 선한 이미지의 소유자다. 그러나 그는 "날 아는 사람들은 내가 그렇게 순하다는 생각을 안 할 수도 있다"고 말했다. 이미지가 강하게 자리 잡은 탓에 일상에서의 표정조차 검열 대상이었다. 누군가는 그에게 "TV에서는 맨날 웃는데 왜 화난 표정을 짓고 있냐"고 말했단다. 차태현은 최근 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 킹'에 추락한 김은숙, '더 글로리'로 영광의 날개 달고 비상]]></title>
         <id>https://v.daum.net/v/20230219130102177</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230219075234731"/>
         <updated>2023-02-18T23:18:44.508Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '앤트맨과 와스프: 퀀텀매니아'가 4일 연속 흥행 선두를 달리고 있다. 19일 영진위 통합전산망 집계에 따르면 '앤트맨과 와스프: 퀀텀매니아'는 전날&nbsp;25만9178명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;64만8814명이다. '앤트맨과 와스프: 퀀텀매니아'는 마블 페이즈5를 여는 작품으로 미지의 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호·박찬욱·황동혁, 월드 클래스 韓 감독들 근황은]]></title>
-        <id>https://v.daum.net/v/20230219070029279</id>
-        <link href="https://v.daum.net/v/20230219070029279"/>
-        <updated>2023-02-18T22:17:37.698Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = K콘텐츠의 전성기는 계속되고 있다. 글로벌 OTT라는 새로운 유통망을 힘입어 다양한 한국 콘텐츠들이 각광받고 있다. 이 같은 K콘텐츠 전성기의 도래는 최근 몇년간 '월드 클래스'로 우뚝 선 국내 정상급 크리에이터들의 결정적인 역할이 있어 가능했다. 봉준호, 박찬욱, 황동혁 감독 같은 이들이 대표 주자다. 이제는 우리나라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞으로 더욱 빛날 '대세 배우']]></title>
-        <id>https://v.daum.net/v/20230219000015800</id>
-        <link href="https://v.daum.net/v/20230219000015800"/>
-        <updated>2023-02-18T15:18:41.831Z</updated>
-        <content type="html"><![CDATA['카운트'로 데뷔 19년 만에 단독 주연으로 '우뚝' 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배포하는 경우가 다반사다.]]></content>
     </entry>
 </feed>
