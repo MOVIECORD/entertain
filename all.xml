@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T03:24:42.621Z</updated>
+    <updated>2023-02-21T04:24:06.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['아바타4' 개봉 미뤄지나...제임스 카메론, 다른 영화 제작 의사 밝혀 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230221131531256</id>
+        <link href="https://v.daum.net/v/20230221131531256"/>
+        <updated>2023-02-21T04:24:05.301Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 제임스 카메론 감독의 영화 '아바타' 시리즈 일정이 변경될 수도 있다. 지난달 13일(현지 시간) 제임스 카메론은 LA타임즈와의 인터뷰에서 '아바타' 시리즈를 잠시 미뤄두고 다른 영화 제작을 고려하고 있다고 밝혔다. 제임스 카메론은 "차기작으로 '아바타 3'의 제작을 가장 중요하게 생각하지만, '아바타 4' 제작을 시작하기 전에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘카운트’ 진선규, 오늘 ‘나이트라인’ 출연‥단독 주연의 홍보 맹공 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230221122251372</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230221112508001"/>
         <updated>2023-02-21T02:52:37.519Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '씨네타운'에서 배우 조진웅이 최근 관객 시사회를 마친 소감을 밝혔다. 21일 오전 방송된 SBS 파워FM '박하선의 씨네타운'(이하 '씨네타운')에는 영화 '대외비'(감독 이원태·제작 트윈필름)의 이원태 감독과 배우 조진웅이 출연해 작품에 대한 이야기를 나눴다. 이날 이원태 감독은 '대외비' 촬영 비화를 묻는 질문에 "개인적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['씨네타운' 조진웅 "관객들과 만남 앞두고 긴장돼 잠 못 잤다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230221112328903</id>
-        <link href="https://v.daum.net/v/20230221112328903"/>
-        <updated>2023-02-21T02:52:37.523Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '씨네타운'에서 배우 조진웅이 최근 관객 시사회를 마친 소감을 밝혔다. 21일 오전 방송된 SBS 파워FM '박하선의 씨네타운'(이하 '씨네타운')에는 영화 '대외비'(감독 이원태·제작 트윈필름)의 이원태 감독과 배우 조진웅이 출연해 작품에 대한 이야기를 나눴다. '대외비'는 1992년 부산, 만년 국회의원 후보 해웅(조진웅)]]></content>
     </entry>
 </feed>
