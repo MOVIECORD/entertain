@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-23T22:18:52.683Z</updated>
+    <updated>2023-02-23T23:20:00.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9일 연속 정상 '앤트맨3', 뒤쫓는 '카운트'·'슬램덩크']]></title>
+        <id>https://v.daum.net/v/20230224081333350</id>
+        <link href="https://v.daum.net/v/20230224081333350"/>
+        <updated>2023-02-23T23:19:59.393Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 앤트맨과 와스프: 퀀텀매니아 / 사진=영화 포스터'앤트맨과 와스프: 퀀텀매니아'가 9일 연속 1위를 차지했다. 24일 영화진흥위원회 통합전산망에 따르면 전날 영화 '앤트맨과 와스프: 퀀텀매니아'는 3만 6763명의 관객을 동원해 박스오피스 1위를 기록했다. '앤트맨과 와스프: 퀀텀매니아'는 미지의 세계 '양자 영역'에 빠져버]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['앤트맨과 와스프: 퀀텀매니아' 9일째 1위…'슬램덩크' 340만 돌파]]></title>
+        <id>https://v.daum.net/v/20230224075630985</id>
+        <link href="https://v.daum.net/v/20230224075630985"/>
+        <updated>2023-02-23T23:19:59.396Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 마블 영화 '앤트맨과 와스프: 퀀텀매니아'가 9일 연속으로 1위를 차지했다. 24일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '앤트맨과 와스프: 퀀텀매니아'는 지난 23일 하루동안 3만6763명의 관객을 동원하며 박스오피스 1위를 차지했다. 이로써 지난 15일 개봉한 이 영화는 9일째 박스오피스 1위를 차지했으며]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디렉터스컷 어워즈, 오늘 개최...영예의 수상자는?]]></title>
+        <id>https://v.daum.net/v/20230224073301656</id>
+        <link href="https://v.daum.net/v/20230224073301656"/>
+        <updated>2023-02-23T23:19:59.398Z</updated>
+        <content type="html"><![CDATA[디렉터스컷 어워즈 시상식이 3년 만에 대면으로 오늘(24일) 개최된다. DGK(한국영화감독조합)가 주최하는 제21회 디렉터스컷 어워즈 시상식이 이날 오후 충무아트센터1층 컨벤션 홀에서 열린다. 봉만대 감독이 단독으로 진행을 맡았다. 영화 부문 감독상 후보에는 ‘한산: 용의 출현’ 김한민, ‘헤어질 결심’ 박찬욱, ‘올빼미’ 안태진, ‘영웅’ 윤제균, ‘외계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'아바타2'→'슬램덩크' 덕 풀칠한 韓"…1월 극장, 전년 대비 수익 증가에도 웃지 못하는 이유]]></title>
         <id>https://v.daum.net/v/20230224071331396</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230223185402907"/>
         <updated>2023-02-23T10:20:38.207Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "이 이야기는 지금뿐 아니라 앞으로도 유효하다고 생각합니다. 2천∼3천 년 전에도 세상은 이랬으니까요." 내달 1일 개봉을 앞둔 영화 '대외비'는 만년 국회의원 지망생인 해웅(조진웅 분)의 이야기다. 그는 대외비 문서와 행동파 조폭 필도(김무열)를 등에 업고 부산 정치판의 실세 순태(이성민)에 맞선다. 그러나 거대한 악에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에에올·더 웨일·타르… 오스카 후보작들 스크린 달군다]]></title>
-        <id>https://v.daum.net/v/20230223183222487</id>
-        <link href="https://v.daum.net/v/20230223183222487"/>
-        <updated>2023-02-23T10:20:38.209Z</updated>
-        <content type="html"><![CDATA[영화 '타르' 유니버설픽쳐스 제공 다음달 12일(현지시간) 제95회 아카데미 시상식을 앞두고 국내 극장가에서도 오스카 특수를 노린 영화가 잇따라 개봉한다. 올해 유력 여우주연상 후보작인 양자경 주연의 '에브리씽 에브리웨어 올 앳 원스'(이하 에에올)와 케이트 블란쳇의 '타르'를 비롯해 남우주연상 유력 후보작 '더 웨일' 그리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["20대로 돌아가고 싶지 않아"…'대외비' 조진웅, 치열하게 살아온 19년]]></title>
-        <id>https://v.daum.net/v/20230223182230277</id>
-        <link href="https://v.daum.net/v/20230223182230277"/>
-        <updated>2023-02-23T10:20:38.210Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“저는 20대로 돌아가고 싶지 않다.” 조진웅(47)은 23일 오후 서울 소격동의 한 카페에서 진행된 인터뷰에서 “열정이 컸던 그때로 다시 돌아갈 수 없을 거 같다. 아마 지금의 상태에서 돌아간다면 죽을지도 모르겠다.(웃음) 그때의 저는 괴로운지도 모르고 살 수 있었던 열정이 컸다”라고 이같이 말했다. 조진웅은 40대가 된 현재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아카데미 수상의 법칙' 272kg 이래서 2023 남우주연상 유력 배우]]></title>
-        <id>https://v.daum.net/v/20230223181728146</id>
-        <link href="https://v.daum.net/v/20230223181728146"/>
-        <updated>2023-02-23T09:19:04.503Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 오는 3월 12일 열리는 2023 제 95회 아카데미 시상식에서 가장 유력한 남우주연상 후보는 누구일까. 많은 이들이 영화 '더 웨일'(연출&nbsp;대런 애로노프스키, 3월 1일 개봉)의 브랜든 프레이저를 꼽는다.&nbsp;수상 예측을 전문으로 하는 북미 사이트 ‘골드더비’에서 브렌든 프레이저가 아카데미 남우주연상을 수상할 수 밖에 없는 5가지]]></content>
     </entry>
 </feed>
