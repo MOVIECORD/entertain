@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-24T22:19:11.189Z</updated>
+    <updated>2023-02-24T23:19:26.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 그래미 어워드가 달라졌어요]]></title>
+        <id>https://v.daum.net/v/20230225080803372</id>
+        <link href="https://v.daum.net/v/20230225080803372"/>
+        <updated>2023-02-24T23:19:25.770Z</updated>
+        <content type="html"><![CDATA[제65회 그래미가 끝났다. 시상식 결과만 놓고 봤을 때 가장 균형 잡힌 시상식이었다는 게 중론이다. 물론 한국에서는 BTS의 수상 여부가 가장 큰 화두였지만 후보에 오른 곡들 또한 쟁쟁했다. 3회 연속 노미네이트만으로도 대단한 기록이다. 그래미 역사를 통틀어 노미네이트만 되고 수상하지 못한 뮤지션·밴드는 셀 수 없이 많다. 브라이언 맥나이트는 17회, 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앤트맨과 와스프: 퀀텀매니아' 10일째 1위…주말 흥행 어떨까]]></title>
         <id>https://v.daum.net/v/20230225071431949</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230224205701517"/>
         <updated>2023-02-24T12:36:44.903Z</updated>
         <content type="html"><![CDATA[‘수리남’ 윤종빈 감독이 시리즈 부문 감독상의 영예를 안았다. DGK(한국영화감독조합)가 주최하는 제21회 디렉터스컷 어워즈 시상식이 24일 저녁 충무아트센터1층 컨벤션 홀에서 열렸다. 봉만대 감독이 단독으로 진행을 맡았다. 이날 윤종빈 감독은 “함께 한 배우들과 동료들께 진심으로 감사드린다. 특히 처음부터 함께 기획하고 모든 걸 함께 나눈 하정우 배우와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심' 박해일·탕웨이, 남녀배우상 "박찬욱 감독 감사"]]></title>
-        <id>https://v.daum.net/v/20230224204127283</id>
-        <link href="https://v.daum.net/v/20230224204127283"/>
-        <updated>2023-02-24T12:36:44.904Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=제21회 디렉터스컷 어워즈영화 '헤어질 결심'의 배우 박해일, 탕웨이가 올해의 남녀배우상 영화 부문을 수상했다. DGK(한국영화감독조합)가 주최하는 제21회 디렉터스컷 어워즈 시상식이 24일 오후 충무아트센터1층 컨벤션 홀에서 열린 가운데 네이버 NOW.를 통해 생중계됐다. 진행은 봉만대 감독이 맡았다. 이날 이병헌이 시]]></content>
     </entry>
 </feed>
