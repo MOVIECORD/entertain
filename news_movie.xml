@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-28T21:18:20.179Z</updated>
+    <updated>2023-02-28T22:18:55.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멍뭉이’ 뻔하지만 눈 뗄 수 없는 따스한 매력]]></title>
+        <id>https://v.daum.net/v/20230301071326204</id>
+        <link href="https://v.daum.net/v/20230301071326204"/>
+        <updated>2023-02-28T22:18:55.047Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 뻔하지만 괜찮다. 강아지들이 뿜어내는 따스한 매력에 눈을 뗄 수 없게 하는 영화 ‘멍뭉이’다. 1일 개봉한 ‘멍뭉이’(감독 김주환·제작 와이웍스엔터테인먼트)는 집사 인생 조기 로그아웃 위기에 처한 민수(유연석)와 인생 자체가 위기인 진국(차태현), 두 형제가 사랑하는 반려견 루니의 완벽한 집사를 찾기 위해 면접을 시작하고 뜻밖의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대외비’ 어디서 본 듯한 정치 스릴러, 연기만 남았다]]></title>
+        <id>https://v.daum.net/v/20230301070208073</id>
+        <link href="https://v.daum.net/v/20230301070208073"/>
+        <updated>2023-02-28T22:18:55.048Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 꽤 괜찮은 반전이 존재하고 긴장감 가득한 서사도 인상깊지만 영화를 보는 내내 어디선가 본 것만 같은 기시감이 느껴진다. 전반적인 완성도는 괜찮지만 묵직한 한 방이 부족한 영화 ‘대외비’다. 1일 개봉하는 ‘대외비’(감독 이원태·제작 트윈필름)는 1992년 부산, 만년 국회의원 후보 해웅(조진웅)과 정치판의 숨은 실세 순태(이성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거구에 담긴 혼신의 연기]]></title>
         <id>https://v.daum.net/v/20230301061113636</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228184204038"/>
         <updated>2023-02-28T10:22:09.208Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '소울메이트'를 연출한 민용근 감독이 원작에 대한 부담을 떨치고 작업에만 집중했다고 밝혔다. 28일 오후 서울 건대입구 롯데시네마에서 열린 영화 '소울메이트' 언론시사회 및 기자간담회에 참석한 민용근 감독은 국내에 두터운 팬층을 확보하고 있는 원작을 리메이크한 것에 대해 "원작을 좋아하는 팬들이 많은 것을 알고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김다미X전소미X변우석, 우리의 ‘소울메이트’ 어땠을까?]]></title>
-        <id>https://v.daum.net/v/20230228183430918</id>
-        <link href="https://v.daum.net/v/20230228183430918"/>
-        <updated>2023-02-28T10:22:09.214Z</updated>
-        <content type="html"><![CDATA[싱그러움을 맞이할 줄 알았는데 알고 보니 뭉클함이 가득했다. 10대부터 30대까지 청춘물을 소화하낸 김다미, 전소니, 변우석의 ‘소울메이트’다. 28일 오후 서울 광진구 롯데시네마 건대입구에서 진행된 영화 ‘소울메이트’ 언론시사회에 민영근 감독, 김다미, 전소니 그리고 변우석이 참석해 소감을 밝혔다. 자유로운 풍경화처럼 어디로 튈지 모르는 ‘미소’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 "'소울메이트'는 기회…열심히 울면서 봤다"]]></title>
-        <id>https://v.daum.net/v/20230228183003809</id>
-        <link href="https://v.daum.net/v/20230228183003809"/>
-        <updated>2023-02-28T10:22:09.214Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 변우석이 '소울메이트'를 보고 눈물을 흘린 사연을 전했다. 28일 서울 광진구 롯데시네마 건대입구에서 영화 '소울메이트'(감독 민용근) 언론시사회가 열렸다. 이 자리에는 민용근 감독과 배우 김다미, 전소니, 변우석이 참석했다. '소울메이트'는 첫 만남부터 서로를 알아본 두 친구 미소(김다미 분)와 하은(전소니) 그리고 진우(변우]]></content>
     </entry>
 </feed>
