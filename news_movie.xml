@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-01T01:48:40.296Z</updated>
+    <updated>2023-03-01T03:01:52.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소울메이트' 김다미x전소니, 말할 수 없는 여자들의 우정]]></title>
+        <id>https://v.daum.net/v/20230301111023114</id>
+        <link href="https://v.daum.net/v/20230301111023114"/>
+        <updated>2023-03-01T03:01:51.980Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;1998년 제주로 전학 간 미소(김다미 분)에게 쿵짝이 잘 맞는 친구 하은(전소니 분)이 생겼다. 부모에게서 받아보지 못 한 애정을 하은에게 느끼게 된 미소는 금세 제주 생활에 익숙해져 마음의 안정을 찾는다.(※이 기사에 스포일러가 있습니다.) 등하교부터 그림 그리기까지 일상의 모든 일을 함께 하는 두 소녀는 절친에서 한층 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일제침략의 간웅 처단한 안중근을 기억하자]]></title>
         <id>https://v.daum.net/v/20230301104503481</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230301090727612"/>
         <updated>2023-03-01T01:48:39.594Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 조진웅 이성민이 뭉쳤는데 다 '아는 맛'이 재현됐다. '대외비'의 이야기다. 3월1일 개봉하는 '대외비'는 1992년 부산, 만년 국회의원 후보 해웅(조진웅 분)과 정치판의 숨은 실세 순태(이성민 분), 행동파 조폭 필도(김무열 분)가 대한민국을 뒤흔들 비밀 문서를 손에 쥐고 판을 뒤집기 위한 치열한 쟁탈전을 벌이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 최초의 야구팀, 구한말에 열렸던 숙명의 한일전]]></title>
-        <id>https://v.daum.net/v/20230301084512220</id>
-        <link href="https://v.daum.net/v/20230301084512220"/>
-        <updated>2023-03-01T01:48:39.594Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 오는 8일 제5회 월드베이스볼클래식(WBC)이 개막한다. 1회 대회 퍼펙트 4강, 2회 대회 준우승 후 3·4회 대회에서 연속으로 1라운드 탈락했던 한국 대표팀은 5회 대회에서 1라운드 통과는 물론이고 내심 4강 이상의 성적을 노리고 있다. 일본, 호주,중국, 체코와 함께 B조에 속한 한국은 최소 조 2위에 올라야 8강에 진출할 수 있다.]]></content>
     </entry>
 </feed>
