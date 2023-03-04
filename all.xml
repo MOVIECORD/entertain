@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-04T07:16:48.607Z</updated>
+    <updated>2023-03-04T08:23:23.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['박찬욱 뮤즈' 미아 와시코프스카 "할리우드 탈출한 이유는.." (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230304171818406</id>
+        <link href="https://v.daum.net/v/20230304171818406"/>
+        <updated>2023-03-04T08:23:23.067Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 미아 와시코프스카는 할리우드로 빠른 시일 내에 돌아오지는 않을 것으로 보인다. 와시코프스카는 3일(현지시간) 공개된 인디와이어와의 인터뷰에서 호주에서 작업한 자신의 신작 '블루백'과 관련, 할리우드를 '탈출'한 이유에 대해 "그것에 대한 인식이 현실과 상당히 다르고, 사람으로서 나에게 맞지 않았다"라고 말했다. 미아 와시코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유아인 ‘마약 혐의’, 피해는 동료 몫..김영웅→현봉식 “아쉽다” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230304161015734</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230304081545060"/>
         <updated>2023-03-03T23:19:53.502Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '귀멸의 칼날: 상현집결, 그리고 도공 마을로'가 이틀째 흥행 1위에&nbsp;등극했다. 4일 영진위 통합전산망 집계에 따르면 '귀멸의 칼날: 상현집결, 그리고 도공 마을로'는 전날&nbsp;5만2454명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;11만7409명이다. 이로써 '귀멸의 칼날: 상현집결, 그리고 도공 마을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개봉 D-4 '스즈메의 문단속' 예매율 1위…흥행  예열 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230304081328049</id>
-        <link href="https://v.daum.net/v/20230304081328049"/>
-        <updated>2023-03-03T23:19:53.505Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 제73회 베를린 국제영화제 경쟁 부문 공식 초청에 이어 국내 언론과 예비 관객들에게 뜨거운 호평을 얻고 있는 영화 '스즈메의 문단속'이 개봉을 앞두고 전체 예매율 1위에 올랐다. '스즈메의 문단속'(감독 신카이 마코토, 수입 미디어캐슬, 배급 쇼박스)은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는 재]]></content>
     </entry>
 </feed>
