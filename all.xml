@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-05T01:52:29.371Z</updated>
+    <updated>2023-03-05T03:02:25.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한국에서 가장 뜨거운 두 배우, 한 테이블에 앉혔더니 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230305114502817</id>
+        <link href="https://v.daum.net/v/20230305114502817"/>
+        <updated>2023-03-05T03:02:24.920Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] ▲ &nbsp;영화 &lt;대외비&gt; 포스터ⓒ 플러스엠 엔터테인먼트&nbsp; 호감도면 호감도, 연기력이면 연기력, 한국에서 최고 주가를 달리는 두 배우를 한 테이블에 앉혔다. 막후 실세와 정치 신인의 불꽃 튀는 대결을 배우 이성민과 조진웅이 연기했다. 알 파치노와 키아누 리브스가 열연한 &lt;데블스 에드버킷&gt;, 어쩌면 전성기를 질주하던 할리우드 누아르 최고의 명우 알]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3450 힘 ‘슬램덩크’, 국내 日 영화 역대 1위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230305104326700</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230305070101716"/>
         <updated>2023-03-04T22:17:43.107Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자] "아, 리타 털이 묻었네요. 이거 제 옷이거든요." 배우 유연석은 인터뷰 중 옷에 묻은 반려견 리타의 털을 털어내며 웃었다. 옷에 묻어있는 반려견의 털. 개털 묻히고 다니는 배우라니, '이건 찐이다' 싶었다. 아기를 키우는 엄마의 옷에 항상 아기의 침 자국이 묻어 있는 것과 비슷한 느낌이었다.&nbsp; 유연석은 영화 '멍뭉이'(감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 히어로급 팬사랑…글로벌 영웅시대에 전달 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230305060901203</id>
-        <link href="https://v.daum.net/v/20230305060901203"/>
-        <updated>2023-03-04T21:16:14.483Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 가수 임영웅의 글로벌 파워가 돋보인다. 콘서트 실황을 담은 영화 '아임 히어로 더 파이널'이 해외 개봉을 확정 지었다. '아임 히어로 더 파이널'은 오는 4월 말레이시아, 홍콩, 미국, 태국 4개국 개봉을 확정했다. 국내 인기를 넘어 글로벌 시장까지 영역을 확장했다. 앞서 방탄소년단 영화 '방탄소년단: 옛 투 컴&nbsp;인&nbsp;시네마]]></content>
     </entry>
 </feed>
