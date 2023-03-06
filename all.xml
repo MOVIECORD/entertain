@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-06T11:18:16.704Z</updated>
+    <updated>2023-03-06T12:38:03.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뒤틀린 우정, 그 이상의 블랙 코미디…영화 '이니셰린의 밴시' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230306203941414</id>
+        <link href="https://v.daum.net/v/20230306203941414"/>
+        <updated>2023-03-06T12:38:02.923Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "그냥 이제 자네가 싫어졌어." 파우릭(콜린 패럴 분)은 콜름(브렌던 글리슨)으로부터 갑작스러운 절교 통보를 받는다. 두 사람은 매일 오후 2시면 펍에서 맥주잔을 기울이며 시시콜콜한 이야기를 나누던 절친한 사이. 파우릭은 콜름에게 이유를 묻지만 '그냥 싫다'는 좀처럼 납득할 수 없는 대답만이 돌아온다. 파우릭은 혹시 말실수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약 4종’ 의혹의 유아인, 조만간 경찰 소환조사 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230306201427072</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230306165706175"/>
         <updated>2023-03-06T08:26:02.717Z</updated>
         <content type="html"><![CDATA[나의 ‘소울메이트’를 만난다. 특별한 영화로, 더 특별한 장소에서. 오는 15일, 극장가에 몽글몽글한 봄바람을 몰고 올 웰메이드 영화가 개봉한다. 김다미, 전소니 그리고 변우석 주연의 감성 청춘물 ‘소울메이트’다. 영화 ‘혜화, 동’으로 평단의 호평을 받으며 화려하게 데뷔한 민용근 감독이 ‘어떤 시선-얼음강’ 이후 10년 만에 선보이는 신작이자 첫 상업 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱, 亞 필름어워즈 넥스트 제너레이션상 선정..대세 굳건 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230306162218783</id>
-        <link href="https://v.daum.net/v/20230306162218783"/>
-        <updated>2023-03-06T08:26:02.722Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 아시아필름어워즈넷플릭스 오리지널 드라마 '안나라수마나라'의 배우 지창욱이 9일 오전 화상으로 진행된 인터뷰를 위해 포즈를 취하고 있다.  '안나라수마나라'는 꿈을 잃어버린 소녀 윤아이와 꿈을 강요받는 소년 나일등 앞에 어느 날 갑자기 미스터리한 마술사 리을이 나타나 겪게 되는 이야기를 담은 판타지 뮤직 드라마다. /사진제공=넷플릭스]]></content>
     </entry>
 </feed>
