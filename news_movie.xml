@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-12T10:18:47.965Z</updated>
+    <updated>2023-03-12T11:14:15.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JMS·유영철·N번방...영화보다 더 극적인]]></title>
+        <id>https://v.daum.net/v/20230312195002429</id>
+        <link href="https://v.daum.net/v/20230312195002429"/>
+        <updated>2023-03-12T11:14:15.234Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) [이거 봤어?] 넘치는 콘텐츠 시대, OTT 속 수많은 작품들은 어딘가의 관상용 전시품처럼 느껴지기도 합니다. 포스터만 훑다가 뒤로가기 누르지 않도록, 신작부터 추억의 프로그램까지 모두 살펴보는 시간을 가져봅니다. 오늘도 OTT의 작품 목록만 스크롤 하는 당신, 이건 어때요?&nbsp; ■ 넷플릭스 '나는 신이다: 신이 배신한 사람들']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬램덩크’ 마침내 400만 돌파..강백호 후속작 나올까]]></title>
         <id>https://v.daum.net/v/20230312165703809</id>
