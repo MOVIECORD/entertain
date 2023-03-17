@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-17T03:19:43.698Z</updated>
+    <updated>2023-03-17T04:23:11.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘만달로리안3’ 정이삭 감독 “‘미나리’때 가족 같은 분위기 생각났죠”]]></title>
+        <id>https://v.daum.net/v/20230317131635944</id>
+        <link href="https://v.daum.net/v/20230317131635944"/>
+        <updated>2023-03-17T04:23:11.106Z</updated>
+        <content type="html"><![CDATA[2021년 영화 ‘미나리’로 국내에 이름을 알린 정이삭 감독이 정반대의 장르인 스타워즈 ‘만달로리안’ 시리즈로 돌아왔다. 디즈니+ 오리지널 시리즈 ‘만달로리안’ 시즌3를 연출한 정이삭 감독은 17일 화상으로 진행된 기자간담회에서 작품에 대한 진솔한 이야기를 이어갔다. ‘만달로리안’ 시즌3는 최고의 현상금 사냥꾼 딘 자린과 포스를 다루는 신비로운 능력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 임지연 "송혜교와 금방 친해져..기 싸움 신 때도 수다"]]></title>
         <id>https://v.daum.net/v/20230317121620985</id>
         <link href="https://v.daum.net/v/20230317121620985"/>
         <updated>2023-03-17T03:19:43.071Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 임지연 / 사진=넷플릭스배우 임지연이 송혜교와 호흡에 대해 밝혔다. 17일 서울시 강남구 논현로의 한 카페에서 넷플릭스 오리지널 시리즈 '더 글로리'의 배우 임지연과 만나 다양한 이야기를 나눴다. '더 글로리'는 유년 시절 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 치밀하게 준비한 처절한 복수와 그 소용돌이에 빠져드는]]></content>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 임지연 / 사진=넷플릭스[김나연 스타뉴스 기자] 배우 임지연이 송혜교와 호흡에 대해 밝혔다. 17일 서울시 강남구 논현로의 한 카페에서 넷플릭스 오리지널 시리즈 '더 글로리'의 배우 임지연과 만나 다양한 이야기를 나눴다. '더 글로리'는 유년 시절 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 치밀하게 준비한 처절한 복수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마블과 달랐다, 세상을 구한 위탁가정 소년들]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317105525604"/>
         <updated>2023-03-17T02:39:25.167Z</updated>
         <content type="html"><![CDATA['만달로리안3' 정이삭 감독이 '미나리'로 인연을 맺은 배우 윤여정과 다시 한 번 작업해보고 싶다고 이야기했다. 17일 오전 디즈니+ 오리지널 시리즈 '만달로리안' 시즌3 연출을 맡은 정이삭 감독 화상 기자간담회가 진행됐다. '스타워즈' 세계관을 배경으로 한 '만달로리안' 시리즈는 디즈니+ 최초의 오리지널 시리즈이기도 하다. 이번 시즌3는 최고의 현상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정이삭 "윤여정 선생님 '스타워즈' 은하계로 초대하고파"]]></title>
-        <id>https://v.daum.net/v/20230317105232491</id>
-        <link href="https://v.daum.net/v/20230317105232491"/>
-        <updated>2023-03-17T02:39:25.169Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=월트디즈니컴퍼니 코리아 [윤상근 스타뉴스 기자] 정이삭 감독이 '미나리'로 인연을 맺은 윤여정과의 재회를 고대했다. 정이삭 감독은 17일 화상 기자간담회를 개최하고 최근 합류한 디즈니+ 오리지널 시리즈 '만달로리안' 시즌3와 관련한 이야기를 전했다. 이날 정이삭 감독은 "이번 에피소드의 시대가 오리지널 스타워즈 시즌6]]></content>
     </entry>
 </feed>
