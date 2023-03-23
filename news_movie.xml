@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-23T02:34:23.812Z</updated>
+    <updated>2023-03-23T03:18:19.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['카지노2' 역대급 충격 엔딩..최민식 압도적 연기력]]></title>
+        <id>https://v.daum.net/v/20230323115613271</id>
+        <link href="https://v.daum.net/v/20230323115613271"/>
+        <updated>2023-03-23T03:18:18.440Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] '카지노2' /사진제공=월트디즈니컴퍼니 코리아[안윤지 스타뉴스 기자] 디즈니+의 오리지널 시리즈 '카지노' 역대급 충격 엔딩으로 마지막까지 재미를 꽉 잡았다. 지난 22일 최종회를 공개한 '카지노'(연출·각본 강윤성)는 돈도 빽도 없이 필리핀에서 카지노의 전설이 된 남자 '차무식'이 살인사건에 휘말리면서 인생의 벼랑 끝 목숨 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기레기'의 시대, 권력 앞에 주눅든 오늘의 언론에게]]></title>
         <id>https://v.daum.net/v/20230323110902136</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230323082829493"/>
         <updated>2023-03-23T01:22:36.757Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;2023년 개봉작 중 최단기간 200만 관객을 동원한 데 이어 연일 박스오피스 1위를 지키며 압도적인 호평을 받고 있는 영화 '스즈메의 문단속'(수입/제공: ㈜미디어캐슬 I 공동제공: ㈜로커스 I 배급: ㈜쇼박스 I 원작/각본/감독: 신카이 마코토)이 훌쩍 떠나고 싶게 만드는 황홀한 비주얼로 연일 화제다. '스즈메의 문단속'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흑인 인어공주∙팅커벨'=보여주기식 PC주의? 불안은 관객 몫]]></title>
-        <id>https://v.daum.net/v/20230323081917299</id>
-        <link href="https://v.daum.net/v/20230323081917299"/>
-        <updated>2023-03-23T01:22:36.758Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '흑인 인어공주' 배우 할리 베일리 캐스팅이 연일 논란 속 화제다. 영화가 5월 공개될 때까지 이 같은 논쟁은 계속될 것으로 보인다. 할리 베일리는 최근 '에디션'과의 인터뷰에서 곧 개봉될 디즈니의 실사 리메이크 영화 '인어공주'에서 아리엘 역을 맡은 이후 받은 인종차별적 반응에 대해 언급했다. 베일리는&nbsp;이 영화에&nbsp;캐스팅 된 후]]></content>
     </entry>
 </feed>
