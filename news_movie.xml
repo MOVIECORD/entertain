@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-24T04:21:45.867Z</updated>
+    <updated>2023-03-24T05:17:04.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슬램덩크’ 다시 치솟는 예매율..‘웅남이’ 꺾고 2위]]></title>
+        <id>https://v.daum.net/v/20230324141208869</id>
+        <link href="https://v.daum.net/v/20230324141208869"/>
+        <updated>2023-03-24T05:17:03.982Z</updated>
+        <content type="html"><![CDATA[좀처럼 꺾이질 않는 흥행세다. 올해 첫 410만 관객을 돌파, 초장기 흥행 중인 ‘더 퍼스트 슬램덩크’가 주말을 앞두고 예매율이 치솟고 있다. 한국 영화 ‘웅남이’를 비롯한 국내외 신상들을 제치고 다시금 2위에 랭킹됐다. 24일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 현재 오후 2시 5분 기준, ‘더 퍼스트 슬램덩크’의 실시간 예매율은 21%로 2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["세상에 없던 작품"...이하늬·이선균, 파격 변신 자신한 '킬링 로맨스']]></title>
+        <id>https://v.daum.net/v/20230324140203577</id>
+        <link href="https://v.daum.net/v/20230324140203577"/>
+        <updated>2023-03-24T05:17:03.982Z</updated>
+        <content type="html"><![CDATA["꼭 '나의 아저씨' 먼저 보고 영화 보길"...4월 14일 개봉 [더팩트｜박지윤 기자] 세상 어디에서도 볼 수 없었던 파격적이고도 독특한 작품, '킬링 로맨스'가 베일을 벗는다. 영화 '킬링 로맨스'(감독 이원석) 제작보고회가 24일 오전 서울 광진구 롯데시네마 건대입구에서 열렸다. 현장에는 이원석 감독을 비롯해 배우 이하늬 이선균 배유람이 참석해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬링 로맨스' 이하늬 "세상에 없던 미장센·연기 기대하세요"]]></title>
+        <id>https://v.daum.net/v/20230324135702393</id>
+        <link href="https://v.daum.net/v/20230324135702393"/>
+        <updated>2023-03-24T05:17:03.993Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "정말 세상에 없던 미장센과 연기가 있는 영화가 나오겠다고 생각했습니다." 배우 이하늬가 자신이 주연한 영화 '킬링 로맨스'에 대해 자신감을 내비쳤다. 그는 24일 롯데시네마 건대입구에서 열린 제작보고회에서 "이런 영화가 한국 영화로 세상에 존재했으면 좋겠다는 생각에 출연을 결정했다"며 "반전의 반전의 반전을 거듭한다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['카지노' 최민식 "배우만 170명, 다 한가닥하는 사람들…손석구는 고시 공부"]]></title>
         <id>https://v.daum.net/v/20230324132044492</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230324121501260"/>
         <updated>2023-03-24T03:18:44.067Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = "이 영화를 보기 전에 '나의 아저씨'를 꼭 보셔야 합니다." (이원석 감독) '킬링로맨스' 감독은 물론 배우들까지, 전무후무한 영화의 탄생을 예고했다. 24일 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '킬링로맨스'(감독 이원석) 제작보고회가 진행됐다. 이날 자리에는 이원석 감독을 비롯해 이하늬, 이선균, 배유람이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“세상에 없던 영화”...이하늬 이선균의 코미디 ‘킬링 로맨스’]]></title>
-        <id>https://v.daum.net/v/20230324120603100</id>
-        <link href="https://v.daum.net/v/20230324120603100"/>
-        <updated>2023-03-24T03:18:44.067Z</updated>
-        <content type="html"><![CDATA[이선균 이하늬가 코미디 영화 ‘킬링 로맨스’로 올봄 스크린을 저격한다. 24일 오전 서울 롯데시네마 건대입구에서 영화 ‘킬링 로맨스’ 제작보고회가 열렸다. 이원석 감독과 배우 이하늬 이선균 배유람이 참석했다. ‘킬링 로맨스’는 섬나라 재벌 조나단과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래가 팬클럽 3기 출신 사수생 범우를 만나 기상천외한 컴백 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬링 로맨스' 보기 전 '나의 아저씨' 꼭 봐야 하는 이유]]></title>
-        <id>https://v.daum.net/v/20230324120530077</id>
-        <link href="https://v.daum.net/v/20230324120530077"/>
-        <updated>2023-03-24T03:18:44.067Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]"'킬링 로맨스' 보기 전, '나의 아저씨' 꼭 보시라." '킬링 로맨스'를 연출한 이원석 감독은 '나의 아저씨'를 볼 거면 '킬링 로맨스' 관람 전에 꼭 보라고 당부한다. "극장에서 봐 달라. 같이 보는 게 중요하다"라면서 그는 "이 영화를 보기 전에 '나의 아저씨'를 보시라. 이 영화 본 다음에 '나의 아저씨'를 못 본다. 제가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬X이선균 '킬링 로맨스', 멀티 장르의 신세계 펼친다]]></title>
-        <id>https://v.daum.net/v/20230324120421054</id>
-        <link href="https://v.daum.net/v/20230324120421054"/>
-        <updated>2023-03-24T03:18:44.068Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] N차 관람을 부를, 세상 독특한 영화가 온다. 이하늬, 이선균의 '킬링 로맨스'가 신박한 콘셉트로 4월 극장가를 뒤집을 전망이다. 24일 오전 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '킬링 로맨스'(감독 이원석)의 제작보고회가 열렸다. 이 자리에는 배우 이하늬, 이선균, 배유람, 이원석 감독이 참석했다. '킬링]]></content>
     </entry>
 </feed>
