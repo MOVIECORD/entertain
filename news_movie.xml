@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-26T01:35:34.975Z</updated>
+    <updated>2023-03-26T02:39:11.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산에서 세균실험? 이 다큐의 충격고발]]></title>
+        <id>https://v.daum.net/v/20230326103600252</id>
+        <link href="https://v.daum.net/v/20230326103600252"/>
+        <updated>2023-03-26T02:39:10.863Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] ▲ 8부두&nbsp;스틸컷ⓒ 반짝다큐페스티발&nbsp; 해양수산부 산하 한국해양수산연수원에서 항해사 교육을 받은 일이 있다. 3급 항해사 자격 취득을 위해 2년 가까운 시간을 들여야 하는 국책 프로그램이었는데, 그중 몇 개월을 부산 남구 감만동의 감만시민부두에서 지냈다. 이곳은 연수원 실습선이 정박된 모항으로, 실습생들 선상생활을 익히기 위해 항해를 하지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타노스 잇는 빌런이라더니..조나단 메이저스, 女 폭행 혐의로 체포]]></title>
         <id>https://v.daum.net/v/20230326102859121</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325192105095"/>
         <updated>2023-03-25T11:14:09.740Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 조은별기자]“극장가에 볼게 없다”고 투덜대던 관객에게 모처럼 단비같은 유쾌한 영화 한편이 개봉을 앞뒀다. 현존하는 RPG게임의 시초, ‘던전 앤 드래곤’ 시리즈가 원작인 할리우드 블록버스터 ‘던전 앤 드래곤: 도적들의 명예(이하 던전 앤 드래곤)’는 기분좋은 웃음으로 봄날의 춘곤증을 확실히 날려준다. ‘던전 앤 드래곤’은 원작 게임의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["부딪혀야 깨지죠"..'웅남이' 박성광, 편견 딛고 첫 걸음]]></title>
-        <id>https://v.daum.net/v/20230325150000515</id>
-        <link href="https://v.daum.net/v/20230325150000515"/>
-        <updated>2023-03-25T06:21:41.011Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 영화 '웅남이'의 박성광 감독이 16일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다. 반달곰이라는 특별한 '비밀'을 가진 사나이가 특유의 짐승 같은 능력으로 국제 범죄 조직에 대항하여 공조 수사를 하며 벌어지는 코믹 액션 '웅남이'는 오는 22일 개봉한다. /사진제공=웅남이문화산업전문회사, CJ CGV 2023.03.16 /사진=]]></content>
     </entry>
 </feed>
