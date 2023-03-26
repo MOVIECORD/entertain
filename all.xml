@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-26T05:15:55.878Z</updated>
+    <updated>2023-03-26T06:21:17.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['파벨만스'에 나타난 거장 데이빗 린치 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230326145729192</id>
+        <link href="https://v.daum.net/v/20230326145729192"/>
+        <updated>2023-03-26T06:21:16.697Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 스티븐 스필버그의 영화 '파벨만스'가 흥미로운 트리비아를 전격 공개했다. #거장 역 맡은 거장!..미국의 대표 감독 존 포드로 깜짝 출연한 데이빗 린치 스티븐 스필버그가 세계적인 거장이 되기까지 가장 큰 영향을 준 존 포드 감독은 '리버티 벨런스를 쏜 사나이' '수색자' '분노의 포도' 등을 연출한 서부극의 거장이자 아카데미 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최민식과? 출세했다"…김주령, '오겜'으로 소개하고 '카지노'로 본격 시작 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230326141348505</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230326082602425"/>
         <updated>2023-03-26T01:35:34.316Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 일본 애니메이션 '스즈메의 문단속'이 누적 관객 265만 명을 돌파했다. 3월 26일 영화진흥위원회 통합전산망 집계에 따르면 25일 영화 '스즈메의 문단속'(감독 신카이 마코토)이 34만3,3226만명을 동원하며 전체 박스오피스 1위를 차지했다. 이에 누적 관객 265만5,582명을 기록, 곧 300만 관객 돌파를 앞두고 있다. 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속', 34만↑ 동원하며 18일 연속 1위…여전한 인기 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230326080945310</id>
-        <link href="https://v.daum.net/v/20230326080945310"/>
-        <updated>2023-03-25T23:16:44.931Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 일본 애니메이션 '스즈메의 문단속'이 18일 연속 1위 자리를 지켰다. 26일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 일본 애니메이션 '스즈메의 문단속'(감독 신카이 마코토)은 전날 34만3322명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 265만5582명이다. 지난 8일 개봉한 '스즈메의 문]]></content>
     </entry>
 </feed>
