@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-28T02:40:05.426Z</updated>
+    <updated>2023-03-28T03:18:50.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[스티븐 스필버그, 드류 베리모어·기네스 팰트로와 부녀지간 된 사연 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230328115054661</id>
+        <link href="https://v.daum.net/v/20230328115054661"/>
+        <updated>2023-03-28T03:18:50.155Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 파벨만스 / 사진=영화 포스터[김나연 스타뉴스 기자] '파벨만스'가 알고 보면 더 재미있는 스필버그 감독의 TMI를 전해 눈길을 끈다. '파벨만스'는 난생 처음 극장에서 영화와 사랑에 빠진 소년이 카메라를 통해 일상을 촬영하게 되면서 가족의 비밀을 알게 된 후 어른으로, 감독으로 조금씩 성장하게 되는 스티븐 스필버그의 자전적 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유아인 SNS 사과문 “법의 심판 달게 받겠다” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230328113721132</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230328100035520"/>
         <updated>2023-03-28T01:26:52.497Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='가디언즈 오브 갤럭시3'[김미화 스타뉴스 기자] 마블 영화 '가디언즈 오브 갤럭시: Volume 3'가 오는 5월 3일 개봉을 확정했다. '가디언즈 오브 갤럭시: Volume 3'는 '가모라'를 잃고 슬픔에 빠져 있던 '피터 퀼'이 위기에 처한 은하계와 동료를 지키기 위해 다시 한번 가디언즈 팀과 힘을 모으고, 성공하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피해 없을 거란 자기합리화" 유아인의 착각…차기작들은 무슨 죄 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230328095604278</id>
-        <link href="https://v.daum.net/v/20230328095604278"/>
-        <updated>2023-03-28T01:26:52.498Z</updated>
-        <content type="html"><![CDATA[(사진=연합뉴스)[이데일리 스타in 김보영 기자] “저의 일탈 행위들이 누구에게도 피해를 끼치지 않는다는 자기 합리화 속에서 잘못된 늪에 빠져 있었던 것 같습니다.” 코카인을 포함해 마약 4종류를 투약한 혐의를 받는 배우 유아인이 대중 앞에 고개를 숙였다. 그가 입을 연 것은 프로포폴 상습 투약 혐의로 처음 수사선에 올라 마약 스캔들에 휩싸인지 약 50일]]></content>
     </entry>
 </feed>
