@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-04T01:25:05.017Z</updated>
+    <updated>2023-04-04T02:33:56.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양조위 '무명', 4월 26일 국내 개봉…기대UP]]></title>
+        <id>https://v.daum.net/v/20230404103709213</id>
+        <link href="https://v.daum.net/v/20230404103709213"/>
+        <updated>2023-04-04T02:33:55.653Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 이달 국내 개봉하는 스파이 액션 영화 '무명' 측이 메인 포스터를 공개했다. '무명'(감독 청얼, 수입배급 콘텐츠판다)은 1941년 일본의 진주만 공격 후 각자의 목표를 위해 목숨을 걸고 조직에 들어간 두 남자가 끊임없는 의심과 경계 속에서 펼치는 스파이 액션 스릴러. 4일 공개된 메인 예고편은 누군가를 비밀리에 찾아간 양조위의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진선규 긍정파워 ‘카운트’ 티빙·웨이브·애플TV 등 오늘부터 서비스]]></title>
         <id>https://v.daum.net/v/20230404100923046</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404083420519"/>
         <updated>2023-04-04T01:25:04.304Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;다시 한번 스포츠영화 시즌이 돌아온 것인가. 올 2월 ‘카운트’(감독 권혁재)를 시작으로 4월 5일 ‘리바운드’(감독 장항준), 같은 달 26일 ‘드림’(감독 이병헌), 그리고 올해 중으로 ‘1승’(감독 신연식)이 극장 개봉을 앞두고 있어서다. 포기하지 않는 열정의 도전 정신을 스크린 안으로 끌어왔다는 점에서 기념비적인 대결이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규 '카운트', 오늘부터 VOD서비스 시작]]></title>
-        <id>https://v.daum.net/v/20230404082957402</id>
-        <link href="https://v.daum.net/v/20230404082957402"/>
-        <updated>2023-04-04T01:25:04.309Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '카운트'가 오늘(4일)부터 IPTV 및 디지털케이블 TV VOD서비스를 시작한다. '카운트'(감독 권혁재, 제공배급 CJ ENM, 제작 필름케이, 공동제작 26컴퍼니・영화사 필름통)는 금메달리스트 출신 한번 물면 절대 놓지 않는 마이웨이 선생 시헌(진선규 분)이 오합지졸 핵아싸 제자들을 만나 세상을 향해 유쾌한 한 방을]]></content>
     </entry>
 </feed>
