@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T06:22:07.721Z</updated>
+    <updated>2023-04-10T07:15:28.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['킬링 로맨스' 이선균 "시나리오 봤을 때 요상…이원석 감독과 시너지 기대" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230410161439391</id>
+        <link href="https://v.daum.net/v/20230410161439391"/>
+        <updated>2023-04-10T07:15:28.171Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 이선균이 '킬링 로맨스'에 참여한 소감을 전했다. 10일 서울 광진구 롯데시네마 건대입구에서 영화 '킬링 로맨스'(감독 이원석)언론시사회가 열렸다. 이 자리에는 이원석 감독과 배우 이하늬, 이선균이 참석했다. 이날 이선균은 "대본을 처음 볼때 요상했다"고 웃으며 "일반적인 구성과 특이한 것들 모두 즐겁게 봤다"고 말했다. 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT에 다양성 밀린 할리우드…아직 갈 길 멀다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230410140622116</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230410101407819"/>
         <updated>2023-04-10T01:20:16.466Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;코믹 액션 영화 '보스'(가제)가 지난 6일 전격 크랭크인했다. '보스'(감독 라희찬, 제작 하이브미디어코프, 제공배급 마인드마크)는 용두시 최대조직 식구파의 차기 보스 선출을 앞두고 각자의 꿈을 위해 서로에게 보스 자리를 치열하게 양보하는 조직원들의 필사적인 대결을 그린 코믹 액션. '바르게 살자'(2007)&nbsp;등을 연출한 라희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 주말 1위 수성, 누적 434만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230410100719534</id>
-        <link href="https://v.daum.net/v/20230410100719534"/>
-        <updated>2023-04-10T01:20:16.466Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 '스즈메의 문단속'이 주말 박스오피스 1위를 수성했다. 10일 영화진흥위원회 통합전산망에 따르면 영화 '스즈메의 문단속'(감독 신카이 마코토)이 지난 주말 40만4946명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 434만4068명이다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀]]></content>
     </entry>
 </feed>
