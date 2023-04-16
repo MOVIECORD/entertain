@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-16T02:36:35.295Z</updated>
+    <updated>2023-04-16T03:17:40.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파우스트'로 바닥 본 원진아, 다시 연기할 결심]]></title>
+        <id>https://v.daum.net/v/20230416120006491</id>
+        <link href="https://v.daum.net/v/20230416120006491"/>
+        <updated>2023-04-16T03:17:39.655Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 원진아 / 사진=LG아트센터, 샘커퍼니, ARTEC[김나연 스타뉴스 기자] 첫 도전의 기회, 연극 '파우스트'는 배우 원진아에게 다시 연기할 자신감을 얻는 선물이 됐다. 최근 서울시 강서구의 LG아트센터 서울에서 연극 '파우스트'(연출 양정웅)의 배우 원진아와 만나 다양한 이야기를 나눴다. '파우스트'는 독일의 대문호 '요한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세월호 다르게 바라본 감독 "엄마들 다툼 담은 이유는..."]]></title>
         <id>https://v.daum.net/v/20230416113312114</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230416085810760"/>
         <updated>2023-04-16T01:26:14.643Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]키아누 리브스 주연의 ‘존윅4’가 극장가를 점령했다. 16일 영진위 통합전산망에 따르면, ‘존윅4’는 15일 하루동안 22일 1,014명의 관객을 불러모아 박스오피스 1위에 올랐다. 지난 12일 개봉한 이 영화의 누적관객수는 55만 4,572명이다. ‘스즈메의 문단속’은 11만 6,208명을 동원해 2위를 기록했다. 누적관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이원석 감독 "고상함 무너뜨리며 희열 느껴요"]]></title>
-        <id>https://v.daum.net/v/20230416080030313</id>
-        <link href="https://v.daum.net/v/20230416080030313"/>
-        <updated>2023-04-15T23:16:24.998Z</updated>
-        <content type="html"><![CDATA[영화 '남자사용설명서'(2013)는 기막히게 웃긴 코미디로 10년째 회자되고 있다. 처음 봤을 때의 충격을 잊을 수 없다. 당시 '감독이 미쳤다'는 소리가 절로 나올 만큼 시대를 앞서간 영화로 기억된다. 영화는 개성 강한 이원석(49) 감독과 똑 닮았다. 충무로에서 가장 엣지 있는 연출자, 키치한 감독으로 사랑받는 그가 어른들의 동화를 표방한 '킬링 로맨스]]></content>
     </entry>
 </feed>
