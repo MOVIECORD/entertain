@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T21:15:15.537Z</updated>
+    <updated>2023-04-19T22:16:18.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['존 윅 4', 8일 연속 1위 독주..'옥수역귀신' 3위 출발]]></title>
+        <id>https://v.daum.net/v/20230420071454458</id>
+        <link href="https://v.daum.net/v/20230420071454458"/>
+        <updated>2023-04-19T22:16:18.280Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 존 윅 4 / 사진=영화 포스터'존 윅 4'가 8일 연속 박스오피스 1위를 유지했다. 20일 영화진흥위원회 통합전산망에 따르면 전날 영화 '존 윅 4'는 4만 3411명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 87만 3796명. '존 윅 4'는 자유를 위해 모든 것을 건 반격을 준비하는 존 윅이 최고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘킬링 로맨스’ 극강의 호불호가 입소문으로…마니아 팬덤 결집]]></title>
+        <id>https://v.daum.net/v/20230420063011992</id>
+        <link href="https://v.daum.net/v/20230420063011992"/>
+        <updated>2023-04-19T22:16:18.282Z</updated>
+        <content type="html"><![CDATA[이선균·이하늬 주연의 ‘킬링 로맨스’가 독특하고 신선한 유머를 내세워 마니아 관객을 끌어당기고 있다. 사진은 영화의 한 장면. 사진제공｜롯데엔터테인먼트 B급 코미디의 정수를 보여준 ‘킬링 로맨스’에 대한 관객의 반응이 엇갈리고 있다. 만화 같은 캐릭터와 이야기, 지나치게 독특한 유머 코드에 “공감하기 힘들다”는 의견과 “이제껏 보지 못했던 진짜 코미디”라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스 프랫 ‘미국 발음’에도 마리오에 열광하는 이유..마블 작곡가의 추억버튼]]></title>
         <id>https://v.daum.net/v/20230420061503812</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419185901892"/>
         <updated>2023-04-19T10:19:51.007Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]역대 애니메이션 최고 오프닝 신기록, 전 세계 62개국 박스오피스 1위는 물론 2023년 글로벌 최고 흥행작에 등극하며 연일 화제를 모으고 있는 ‘슈퍼 마리오 브라더스’가 놓쳐선 안 될 관전 포인트를 공개한다. &nbsp;피치의 하드코어 훈련 시작!&nbsp;버섯을 먹으면 ‘파워 업’을 할 수 있다고?! ‘슈퍼 마리오 브라더스’의 다양한 장면들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혈액암 투병 안성기, 백발에 환한 미소로 공식석상…"거의 건강 회복"]]></title>
-        <id>https://v.daum.net/v/20230419185440775</id>
-        <link href="https://v.daum.net/v/20230419185440775"/>
-        <updated>2023-04-19T10:19:51.019Z</updated>
-        <content type="html"><![CDATA[제4회 4·19 민주평화상 수상자인 배우 안성기가 19일 서울 중구 프레스센터에서 열린 시상식에서 출연한 작품을 보고 있다. (사진=뉴스1)[이데일리 스타in 김보영 기자] 혈액암 투병 중인 배우 안성기가 한결 건강해진 안색과 밝은 미소로 공식 석상에 섰다. 안성기는 19일 오후 서울 중구 태평로 한국프레스센터에서 열린 제4회 4.19 민주평화상 시상식에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수♥김민희, 6년 만에 칸 동행...당당한 연인 모드]]></title>
-        <id>https://v.daum.net/v/20230419185003666</id>
-        <link href="https://v.daum.net/v/20230419185003666"/>
-        <updated>2023-04-19T10:19:51.019Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 홍상수 감독의 신작 '우리의 하루'가 제76회 칸 국제영화제에 공식 초정됐다. 18일(현지시간) 오전, 칸 감독주간 집행위원회는 '우리의 하루'(감독 홍상수)를 칸 감독주간 폐막작으로 선정했다. 쥴리앙 레지(Julien Rejl) 칸 감독주간 집행위원장은 "어떻게 단순함과 미니멀리즘의 힘을 증가시켜나가고 있는지, 두 아파트의 방]]></content>
     </entry>
 </feed>
