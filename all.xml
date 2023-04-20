@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T04:21:03.447Z</updated>
+    <updated>2023-04-20T05:16:43.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[첩보요원으로 분한 양조위, 한국 상업영화와 이렇게 다르다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230420141208839</id>
+        <link href="https://v.daum.net/v/20230420141208839"/>
+        <updated>2023-04-20T05:16:42.653Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] &nbsp;▲ &nbsp;영화 &lt;무명&gt; 관련 이미지.ⓒ 콘텐츠판다&nbsp; 국내 커뮤니티에 때아닌 양조위 목격담이 올라왔다. 서울 모처에 그가 나타났고, 사람들은 이 영화 때문이 아니냐고 한껏 기대에 부푼 반응을 보였다. 그도 그럴 것이 마블 영화인 &lt;샹치: 텐링즈의 전설&gt;에서 카메오 같은 역할을 한 것을 제외하고 양조위가 주연으로 국내 관객과 만나게 된 게 &lt;색,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌 속앓이 회고…"올드보이·기생충 거절하고 후회했다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230420121129820</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230420091406217"/>
         <updated>2023-04-20T01:19:13.982Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘존 윅4’가 박스오피스 1위를 수성했다. 20일 영화진흥위원회 통합전산망에 따르면 영화 '존 윅 4'(감독 채드 스타헬스키)가 지난 19일 4만3412명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 87만3797명이다. ‘존 윅4’는 ‘최고 회의'를 쓰러트릴 방법을 찾아낸 존 윅(키아누 리브스)이 최후의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3', 케미·액션·감동 다 있네..마블의 희망 될까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230420090002710</id>
-        <link href="https://v.daum.net/v/20230420090002710"/>
-        <updated>2023-04-20T01:19:13.982Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='가오갤3' '가디언즈 오브 갤럭시3'(이하 '가오갤3'가 마블의 희망이 될까. '가오갤' 시리즈의 마지막을 장식하는 '가오갤3'가 내달 개봉을 앞두고 20여 분의 풋티지 영상을 공개했다. '가디언즈 오브 갤럭시: Volume 3'(이하 '가오갤3')는 '가모라'를 잃고 슬픔에 빠져 있던 '피터 퀼'이 위기에 처한 은하]]></content>
     </entry>
 </feed>
