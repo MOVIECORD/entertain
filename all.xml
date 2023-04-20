@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T07:16:11.906Z</updated>
+    <updated>2023-04-20T08:22:01.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아이유, 문빈 비보 애도 "'드림' 인터뷰 보도 시점 지연 요청" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230420164002136</id>
+        <link href="https://v.daum.net/v/20230420164002136"/>
+        <updated>2023-04-20T08:22:00.999Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]가수 아이유가 그룹 아스트로 멤버 문빈의 사망 비보에 인터뷰 보도 시점을 미뤄달라는 요청을 했다.&nbsp; 영화 '드림'(감독 이병헌) 관계자는 20일 "문빈의 비보에 안타까운 마음이다. 삼가 고인의 명복을 빈다. 고인에 대한 애도의 뜻에서 금일 진행되는 아이유의 인터뷰는 24일 오전 7시 이후 송고 부탁드린다"고 입장을 전했다. 아이유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 '드림' 측 "문빈 비보 안타까워" 애도…인터뷰 기사 엠바고 요청 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230420161424195</id>
@@ -68,7 +75,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '가디언즈 오브 갤럭시 3'가 '가오갤'의 마지막 장을 제대로 장식한다. 17일 오전 서울 메가박스 코엑스에서는 국내 취재진을 상대로 '가디언즈 오브 갤럭시: Volume 3'(감독 제임스 건) 풋티지(footage) 상영회가 진행됐다. '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3')는 가모라(조 샐다나 분)를 잃고]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['킬링 로맨스' 이하늬의 확신 "이 영화는 역사에 남을 것" ? (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <title type="html"><![CDATA['킬링 로맨스' 이하늬의 확신 "이 영화는 역사에 남을 것" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230420114928047</id>
         <link href="https://v.daum.net/v/20230420114928047"/>
         <updated>2023-04-20T03:19:20.267Z</updated>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230420104245026"/>
         <updated>2023-04-20T02:34:22.023Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 강길우, 이상희 / 사진=눈 컴퍼니 배우 강길우 이상희가 제24회 전주국제영화제 폐막식 사회자로 선정 됐다. 오는 27일에 개막하는 제24회 전주국제영화제 폐막식 사회자로 강길우 이상희가 호흡을 맞춘다. 두 사람은 지난 23회에 이어 2년 연속으로 폐막식 사회를 맡게 됐다. 강길우는 '한강에게'(2018)를 시작으로 2018]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강길우·이상희, 전주국제영화제 폐막식 MC…2년 연속 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230420095744081</id>
-        <link href="https://v.daum.net/v/20230420095744081"/>
-        <updated>2023-04-20T07:16:11.286Z</updated>
-        <content type="html"><![CDATA[[전주=뉴시스]이동민 기자 = 배우 강길우와 이상희가 제24회 전주국제영화제 폐막식 사회자로 선정됐다. 23회 영화제에 이어 2년 연속 폐막식 사회를 보게 됐다. 강길우는 영화 '정말 먼 곳', '더스트맨', '온 세상이 하얗다' 등을 통해 독립영화를 대표하는 배우로 주목받았다. 최근에는  '재벌집 막내아들', '더 글로리' 등 드라마로 연기 영역을]]></content>
     </entry>
 </feed>
