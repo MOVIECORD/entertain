@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-23T01:35:59.474Z</updated>
+    <updated>2023-04-23T02:40:30.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[증액·확대가 쇄신?…갈팡질팡 제천국제음악영화제 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230423104611270</id>
+        <link href="https://v.daum.net/v/20230423104611270"/>
+        <updated>2023-04-23T02:40:29.480Z</updated>
+        <content type="html"><![CDATA[[제천=뉴시스] 이도근 기자 = 충북 제천국제음악영화제를 둘러싼 논란이 이어지고 있다. 지난해 부실회계 여파로 존폐 위기로까지 몰린 데 이어 최근에는 예산 증액과 프로그램 운영을 놓고 시의회와 집행부가 혼란에 휩싸였다. 고강도 쇄신으로 시민에게 다가가는 영화제를 만들겠다고 한 김창규 제천시장은 영화제 성공개최 방안을 묻는 질문에 답을 요구받고 있다. 23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["배우 아닌 연기가 좋아요"..'19년 차' 김보라의 성장 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230423102701978</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230422162103536"/>
         <updated>2023-04-22T08:20:39.180Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '존 윅4'가 드디어 100만 고지를 밟았다. 22일 영진위 통합전산망 집계에 따르면 '존 윅4'는 개봉 11일 만인 이날 오전 7시 기준 102만6031명을 모으며 시리즈 최고 성적으로 100만 관객을 돌파했다. 이는 전작 '존 윅3: 파라벨룸'의 100만 돌파 기록을 무려 44일이나 앞당긴 기록이다. 또 애니메이션을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림' 아이유→이병헌 감독, 5월 1일 무대인사 간다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230422154907138</id>
-        <link href="https://v.daum.net/v/20230422154907138"/>
-        <updated>2023-04-22T07:15:15.630Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '드림' 팀이 근로자의 날을 맞아 무대인사를 확정했다. '드림'(감독 이병헌, 제공배급 플러스엠 엔터테인먼트, 제작 옥토버시네마)은 개념 없는 전직 축구선수 홍대(박서준 분)와 열정 없는 PD 소민(아이유 분)이 집 없는 오합지졸 국대 선수들과 함께 불가능한 꿈에 도전하는 이야기를 그린 영화.&nbsp; 불가능한 꿈을 향한 유쾌한]]></content>
     </entry>
 </feed>
