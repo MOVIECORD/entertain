@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-23T05:16:01.461Z</updated>
+    <updated>2023-04-23T06:21:59.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['변신!' 박서준, 셰프에서 축구 코치로 또 왕자로 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230423144308010</id>
+        <link href="https://v.daum.net/v/20230423144308010"/>
+        <updated>2023-04-23T06:21:58.923Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 박서준 / 사진='서진이네',  영화 '드림', '더 마블스' 배우 박서준이 종횡무진 활약 중이다. 시쳇말로 변신이 두렵지 않은 횡보다. tvN 예능프로그램 '서진이네'에서 뚝딱뚝딱 요리하는 메인셰프로 안방의 사랑을 받고 있는 박서준은 축구팀 코치로 스크린을 찾는다. 박서준은 현재 방송 중인 tvN '서진이네'에서 멕시코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤3’ 첫반응 호평 “3부작의 훌륭한 마무리, 아름답고 뭉클하다” 극찬 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230423141337325</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230423000033215"/>
         <updated>2023-04-22T15:16:37.886Z</updated>
         <content type="html"><![CDATA['킬링 로맨스' 조나단 役, 장발+콧수염으로 강렬한 비주얼 선사 "그동안 보여드린 적 없던 캐릭터를 새롭게 표현해서 만족" [더팩트｜박지윤 기자] 23년 차 배우 이선균의 도전은 새롭고 파격적이었다. 출연을 결심하면서부터 모든 걸 내려놓을 작정이었던 그는 전에 없던 비주얼을 완성했고, 치열한 고민 끝에 과장되고 만화적인 캐릭터를 입체적으로 그려냈다. B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘붓 들고 세계로’ 쇼케이스, 태국 H사 횡포로 ‘무산’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230422190323220</id>
-        <link href="https://v.daum.net/v/20230422190323220"/>
-        <updated>2023-04-22T10:17:26.194Z</updated>
-        <content type="html"><![CDATA[신개념 아트 예능 프로그램 ‘붓 들고 세계로’ 쇼케이스가 태국 공연기획사 H사의 횡포로 무산됐다. 22일 스포츠경향 취재 결과 ‘붓 들고 세계로’ 측은 이날 오후 7시 태국 방콕 아이콘시암에서 태국 초청을 받고 헨리·아이키·키노·홍현희 등 아트원정대의 그림 전시와 쇼케이스를 동시 개최하려고 했으나 H사의 횡포로 본공연 직전 쇼케이스가 취소됐다. 이날]]></content>
     </entry>
 </feed>
