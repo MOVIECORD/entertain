@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-10T12:32:51.425Z</updated>
+    <updated>2023-05-10T13:27:19.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스는 K-콘텐츠를 어떻게 길들이고 있나 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230510220102458</id>
+        <link href="https://v.daum.net/v/20230510220102458"/>
+        <updated>2023-05-10T13:27:18.280Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] "구워 먹든 삶아 먹든 넷플릭스 마음이죠. 넷플릭스 영향력은 커지는데, 우리 콘텐츠 제작업체들은 점점 납품업체가 돼가고 있어요" 대표적인 OTT업체 넷플릭스가 K-콘텐츠에 대한 대규모 투자를 발표하면서 기대와 우려가 교차하고 있다. K-콘텐츠 업체들이 안정적인 수입원을 확보하는 건 긍정적이지만, OTT 플랫폼에 종속되면서 사실상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베놈 3', 드디어 제작된다...6월 크랭크인 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230510213030871</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230510150922318"/>
         <updated>2023-05-10T06:21:40.319Z</updated>
         <content type="html"><![CDATA['이 중에 네가 좋아하는 영화제 하나는 있겠지'가 전국의 다양한 영화제들을 소개한다. '이 중에 네가 좋아하는 영화제 하나는 있겠지'는 베테랑 홍보 마케터 김은이 쓴 영화제에 대한 도서다. '영화제'라고 하면 부산국제영화제, 전주국제영화제를 떠올리곤 한다. 그러나 우리나라에서 매년 많게는 수백 개의 영화제가 열린다는 것을 아는 관객들은 많지 않다. 자연과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유지애 "신세경 찐팬, 직접 DM 보내기도…청순발랄함 다 좋아" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230510145016583</id>
-        <link href="https://v.daum.net/v/20230510145016583"/>
-        <updated>2023-05-10T06:21:40.319Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 러블리즈 출신 유지애가 배우 신세경의 열혈 팬이라고 밝혔다. 유지애는 8일 오후 서울 중구 회현동3가에 위치한 한 카페에서 열린 영화 '바람개비'(감독 이상훈) 인터뷰에서 다양한 이야기를 전했다. '바람개비'는 평범한 인생을 꿈꾸던 정훈(차선우 분)이 한 순간의 선택으로 돌이킬 수 없는 운명의 소용돌이에 빠지]]></content>
     </entry>
 </feed>
