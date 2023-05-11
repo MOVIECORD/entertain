@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-11T13:20:25.864Z</updated>
+    <updated>2023-05-11T14:16:02.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3' 9일만에 200만 돌파, “너구리 로켓 파워가 마블을 구했다”]]></title>
+        <id>https://v.daum.net/v/20230511231244805</id>
+        <link href="https://v.daum.net/v/20230511231244805"/>
+        <updated>2023-05-11T14:16:02.208Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]로켓(브래들리 쿠퍼 목소리)이 마블을 살렸다. 올해 최단기간 100만 돌파는 물론 8일 연속 박스오피스 1위의 ‘가디언즈 오브 갤럭시3’가 200만 관객을 돌파했다. 영진위 통합전산망에 따르면, ‘가오갤3’는 개봉 9일째인 11일 오후 6시 40분 200만 관객을 넘어섰다. 이로써 ‘가오갤3’는 개봉 9일만에 '스즈메의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피터팬&웬디' 역대 최악 스코어 기록...디즈니, 하락세 걷나?]]></title>
         <id>https://v.daum.net/v/20230511212530616</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511170918663"/>
         <updated>2023-05-11T08:20:35.925Z</updated>
         <content type="html"><![CDATA[최근 스포츠 영화들이 줄줄이 극장가를 찾은 가운데, 단거리 육상에 인생을 빗대 꿈과 희망을 선사할 ‘스프린터’가 출격한다. 11일 오후 서울 롯데시네마 건대입구에서 영화 ‘스프린터’ 시사회 및 간담회가 열렸다. 최승연 감독과 배우 박성일 공민정 임지호 전신환 최준혁이 참석했다. ‘스프린터’는 달리는 이유는 달라도 목표점은 하나인 3명의 스프린터가 다시 출발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기→제니, 홍상수·김민희까지..칸 영화제 韓★로 북적]]></title>
-        <id>https://v.daum.net/v/20230511170001257</id>
-        <link href="https://v.daum.net/v/20230511170001257"/>
-        <updated>2023-05-11T08:20:35.926Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 제니 송중기 올해 칸 국제 영화제가 한국 스타들로 북적인다. 송중기에 이어 제니까지 많은 대중들의 관심을 받는 별들이 올해 칸 영화제 참석 리스트에 이름을 올리며 눈길을 끈다. 2023년 칸 국제영화제는 오는 16일 부터 27일까지 프랑스 칸 일대에서 개최된다. 올해 영화제에 한국영화는 아쉽게도 경쟁 부문 초청작이 없다. 지]]></content>
     </entry>
 </feed>
