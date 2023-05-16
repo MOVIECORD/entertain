@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-16T03:18:34.170Z</updated>
+    <updated>2023-05-16T04:20:28.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['D.P'·'약한영웅' 홍경, '청설' 한국판 남주 되나 "긍정 검토 중" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230516131616989</id>
+        <link href="https://v.daum.net/v/20230516131616989"/>
+        <updated>2023-05-16T04:20:27.493Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 홍경이 대만 영화 '청설'의 한국판 남자 주인공을 검토 중이다. 16일 소속사 매니지먼트mmm 관계자는 OSEN에 "홍경 씨가 한국판 '청설' 제작진으로부터 섭외 제안을 받고 현재 출연을 긍정적으로 검토 중이다"라고 공식입장을 밝혔다. '청설'은 손으로 말하는 소녀 양양(진의함 분)과 그에게 첫눈에 반한 소년 티엔커(펑위옌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약 혐의 피의자' 유아인·최측근 작가, 오늘 나란히 경찰 출석 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230516120801657</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230516102541133"/>
         <updated>2023-05-16T02:35:17.364Z</updated>
         <content type="html"><![CDATA[프랑스 남부도시 칸이 다시 영화로 물든다. 역대급 경쟁 부문 라인업을 자랑한다. 화려한 거장들이 신작을 들고 칸에 모일 전망이다. 한국영화는 경쟁에 진출하지 못했지만 7편이 소개된다. 국내 신진 감독의 연이은 초청도 의미를 더한다. 76회 칸영화제는 16일(이하 현지시간) 오후 7시 프랑스 칸 뤼미에르 극장에서 개막식을 열고 12일간 여정에 나선다. 개막작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하나의 타겟, 광기의 추격"…김선호 '귀공자', 6월 21일 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230516102219007</id>
-        <link href="https://v.daum.net/v/20230516102219007"/>
-        <updated>2023-05-16T02:35:17.365Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 '귀공자'가 오는 6월 21일 개봉을 확정 짓고 티저 포스터와 티저 예고편을 공개했다. '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코 앞에 정체불명의 남자 귀공자를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기. 이번에 공개된 티저 포스터는 하루아침에 모두의 타깃이 된 복싱 선]]></content>
     </entry>
 </feed>
