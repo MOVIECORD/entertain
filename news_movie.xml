@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-17T08:25:06.267Z</updated>
+    <updated>2023-05-17T09:18:02.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스쿠터 타고 위스키 마시는 사제의 고군분투]]></title>
+        <id>https://v.daum.net/v/20230517181201607</id>
+        <link href="https://v.daum.net/v/20230517181201607"/>
+        <updated>2023-05-17T09:18:02.255Z</updated>
+        <content type="html"><![CDATA[[김형욱 기자] 바티칸 수석 구마사제 가브리엘&nbsp;아모르트&nbsp;신부는 열정적으로 활동 중이다. 그는 1987년 6월 이탈리아 트로페아를 방문해 정신질환자인지 부마자인지 모를 이를 치료한다. 바티칸으로 돌아간 그는 위원회에서 추궁당하지만 자신의 보스는 교황뿐이라며 당당히 맞선다. 교황을 찾은 아모르트. 교황은 그에게 스페인 카스티야의 한 수도원으로 갈 것을 명한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계급갈등 풍자화 '슬픔의 삼각형'의 도발적인 질문]]></title>
+        <id>https://v.daum.net/v/20230517174202487</id>
+        <link href="https://v.daum.net/v/20230517174202487"/>
+        <updated>2023-05-17T09:18:02.256Z</updated>
+        <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;슬픔의 삼각형&gt; 포스터 이미지ⓒ 그린나래미디어㈜&nbsp; * 이 기사에는 영화 스포일러가 포함돼 있습니다. 황금종려상 2회 수상 거장의 신작, &lt;기생충&gt;과 통하다 알프 셰베리(스웨덴, 1946/1951년), 프랜시스 포드 코폴라(미국, 1974/1979년), 빌 아우구스트(덴마크, 1988/1992년), 에밀 쿠스트리차(유고슬라비아,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['분노의 질주: 라이드 오어 다이', 물량공세 이길 장사 있나]]></title>
         <id>https://v.daum.net/v/20230517172210729</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230517130203330"/>
         <updated>2023-05-17T04:20:42.352Z</updated>
         <content type="html"><![CDATA[차량 추격 액션으로 정평난 영화 ‘분노의 질주’ 시리즈가 마지막 이야기로 돌아왔다. 17일 개봉한 ‘분노의 질주: 라이드 오어 다이’(감독 루이스 리터리어, 이하 분노의 질주10)는 주인공 도미닉 토레토(빈 디젤)가 강적 단테(제이슨 모모아)에 맞서는 이야기를 그렸다. 화려한 액션은 물론 반가운 얼굴이 대거 등장하는 등 볼거리가 상당하다. 알아두면 영화를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신카이 마코토 감독 '재난 3부작', 韓 천만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20230517121015509</id>
-        <link href="https://v.daum.net/v/20230517121015509"/>
-        <updated>2023-05-17T03:18:13.427Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 신카이 마코토 감독이 '너의 이름은.' '날씨의 아이' '스즈메의 문단속'의 누적 관객 합산으로 국내 천만 관객을 동원했다. '스즈메의 문단속'(수입제공 미디어캐슬, 배급 쇼박스)은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가는 이야기.&nbsp; 17일 영진위 영화관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판빙빙, 칸 레드카펫 압도한 대나무 드레스…공리·우마 서먼도 주목]]></title>
-        <id>https://v.daum.net/v/20230517114416354</id>
-        <link href="https://v.daum.net/v/20230517114416354"/>
-        <updated>2023-05-17T03:18:13.431Z</updated>
-        <content type="html"><![CDATA[(서울, 칸=뉴스1) 장아름 고승아 기자 = 제76회 칸 국제영화제 (이하 칸 영화제) 개막작 시사회 레드카펫에 중국배우 판빙빙과 궁리(공리) 그리고 할리우드 배우 우마 서먼이 모습을 드러내 이목을 집중시켰다. 이번 칸 영화제가 시작한 16일 오후(현지시간, 한국시간 17일 오전) 프랑스 남부 칸 팔레 데 페스티발(Palais des Festival)]]></content>
     </entry>
 </feed>
