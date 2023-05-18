@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-18T19:13:49.100Z</updated>
+    <updated>2023-05-18T20:17:32.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘메리 마이 데드 바디’ 차별을 향한 유쾌한 코미디]]></title>
+        <id>https://v.daum.net/v/20230519051315349</id>
+        <link href="https://v.daum.net/v/20230519051315349"/>
+        <updated>2023-05-18T20:17:31.451Z</updated>
+        <content type="html"><![CDATA[뭇 여성들의 마음을 설레게 했던 대만의 청춘 스타가 제대로 망가진다. 올해 초 영화 ‘상견니’로 국내에서 ‘대만 남자친구’ 반열에 오른 배우 허광한이 ‘메리 마이 데드 바디’에서 얻어맞고, 벌거벗고, 게이를 꼬시기 위해 눈을 게슴츠레하게 뜬다. ‘메리 마이 데드 바디’는 허광한의 첫 코미디물이다. 일단 타이틀 장르는 코미디인데, 블록 버스터도 있고 액션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인디아나 존스' 해리슨 포드, 깜짝 명예 황금 종려상…울먹]]></title>
+        <id>https://v.daum.net/v/20230519043216682</id>
+        <link href="https://v.daum.net/v/20230519043216682"/>
+        <updated>2023-05-18T20:17:31.451Z</updated>
+        <content type="html"><![CDATA[(칸=뉴스1) 고승아 기자 = 할리우드 대배우 해리슨 포드가 명예 황금 종려상(Palme d'Or d'Honneur)을 수상했다. 18일 오후 7시께(현지시간, 한국시간 19일 오전 2시) 프랑스 남부 칸 팔레 데 페스티발(Palais des Festival) 뤼미에르 대극장에서 영화 '인디아나 존스: 운명의 다이얼' 월드 프리미어 상영이 진행된 가운데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생애 첫 코미디물 연기 이선균 “가면놀이 하는 것 같았다”]]></title>
         <id>https://v.daum.net/v/20230519040817550</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230518145700176"/>
         <updated>2023-05-18T06:22:05.148Z</updated>
         <content type="html"><![CDATA[이유정, 김형욱 부부가 함께 어떻게 하면 우리 아이가 스스로 공부하고 또 문제를 해결할 수 있을지, 부모의 역할은 무엇인지, 다양한 장르의 영화를 통해 처방해 드립니다. &lt;편집자말&gt; [이유정, 김형욱 기자] ▲ &nbsp;영화 &lt;그렇게 아버지가 된다&gt; 포스터.ⓒ ㈜티브로드폭스코리아성공한 건축가지만, 엄격하고 냉정한 아버지인 료타는 조금은 느리고 소극적인 아들 케이타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 로제가 열었다…칸 영화제 빛내는 韓 걸그룹]]></title>
-        <id>https://v.daum.net/v/20230518145006955</id>
-        <link href="https://v.daum.net/v/20230518145006955"/>
-        <updated>2023-05-18T06:22:05.149Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 한국 걸그룹이 제76회 칸 국제영화제를 빛낼 예정이다. 지난 17일(현지시간) 블랙핑크 로제는 생 로랑의 앰버서더 자격으로 프랑스 칸에서 열리는 제76회 칸 영화제에 참석했다. 그는 경쟁 부문에 출품된 '몬스터'(감독 고레에다 히로카즈)의 프리미어 상영회에 앞서 펼쳐진 레드카펫 행사에 모습을 비췄다. 검은색 칼럼 드레스를 입고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈의 한계없는 액션…'미션 임파서블7' 7월 극장가 접수한다]]></title>
-        <id>https://v.daum.net/v/20230518143216247</id>
-        <link href="https://v.daum.net/v/20230518143216247"/>
-        <updated>2023-05-18T06:22:05.151Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 액션 블록버스터의 대명사, 배우 톰 크루즈가 오는 7월 극장가를 평정한다. 톰 크루즈 주연의 지구상 최강의 액션 블록버스터 ‘미션 임파서블: 데드 레코닝 PART ONE’(이하 ‘미션 임파서블7’)이 18일 2차 예고편을 전세계에 공개했다. 전 세계 단 한 명, 유일무이한 배우 톰 크루즈의 7번째 레전드 프랜차이즈 시리]]></content>
     </entry>
 </feed>
