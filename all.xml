@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-18T20:17:32.197Z</updated>
+    <updated>2023-05-18T21:15:24.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘비전스’→‘애콜라이트’ 지금 왜 다시 스타워즈인가 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230519060120924</id>
+        <link href="https://v.daum.net/v/20230519060120924"/>
+        <updated>2023-05-18T21:15:23.510Z</updated>
+        <content type="html"><![CDATA[세계관이 너무 방대해 ‘스타워즈’에 입덕할 결심을 못 했다면 지금이 빠져들 적기다. 스핀오프, 드라마, 애니메이션 등 다양한 형식으로 ‘스타워즈’의 세계관을 변주한 작품들이 쏟아지고 있기 때문이다. ‘스타워즈 데이’였던 지난 4일 공개된 디즈니+의 ‘스타워즈: 비전스’ 시즌1, 2를 비롯해 배우 이정재의 출연으로 국내에서도 화제가 된 ‘애콜라이트’까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘메리 마이 데드 바디’ 차별을 향한 유쾌한 코미디 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230519051315349</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230518160649779"/>
         <updated>2023-05-18T08:20:28.566Z</updated>
         <content type="html"><![CDATA[영화 '캣 대디'가 2차 포스터와 메인 예고편을 공개했다. [수입/배급: ㈜블루라벨픽쳐스  제공: ㈜레드아이스엔터테인먼트  감독: 메 후앙  출연: 네이선 켄, 제프 저킨스, 데이비드 지오바니 외  개봉: 2023년 5월] 이번에 공개된 2차 포스터는 장엄한 풍경을 배경으로 귀여운 옷을 입은 고양이가 한 남자의 배낭에 담겨 평온한 모습을 하고 있어 눈길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모의 태도가 아이의 성격을 좌우한다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230518145700176</id>
-        <link href="https://v.daum.net/v/20230518145700176"/>
-        <updated>2023-05-18T06:22:05.148Z</updated>
-        <content type="html"><![CDATA[이유정, 김형욱 부부가 함께 어떻게 하면 우리 아이가 스스로 공부하고 또 문제를 해결할 수 있을지, 부모의 역할은 무엇인지, 다양한 장르의 영화를 통해 처방해 드립니다. &lt;편집자말&gt; [이유정, 김형욱 기자] ▲ &nbsp;영화 &lt;그렇게 아버지가 된다&gt; 포스터.ⓒ ㈜티브로드폭스코리아성공한 건축가지만, 엄격하고 냉정한 아버지인 료타는 조금은 느리고 소극적인 아들 케이타]]></content>
     </entry>
 </feed>
