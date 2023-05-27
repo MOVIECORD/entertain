@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-27T05:15:12.624Z</updated>
+    <updated>2023-05-27T06:20:20.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[송강호, 칸 영화제 폐막식 시상자 선정 ‘3년 연속 폐막식’ 기록 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230527151356419</id>
+        <link href="https://v.daum.net/v/20230527151356419"/>
+        <updated>2023-05-27T06:20:20.166Z</updated>
+        <content type="html"><![CDATA[[칸(프랑스)=뉴스엔 글 이재환 기자/사진 정유진 기자] 배우 송강호가 제76회 칸 국제영화제 폐막식 시상자 선정로 선정돼 3년 연속 폐막식에 참석하는 또 하나의 기록을 남기게 됐다. 송강호는 5월27일 폐막되는 제76회 칸 국제영화제 시상자로 결정됐다. 어떤 부문에 시상자로 나설지는 아직 알려지지 않았다. 송강호는 지난해 제75회 칸 영화제에서 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[괴물 신인 강태주, ‘귀공자’로 충무로 블루칩 되나 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230527140900715</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230527100308369"/>
         <updated>2023-05-27T01:23:26.457Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 배우 마동석은 다 계획이 있었다. ‘범죄도시3’가 전편과는 다른 새로운 변화들을 시도한 것도, 실패를 감수하고 도전을 하는 것도 다 마동석은 이유가 있었다. 31일 개봉되는 영화 ‘범죄도시3’(감독 이상용)는 대체불가 괴물형사 마석도(마동석)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁)과 마약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거미집' 박정수 "드라마와 다른 작업과정, 후배들에게 밀릴까 두려웠다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230527091400765</id>
-        <link href="https://v.daum.net/v/20230527091400765"/>
-        <updated>2023-05-27T01:23:26.459Z</updated>
-        <content type="html"><![CDATA[배우 박정수가 16년 만에 영화 '거미집'을 찍으면서 드라마와 다른 시스템으로 겪은 고충을 털어놨다. 박정수는 26일 오후(현지시간) 프랑스 남부 칸 팔레 데 페스티벌 영화진흥위원회 부스에서 영화 '거미집' 관련 인터뷰를 진행했다. 그는 2006년 '경의선' 이후 김지운 감독의 '거미집'으로 스크린에 복귀했다. 박정수는 "드라마는 늘 해왔지만 영화는 함께]]></content>
     </entry>
 </feed>
