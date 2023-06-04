@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-04T21:14:31.543Z</updated>
+    <updated>2023-06-04T22:15:24.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[그렇게 어른이 된 두 소녀…최은영 소설 원작 애니 '그 여름' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230605070036091</id>
+        <link href="https://v.daum.net/v/20230605070036091"/>
+        <updated>2023-06-04T22:15:23.129Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = "야 거기, 공! 공!" 이어폰을 귀에 꽂은 채 학교 운동장을 걷는 이경의 얼굴로 축구공이 날아와 꽂힌다. 코피가 터지고 안경은 부서진다. 공을 찬 수이는 그에게 달려와 괜찮냐고 묻는다. 그 순간 갑작스레 날아든 축구공처럼 열여덟 두 소녀에게 첫사랑이 와락 찾아온다. 수이는 매일 같이 이경의 반으로 가 그에게 딸기우유를 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3' 이준혁·'귀공자' 김선호, 꽃미남들이 독해진 이유 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230605060107258</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230604142800846"/>
         <updated>2023-06-04T06:20:41.456Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드가 '스파이더맨4'를 두고 "회의 중이다"는 소식을 전했다. 6월 1일(현지시간) 해외 매체 버라이어티 보도에 따르면, MCU에서 '스파이더맨' 캐릭터로 활약하고 있는 톰 홀랜드는 최근 뉴욕에서 열린 애플TV+ '더 크라우디드 룸' 시사회에서 또 다른 '스파이더맨' 프랜차이즈 작업에 대해 "회의를 하고 있다"고 밝혔다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 영화계 구한 마동석…'범죄도시3' 400만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230604133927944</id>
-        <link href="https://v.daum.net/v/20230604133927944"/>
-        <updated>2023-06-04T05:15:40.218Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 마동석표 범죄 오락 액션물 영화 '범죄도시3'가 개봉 5일 만에 400만 관객 동원에 성공하며 흥행 열기를 더했다.&nbsp; 영화 '범죄도시3'(감독 이상용)가 지난 3일 일일 관객수 1,162,598명 관객을 동원하며 400만 관객을 돌파했다. 이는 전편인 '범죄도시2'가 개봉 7일째 400만 관객을 돌파했던 기록보다 2일 빠른 속도]]></content>
     </entry>
 </feed>
