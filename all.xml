@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-04T08:19:41.296Z</updated>
+    <updated>2023-06-04T09:17:01.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['범죄도시3' 이상용 감독 "2편으로 천만 찍고 빚잔치, 아직도 살던 집 살아" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230604171857716</id>
+        <link href="https://v.daum.net/v/20230604171857716"/>
+        <updated>2023-06-04T09:17:00.794Z</updated>
+        <content type="html"><![CDATA['범죄 도시'의 조연출에 이어 '범죄 도시 2' 연출, 그리고 '범죄 도시 3'까지, 시리즈 오리지널 스태프의 대표 주자이자 '범죄 도시 2'로 1,269만 명을 동원, 2022년 최고 흥행 신화를 만들어 낸 이상용 감독을 만났다. 2019년 4월부터 '범죄 도시 2'를 시작, 3편을 마무리 하기까지 꼬박 4년여를 쉬는 시간 없이 연달아 작업하다 보니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진선규→고규필, 韓영화 살린 '범죄도시' 배우 발굴도 제대로 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230604171821714</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230604122409000"/>
         <updated>2023-06-04T04:19:26.450Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;영화 ‘범죄도시3’ 배우 김도건이 작품 비하인드 스토리와 향후 계획을 밝혔다. 지난 31일 김도건은 서울 마포구 합정동에 위치한 OSEN 사무실을 찾아 인터뷰를 나눴다. ‘범죄도시3’(감독 이상용)는 대체불가 괴물형사 마석도(마동석 분)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁 분)과 마약 사건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3', 전편 보다 빠른 속도…개봉 5일째 400만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230604122057964</id>
-        <link href="https://v.daum.net/v/20230604122057964"/>
-        <updated>2023-06-04T04:19:26.453Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '범죄도시3'(감독 이상용)가 개봉 5일째 400만 관객을 돌파했다. 4일 배급사 에이비오엔터테인먼트, 플러스엠엔터테인먼트에 따르면 '범죄도시3'이 이날 오후 12시 400만 관객을 넘어섰다. 이는 전편인 '범죄도시2'가 개봉 7일째 400만을 돌파했던 기록보다 2일 빠른 속도다. 또한 한국영화가 400만 관객을 돌파한 것]]></content>
     </entry>
 </feed>
