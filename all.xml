@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-14T09:16:26.767Z</updated>
+    <updated>2023-06-14T10:17:41.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["흑백·실사·만화·레고··· 멀티버스 스파이더맨 즐겨보세요" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230614182323199</id>
+        <link href="https://v.daum.net/v/20230614182323199"/>
+        <updated>2023-06-14T10:17:40.619Z</updated>
+        <content type="html"><![CDATA[[서울경제] “마일스(스파이더맨)는 여러 공감을 불러일으키는 캐릭터로 대중이 사랑하지 않을 수 없어요. 주변에 있는 일반인이 자신이 사는 동네를 구하고 소명을 다하는 것이 감동적입니다.” (샤메익 무어) 2018년 개봉해 전 세계적으로 큰 사랑을 받은 애니메이션 ‘스파이더맨: 뉴 유니버스’의 후속작 ‘스파이더맨: 어크로스 더 유니버스’가 관객들을 찾아온다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김주환 감독 "김새론 음주운전에 대본 다시 썼다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230614181416936</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230614153418754"/>
         <updated>2023-06-14T07:16:08.282Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 마고 로비가 영화 '바비'로 오는 7월 2일 내한하는 가운데, 작품에 대한 특별한 애정을 전했다. 7월 개봉하는 영화 '바비'(감독 그레타 거윅)는 원하는 무엇이든 될 수 있는 ‘바비랜드’에서 살아가던 ‘바비’가 현실 세계와 이어진 포털의 균열을 발견하게 되고, 이를 해결하기 위해 ‘켄’과 예기치 못한 여정을 떠나면서 펼쳐지는 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 '모아나' 실사판...2025년 여름 개봉 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230614153307661</id>
-        <link href="https://v.daum.net/v/20230614153307661"/>
-        <updated>2023-06-14T07:16:08.288Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 디즈니 실사판 영화 '모아나'의 개봉일이 확정됐다.&nbsp; 외신 매체 더 디렉트는 13일(현지 시간) 디즈니 실사판 영화 '모아나'가 2025년 6월 27일 북미에서 개봉한다고 보도했다.&nbsp; 실사판 '모아나'는 지난 2016년 개봉한 동명의 원작 애니메이션을 바탕으로 새롭게 만들어질 예정이다.&nbsp;바다가 선택한 소녀가 저주에 걸린 모투누이]]></content>
     </entry>
 </feed>
