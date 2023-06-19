@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-19T03:18:00.579Z</updated>
+    <updated>2023-06-19T04:20:53.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시나리오 갑질 논란 영화사 측 "불공정 계약 NO, 합의점 찾을 것"]]></title>
+        <id>https://v.daum.net/v/20230619131754656</id>
+        <link href="https://v.daum.net/v/20230619131754656"/>
+        <updated>2023-06-19T04:20:52.713Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 작품을 집필한 원작자의 시나리오를 빼앗았다는 의혹에 휩싸인 영화 제작사 측이 갑질 논란에 대해 해명하며 작가와 다른 주장을 펼쳤다. 영화사 수작 측은 대표 명의로 19일 “2023년 6월 11일, 한 인터넷 커뮤니티에 자신의 시나리오를 제작사에게 빼앗겼다는 모 작가의 글이 게시되고 게시자의 일방적인 주장이 언론에 보도되]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화사 수작, 시나리오 갑질 계약 해명 “법적 문제 無”]]></title>
         <id>https://v.daum.net/v/20230619120303273</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230619110657924"/>
         <updated>2023-06-19T02:44:17.258Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 김강우(45)가 "예민할줄 알았던 박훈정 감독, 알고보니 시원시원하더라"고 말했다. 액션 누아르 영화 '귀공자'(박훈정 감독, 영화사 금월 제작)에서 코피노 출신 복싱 선수 마르코(강태주)를 집요하게 쫓는 재벌 2세 의뢰인 한이사 역을 맡은 김강우가 19일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 '귀공자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘귀공자’ 김강우 “김선호 논란? 박훈정 감독 선택이 맞았다”]]></title>
-        <id>https://v.daum.net/v/20230619110403766</id>
-        <link href="https://v.daum.net/v/20230619110403766"/>
-        <updated>2023-06-19T02:44:17.259Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김강우가 김선호를 두고 "캐릭터 만드는데 탁월한 배우"라고 신뢰를 드러냈다. 영화 '귀공자'(감독 박훈정)에 출연한 김강우는 6월 19일 서울 종로구 모처에서 진행된 인터뷰를 통해 개봉을 앞둔 소감을 밝혔다. 오는 21일 개봉하는 영화 '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 ‘마르코’ 앞에 정체불명의 남자 ‘귀공자’]]></content>
     </entry>
 </feed>
