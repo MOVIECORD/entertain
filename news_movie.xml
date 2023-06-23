@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-23T05:18:31.546Z</updated>
+    <updated>2023-06-23T06:25:16.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준혁, 핫가이 화보…"'범죄도시3 ' 흥행 다행, 감사한 마음 커"]]></title>
+        <id>https://v.daum.net/v/20230623151908255</id>
+        <link href="https://v.daum.net/v/20230623151908255"/>
+        <updated>2023-06-23T06:25:15.473Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 그야말로 핫 가이(Hot guy)다. 최근 개봉해 절찬 상영 중인 영화 ‘범죄도시3’로 극장가를 뜨겁게 달구고 있는 이준혁의 팔색조 화보가 공개됐다. 이준혁은 23일 기준 누적관객 수 923만 명을 돌파하며 흥행 돌풍을 일으키고 있는 영화 ‘범죄도시3’(감독 이상용)의 3세대 빌런으로 관객들의 큰 사랑을 받으며 연일 화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["공동체를 담기 위해 광주를 담았다"]]></title>
         <id>https://v.daum.net/v/20230623141501730</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230623112103912"/>
         <updated>2023-06-23T03:02:08.517Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 배우 마동석의 차기작은 할리우드다. 소속사 빅펀치엔터테인먼트에 따르면 23일(한국시간) 미국 매체 데드라인은 마동석이 미국 유명 소설의 실사 영화인 '헬다이버'의 제작자이자 주연으로 합류할 예정이라고 단독 보도했다. '헬 다이버(Hell Divers)'는 뉴욕타임스 베스트 셀러인 소설을 원작으로 한 영화다. 제3차 세계대전 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 배우 마동석, 차기작은 할리우드…'헬다이버' 제작자·주연 확정]]></title>
-        <id>https://v.daum.net/v/20230623111822804</id>
-        <link href="https://v.daum.net/v/20230623111822804"/>
-        <updated>2023-06-23T03:02:08.519Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 마동석의 차기작이 할리우드 영화로 정해졌다. 마동석은 미국을 강타한 유명 소설을 실사화한 영화 ‘헬다이버’의 제작자이자 주연으로 합류할 예정이다. 빅펀치 엔터테인먼트는 23일 미국 매체 데드라인의 단독 보도를 인용해 마동석이 할리우드 영화 ‘헬 다이버’의 제작자 겸 출연자로 확정됐다고 밝혔다. ‘헬 다이버(Hell]]></content>
     </entry>
 </feed>
