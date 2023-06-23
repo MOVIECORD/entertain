@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-23T21:16:31.630Z</updated>
+    <updated>2023-06-23T22:18:10.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시3' 930만 돌파..주말 천만 넘을까]]></title>
+        <id>https://v.daum.net/v/20230624071553765</id>
+        <link href="https://v.daum.net/v/20230624071553765"/>
+        <updated>2023-06-23T22:18:09.475Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='범죄도시3' 영화 '범죄도시3'가 930만 명의 누적관객수를 돌파했다. 주말께 천만을 넘을 수 있을지 관심이 집중된다. 24일 영진위 영화관입장권 통합전산망에 따르면 '범죄도시3'는 지난 23일 9만 4462명의 관객을 모았다. 누적관객수는 932만 8705명이다. 지난달 말 개봉한 '범죄도시3'는 뜨거운 입소문을 타]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌비, ‘더 문’에 한국 영화 최초로 돌비 비전∙돌비 애트모스 동시 지원]]></title>
+        <id>https://v.daum.net/v/20230624065154479</id>
+        <link href="https://v.daum.net/v/20230624065154479"/>
+        <updated>2023-06-23T22:18:09.476Z</updated>
+        <content type="html"><![CDATA[돌비 래버러토리스(Dolby Laboratories, 이하 돌비)가 올여름 최고의 화제작으로 떠오른 SF 휴먼 블록버스터 ‘더 문’에 한국 영화 사상 최초로 ‘돌비 비전(Dolby Vision®)’과 ‘돌비 애트모스(Dolby Atmos®)’가 모두 적용되며, 메가박스의 프리미엄 상영관인 돌비 시네마(Dolby Cinema)에서 차원이 다른 극장 경험을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 다시 할리우드로…이번엔 제작까지]]></title>
         <id>https://v.daum.net/v/20230623175002962</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230623140057301"/>
         <updated>2023-06-23T07:18:03.607Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 항상 남다른 변신을 꾀하며 믿고 보는 필모그래피를 완성해온 배우 조인성이 '밀수'에서 전국구 밀수왕 권 상사 역을 맡아 새로운 매력을 펼칠 예정이다. 영화 '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극. 장르와 캐릭터를 불문하고 한계 없는 남다른 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저 사람 왜 저래? 한번에 이해하는 방법]]></title>
-        <id>https://v.daum.net/v/20230623135101991</id>
-        <link href="https://v.daum.net/v/20230623135101991"/>
-        <updated>2023-06-23T05:18:30.921Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 흔히 트롤 같은 사람이 있다고들 한다. '트롤'이란 사람에게 해를 끼치는 요괴를 말하는 것으로, 무리의 다른 사람에게 해를 끼치는 이를 가리키는 신조어다. 미국에서 유래해 전 세계로 퍼져나간 이 단어는 한국에서도 트롤짓이나 트롤링 같은 용어를 통해 심심찮게 만날 수 있다. 영화를 보다가도 트롤이라는 이야기를 종종 듣고는 한다. 대개 공포영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[픽사 ‘엘리멘탈’ 역주행 신화, “한국인 정서가 마음을 뒤흔든다”]]></title>
-        <id>https://v.daum.net/v/20230623134621831</id>
-        <link href="https://v.daum.net/v/20230623134621831"/>
-        <updated>2023-06-23T05:18:30.924Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니 픽사의 ‘엘리멘탈’이 역주행 신화를 펼치고 있다. 23일 영진위 통합전산망에 따르면, ‘엘리멘탈’은 22일 하루동안 5만 8,135명을 불러모아 박스오피스 2위에 올랐다. 누적관객수는 74만, 3,167명이다. 앞서 '엘리멘탈'은 22일 뜨거운 입소문 속에 쟁쟁한 경쟁작들을 제치고 전체 예매율 1위를 차지하는 기염을]]></content>
     </entry>
 </feed>
