@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-28T12:40:05.839Z</updated>
+    <updated>2023-06-28T13:27:55.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리 에스터 감독 “‘보 이즈 어프레이드’, 그리스 비극·구약 성서 등 영감”]]></title>
+        <id>https://v.daum.net/v/20230628215006337</id>
+        <link href="https://v.daum.net/v/20230628215006337"/>
+        <updated>2023-06-28T13:27:54.306Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 영화 ‘보 이즈 어프레이드’ 감독 아리 에스터가 작품과 관련한 여러 이야기를 전했다. 28일 오후 서울시 광진구에 위치한 한 카페에서는 영화 ‘보 이즈 어프레이드’의 감독 아리 에스터의 라운드 인터뷰가 진행됐다. 영화 '유전' '미드소마' 등 작품을 통해 전 세계가 인정한 현대 호러 마스터로 자리매김한 아리 에스터 감독의 신작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결혼 7년차' 박하선 "출산 후 배역 변화? 작품 폭 넓어져…아쉬움 無"]]></title>
+        <id>https://v.daum.net/v/20230628215002334</id>
+        <link href="https://v.daum.net/v/20230628215002334"/>
+        <updated>2023-06-28T13:27:54.312Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '어디로 가고 싶으신가요'로 복귀한 박하선이 한 가정의 엄마로서, 그리고 배우로서의 이야기를 전했다. 28일 오후 서울 중구 한 카페에서 영화 '어디로 가고 싶으신가요'(감독 김희정) 박하선과의 인터뷰가 진행됐다. '어디로 가고 싶으신가요'는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 명지(박하선 분)와 같은 사고로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DC '슈퍼맨: 레거시', 데이빗 코렌스웻 캐스팅 확정]]></title>
         <id>https://v.daum.net/v/20230628204031094</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628180004282"/>
         <updated>2023-06-28T09:19:20.939Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '범죄도시3'의 천만 돌파가 가시화되며 두 번째 한국 쌍천만 시리즈 등극이 코앞으로 다가왔다. '범죄도시3'는 대체불가 괴물형사 ‘마석도’(마동석)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인 ‘주성철’(이준혁)과 마약 사건에 연루된 또 다른 빌런 ‘리키’(아오키 무네타카)를 잡기 위해 펼치는 통쾌한 범죄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선 "5개월 간 체중 관리…♥류수영 때문에 고충"]]></title>
-        <id>https://v.daum.net/v/20230628175017916</id>
-        <link href="https://v.daum.net/v/20230628175017916"/>
-        <updated>2023-06-28T09:19:20.941Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '어디로 가고 싶으신가요' 박하선이 남편 류수영 때문에 고충(?)이 많다고 전했다.&nbsp; 28일 오후 서울 중구 한 카페에서 영화 '어디로 가고 싶으신가요'(감독 김희정) 박하선과의 인터뷰가 진행됐다. '어디로 가고 싶으신가요'는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 명지(박하선 분)와 같은 사고로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아리 에스터 감독 "최고의 배우 캐스팅, 호아킨의 연기 놀랍지 않았다"]]></title>
-        <id>https://v.daum.net/v/20230628175012913</id>
-        <link href="https://v.daum.net/v/20230628175012913"/>
-        <updated>2023-06-28T09:19:20.941Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '보 이즈 어프레이드' 아리 에스터가 봉준호 감독과 영화의 주연을 맡은 호아킨 피닉스에 대해 설명했다.&nbsp; 28일 오후 서울 광진구의 한 카페에서 영화 '보 이즈 어프레이드'의 감독 아리 에스터의 인터뷰가 진행됐다.&nbsp; '보 이즈 어프레이드'는 엄마를 만나러 가야 하는 보(호아킨 피닉스 분)의 기억과 환상, 현실이 뒤섞인 공포를 경]]></content>
     </entry>
 </feed>
