@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-01T04:22:21.447Z</updated>
+    <updated>2023-07-01T05:17:04.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선 "5개월 간 유지어터로 캐릭터 준비, 요리하는 남편 류수영 때문에 남다른 고충있어"]]></title>
+        <id>https://v.daum.net/v/20230701141333852</id>
+        <link href="https://v.daum.net/v/20230701141333852"/>
+        <updated>2023-07-01T05:17:03.503Z</updated>
+        <content type="html"><![CDATA[영화 '어디로 가고 싶으신가요'에서 죽은 '도경'의 아내 '명지'를 연기한 배우 박하선을 만났다. 영화 '프랑스여자'로 국내외 영화제에서 호평을 받은 김희정 감독의 신작인 '어디로 가고 싶으신가요'는 김애란의 소설 '바깥은 여름' 중 '어디로 가고 싶으신가요'를 원작으로 만들어진 작품으로 사랑하는 사람이 떠나고 난 뒤 남겨진 사람들은 그 기억을 가지고 어떻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘귀공자’ 박훈정 감독 “대안 없던 김선호, 잘한 선택이었다”]]></title>
         <id>https://v.daum.net/v/20230701131202438</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701110002219"/>
         <updated>2023-07-01T03:09:33.725Z</updated>
         <content type="html"><![CDATA[[편집자주] 영화를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 사진='악마들' 스틸컷뻔한 소재로, 뻔하지 않은 전개를 원했지만, 결국 뻔하게 흘러갔다. 장동윤의 새로운 얼굴만 남은 '악마들'이다. 아무런 동기도, 흔적도 없이 연쇄살인이 이어진다. 범죄자들은 잔인한 살인 장면을 담은 스너프 필름을 제작해 공개하는데도 형사들은 도무지 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿고 보는 '마동석'… 범죄도시3 천만 관객 등극]]></title>
-        <id>https://v.daum.net/v/20230701105022107</id>
-        <link href="https://v.daum.net/v/20230701105022107"/>
-        <updated>2023-07-01T01:55:59.227Z</updated>
-        <content type="html"><![CDATA[배우 이준혁과 마동석(오른쪽)이 지난달 19일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 '범죄도시3' 글로벌 흥행 감사 쇼케이스에서 포즈를 취하고 있다./사진=뉴스1최근 기세를 올리고 있는 영화 '범죄도시3'가 개봉 한 달 만에 1000만 관객 고지를 넘었다. 1일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 범죄도시3는 개봉 32일째인]]></content>
     </entry>
 </feed>
