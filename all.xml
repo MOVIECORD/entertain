@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-02T07:16:25.431Z</updated>
+    <updated>2023-07-02T08:22:05.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[내년에 '범죄도시4'다..마동석 "더욱 재밌도록, 만반의 준비" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230702171446886</id>
+        <link href="https://v.daum.net/v/20230702171446886"/>
+        <updated>2023-07-02T08:22:05.116Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 범죄도시3 영화 '범죄도시3'가 개봉 32일 만에 천만 관객을 돌파한 가운데 주연 배우들과 감독이 감사의 마음을 표현했다. 특히 주연배우이자 제작자인 마동석은 향후 개봉 예정인 '범죄도시4'에 대한 관심을 당부했다. '범죄도시3'는 개봉 32일째인 지난 1일 천만 관객을 돌파했다. 마동석은 "괴물형사 마석도 역의 마동석입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엘리멘탈' 관객들, 왜 K-장녀를 외칠까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230702155054557</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230702102214328"/>
         <updated>2023-07-02T01:56:22.789Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 범죄 액션 영화 '범죄도시3'(이상용 감독, 빅펀치픽쳐스·홍필름·비에이엔터테인먼트 제작)의 주역들이 1000만 돌파에 감사 인사를 전했다. '범죄도시3'가 개봉 32일째인 지난 1일 1000만 관객 돌파를 기념해 마동석, 이준혁, 아오키 무네타카, 김민재, 고규필, 전석호, 안세호 그리고 이상용 감독의 감사 인사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역주행 '엘리멘탈' 200만..'인디아나 존스' 2위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230702100258070</id>
-        <link href="https://v.daum.net/v/20230702100258070"/>
-        <updated>2023-07-02T01:56:22.789Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='엘리멘탈' 역주행 1위를 지키고 있는 애니메이션 '엘리멘탈'이 박스오피스 1위를 지키고 있는 가운데, 누적관객수 200만을 돌파했다. 2일 영진위 영화관입장권 통합전산망에 따르면 '엘리멘탈'은 이날 오전 누적 관객수 208만 1828명을 기록, 200만 관객을 넘어섰다. 입소문을 탄 '엘리멘탈'은 박스오피스 1위를]]></content>
     </entry>
 </feed>
