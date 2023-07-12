@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T10:20:21.593Z</updated>
+    <updated>2023-07-12T11:15:52.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[톰 아저씨와 마블리, 흥행 평행 이론 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230712195006411</id>
+        <link href="https://v.daum.net/v/20230712195006411"/>
+        <updated>2023-07-12T11:15:51.492Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 톰 크루즈와 마동석의 평행 이론이 눈길을 끈다.&nbsp; 12일 톰 크루즈 주연의 영화 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리, 이하 '미션 임파서블7')이 개봉했다. '미션 임파서블7'은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 에단 헌트(톰 크루즈 분)와 IM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나쁘다고 해달라"..'셀러브리티' 이동건이 느낀 '빌런의 맛' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230712191702709</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230712163124273"/>
         <updated>2023-07-12T08:23:48.963Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 크루즈 주연의 ‘미션 임파서블:데드 레코닝 PART ONE’(이하 미션 임파서블7)이 시리즈 최고 오프닝 기록을 세울 전망이다. 현재까지 시리즈 최고 북미 오프닝 기록은 ‘미션 임파서블:폴아웃’으로 6,100만 달러였다. 그 다음으로 오우삼 감독의 ‘미션 임파서블2’(5,780만 달러)가 뒤를 이었다. 버라이어티는 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경이로운 영화적 체험"..'더 문' 설경구x도경수, 메인 예고편 첫 공개 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230712161430582</id>
-        <link href="https://v.daum.net/v/20230712161430582"/>
-        <updated>2023-07-12T07:17:11.019Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 올여름 관객들에게 경이로운 달과 우주의 모습을 생생하게 전달할 영화 '더 문'(감독 김용화, 제공배급 CJ ENM, 제작 CJ ENM STUDIOS 블라드스튜디오)이 메인 예고편을 전격 공개했다. 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화 '더 문'이 하이퍼리]]></content>
     </entry>
 </feed>
