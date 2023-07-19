@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-19T03:56:08.696Z</updated>
+    <updated>2023-07-19T04:24:32.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['밀수' 김혜수 "조인성과 로맨스? 대본엔 없어…현장의 즉흥 감정" ③ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230719130904424</id>
+        <link href="https://v.daum.net/v/20230719130904424"/>
+        <updated>2023-07-19T04:24:32.005Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] ‘밀수’ 김혜수가 극 중 자신이 연기한 조춘자와 조인성이 연기한 ‘권상사’ 캐릭터의 묘한 케미스트리에 대해 언급했다. ‘밀수’는 1970년대 바다를 낀 가상의 도시 ‘군천’을 배경으로 바다에 던져진 생필품을 건지며 생계를 이어가던 해녀들 앞에 일생일대의 큰 밀수판이 펼쳐지며 벌어지는 해양범죄활극이다. 천만 영화 ‘베테랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바비' 영리한 비유에 아쉬운 전달법 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230719125002959</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230719120720280"/>
         <updated>2023-07-19T03:56:07.966Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '비공식작전' 김성훈 감독이 배우 하정우와 주지훈에 대해 "진화되고 숙성된 케미"라며 믿음을 드러냈다. 김성훈 감독은 19일 서울 종로구 삼청동의 한 카페에서 스포티비뉴스와 인터뷰를 갖고 영화 ’비공식작전‘에 대한 다양한 이야기를 나누며 이같이 밝혔다. 하정우와 '터널'에서, 주지훈과 '킹덤'에서 함께 작업한 경험이 있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수 "조인성과 사랑? '밀수' 대본에는 없어…현장에서의 감정" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230719120029063</id>
-        <link href="https://v.daum.net/v/20230719120029063"/>
-        <updated>2023-07-19T03:56:07.968Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 김혜수가 '밀수' 속 조인성과의 묘한 관계에 대해 이야기했다. 19일 오전 서울 종로구의 한 카페에서 영화 '밀수'(감독 류승완) 김혜수와의 인터뷰가 진행됐다.&nbsp; '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 이야기를 담은 해양범죄활극으로 김혜수는 성공을 꿈꾸며 밀수]]></content>
     </entry>
 </feed>
