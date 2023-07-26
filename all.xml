@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T20:15:55.690Z</updated>
+    <updated>2023-07-26T21:14:42.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘더 문’ 도경수, 찢었다! 김용화 감독의 새로운 무기 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230727061013190</id>
+        <link href="https://v.daum.net/v/20230727061013190"/>
+        <updated>2023-07-26T21:14:41.678Z</updated>
+        <content type="html"><![CDATA[불이 꺼지고 스크린에 별이 쏟아지자 극장이 순식간에 우주로 변했다. 드디어 한국에서도 할리우드 부럽지 않은 우주 영화가 탄생했다. ‘신과함께’로 쌍천만 신화를 쓴 김용화 감독의 신작 ‘더 문’ 이다. ‘더 문’의 배경은 2029년. 대한민국이 두 번째 유인 달 탐사선 우리호를 우주로 쏘아 올리는 이야기로 시작한다. 우리호에 탄 사람은 총 셋. 그러나 달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수' 류승완 감독 "조인성에게 빚 갚은 기분...대본과 달라진 결말" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230726212946328</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230726162501869"/>
         <updated>2023-07-26T08:21:24.585Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 배우 조니 뎁이 헝가리 호텔에서 쓰러졌다는 보도가 나왔지만, 현재는 무사히 회복했다고 밝혔다. 25일(현지 시간 ) 헝가리 현지 매체에 따르면, 조니 뎁이 호텔에서 기절한 채로 발견됐다고 설명했다. 부다페스트 공연을 하던 조니 뎁이 속한 밴드 할리우드 뱀파이어(The Hollywood Vampires)는 급히 공연을 취소했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 류승완, “박정민×고민시, 스폰지처럼 쫙좍 빨아들이는 배우” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230726162450862</id>
-        <link href="https://v.daum.net/v/20230726162450862"/>
-        <updated>2023-07-26T08:21:24.588Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘밀수’의 류승완 감독이 박정민과 고민시의 연기를 극찬했다. 그는 26일 서울 소격동의 한 카페에서 기자들과 만나 ‘밀수’에서 열연한 박정민과 고민시 연기의 특징을 설명했다. ‘밀수’는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극이다. 예매율 1위에 오]]></content>
     </entry>
 </feed>
