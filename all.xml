@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-30T07:14:08.134Z</updated>
+    <updated>2023-07-30T08:18:58.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[할리우드 파업에 에미상 연기‥9.11 테러 이후 22년만에 처음 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230730162206269</id>
+        <link href="https://v.daum.net/v/20230730162206269"/>
+        <updated>2023-07-30T08:18:58.033Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 파업 여파로 에미상 시상식이 내년으로 연기된다. 최근 뉴욕 타임즈 등 다수의 외신은 미국작가조합(Writers Guild of America)과 영화배우조합(Screen Actors Guild) 회원들이 60년 만에 최대 규모의 파업을 벌이고 있는 만큼, 오는 9월 18일 개최될 예정이었던 에미상 시상식이 내년으로 연기될]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시2→'D.P.2'까지…손석구, 장르와 캐릭터 넘나들며 자신의 시대를 열다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230730161101109</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230730130206769"/>
         <updated>2023-07-30T04:18:26.634Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 배우 하정우가 ‘비공식작전’으로 오랜만에 여름 텐트폴 시장에 뛰어들었다. 경쟁보다는 대의를 위해 서로 응원하는 마음이 더 크다는 그다. 8월 2일 개봉되는 영화 ‘비공식작전’(감독 김성훈)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준(하정우)과 현지 택시기사 판수(주지훈)의 버디 액션 영화로, 하정우는 극 중 실종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상남자의 지고지순함이 담담한 위로가 될 때 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230730125701694</id>
-        <link href="https://v.daum.net/v/20230730125701694"/>
-        <updated>2023-07-30T04:18:26.642Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;에고이스트&gt; 스틸ⓒ (주)디오시네마어릴 적 많은 사랑을 받았던 어머니를 여의고 더 이상 사랑 따위는 믿지 않았던 료스케(스즈키 료헤이)는 일찍 상경해 유명 패션 잡지 에디터로 성공했다. 료스케는 부와 명성을 얻었지만 마음이 언제나 공허했다. 성 정체성을 밝힐 수 없어 늘 거짓된 삶을 살아야만 했다. 다 가졌지만 사랑만은 가지지]]></content>
     </entry>
 </feed>
