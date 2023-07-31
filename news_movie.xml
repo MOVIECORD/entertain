@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-31T04:19:38.040Z</updated>
+    <updated>2023-07-31T05:15:52.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 문' 도경수, "SF 내게 큰 도전…극한 상황 속의 나를 잘 알게 됐다"]]></title>
+        <id>https://v.daum.net/v/20230731141203742</id>
+        <link href="https://v.daum.net/v/20230731141203742"/>
+        <updated>2023-07-31T05:15:51.332Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자]'더 문'을 촬여하면서 도경수는 "도전이었다"며 한국형 SF에 참여한 기대와 부담감을 드러냈다. 하지만 자신이 연기한 선우를 보며 많은 용기와 위로를 얻었던 만큼, 영화를 보는 관객들 역시 그런 감정을 느낄 수 있으면 좋겠다고 언급했다. '더 문'은 SF 불모지라는 꼬리표를 떼고, 독자적인 SF 영화를 만들 수 있을까.&nbsp; 도경수는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬링로맨스'∙'유령' 이하늬, 뉴욕 아시안 영화제 '최우수 연기상' 수상]]></title>
+        <id>https://v.daum.net/v/20230731134518946</id>
+        <link href="https://v.daum.net/v/20230731134518946"/>
+        <updated>2023-07-31T05:15:51.332Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 이하늬가 제22회 뉴욕 아시안 영화제에서 최우수 연기상을 수상했다. 30일(뉴욕 현지시각), 소속사 사람엔터테인먼트 측은 "이하늬가 제22회 ‘뉴욕 아시안 영화제(New York Asian Film Festival ‘NYAFF’)’ 최우수 연기상(Best of the East)을 수상했다"라고 전했다. ‘뉴욕 아시안 영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 문' 도경수 "와이어로 무중력 연기…'엑소' 춤 실력 덕봤다"]]></title>
         <id>https://v.daum.net/v/20230731131451260</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230731113302902"/>
         <updated>2023-07-31T02:33:52.863Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자]배우 도경수가 홀로 연기해야 하는 상황이었지만, 실제와 같은 현장 덕분에 쉽게 몰입을 할 수 있었다고 밝혔다. 도경수는 31일 서울&nbsp;삼청동의 한 카페에서 영화 ‘더 문’(감독 김용화) 관련 인터뷰에 나섰다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 문' 도경수 "설경구 최고의 선배…털털한 아저씨 같아"]]></title>
-        <id>https://v.daum.net/v/20230731113108836</id>
-        <link href="https://v.daum.net/v/20230731113108836"/>
-        <updated>2023-07-31T02:33:52.865Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] '더 문' 도경수가 선배 설경구를 향한 존경심을 표했다. 도경수는 31일 서울 종로구 삼청동 카페에서 스포츠조선과 만나 "설경구 선배는 털털한 아저씨처럼 현장에 있던 배우와 스태프들에 편안하게 대해주신다"라고 했다. 도경수는 극 중 전임 우주센터장 김재국을 연기한 설경구에 대해 "최고의 선배"라고 운을뗀 뒤, "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 문' 도경수 "덤덤한 성격? 조인성 형에게 많이 배웠죠"]]></title>
-        <id>https://v.daum.net/v/20230731113004784</id>
-        <link href="https://v.daum.net/v/20230731113004784"/>
-        <updated>2023-07-31T02:33:52.865Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 도경수 / 사진=SM엔터테인먼트가수 겸 배우 도경수가 조인성에 대한 고마운 마음을 전했다. 31일 서울시 종로구 소격동의 한 카페에서 영화 '더 문'(감독 김용화)의 배우 도경수와 만나 다양한 이야기를 나눴다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장]]></content>
     </entry>
 </feed>
