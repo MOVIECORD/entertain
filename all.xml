@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-06T03:16:33.298Z</updated>
+    <updated>2023-08-06T04:19:59.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[혹자들은 뻔한 신파라고 하지만, 그렇게 폄하될 '더 문'이 아니다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230806131736099</id>
+        <link href="https://v.daum.net/v/20230806131736099"/>
+        <updated>2023-08-06T04:19:58.888Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현의 그래서 우리는] 혹자들은 뻔한 신파라고 한다. 하지만 달과 우주를 배경으로 하는, 지금껏 우리네 영화가 시도하지 못했던 분야를 성공적으로 구현해냈고, 무엇보다 영화를 통해 우주를 간접체험하는 듯한 실감나는 시각, 청각 효과로 보는 내내 빠져들게 만드는 이 작품을 '신파'라는 말 한마디로 단정하는 건 어딘가 아쉬운 지점이다. 김용화 감독]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평균 나이 75세, 할머니들이 영화 찍겠다 나선 이유 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230806122403456</id>
+        <link href="https://v.daum.net/v/20230806122403456"/>
+        <updated>2023-08-06T04:19:58.889Z</updated>
+        <content type="html"><![CDATA[[이학후 기자] ▲ &lt;작은정원&gt;&nbsp;영화 포스터ⓒ 아나레스&nbsp; 국제연합(UN)은 만 65세 이상 인구가 전체 인구에서 차지하는 비중이 7% 이상이면 '고령화사회', 14%를 넘으면 '고령사회', 20% 이상이면 '초고령사회'로 분류한다. 통계청 자료에 따르면 우리나라는 지난 2000년 고령화사회(7.2%)에 진입한 뒤 불과 18년 만인 2018년 고령사회(14.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제작비 8배 수익 올려준 48마리의 '돼지배우' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230806115100931</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20230806070034172"/>
         <updated>2023-08-05T22:13:51.346Z</updated>
         <content type="html"><![CDATA[우리나라에서 기부는 언제부턴가 강요되다시피 이뤄진다. 특히 연예인들에게는 심하다 싶을 정도로 대중의 잣대가 높다. 도덕성을 강조하려는 것을 넘어, 팬들의 사랑을 바탕으로 이룬 성공이니 기부가 당연하다는 식이다. 기부 행위를 두고 연예인들을 줄 세우고, 평가하는 것도 이런 논리에서다. 얼마 전, 전국적인 집중호우로 인해 각지에 수재민 구호와 피해 복구를 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["낯선 얼굴, 하나는 깼다" 박보영의 도전 '콘크리트 유토피아' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230806070011141</id>
-        <link href="https://v.daum.net/v/20230806070011141"/>
-        <updated>2023-08-05T22:13:51.348Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 우리가 알던 '뽀블리' 박보영이 아니다. 박보영이 '콘크리트 유토피아'에서 색다른 얼굴로 찾아왔다. 하나씩 천천히, 색다른 모습을 보여주며 관객을 물들이는 배우 박보영의 이야기를 스포티비뉴스가 들어봤다. '콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘유' 이병헌 또 인생 연기…"내 얼굴 나도 놀라" 이유있는 자신감 ② (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230806060030830</id>
-        <link href="https://v.daum.net/v/20230806060030830"/>
-        <updated>2023-08-05T21:13:17.887Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 올 여름 대작 빅4 중 가장 마지막으로 오는 9일 개봉하는 영화 '콘크리트 유토피아'(감독 엄태화)는 최근 언론시사회 직후 극장가 복병에 등극했다. '밀수'의 류승완 감독, '더 문'의 김용화 감독, '비공식작전'의 김성훈 감독은 성수기 상업 영화로 화려한 성공을 거뒀던 전적이 있지만, '콘크리트 유토피아'의 엄태화 감독]]></content>
     </entry>
 </feed>
