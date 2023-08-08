@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-08T03:16:32.712Z</updated>
+    <updated>2023-08-08T04:19:39.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독특 로맨스 '너의 순간', 옥자연x우지현 어떻게 캐스팅 됐나?]]></title>
+        <id>https://v.daum.net/v/20230808123532557</id>
+        <link href="https://v.daum.net/v/20230808123532557"/>
+        <updated>2023-08-08T04:19:38.211Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;독특한 로맨스 '너의 순간'에 배우 옥자연과 우지현이 어떻게 캐스팅됐을까. '너의 순간'(제작 후앤유아츠, 배급 영화로운 형제)을 연출한 이상준 감독은 8일 배급사를 통해 "옥자연과의 작업이 매일매일 즐거웠다"고 회고했다. 연출부 시절 옥자연과 인연을 맺게 됐던 것을&nbsp;계기로, 꾸준히 소통을 해왔던 이 감독은 이후 여러 작품을 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콘유' 엄태화 감독 "아이유 콘서트 영상 작업, 원동력 됐죠"]]></title>
         <id>https://v.daum.net/v/20230808121440216</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230808103722958"/>
         <updated>2023-08-08T02:30:27.283Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 엄정화 주연 '화사한 그녀'가 10월 개봉한다. 영화 '화사한 그녀'(감독 이승준)는 화사한 기술이 주 특기인 전문 작전꾼 지혜(엄정화)가 마지막 큰 판을 계획하면서 의도치 않은(?) 사건에 휘말리게 되는 범죄 오락 영화. 엄정화가 '오케이 마담' 이후 3년 만에 다시 극장으로 컴백한다. 엄정화는 최근 드라마 '닥터 차정숙'과 예능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원, 가짜 퇴마사 된다‥‘천박사 퇴마 연구소’ 9월 개봉]]></title>
-        <id>https://v.daum.net/v/20230808103035654</id>
-        <link href="https://v.daum.net/v/20230808103035654"/>
-        <updated>2023-08-08T02:30:27.284Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 강동원 주연 '천박사 퇴마 연구소: 설경의 비밀'이 추석 개봉한다. 9월 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 영화. '베테랑', '엑시트', '모가디]]></content>
     </entry>
 </feed>
