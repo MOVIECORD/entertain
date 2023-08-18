@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-18T05:15:02.917Z</updated>
+    <updated>2023-08-18T06:20:32.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['또 대박' 난 미야자키 하야오 은퇴작, 스틸컷 공개...'지브리 감성' 물씬 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230818151630236</id>
+        <link href="https://v.daum.net/v/20230818151630236"/>
+        <updated>2023-08-18T06:20:31.988Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 현재 일본에서 상영 중인 미야자키 하야오 감독의 은퇴작 '그대들은 어떻게 살 것인가'의 스틸컷이 드디어 공개됐다. '그대들은 어떻게 살 것인가'는 태평양 전쟁 당시 1944년 일본에서 주인공 마히토가 겪는 일을 다룬다. 지난 7월 14일 상영을 시작, 8월 16일까지 34일간 누적 관객 수 439만 명을 기록하고 있다. 18일 애]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["공개 열애 멋있다"…'달짝지근해' 한선화 밝힌 #연애 #결혼 #연기 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230818135022668</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230818120546583"/>
         <updated>2023-08-18T03:16:42.179Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 한선화(33)가 "진선규 선배 정말 잘생겼다"고 말했다. 한선화가 18일 오전 스포츠조선과 인터뷰에서 로맨스 코미디 영화 '달짝지근해: 7510'(이하 '달짝지근해', 이한 감독, 무비락 제작)으로 제과 회사 사장 병훈 역의 진선규와 로맨스 연기를 펼친 소감을 전했다. '달짝지근해: 7510'은 과자 밖에 모르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한선화 "작품 선택은 인연, '술도녀' 밝은 에너지 이어가고파" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230818120518579</id>
-        <link href="https://v.daum.net/v/20230818120518579"/>
-        <updated>2023-08-18T03:16:42.182Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 한선화(33)가 "작품은 인연이다"고 말했다. 로맨스 코미디 영화 '달짝지근해: 7510'(이하 '달짝지근해', 이한 감독, 무비락 제작)에서 일영(김희선)·석호(차인표)와 연결 고리가 있는 예측불가 과몰입러 은숙을 연기한 한선화. 그가 18일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 '달짝지근해'의 출연]]></content>
     </entry>
 </feed>
