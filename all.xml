@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-27T07:13:27.246Z</updated>
+    <updated>2023-08-27T08:18:40.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[원주시, "제목 변경 없다"는 '치악산' 측에 법적 대응 계획 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230827171523683</id>
+        <link href="https://v.daum.net/v/20230827171523683"/>
+        <updated>2023-08-27T08:18:39.534Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;호러물 ‘치악산’이 내달 13일 극장 개봉을 앞둔 가운데, 이 영화로 인해 지역 이미지가 훼손될 것을 우려한 강원도 원주시 측이 법적 대응을 하겠다는 입장이다. 강원도 원주시 측은 27일 실제 지명을 제목으로 사용한 영화 ‘치악산’에 대해 상영금지 가처분 신청은 물론이고 영화 상영으로 발생할 수 있는 모든 유무형의 피해에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혐오 포스터 삭제 NO→논란 마케팅 '치악산'에 뿔난 원주시, "법적 강력 대응" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230827145901415</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230827100001899"/>
         <updated>2023-08-27T01:12:18.088Z</updated>
         <content type="html"><![CDATA[[조영준 기자] &nbsp;▲ &nbsp;EBS국제다큐영화제 상영작 &lt;사빈 바이스, 한 세기의 기록&gt; 스틸컷ⓒ EBS국제다큐영화제&nbsp; * 주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 01. 2021년 12월 29일, 이 시대의 마지막 휴머니스트 사진작가로 불린 사빈 바이스의 부고 소식이 전해졌다. 로베드 느아노, 윌리 로니스, 앙리 카르티에 브레송 등과 함께 전후 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엘리멘탈’ 기적의 700만...진정한 승자 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230827095702846</id>
-        <link href="https://v.daum.net/v/20230827095702846"/>
-        <updated>2023-08-27T01:12:18.088Z</updated>
-        <content type="html"><![CDATA[이것이 진정 꺾이지 않는 뒷심, 웰 메이드의 가치, 입소문의 위력이다. 디즈니 픽사 애니메이션 ‘엘리멜탈’이 역주행의 역주행을 거듭하며 마침내 700만 고지를 밟았다. 27일 영진위 통합전산망에 따르면, ‘엘리멘탈’은 이날 오전 7시 기준, 누적 관객수 701만 관객을 기록했다. 전날까지 699만 7213명을 기록, 박스오피스도 ‘밀수’를 꺾고 다시금 4위]]></content>
     </entry>
 </feed>
