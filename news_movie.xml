@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-28T10:17:53.924Z</updated>
+    <updated>2023-08-28T11:13:30.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['30일' 강하늘, 제대로 망가진다..너드미 넘치는 찌질남 변신]]></title>
+        <id>https://v.daum.net/v/20230828200959846</id>
+        <link href="https://v.daum.net/v/20230828200959846"/>
+        <updated>2023-08-28T11:13:29.583Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 10월 3일 개봉하는 영화 '30일'(감독 남대중, 제공배급 ㈜마인드마크, 제작 영화사 울림, 공동제작 티에이치스토리)의 강하늘이 역대급 코믹 연기로 올 추석 웃음 제조기 변신을 예고해 기대감을 높인다. 대체 불가 배우 강하늘이 올 추석 극장가의 웃음을 제대로 터트릴 코미디 영화 '30일'로 돌아온다. '30일'은 드디어 D-3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 '치악산' 제목 논란에도 31일 시사회 강행]]></title>
+        <id>https://v.daum.net/v/20230828194923454</id>
+        <link href="https://v.daum.net/v/20230828194923454"/>
+        <updated>2023-08-28T11:13:29.601Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=영화 '치악산''치악산'이 원주시의 항의에도 예정대로 개봉 일정을 이어간다. 영화 제목이 지역 이미지를 훼손한다는 이유로 원주시가 상영 금지 가처분 신청 등 법적 대응에 나서기로 했지만, 제작사 측은 당초 계획했던 대로 31일 오후 언론배급시사회를 진행할 예정이다. '치악산'은 30년 전 의문의 토막 시체가 발견됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙' 강풀 작가 "500억 제작비 부담? 하고 싶은 거 다 했어요"]]></title>
         <id>https://v.daum.net/v/20230828185601459</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230828163100307"/>
         <updated>2023-08-28T08:21:04.857Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '그란 투리스모'가 북미 박스오피스 1위를 기록하며 순항을 알렸다. 27일(현지 시간) 외신 버라이어티는 '그란 투리스모'가  개봉 첫 주말 수익 1730만 달러(한화 약 229억 원)를 달성, 1710만 달러(한화 약 226억 원)를 기록한 '바비'를 간소한 차이로 제쳤다고 보도했다. 하지만 최종 집계가 공개되면 '바비'가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게 멋진 야외상영은 처음"… '팝업 시네마: 무안 무빙' 대성료]]></title>
-        <id>https://v.daum.net/v/20230828162954245</id>
-        <link href="https://v.daum.net/v/20230828162954245"/>
-        <updated>2023-08-28T08:21:04.859Z</updated>
-        <content type="html"><![CDATA[26일 ‘엽기적인 그녀’ 야외상영에 참석한 배우 차태현(왼쪽)이 팬들의 뜨거운 환호를 받으면서 권익현 부안군수(오른쪽)와 입장하고 있다.(사진=김대일 작가)[이데일리 스타in 윤기백 기자] “해외 영화제도 많이 다녀봤지만 이렇게 멋진 야외상영은 처음이다.” 붉은 노을 지는 바닷가 해변, 캠핑 의자에 앉아 ‘청춘’을 이야기한 영화 5편을 함께 본 감독과 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경인 "'택배는 몽골몽골', 고생 많이 해서 '차박' 로망 사라져"]]></title>
-        <id>https://v.daum.net/v/20230828162737169</id>
-        <link href="https://v.daum.net/v/20230828162737169"/>
-        <updated>2023-08-28T08:21:04.863Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 배우 홍경인이 '택배는 몽골몽골'을 다녀온 이후로 여행 로망이 사라졌다고 밝혔다. 홍경인은 28일 서울 롯데시네마 건대입구 열린 영화 '차박' 기자간담회에 참석해 이같이 밝혔다. 홍경인은 "'차박'을 한 번도 안 다녀봐서 가보고 싶었다. 근데 '택배는 몽골몽골'에서 고생을 많이 하고 와서 이후로 편안한 여행 다니자는 생각]]></content>
     </entry>
 </feed>
