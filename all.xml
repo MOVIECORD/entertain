@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-28T11:13:30.443Z</updated>
+    <updated>2023-08-28T12:32:13.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제목 못바꾼다는 '치악산', 최악의 사태 맞나..구룡사 "보이콧 전개" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20230828210941673</id>
+        <link href="https://v.daum.net/v/20230828210941673"/>
+        <updated>2023-08-28T12:32:12.430Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 과연 영화 '치악산'은 제대로 개봉할 수 있을까. 이미지 훼손을 우려해 원주시가 상영 금지 가처분 등 법적조치를 한 가운데, 구룡사 신도회도 개봉 중단을 촉구하고 나섰다. 원주 치악산 구룡사 신도연합은 28일 오후 시청에서 열린 기자회견에서 "원주시와 치악산 국립공원, 구룡사의 이미지를 심각하게 위협하는 영화 '치악산'의 개봉을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['30일' 강하늘, 제대로 망가진다..너드미 넘치는 찌질남 변신 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20230828200959846</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20230828163123323"/>
         <updated>2023-08-28T08:21:04.855Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 그룹 god 출신 배우 데니안이 영화 '차박-살인과 낭만의 밤'에 등장하는 것과 같은 복수를 꿈꿔본 적이 없다고 말했다. 데니안은 28일 오후 서울 광진구 롯데시네마 건대입구에서 열린 영화 '차박- 살인과 낭만의 밤'(감독 형인혁)의 언론배급시사회 및 기자간담회에서 "마흔 중반까지 살았는데 저 정도까지 복수하고 싶었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그란 투리스모', '바비' 추월...시원한 레이싱물 나왔다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20230828163100307</id>
-        <link href="https://v.daum.net/v/20230828163100307"/>
-        <updated>2023-08-28T08:21:04.857Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '그란 투리스모'가 북미 박스오피스 1위를 기록하며 순항을 알렸다. 27일(현지 시간) 외신 버라이어티는 '그란 투리스모'가  개봉 첫 주말 수익 1730만 달러(한화 약 229억 원)를 달성, 1710만 달러(한화 약 226억 원)를 기록한 '바비'를 간소한 차이로 제쳤다고 보도했다. 하지만 최종 집계가 공개되면 '바비'가]]></content>
     </entry>
 </feed>
