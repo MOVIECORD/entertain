@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-03T01:12:12.822Z</updated>
+    <updated>2023-09-03T02:22:00.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오펜하이머', 19일 연속 1위..전 세계 8억 5천만 달러 수익]]></title>
+        <id>https://v.daum.net/v/20230903102355895</id>
+        <link href="https://v.daum.net/v/20230903102355895"/>
+        <updated>2023-09-03T02:21:59.764Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 오펜하이머 / 사진=영화 포스터'오펜하이머'가 19일 연속 박스오피스 1위를 지켰다. 3일 영화진흥위원회 통합전산망에 따르면 전날 '오펜하이머'는 11만 385명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 268만 6427명. '오펜하이머'는 '엘리멘탈', '가디언즈 오브 갤럭시: Volume 3', ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오펜하이머’ 20일 연속 1위… 2위는 ‘타겟’]]></title>
+        <id>https://v.daum.net/v/20230903101256746</id>
+        <link href="https://v.daum.net/v/20230903101256746"/>
+        <updated>2023-09-03T02:21:59.766Z</updated>
+        <content type="html"><![CDATA[영화 ‘오펜하이머’가 20일 연속 박스오피스 1위를 차지했다. 3일 영화진흥위원회 통합전산망에 따르면 ‘오펜하이머’는 전날 11만 385명을 동원해 박스오피스 1위에 올랐다. 누적 관객 수는 268만 6427명이다. 지난달 15일 개봉해 20일째 1위 자리를 지켰다. ‘오펜하이머’는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오펜하이머' 누적 268만 관객 돌파…신혜선 '타겟' 2위]]></title>
         <id>https://v.daum.net/v/20230903085732467</id>
