@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-04T07:15:36.722Z</updated>
+    <updated>2023-09-04T08:21:22.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['잠' 유재선 감독, 개봉 전 메가토크 GV 개최]]></title>
+        <id>https://v.daum.net/v/20230904170746201</id>
+        <link href="https://v.daum.net/v/20230904170746201"/>
+        <updated>2023-09-04T08:21:21.719Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 공포영화 '잠'이 개봉을 하루 앞두고 연출자 유재선 감독과 함께 하는 메가토크 GV를 개최한다. '잠'(감독 유재선, 배급 롯데엔터테인먼트, 제작 루이스픽처스)은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두 사람의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음 세대를 위한, ‘프리 철수 리’]]></title>
+        <id>https://v.daum.net/v/20230904163003654</id>
+        <link href="https://v.daum.net/v/20230904163003654"/>
+        <updated>2023-09-04T08:21:21.720Z</updated>
+        <content type="html"><![CDATA[“나는 천사가 아니다, 그러나 악마도 아니다” 한국 이민사 중에서도 가장 센세이셔널한 것으로 손꼽히는, 50년 전 ‘이철수 사건’을 스크린에서 만난다. ‘프리 철수 리’(감독 하줄리 이성민)는 미국에서 2건의 살인으로 사형을 선고받았던 21살의 한인 이민자 이철수와 그를 구명하기 위해 인생을 걸었던 사람들의 이야기를 담은 다큐멘터리 영화다. 한국 언론에 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['프리 철수 리' 랑코 야마다, "보편적인 주제이자 불공정 상황 속 개인에 관한 이야기"]]></title>
+        <id>https://v.daum.net/v/20230904161602001</id>
+        <link href="https://v.daum.net/v/20230904161602001"/>
+        <updated>2023-09-04T08:21:21.746Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '프리 철수&nbsp;리'의 랑코 야마다는 다큐멘터리가 보편적인 이야기를 다루고 있다고 이야기했다. 4일 서울 광진구 롯데시네마 건대입구에서 영화 '프리 철수&nbsp;리'(감독 하줄리, 이성민)의 기자간담회가 열렸다. 행사에는 하줄리 감독, 이성민 감독, 김수현 프로듀서, 랑코 야마다가 참석했다. '프리 철수&nbsp;리'는 미국에서 2건의 살인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 “데뷔 11년차, 나아진 건 카메라 울렁증·퇴보한 건 젊음이요”]]></title>
         <id>https://v.daum.net/v/20230904161333864</id>
@@ -38,7 +59,7 @@
         <id>https://v.daum.net/v/20230904155706993</id>
         <link href="https://v.daum.net/v/20230904155706993"/>
         <updated>2023-09-04T07:15:35.967Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] '무빙'(Moving)에 담긴 세 가지 의미가 변산 반도의 노을과 만났다. 사람들이 움직이고, 영화가 상영되고, 감동으로 물든 그 순간 'Pop-Up Cinema: Buan Moving'(팝업 시네마: 부안 무빙)이라는 영화 축제의 취지가 비로소 완성됐다. 런던아시아영화제(London East Asia Film Festi]]></content>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] '무빙'(Moving)에 담긴 세 가지 의미가 변산반도의 노을과 만났다. 사람들이 움직이고, 영화가 상영되고, 감동으로 물든 그 순간 'Pop-Up Cinema: Buan Moving'(팝업 시네마: 부안 무빙)이라는 영화 축제의 취지가 비로소 완성됐다. 런던아시아영화제(London East Asia Film Festiv]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓영화 흥행 메이커 귀환…'1947 보스톤' 강제규 감독, 추석 극장가 찾는다]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230904135402438"/>
         <updated>2023-09-04T05:15:17.999Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] * 영화 '잠'과 관련한 약간의 스포일러를 포함하고 있습니다.&nbsp; 가족을 구성하는 한자는 家族(집 가, 겨례 족)을 사용한다. 풀어서 부부(夫婦)를 기초로 하여 한 가정(家庭)을 이루는 사람들을 의미하는 것이다. 아이의 탄생은 부부에서 가족으로 확장되는 일상의 변화로 여겨지기도 한다. 세상 밖으로 고개를 내밀며 우렁찬 소리를 내뿜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엑소시스트: 믿는 자', 두 아이의 몸 차지한 하나의 악마…10월 18일 개봉]]></title>
-        <id>https://v.daum.net/v/20230904133802906</id>
-        <link href="https://v.daum.net/v/20230904133802906"/>
-        <updated>2023-09-04T07:15:35.996Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 호러 명가&nbsp;블룸하우스의 영화 '엑소시스트: 믿는 자'(감독 데이빗 고든 그린)가 메인 포스터를 공개했다. '엑소시스트: 믿는 자'는 블룸하우스가 선사하는 공포의 바이블 ‘엑소시스트’의 새로운 프로젝트로, 두 아이의 몸을 동시에 차지한 악마와 마주한 ‘믿는 자’의 이야기를 담은 영화. 포스터는 신성한 분위기가 흐르는 성당 한가운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다음 소희' 영평상 최우수작품상…류준열·김서형 남우주연상 쾌거]]></title>
-        <id>https://v.daum.net/v/20230904133613851</id>
-        <link href="https://v.daum.net/v/20230904133613851"/>
-        <updated>2023-09-04T05:15:18.004Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배두나, 김시은 주연 영화 ‘다음 소희’(감독 정주리)가 영화평론가들이 뽑은 올해 최고의 작품에 선정됐다. ‘올빼미’ 류준열과 ‘비닐하우스’ 김서형은 각각 남녀주연상을 품에 안았다. 한국영화평론가협회가 주관하는 제43회 한국영화평론가협회상(이하 ‘영평상’) 측은 4일 올해의 수상작(자)들을 발표했다. 최고 영예의 최우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['극장판 엉덩이 탐정' 9월 28일 개봉 확정→메인 예고편 공개]]></title>
-        <id>https://v.daum.net/v/20230904132216436</id>
-        <link href="https://v.daum.net/v/20230904132216436"/>
-        <updated>2023-09-04T07:15:35.999Z</updated>
-        <content type="html"><![CDATA['극장판 엉덩이 탐정: 미스터리 가면 ~최강의 대결'이 전설의 보물 '오파츠'를 둘러싼 최강 엉덩이들의 운명적 대결이 담긴 메인 예고편을 공개했다. [수입: 에스엠지홀딩스 주식회사  배급: NEW  개봉: 2023년 9월 28일] 베일에 싸인 세기의 악당 '시리어티'가 노리는 보물 '오파츠'를 지키기 위해 국제 경찰 원터폴과 수사에 나선 '엉덩이 탐정']]></content>
     </entry>
 </feed>
