@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-17T01:12:58.193Z</updated>
+    <updated>2023-09-17T02:22:49.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘천박사’ 우위 선점하나...‘보스톤’‘거미집’ 벌써 불안]]></title>
+        <id>https://v.daum.net/v/20230917103001524</id>
+        <link href="https://v.daum.net/v/20230917103001524"/>
+        <updated>2023-09-17T02:22:48.522Z</updated>
+        <content type="html"><![CDATA[추석대전을 앞둔 각 주전들의 기싸움, 몸싸움이 치열한 가운데 강동원의 ‘천박사 퇴마 연구소: 설경의 비밀’(이하 ‘천박사’)가 먼저 우위를 선점한듯 하다. 전체 예매율 1위, 안팎의 잡음 없이 가뿐하게 레이스 준비를 모두 마쳤다. 17일 영화진흥위원회 영화관입장권통합전산망에 따르면 한국 스릴러 ‘잠’(감독 유재선)이 박스오피스 왕좌를 독점하고 있는 가운데,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강훈 "무명 시절, 날 사랑하며 버텨..언제나 1번은 배우"]]></title>
+        <id>https://v.daum.net/v/20230917101508306</id>
+        <link href="https://v.daum.net/v/20230917101508306"/>
+        <updated>2023-09-17T02:22:48.523Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 강훈 / 사진=넷플릭스드라마부터 예능까지 종횡무진 활약하고 있는 강훈은 무명 시절, 자신을 사랑하는 마음 하나로 버텼다. 보여준 얼굴보다 보여줄 얼굴이 더 많은 강훈에게 '너의 시간 속으로'는 "초심을 기억하게 될 작품"이다. 최근 서울시 종로구 소격동의 한 카페에서 넷플릭스 시리즈 '너의 시간 속으로'의 배우 강훈과 만나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전'부터 '상영금지 소송'까지···위기의 추석 3파전]]></title>
         <id>https://v.daum.net/v/20230917090030193</id>
@@ -88,12 +102,5 @@
         <link href="https://v.daum.net/v/20230916120157780"/>
         <updated>2023-09-16T03:16:15.035Z</updated>
         <content type="html"><![CDATA[아이즈 ize 김나라 기자같은 아이돌 그룹이라 해도 센터 멤버와 아닌 멤버는 인기가 천지 차이인 게 연예계의 냉혹한 현실이다. (일반인 일명 '머글' 기준으로) 그룹의 멤버 수가 몇이든 불현듯 대표적으로 스쳐 지나가는 얼굴이 한 명 있다는 것만 봐도 알 수 있다. 쥬얼리·EXID·걸스데이로 말하자면 대게 서인영·하니·혜리가 가장 먼저 단박에 떠오를 것이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클리셰 넘치는 '베니스 유령 살인사건'... 그래도 남다른 매력]]></title>
-        <id>https://v.daum.net/v/20230916110901286</id>
-        <link href="https://v.daum.net/v/20230916110901286"/>
-        <updated>2023-09-16T02:20:07.592Z</updated>
-        <content type="html"><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;베니스 유령 살인사건&gt; 스틸컷ⓒ 월트디즈니 컴퍼니 코리아&nbsp; *이 기사에는 영화 스포일러가 있습니다.&nbsp; 탐정 생활을 그만두고 베니스에서 은둔 중인 '에르큘 포와로'(케네스 브래너). 어느 날,&nbsp;오랜 친구이자 베스트셀러 작가인 '아리아드네 올리버'(티나 페이)가 그에게 한 가지 부탁을 건넨다. 유명 강령술사&nbsp;'조이스 레이놀즈'(양자]]></content>
     </entry>
 </feed>
