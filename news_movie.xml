@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-23T20:15:34.030Z</updated>
+    <updated>2023-09-23T21:13:05.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호스트 송강호→게스트 주윤발…'D-10' 부국제, 주목할 스타들]]></title>
+        <id>https://v.daum.net/v/20230924060027810</id>
+        <link href="https://v.daum.net/v/20230924060027810"/>
+        <updated>2023-09-23T21:13:04.295Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 제28회 부산국제영화제(BIFF) 개최가 열흘 앞으로 다가왔다. 오는 10월4일 개막해 13일까지 진행될이번 부산국제영화제는 올해 5월 운영위원장 직제 신설에 따른 인사 이슈, 허문영 전 집행위원장의 성폭력 의혹 등과 관련해 내홍을 겪었다. 이에 남동철 수석프로그래머와 강승아 부집행위원장이 각각 집행위원장과 운영위원장 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘거미집’ 욕망과 광기 사이의 웃픈 줄타기]]></title>
         <id>https://v.daum.net/v/20230924051007606</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230923113902028"/>
         <updated>2023-09-23T03:16:09.940Z</updated>
         <content type="html"><![CDATA[[우현주 기자] *이 글에는 영화 내용이 일부 포함되어 있습니다. &nbsp;▲ "오토라는 남자"&nbsp;"오토라는 남자" 영화 포스터.ⓒ 소니픽처스코리아&nbsp; 안 늙을 줄 알았다. '동안'이란 소리도 꽤 들었고, 학생 때나 지금이나 옷 입는 스타일도 그다지 바뀐 게 없고, 요즘 세대의 취향도 잘 따라간다고 생각했다. 무엇보다 부모님들이 건재하시니 그 앞에서는 여전히 철들지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형인혁 감독 ‘차박’이 해외 배급사로 공개된 까닭은?]]></title>
-        <id>https://v.daum.net/v/20230923113656999</id>
-        <link href="https://v.daum.net/v/20230923113656999"/>
-        <updated>2023-09-23T03:16:09.946Z</updated>
-        <content type="html"><![CDATA[지난 5월 다양한 한국 영화가 칸국제영화제에 초청된 가운데, 칸 필름 마켓에서 저력을 보여준 작품이 있다. 신예 형인혁 감독의 첫 장편 영화 ‘차박-살인과 낭만의 밤’(이하 ‘차박’)이 그것. ‘차박’은 평온한 일상, 사랑하는 아내, 모든 것이 완벽했던 한 남자가 결혼기념일을 맞아 떠난 차박 여행에서 낯선 인기척과 함께 순식간에 악몽 같은 사건에 휘말리게]]></content>
     </entry>
 </feed>
