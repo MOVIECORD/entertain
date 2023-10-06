@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-06T13:21:14.420Z</updated>
+    <updated>2023-10-06T14:16:02.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤여정 "미인 아닌데 배우해…내 처지 빨리 읽었다"]]></title>
+        <id>https://v.daum.net/v/20231006231516378</id>
+        <link href="https://v.daum.net/v/20231006231516378"/>
+        <updated>2023-10-06T14:16:01.383Z</updated>
+        <content type="html"><![CDATA[(부산=뉴스1) 안은재 기자 = 배우 윤여정이 다양한 역할을 맡을 수 있었던 자신의 소신을 밝혔다. 윤여정은 6일 오후 부산 해운대구 센텀서로 KNN타워에서 진행된 제 28회 부산국제영화제 액터스 하우스에서 관객 및 취재진을 만나 이야기를 나눴다. 이 자리에서 윤여정은 영화 '돈의 맛' 중 한 장면을 꼽으며 자신의 성향에 대해 이야기했다. 윤여정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['겨울왕국3' 감독 "놀라운 아이디어에서 비롯됐다"]]></title>
         <id>https://v.daum.net/v/20231006215927514</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231006205653571"/>
         <updated>2023-10-06T12:33:55.755Z</updated>
         <content type="html"><![CDATA[6일 오후 부산 해운대구 KNN 시어터에서는 배우 윤여정의 액터스 하우스가 진행되었다. (부산 해운대=iMBC연예 김경희 기자) 오스카 수상 이후 국내 언론과 인터뷰를 한 적이 없었던 윤여정은 "인터뷰 자리를 피해왔다. 저는 말을 잘 거를 줄을 몰라서 겸연쩍고 제 시대에는 겸연쩍어함이 겸손이라고 배워왔다. 행복한 사고 같은 거라 그에 대해 이야기하는게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정 "인품 없는 사람과는 작업 힘들어, 최고는 정이삭"]]></title>
-        <id>https://v.daum.net/v/20231006205103441</id>
-        <link href="https://v.daum.net/v/20231006205103441"/>
-        <updated>2023-10-06T12:33:55.756Z</updated>
-        <content type="html"><![CDATA[[텐아시아=부산 최지예 기자]배우 윤여정(76)이 정이삭 감독의 인품을 칭찬했다. 6일 오후 2시 부산 해운대구 수영강변대로 KNN 시어터에서 '액터스 하우스, 윤여정'이 열렸다.&nbsp;네이비 재킷에 푸른색 니트, 청바지에 워커를 매치한 윤여정은 내내 여유와 재치가 넘치는 모습으로 자신의 이야기를 전했다. 윤여정은 "인품이 없는 사람은 작업하기 좀 그렇더라"]]></content>
     </entry>
 </feed>
