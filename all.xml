@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-09T06:23:24.220Z</updated>
+    <updated>2023-10-09T07:15:44.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[고윤 “재벌3세→극악무도 킬러→모자란 종칠이… 행복한 한 해” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231009153129929</id>
+        <link href="https://v.daum.net/v/20231009153129929"/>
+        <updated>2023-10-09T07:15:43.291Z</updated>
+        <content type="html"><![CDATA[영화 ‘가문의 영광: 리턴즈’에서 종칠 역을 맡아 관객들에게 큰 웃음을 선사한 고윤이 이번 상반기를 ‘행복한 시간’으로 꼽았다. 고윤은 최근 서울 중구 일간스포츠 사옥에서 진행된 인터뷰에서 “상반기엔 너무 행복했다. 세 편의 작품을 촬영했다”며 웃음을 보였다. 고윤이 촬영한 작품은 영화 ‘가문의 영광: 리턴즈’와 아직 방송 전인 디즈니+ 드라마 ‘화인가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박혜수, '학폭 의혹' 2년만 입장 "수사 진행, 허위사실로 명예훼손" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231009152227763</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231009121505686"/>
         <updated>2023-10-09T03:17:42.765Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;셰이다&gt;를 연출한 누라 니아사리 감독.ⓒ 이선필&nbsp;&nbsp;&nbsp; 이혼과 파혼이란 게 흠이 아닌 시대라지만 불과 수십 년 전, 아니 현재도 한국 여성들에겐 낙인이곤 했다. 여기서 더 나아가 이혼하면 목숨마저 위태로울 수 있는 여성들이 있다. 바로 이란과 그곳 출신이라는 이유로 말이다. 제28회 부산국제영화제 플래시포워드 부문 상영작인 &lt;셰이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수제맥주 끝판왕' 람빅, 영화까지 만든 '맥덕' 감독 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231009115402328</id>
-        <link href="https://v.daum.net/v/20231009115402328"/>
-        <updated>2023-10-09T03:17:42.774Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;람빅, 시간과 열정의 맥주&gt; 스틸 이미지ⓒ (주)마노엔터테인먼트&nbsp; 세계에서 가장 흔한 술, 맥주의 세계는 광대하다 맥주는 소주와 함께 가장 대중적인 술이다. 막걸리나 와인도 상당한 팬 층을 갖고 있지만 위의 둘에는 역부족이다. 그만큼 우리들에게 '술'이라 할 때 제일 먼저 떠오르는 주류인 셈이다. 실제로 맥주의 기원은 고대 이집]]></content>
     </entry>
 </feed>
