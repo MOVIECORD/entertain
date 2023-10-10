@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-10T13:21:03.886Z</updated>
+    <updated>2023-10-10T14:16:01.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화 "엄마 연기 부담 NO…방민아 같은 딸 있었으면"]]></title>
+        <id>https://v.daum.net/v/20231010231002356</id>
+        <link href="https://v.daum.net/v/20231010231002356"/>
+        <updated>2023-10-10T14:16:00.609Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 다채로운 모습으로 활동하는 엄정화가 '화사한 그녀'로 또 다른 웃음을 전한다. 10일 오전 서울 삼청동의 한 카페에서 영화 '화사한 그녀'(감독 이승준)에 출연한 배우 엄정화의 인터뷰가 진행됐다. '화사한 그녀'는 화사한 기술이 주특기인 전문 작전꾼 지혜(엄정화 분)가 마지막 큰 판을 계획하면서 의도치 않은 사건에 휘말리게 되는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전종서 "♥이충현도 몰랐을 걸...내가 액션 하고픈지"]]></title>
         <id>https://v.daum.net/v/20231010205002184</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231010180601886"/>
         <updated>2023-10-10T09:17:03.714Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 겸 감독 조현철의 첫 장편 데뷔작 '너와 나'가 관객과 만난다.&nbsp; 10일 오후 서울 용산구 CGV 아이파크몰에서 영화 '너와 나'의 기자간담회가 진행됐다. 이날 행사에는 연출을 맡은 조현철 감독과 주연 배우 박혜수, 김시은이 참석했다.&nbsp; 영화 '너와 나'는 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를 보내는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["거짓, 바로잡을 것"…'학폭 의혹' 박혜수, 퀴어 영화 '너와 나'로 3년 만에 스크린 컴백]]></title>
-        <id>https://v.daum.net/v/20231010180101715</id>
-        <link href="https://v.daum.net/v/20231010180101715"/>
-        <updated>2023-10-10T13:21:03.022Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 박혜수가 퀴어 영화 '너와 나'로 스크린 컴백했다. 영화 '삼진그룹 영어 토익반' 이후 3년 만이다. 10일 오후 4시 서올 용산구 CGV 아이파크몰에서 영화 '너와 나'(감독 조현철) 언론배급시사회 및 간담회가 열렸다. 조현철 감독, 박혜수, 김시은이 참석했다.&nbsp; 이날 박혜수는 본격적인 간담회 시작에 앞서 "궁금해 하셨을텐]]></content>
     </entry>
 </feed>
