@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T19:13:15.034Z</updated>
+    <updated>2023-10-24T20:17:31.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균이 경찰조사 풀어야 할 2가지 의문과 1가지 궁금증]]></title>
+        <id>https://v.daum.net/v/20231025051402613</id>
+        <link href="https://v.daum.net/v/20231025051402613"/>
+        <updated>2023-10-24T20:17:30.814Z</updated>
+        <content type="html"><![CDATA[첩첩산중이다. 이선균의 마약 의혹을 둘러싼 파장이 일파만파 커지고 있다. 이제 그가 풀어야 할 실타래는 단순 마약 투약 여부만이 아니다. 꼬리에 꼬리를 물고 의혹이 불어나고 있는 상황이다. ◇ 마약 투약 장소와 협박 '진실은?'&nbsp; 사건을 담당하고 있는 인천경찰청 마약범죄수사계는 마약류 관리에 관한 법률 위반 혐의로 이선균을 형사 입건했다고 23일 밝혔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지운 감독 “혼신의 힘 쏟아야 깃털만한 감동줘”]]></title>
         <id>https://v.daum.net/v/20231025041017107</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024180754968"/>
         <updated>2023-10-24T09:17:15.700Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 59회를&nbsp;맞이한&nbsp;대종상영화제가&nbsp;각&nbsp;부문별&nbsp;수상&nbsp;후보를&nbsp;공개했다. 지난&nbsp;20일&nbsp;영화계&nbsp;평단,&nbsp;기자,&nbsp;관계자를&nbsp;망라한&nbsp;9인의&nbsp;예심&nbsp;심사위원들은&nbsp;각&nbsp;부문별&nbsp;본선&nbsp;진출&nbsp;후보작들을&nbsp;선정해&nbsp;대종상영화제&nbsp;위원회에&nbsp;전달했다. 남우주연상&nbsp;후보에는&nbsp;이병헌(콘크리트&nbsp;유토피아),&nbsp;송강호(거미집),&nbsp;류준열(올빼미),&nbsp;임시완(1947보스톤),&nbsp;도경수(더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼례 나라슈퍼 사건에 얽힌 진실···누명의 시간 속에 갇힌 '소년들']]></title>
-        <id>https://v.daum.net/v/20231024180021756</id>
-        <link href="https://v.daum.net/v/20231024180021756"/>
-        <updated>2023-10-24T09:17:15.704Z</updated>
-        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 1999년에 일어난 삼례 나라슈퍼 사건은 새벽 전북 완주군 삼례읍의 나라슈퍼에 3인조 강도가 들어 잠들어 있던 할머니를 살해한 뒤 현금과 패물 등을 털어 달아난 사건이다. 이후 범인을 잡았지만 오랜 시간이 지난 이후 진범이 아니라는 사실이 밝혀졌고 재심을 통해 2016년에 이르러서야 무죄 판결을]]></content>
     </entry>
 </feed>
