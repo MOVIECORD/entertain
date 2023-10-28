@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-28T03:16:26.875Z</updated>
+    <updated>2023-10-28T04:19:14.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미야자키 하야오 신작 '그대들은 어떻게 살 것인가' 3일째 1위]]></title>
+        <id>https://v.daum.net/v/20231028131642376</id>
+        <link href="https://v.daum.net/v/20231028131642376"/>
+        <updated>2023-10-28T04:19:13.620Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '그대들은 어떻게 살 것인가'가 3일째 박스오피스 선두를 달렸다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '그대들은 어떻게 살 것인가'는 전날&nbsp;13만672명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;47만9980명이다. '그대들은 어떻게 살 것인가'는 일본 애니메이션 거장 미야자키]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악' 지창욱 "액션 하기 싫었는데..열정으로 버텨요"]]></title>
         <id>https://v.daum.net/v/20231028120002827</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028060031579"/>
         <updated>2023-10-27T21:13:59.379Z</updated>
         <content type="html"><![CDATA[[TV리포트=김현재 기자] 극장가 최고의 화제작으로 엄청난 관심을 모으고 있는 영화 '서울의 봄'이 티저 예고편을 공개했다.&nbsp;&nbsp; 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 '서울의 봄'이 긴장감 넘치는 티저 예고편을 공개해 눈길을 끌었다. 공개된 티저 예고편은 1979년 12월 12일, 그날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선의 통쾌한 한 방, 이 시대에 필요한 '용감한 시민']]></title>
-        <id>https://v.daum.net/v/20231028000111280</id>
-        <link href="https://v.daum.net/v/20231028000111280"/>
-        <updated>2023-10-27T15:16:53.666Z</updated>
-        <content type="html"><![CDATA['돌아버린 눈' 장착한 이준영, 역대급 악역 완벽 소화 학교 폭력·교권 추락에 던지는 묵직한 메시지 [더팩트｜박지윤 기자] 선을 세게 넘은 악인을 제대로 응징하는 '참교육' 작품이 등장했다. 어쩌면 영화보다 더 무서운 현실일 수 있기에 이런 히어로의 등장이 더욱 반갑게 느껴진다. 불의를 보면 참지 못하는, 통쾌한 현실 히어로 '용감한 시민'이다. 지난]]></content>
     </entry>
 </feed>
