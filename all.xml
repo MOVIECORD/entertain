@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-02T03:17:18.908Z</updated>
+    <updated>2023-11-02T04:19:58.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마블, 흥행 부진에 죽은 아이언맨·블랙 위도우 도로 살린다? (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231102131237711</id>
+        <link href="https://v.daum.net/v/20231102131237711"/>
+        <updated>2023-11-02T04:19:57.171Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 흥행 부진을 겪고 있는 마블이 아이언맨과 블랙 위도우 캐릭터를 부활시킬 수 있다는 보도가 나왔다. 11월 1일(현지시간) 외신 버라이어티, 콜라이더 등에 따르면 마블 스튜디오는 오리지널 어벤져스 앙상블을 부활시킬 가능성에 대한 논의를 진행 중이다. 마블의 전성기를 이끌었던 로버트 다우니 주니어가 아이언맨으로, 스칼렛 요한슨이 블랙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 마블스', 테스트 상영회서 '애매하다' 반응 받아...'비상' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231102121400657</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231102100027459"/>
         <updated>2023-11-02T01:10:51.367Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진='어벤져스: 엔드게임' 포스터마블이 연이은 흥행 부진을 겪고 있는 가운데, 아이언맨부터 블랙위도우까지 흥행의 시작점인 원년 멤버들의 부활을 논의 중인 것으로 알려졌다. 1일(현지시간) 미국 매체 버라이어티는 마블 소식통의 말을 빌려 "마블 영화에 원년 멤버들을 복귀시키려는 논의가 있었다. 여기에는 '어벤져스: 엔드게임']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 마블스', 박서준 출연에도 홍보 '잠잠'…할리우드 파업 뭐길래 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231102095006897</id>
-        <link href="https://v.daum.net/v/20231102095006897"/>
-        <updated>2023-11-02T01:10:51.372Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 박서준의 할리우드 진출작 '더 마블스'가 개봉을 앞둔 가운데 관련 홍보 활동은 '올 스톱' 됐다. MCU(마블 시네마틱 유니버스) 영화 '더 마블스'(감독 니아 다코스타)가 오는 8일 국내 개봉을 확정했다. '더 마블스'는 우주를 지키는 캡틴 마블 '캐럴 댄버스'가 능력을 사용할 때마다 '모니카 램보', 미즈 마블 '카말라]]></content>
     </entry>
 </feed>
