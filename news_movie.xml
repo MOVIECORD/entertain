@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-05T03:18:42.218Z</updated>
+    <updated>2023-11-05T04:19:33.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -102,12 +102,5 @@
         <link href="https://v.daum.net/v/20231104163226973"/>
         <updated>2023-11-04T08:18:51.247Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '더 마블스'가 국내 극장가 전체 예매율 1위에 등극했다.&nbsp; 4일 영화 '더 마블스'(감독 니아 다코스타, 수입/배급 월트 디즈니 컴퍼니 코리아) 측은 전체 예매율 1위에 등극했다고 밝혔다.&nbsp;영화관입장권 통합전산망에 따르면 오늘(4일) 오후 3시 40분 기준으로 '더 마블스'는 예매율 21.6%로 전체 예매율 1위에 올랐다. ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준 “나도 내가 ‘더 마블스’ 나오는 것 신기해, 모든 게 놀랍다”]]></title>
-        <id>https://v.daum.net/v/20231104125100744</id>
-        <link href="https://v.daum.net/v/20231104125100744"/>
-        <updated>2023-11-04T04:19:37.308Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 박서준이 마블 세계관이 일원이 된 소감을 밝혔다. MCU(마블 시네마틱 유니버스) 슈퍼히어로 캡틴 마블의 두 번째 이야기이자 2023년 최고의 블록버스터 더 마블스 '더 마블스'는 ‘박서준과 ‘더 마블스’ 어셈블!’ 영상을 공개했다. 우주를 지키는 히어로 캡틴 마블 ‘캐럴 댄버스’가 능력을 사용할 때마다 ‘모니카 램보’, 미즈]]></content>
     </entry>
 </feed>
