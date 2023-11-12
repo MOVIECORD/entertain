@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-12T05:14:51.866Z</updated>
+    <updated>2023-11-12T06:20:11.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘최악의 악’ 지창욱이 보여준 ‘누아르’의 또 다른 매력 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231112143532171</id>
+        <link href="https://v.daum.net/v/20231112143532171"/>
+        <updated>2023-11-12T06:20:10.820Z</updated>
+        <content type="html"><![CDATA[배우 지창욱이 ‘최악의 악’을 통해 거친 면모를 꺼내 보였다. 그간 보여주지 않았던 얼굴을 꺼낼 수 있어 좋았지만, 지창욱이 ‘최악의 악’을 통해 보여주고 싶은 매력은 이것이 끝이 아니었다. 사각 멜로를 통해 전개되는 또 다른 한 축 역시 섬세하게 그려내면서, 누아르 드라마의 색다른 재미도 느끼게 했다. 디즈니플러스 오리지널 시리즈 ‘최악의 악’은 199]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 호평 터지니 예매율 전체 1위…흥행 청신호 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231112141102797</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231112083850296"/>
         <updated>2023-11-12T01:16:26.438Z</updated>
         <content type="html"><![CDATA[악역은 연기 잘하는 배우에게 맡겨진다. 인성의 못됨에 비례해 악역의 완성도가 정해지지 않는다, 연기력이 좌우한다. 선역은 배우의 인성에 기댄다. 대중이 TV와 신문, 예능과 뉴스, 입소문과 귀동냥 등 여러 채널을 통해 갖게 된 배우의 선한 이미지가 선역에 대한 신뢰도와 설득력을 높인다. 이러한 맥락에서 영화 ‘서울의 봄’(감독 김성수, 제작 하이브미디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호불호 갈린 '더마블스', 4일째 1위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231112082651195</id>
-        <link href="https://v.daum.net/v/20231112082651195"/>
-        <updated>2023-11-12T01:16:26.439Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '더 마블스'가 개봉 4일째 박스오피스 정상을 수성했다. 12일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '더 마블스'는 지난 11일 1469개 스크린에서 13만2882명의 관객을 동원하며 누적관객수 34만3089명을 기록했다. '더 마블스'는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스가 능력을 사용]]></content>
     </entry>
 </feed>
