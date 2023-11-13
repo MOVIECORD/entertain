@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-13T20:15:40.044Z</updated>
+    <updated>2023-11-13T21:15:20.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화계 '핫'하다… '11월 개봉작' 극장가 볼거리 가득]]></title>
+        <id>https://v.daum.net/v/20231114061406566</id>
+        <link href="https://v.daum.net/v/20231114061406566"/>
+        <updated>2023-11-13T21:15:19.657Z</updated>
+        <content type="html"><![CDATA[11월 극장가가 '핫'하다. 이달 말까지 개봉 예정된 영화만 40편, 오는 15일에는 15개의 영화가 개봉된다. 그야말로 볼거리가 가득하다. ━ 8년 만에 돌아온 헝거게임… '헝거게임 : 판엠의 불꽃' 64년 전 이야기 ━ 2015년에 개봉된 '헝거게임 : 더 파이널' 이후 8년 만에 헝거게임 시리즈가 돌아온다. 사진은 '헝거게임: 노래하는 새와 뱀의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조커' 호아킨 피닉스, 이번엔 '나폴레옹'이다...완벽한 몰입감 선사 예정]]></title>
         <id>https://v.daum.net/v/20231114040030407</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113174806097"/>
         <updated>2023-11-13T09:18:09.532Z</updated>
         <content type="html"><![CDATA[[황동환 기자] &nbsp;▲ &nbsp;더 깨끗한 내일을 위해ⓒ 고덕초 영화동화리 ‘소나무’확실히 아이들에게는 주위 사람들을 밝게 하는 마법 같은 힘이 있다.&nbsp; 아이들의 천진난만한 웃음소리에 굳어 있던 어른들의 표정이 부드럽게 풀린다. 뒤돌아서서 방금 범했던 실수를 연발해도 미운 구석이라곤 찾아볼 수 없다. 고덕초등학교 학생들로 구성된 영화동아리 '소나무'가 만든 영상들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교, ‘검은 사제들’ 女버전 ‘검은 수녀들’ 출연 긍정 검토]]></title>
-        <id>https://v.daum.net/v/20231113174538029</id>
-        <link href="https://v.daum.net/v/20231113174538029"/>
-        <updated>2023-11-13T09:18:09.532Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 송혜교가 수녀 역할로 스크린 컴백을 검토 중이다. 소속사 UAA 관계자는 11월 13일 "송혜교가 영화 '검은 수녀들'(가제) 출연을 긍정 검토 중"이라 밝혔다. '검은 수녀들'은 2015년 개봉한 영화 '검은 사제들'의 스핀오프인 것으로 알려졌다. '검은 사제들'은 김윤석과 강동원이 구마 사제로 분해 누적 관객 544만 명을 동원]]></content>
     </entry>
 </feed>
