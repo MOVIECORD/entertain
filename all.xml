@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-20T02:29:50.613Z</updated>
+    <updated>2023-11-20T03:18:10.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['독전2' 기대한 속편 형편없네, 3편은 넣어둬 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231120121727562</id>
+        <link href="https://v.daum.net/v/20231120121727562"/>
+        <updated>2023-11-20T03:18:09.518Z</updated>
+        <content type="html"><![CDATA['탕!' 설원을 뒤흔든 총성과 페이드 아웃. 엔딩 장면이 호기심을 유발하기 충분했다. 누가 총을 들었는지, 그 시간 속 이야기가 공개된다. 관심 속 출발한 영화 '독전2'는 갈피를 잡지 못한 채 힘없이 좌초된 모양새다. 속편 기획의 '아쉬운 예'로 남을 듯하다. '독전2'(감독 백종열)는 2018년 개봉해 520만명을 모은 '독전'의 후속편이다. 전작이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프레디의 피자가게', 개봉 첫 주말 1위…2023 공포영화 중 최고 흥행 속도 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231120111025592</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231120075931740"/>
         <updated>2023-11-19T23:16:29.605Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;설렘을 유발하는 케미스트리와 공감 가득한 스토리로 극장 필람 무비로 등극한 영화 '싱글 인 서울' 측이 언론의 만장일치 호평을 담은 리뷰 포스터를 공개했다. 혼자가 좋은 파워 인플루언서 영호(이동욱 분)와 혼자는 싫은 출판사 편집장 현진(임수정 분)이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린 웰메이드 현실 공감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-2 '서울의 봄' 9일 연속 예매율 1위…예매 관객 10만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231120075237648</id>
-        <link href="https://v.daum.net/v/20231120075237648"/>
-        <updated>2023-11-19T23:16:29.619Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '서울의 봄'이 9일 연속 예매율 1위를 굳건히 지켰다. 20일 영화진흥위원회 통합전산망에 따르면 '서울의 봄'은 이날 오전 7시 기준 예매율 45.5%(예매 관객수 10만604명)을 달성하며 9일 연속 전체 예매율 1위를 수성했다. 이는 '밀수' '콘크리트 유토피아' 등 올해 여름 흥행작들의 사전 예매율과 견줘도]]></content>
     </entry>
 </feed>
