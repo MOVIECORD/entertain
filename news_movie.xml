@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-20T03:18:10.255Z</updated>
+    <updated>2023-11-20T04:20:58.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 김윤석 표 이순신이 더욱 기다려지는 이유]]></title>
+        <id>https://v.daum.net/v/20231120130532510</id>
+        <link href="https://v.daum.net/v/20231120130532510"/>
+        <updated>2023-11-20T04:20:58.133Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 김나라 기자배우 김윤석이 이순신 3부작의 대미를 화려하게 장식한다. 영화 '노량: 죽음의 바다'에서 최후의 전투를 이끄는 성웅 이순신 장군으로 완벽 변신, 2023년 연말 극장가에 흥행 돌풍을 예고했다.'노량: 죽음의 바다'는 김한민 감독의 이순신 3부작 프로젝트의 마지막 작품. 지난 2014년 '명량', 2022년 '한산: 용의 출현'에 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['노잼인간' 임시완의 코믹 '소년시대' 도전기]]></title>
+        <id>https://v.daum.net/v/20231120122324667</id>
+        <link href="https://v.daum.net/v/20231120122324667"/>
+        <updated>2023-11-20T04:20:58.133Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '노잼인간' 임시완의 코믹 도전기다. 쿠팡플레이 새 오리지널 시리즈 '소년시대'(김재환 극본, 이명우 연출) 제작발표회가 20일 오전 서울 강남구 조선팰리스에서 진행됐다. 행사에는 이명우 감독, 임시완, 이선빈, 이시우, 강혜원이 참석했다. '소년시대'는 1989년 충청남도, 안 맞고 사는 게 일생 일대의 목표인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독전2' 기대한 속편 형편없네, 3편은 넣어둬]]></title>
         <id>https://v.daum.net/v/20231120121727562</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231120082503185"/>
         <updated>2023-11-20T01:14:51.511Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 김태리가 영화 '외계+인' 2부를 통해 캐릭터 변신을 이어간다. '외계+인' 2부(감독 최동훈, 제공배급 CJ ENM, 제작 케이퍼필름)는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다.&nbsp; 영화 '아가씨' '1987'부터 드라마 '미스터 션샤인' ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 정우성→정해인, 운명 바뀐 그날 함께한 20인]]></title>
-        <id>https://v.daum.net/v/20231120081703029</id>
-        <link href="https://v.daum.net/v/20231120081703029"/>
-        <updated>2023-11-20T01:14:51.514Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우들의 빈틈없는 열연과 시너지, 탄탄한 스토리와 묵직한 울림으로 뜨거운 호평 속에 기대를 높이고 있는 영화 '서울의 봄' 측이 멀티 캐릭터 포스터와 영상을 공개했다. '서울의 봄'(감독 김성수, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜하이브미디어코프)은&nbsp;1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱글 인 서울' 이동욱x임수정, 만장일치 호평 담은 리뷰 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20231120075931740</id>
-        <link href="https://v.daum.net/v/20231120075931740"/>
-        <updated>2023-11-19T23:16:29.605Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;설렘을 유발하는 케미스트리와 공감 가득한 스토리로 극장 필람 무비로 등극한 영화 '싱글 인 서울' 측이 언론의 만장일치 호평을 담은 리뷰 포스터를 공개했다. 혼자가 좋은 파워 인플루언서 영호(이동욱 분)와 혼자는 싫은 출판사 편집장 현진(임수정 분)이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린 웰메이드 현실 공감]]></content>
     </entry>
 </feed>
