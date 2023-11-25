@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-25T06:20:28.659Z</updated>
+    <updated>2023-11-25T07:14:26.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 황정민→정우성 호평 통했다…개봉 첫 주말 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20231125152819636</id>
+        <link href="https://v.daum.net/v/20231125152819636"/>
+        <updated>2023-11-25T07:14:26.201Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘서울의 봄’이 3일 연속으로 박스오피스 1위를 차지했던 가운데 첫 주말 100만 관객을 돌파했다. 언론시사 호평부터 관객들의 입소문이 통한 결과다. 25일 영진위 영화관입장권 통합전산망 집계를 보면 이날 오후 1시 35분 기준 ‘서울의 봄’은 100만 918명의 누적 관객수를 기록했다. 지난 22일 개봉해 4일 차에 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민시 "김혜수의 청룡 마지막 날, 김혜수랑 찍은 '밀수'로 신인상 감사"]]></title>
         <id>https://v.daum.net/v/20231125151857568</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125122400082"/>
         <updated>2023-11-25T04:19:57.454Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;44회 청룡영화상에서 사회를 맡은 김혜수, 유연석 배우ⓒ KBS화면&nbsp;&nbsp;▲ &nbsp;44회 청룡영화상 최우수작품상 수상 소감을 말하고 있는 &lt;밀수&gt; 제작사 외유내강 강혜정 대표 ⓒ KBS 화면&nbsp; 44회 쳥룡영화상의 주인공은 사회자 김혜수 배우였다. 수상자들은 지난 30년간 사회자로 청룡영화상을 이끈 김혜수 배우에게 감사와 찬사를 건넸고, 축하공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 시대에도 어른이 있다... 이 영화가 던진 선한 충격]]></title>
-        <id>https://v.daum.net/v/20231125121502025</id>
-        <link href="https://v.daum.net/v/20231125121502025"/>
-        <updated>2023-11-25T03:17:18.776Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 세대에 대한 조롱이 문화적 현상처럼 퍼져나간다. 20대부터 40대 초반까지를 포괄하는 MZ세대라는 단어의 용례가 대표적이다. 본래 뜻과는 별개로 사회초년생 중 사회통념이며 조직의 관습에 따르지 않고 제멋대로 행동하는 이들을 가리키는 말로 쓰일 때가 얼마나 많던가. 뒤에 붙는 세대라는 말까지 빼놓고서 "너희 부서 MZ는 어때?"라는 식으로 젊]]></content>
     </entry>
 </feed>
