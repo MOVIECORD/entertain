@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-28T04:20:32.007Z</updated>
+    <updated>2023-11-28T05:16:22.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘빅슬립’ 김영성 “소풍 가는 아이처럼, 매 순간 행복했죠” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231128140304096</id>
+        <link href="https://v.daum.net/v/20231128140304096"/>
+        <updated>2023-11-28T05:16:21.541Z</updated>
+        <content type="html"><![CDATA[배우 김영성(38)에게 첫 장편 주연작 ‘빅슬립’은 설렘 그 자체였다. 김영성은 영화 ‘빅슬립’(감독 김태훈)에서 매서운 눈매를 가진 남자 기영을 연기했다. 김태훈 감독이 10대 청소년을 위한 예술 강사로 일하던 당시의 경험을 녹여낸 ‘빅슬립’은 우연한 계기로 함께 머물게 된 기영(김영성 분)과 길호(최준우 분)가 서로를 구원하고 치유하는 이야기를 그린 작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위시' 아리아나 데보스→크리스 파인, 완벽 목소리 연기 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231128131403659</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231128102254850"/>
         <updated>2023-11-28T02:30:09.896Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 배우 정우성 /사진=지니TV배우 정우성이 스크린과 브라운관을 모두 사로잡으며 봄날을 맞았다. 28일 영화진흥위원회 영화관입장권통합전산망에 따르면 '서울의 봄'(감독 김성수)은 전날 23만9669명의 관객이 관람해 박스오피스 1위를 차지했다. 누적 관객수는 213만 2365명이다. 개봉 전부터 예매율 1위를 기록하며 흥행 질주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄'에 극장의 봄 왔다…2주차에도 하루 24만 '기염' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231128095508546</id>
-        <link href="https://v.daum.net/v/20231128095508546"/>
-        <updated>2023-11-28T01:14:32.377Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '서울의 봄'이 개봉 2주차에도 하루 24만 관객을 모으는 기염을 토했다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '서울의 봄'은 27일 하루 23만9669명을 불러모아 일일 박스오피스 정상을 차지했다. 첫 주말이 지난 2주차 첫 평일임에도 무려 24만 가까운 일일 관객을 기록하며 강력한 흥행 파워를 발]]></content>
     </entry>
 </feed>
