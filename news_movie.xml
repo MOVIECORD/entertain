@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-30T03:17:41.150Z</updated>
+    <updated>2023-11-30T04:20:41.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["반성하고 성장" 3년만 돌아온 '스위트홈2', 형보다 나은 아우 될까]]></title>
+        <id>https://v.daum.net/v/20231130121941515</id>
+        <link href="https://v.daum.net/v/20231130121941515"/>
+        <updated>2023-11-30T04:20:40.671Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 성수동=김나연 기자] 스위트홈 시즌2 / 사진=김창현 기자누가 진정한 '괴물'일까. K-크리처 장르의 새로운 지평을 연 '스위트홈'이 시즌2로 돌아온다. '스위트홈' 시즌2가 재미와 메시지, 두 마리 토끼를 모두 잡고 전편을 뛰어넘는 시리즈로 자리매김할 수 있을까. 30일 서울시 성동구 성수동 에스팩토리에서 넷플릭스 시리즈 '스위트홈' 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당연한 의무"..'스위트홈2' 송강이 밝힌 군 입대→파격 노출 연기]]></title>
         <id>https://v.daum.net/v/20231130121656424</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231130104307416"/>
         <updated>2023-11-30T02:29:25.654Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 어느새 300만 관객이 코 앞이다. 바깥은 한겨울인데, '서울의 봄' 덕분에 극장에 봄이 찾아왔다. '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 작품. 황정민, 정우성, 이성민, 박해준, 김성균 등 연기파 배우들의 빈틈없는 호연으로 전 연령층의 호평을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3일의 휴가' 김해숙 "국민엄마로서 책임감 느껴, 실제로는 집착하는 엄마"]]></title>
-        <id>https://v.daum.net/v/20231130100756850</id>
-        <link href="https://v.daum.net/v/20231130100756850"/>
-        <updated>2023-11-30T01:13:48.869Z</updated>
-        <content type="html"><![CDATA[하늘에서 휴가 온 엄마 ‘복자’와 엄마의 레시피로 백반집을 운영하는 딸 ‘진주’의 이야기를 다룬 힐링 판타지 영화 '3일의 휴가'로 국민엄마의 면모를 보여준 배우 김해숙을 만났다. 늘 일을 해왔던 엄마라 집에서도 백 점짜리 엄마가 아니었다는 김해숙은 그래서 '국민 엄마'라는 호칭이 처음에는 부담스러웠다고 한다. 그렇게 불릴 때마다 죄송한 마음도 있었다지]]></content>
     </entry>
 </feed>
