@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-01T07:15:54.936Z</updated>
+    <updated>2023-12-01T08:22:05.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 “‘스파이더맨4’, 가치 있는 작품이면 참여하겠다”]]></title>
+        <id>https://v.daum.net/v/20231201162706461</id>
+        <link href="https://v.daum.net/v/20231201162706461"/>
+        <updated>2023-12-01T08:22:05.269Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 톰 홀랜드(27)가 마블 히어로 무비 ‘스파이더맨4’ 참여에 대한 입장을 밝혔다. ‘스파이더맨4’는 개발이 한창 진행되다가 미국작가조합의 파업으로 중단됐다가 파업이 끝나면서 다시 논의 되고 있다. 11월 30일(현지시간) 콜라이더에 따르면, 그는 크리틱스 초이스 협회와 기자회견에서 “현재 ‘스파이더맨’ 네 번째 버전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아이고 어렵다” 황정민도 쩔쩔 맨 ‘서울의 봄’ 전두광 변신]]></title>
         <id>https://v.daum.net/v/20231201160944912</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231201134514691"/>
         <updated>2023-12-01T05:17:07.696Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 ‘서울의 봄’이 12·12 군사반란의 긴박한 현장 속에 있었던 5인 캐릭터 탄생 과정을 담은 ‘캐릭터 탄생기’ 영상을 공개해 눈길을 사로잡는다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 ‘서울의 봄’이 12.12 군사반란의 긴박함을 전하는 인물들의 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 "'스파이더맨' 소중해...시즌4 적극적 참여 중"]]></title>
-        <id>https://v.daum.net/v/20231201132130131</id>
-        <link href="https://v.daum.net/v/20231201132130131"/>
-        <updated>2023-12-01T05:17:07.697Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 마블 시리즈에서 스파이더맨 역으로 유명한 톰 홀랜드(27)가 '스파이더맨' 캐릭터에 관한 애정을 드러냈다. 1일(현지 시간) 외신 'collinder'은 톰 홀랜드와의 인터뷰 내용을 공개했다. 이날 톰 홀랜드는 '스파이더맨' 시즌4에 관해 마블과 적극적으로 대화를 나눴다고 밝혔다. 그는 스파이더맨을 매우 소중하게 생각한다며 영화를]]></content>
     </entry>
 </feed>
