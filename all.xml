@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T03:18:05.308Z</updated>
+    <updated>2023-12-01T04:21:06.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이병헌x유아인 '승부', 넷플릭스 공개→다시 극장 개봉 논의 "잠정 보류" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20231201123102262</id>
+        <link href="https://v.daum.net/v/20231201123102262"/>
+        <updated>2023-12-01T04:21:06.280Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 넷플릭스에서 공개될 예정이었던 한국영화 ‘승부’를 극장에서 만나볼 수 있을 전망이다. 1일 OSEN 취재 결과 넷플릭스에서 공개할 계획이었던 ‘승부’는 다시 투자배급사 에이스메이커무비웍스가 배급권을 갖게 된 것으로 전해졌다. 당초 넷플릭스는 에이스메이커무비웍스가 투자배급을 맡은 ‘승부’를 구입해 넷플릭스 오리지널 영화로 전세계에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량' 김윤석→김한민 감독, 7일 무비토크 개최..비하인드 대방출 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20231201121206865</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20231201102654457"/>
         <updated>2023-12-01T02:34:24.443Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우&nbsp;이동휘가 매니지먼트 컴퍼니온과 전속 계약을 체결했다. 1일 컴퍼니온은 이동휘와의 전속 계약 소식을 알리며 "대체불가한 매력을 가진&nbsp;이동휘&nbsp;배우와 함께 할 수 있어 정말 기쁘다"며 "배우가 가진 무한한 아우라를 더 다양한 채널을 통해 뽐낼 수 있도록 전폭적인 지원을 아끼지 않을 예정"이라고 밝혔다. 컴퍼니온은 지난 2021년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3일의 휴가' 김해숙, '뉴스룸'→'미우새' 국민 엄마 뜬다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20231201101738141</id>
-        <link href="https://v.daum.net/v/20231201101738141"/>
-        <updated>2023-12-01T01:20:34.351Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 김해숙이 '뉴스룸'과 '미운 우리 새끼', 그리고 라디오 출연까지 열혈 홍보를 이어간다.&nbsp; 새 영화 '3일의 휴가'(감독 육상효, 제공배급 ㈜쇼박스, 제작 글뫼)의&nbsp;김해숙이 2일(토) JTBC '뉴스룸', 3일(일) SBS '미운 우리 새끼', 그리고 4일(월) 생방송 보이는 라디오로 진행되는 MBC FM4U '정오의 희망]]></content>
     </entry>
 </feed>
