@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-03T06:20:09.048Z</updated>
+    <updated>2023-12-03T07:14:24.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘국민엄마’ 김해숙 “복자, 지금껏 해보지 않은 엄마”]]></title>
+        <id>https://v.daum.net/v/20231203161211378</id>
+        <link href="https://v.daum.net/v/20231203161211378"/>
+        <updated>2023-12-03T07:14:24.291Z</updated>
+        <content type="html"><![CDATA[“아, 나 스트레스 받아.” 죽은 지 3년 째 되는 날 하늘에서 휴가를 받아 딸을 만나러 온 복자(김해숙)가 뒷목을 잡으며  말한다. 미국 캘리포니아에서 잘 나가는 대학 교수로 사는 줄만 알았던 딸 진주(신민아)가 모든 걸 때려치우고 고향에 내려와 백반집을 하는 모습에 입에서 험한 말이 절로 튀어나온다. 지난달 29일 서울 종로구 한 카페에서 만난 배우 김]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저 하늘에서 110번째 영화 만들까…김수용 감독 별세]]></title>
+        <id>https://v.daum.net/v/20231203160947339</id>
+        <link href="https://v.daum.net/v/20231203160947339"/>
+        <updated>2023-12-03T07:14:24.292Z</updated>
+        <content type="html"><![CDATA["  한 마디로 충무로의 신사, 인격 있는 예술가였다. 술을 많이 드셨지만 주정하는 법이 없었고, 책을 좋아하셨다.  " 3일 별세한 김수용 감독에 대한 정지영(77) 감독의 회고다. 김수용 감독 연출부로 충무로에 들어간 정 감독은 중앙일보와의 통화에서 “평소에 ‘영화감독은 경험이 많아야 하는데 우리가 몸이 하나이니 경험을 많이 할 수 없잖니, 책을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소신발언의 아이콘’ 정우성, “박근혜 나와”→동료배우들에 “극장서 영화 봐?” 쓴소리]]></title>
         <id>https://v.daum.net/v/20231203130230529</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231203090102108"/>
         <updated>2023-12-03T01:17:43.121Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 감히 배우 김해숙의 대표작을 압축하는 일이 가능이나 할까. 1975년 MBC 7기 공채 탤런트로 처음 연기를 시작한 김해숙은 영화와 드라마 통틀어 약 150편이 넘는 작품에 참여했으며 데뷔 50년 차를 맞이했다. 내가 기억하는 그녀의 첫인상은 이미 배우 김혜자와 고두심과 함께 '국민 엄마'라는 타이틀이 붙은 이후였다. 왠지 마음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사채소년' 황동석 감독, 알고보니 배우 출신 "26살, 부친상 이후..."]]></title>
-        <id>https://v.daum.net/v/20231203085024904</id>
-        <link href="https://v.daum.net/v/20231203085024904"/>
-        <updated>2023-12-03T01:17:43.121Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) ([엑's 인터뷰②]에 이어) '사채소년' 황동석 감독이 배우 출신의 과거를 밝혔다. '사채소년'을 통해 첫 상업 장편영화에 도전한 황동석 감독은 배우로 활동하기도 했다. 연극 무대에 오르기도 했던 황 감독은 "그러다 보니 배우 입장을 조금 더 아는 것 같다. 대단한 게 아니라 배우들이 작품에 어떤 식으로 접근하는지 안다. 모르면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사채소년' 감독 "유선호·강미나, 애늙은이 성향…연기 열정에 놀라"]]></title>
-        <id>https://v.daum.net/v/20231203085014901</id>
-        <link href="https://v.daum.net/v/20231203085014901"/>
-        <updated>2023-12-03T01:17:43.122Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) ([엑's 인터뷰①]에 이어) 황동석 감독이 '사채소년' 배우들의 캐스팅 과정을 밝히며, 이들의 연기 열정에 감탄했다. 지난달 22일 개봉한 '사채소년'(감독 황동석)은 유선호, 강미나의 스크린 데뷔작이다. 드라마 '복수가 돌아왔다', '언더커버', '소녀의 세계2', '닥터로이어', '슈룹' 등을 통해 연기력을 인정받은 유선호는]]></content>
     </entry>
 </feed>
