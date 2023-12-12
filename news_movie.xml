@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-12T02:30:25.298Z</updated>
+    <updated>2023-12-12T03:18:21.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12.12 맞은 ‘서울의 봄’ 무대인사에 ‘특전사’ 정해인도 함께]]></title>
+        <id>https://v.daum.net/v/20231212115203360</id>
+        <link href="https://v.daum.net/v/20231212115203360"/>
+        <updated>2023-12-12T03:18:20.839Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 12월 12일, '서울의 봄' 주역들이 무대인사를 통해 관객을 만난다. 정해인도 함께다. 영화 '서울의 봄'(감독 김성수)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 작품이다. 12일인 이날 정우성과 이성민, 김성수 감독이 CGV 용산아이파크몰에서 개봉 4주차에도 극장을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["실망X피해 안겨 죄송"…'마약 상습 투약' 유아인, 첫 재판 출석→혐의 인정 질문 無대응]]></title>
+        <id>https://v.daum.net/v/20231212113729832</id>
+        <link href="https://v.daum.net/v/20231212113729832"/>
+        <updated>2023-12-12T03:18:20.840Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 마약 상습 투약 혐의를 받고 있는 배우 유아인이 첫 재판에 출석해 다시 한번 고개를 숙였다. 12일 오전 10시 서울중앙지법 형사합의25-1부(박정길 박정제 지귀연 부장판사)는 마약류관리법 위반(향정), 대마 흡연 및 교사, 증거인멸 교사, 의료법 위반, 사기 등 혐의로 불구속 기소된 유아인과 함께 혐의를 받고 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스위트홈2' 고민시 "송강·진영과 삼각관계? 시즌3서 결론 날 것"]]></title>
         <id>https://v.daum.net/v/20231212113009517</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231212100615298"/>
         <updated>2023-12-12T01:14:51.917Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 영화 '노량: 죽음의 바다'가 오늘(12일) 오후 2시, 언론시사회를 통해 첫 공개되는 가운데, 관전 포인트를 공개했다. # 동아시아 최대 해상전투 노량해전의 스케일을 온 몸으로 느낀다! 올겨울 최고의 쾌감으로 극장가를 압도할 '노량: 죽음의 바다'는 동아시아 최대 해상 전투로 손꼽히는 노량해전을 다룬 영화. 이미 '명량']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이순신 트릴로지’의 대미, ‘노량:죽음의 바다’ 제작발표회]]></title>
-        <id>https://v.daum.net/v/20231212094804586</id>
-        <link href="https://v.daum.net/v/20231212094804586"/>
-        <updated>2023-12-12T01:14:51.922Z</updated>
-        <content type="html"><![CDATA[12일에도 다채로운 연예계의 행사들이 독자들을 찾아간다. 김한민 감독의 ‘이순신 3부작’ 중 대미를 장식할 영화 ‘노량:죽음의 바다’가 12일 오후 2시 서울 송파구 롯데시네마 롯데월드점에서 열린다. 이 자리에는 연출을 맡은 김한민 감독을 비롯해 배우 김윤석, 백윤식, 정재영, 허준호, 김성규, 이규형, 이무생, 최덕문, 안보현, 박명훈, 박훈, 문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열·천우희·박정민 '더 에이트 쇼', 내년 넷플릭스 공개]]></title>
-        <id>https://v.daum.net/v/20231212094312392</id>
-        <link href="https://v.daum.net/v/20231212094312392"/>
-        <updated>2023-12-12T01:14:51.922Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=류준열(씨제스스튜디오), 천우희(에이치앤드엔터테인먼트), 박정민(샘컴퍼니), 이열음(나무엑터스), 박해준(플레오이엔티), 이주영, 배성우(아티스트컴퍼니), 문정희(에이스팩토리)넷플릭스(Netflix)가 한재림 감독의 첫 시리즈 연출작으로 화제를 모은 'The 8 Show'(더 에이트 쇼)를 전세계 190여 개국에 공개한다.]]></content>
     </entry>
 </feed>
