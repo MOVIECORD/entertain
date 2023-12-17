@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-17T03:17:24.434Z</updated>
+    <updated>2023-12-17T04:20:16.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -102,12 +102,5 @@
         <link href="https://v.daum.net/v/20231216160633752"/>
         <updated>2023-12-16T07:14:27.016Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 '노량: 죽음의 바다'가 대한민국 해군2함대 시사회를 시작으로 본격적인 이순신 로드 출항을 알렸다. '노량: 죽음의 바다'가 뜨거운 최초 시사회 반응을 얻고 있는 가운데 드디어 본격적인 입소문 시사회에 돌입했다. 15일 오후 해군2함대사령부 충무관에서 영화 '노량: 죽음의 바다'를 상영, 해군 장병과 영화 출연진이 함께하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[800만 넘긴 ‘서울의 봄’, 스코어 향한 질주]]></title>
-        <id>https://v.daum.net/v/20231216131606406</id>
-        <link href="https://v.daum.net/v/20231216131606406"/>
-        <updated>2023-12-16T04:19:48.971Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 무려 개봉 25일 째 톱이다. '서울의 봄'(감독 김성수)이 관객 800만 명을 거뜬히 넘기며, 최종 스코어에 기대가 모인다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면, 지난달 22일 개봉한 '서울의 봄'(감독 김성수)은 이날 0시 기준 누적 관객 수 818만5411명 관객을 불러 모았다. 이는 올해 '범죄도시3'(]]></content>
     </entry>
 </feed>
