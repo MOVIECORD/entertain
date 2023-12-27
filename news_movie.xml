@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-27T08:20:41.262Z</updated>
+    <updated>2023-12-27T09:16:23.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낯선 여행지에서 이어진 인연, 어디까지 계속될까]]></title>
+        <id>https://v.daum.net/v/20231227175400847</id>
+        <link href="https://v.daum.net/v/20231227175400847"/>
+        <updated>2023-12-27T09:16:23.374Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] &nbsp;▲ &nbsp;영화 &lt;이어지는 땅&gt; 관련 이미지.ⓒ 5시55분&nbsp; 여행이든 유학이든 또다른 목적이든 타지에서의 생활은 일상에서 분명한 자극이 된다. 더욱이 현지에서 같은 나라 사람을 만날라치면 평소보다 더욱 반가운 마음이 드는 건 자연스러운 일일 것이다. 그 여행의 설렘. 타지에서의 외로움과 고독감을 소재로 한 영화가 새해 첫 달 개봉을 앞두고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약혐의’ 이선균 사망, “3차례 경찰소환·녹취록 공개에 압박 심했을 것”]]></title>
         <id>https://v.daum.net/v/20231227162553114</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231227133159956"/>
         <updated>2023-12-27T05:15:49.707Z</updated>
         <content type="html"><![CDATA[아이즈 ize 김나라 기자최동훈 감독의 '외계+인' 2부가 업그레이드된 볼거리로 설욕전을 치를 만반의 준비를 끝마쳤다.&nbsp;영화 '외계+인' 2부는 지난 2022년 개봉한 '외계+인' 1부의 후속작이다. 고려 시대와 현대, 인간과 외계인이 어우러진 독착정인 세계관의 SF 판타지 액션물. 특히 이 프로젝트는 총 제작비 약 700억 원이 투입된 초대형 블록버스터다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 사망, 소속사 측 "비통한 심정…장례 조용하게 치를 것"]]></title>
-        <id>https://v.daum.net/v/20231227131911622</id>
-        <link href="https://v.daum.net/v/20231227131911622"/>
-        <updated>2023-12-27T05:15:49.708Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 마약 투약 혐의로 경찰 조사를 받던 배우 이선균이 사망한 가운데 소속사 측이 입장을 밝혔다. 이선균의 소속사 호두유앤유엔터테인먼트 측은 27일 “안타까운 소식을 전하게 되어 죄송합니다. 이선균 배우가 12월 27일 세상을 떠났습니다”라고 이선균의 사망 소식을 전했다. 이어 소속사 측은 “비통하고 참담한 심정을 가눌 길이 없습]]></content>
     </entry>
 </feed>
