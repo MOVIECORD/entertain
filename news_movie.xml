@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-31T01:18:09.291Z</updated>
+    <updated>2023-12-31T02:29:25.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CNN “故 이선균, 경찰이 마약실적 압박받는 상황에서 사망” 집중조명]]></title>
+        <id>https://v.daum.net/v/20231231102710127</id>
+        <link href="https://v.daum.net/v/20231231102710127"/>
+        <updated>2023-12-31T02:29:24.914Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 유력 언론매체 CNN이 배우 이선균 사망과 관련, 한국 경찰의 마약 실적에 대한 압박을 언급했다. CNN은 지난 29일(현지시간) “이선균은 한국의 보수적인 정부가 마약 단속을 강화하고 경찰이 실적을 내야 한다는 압박을 받고 있는 상황에서 불법 마약 사용 혐의로 조사를 받던 중 사망했다"고 보도했다. 이어 “한국은 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 극장가 어떨까? 봉준호 박찬욱 큰 게 온다]]></title>
         <id>https://v.daum.net/v/20231231100008698</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231231000049083"/>
         <updated>2023-12-30T15:15:44.266Z</updated>
         <content type="html"><![CDATA['명량'·'한산'·'노량'으로 '이순신 3부작' 성공적으로 마무리 "이순신 장군의 정신을 리마인딩 하고 싶었다" [더팩트｜박지윤 기자] "천행(天幸)이었다". 장장 10년에 걸친 프로젝트를 무사히 끝낸 김한민 감독이 내뱉은 첫 마디였다. 이순신 장군의 위대함을 스크린에 고스란히 옮기며 지금을 살아가고 있는 관객들에게 위로와 희망의 메시지를 전하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“故 이선균 피의사실 공표 깊은 유감” 한국영화감독조합, 심적 부담감과 절망감 이루 헤아릴 수 없어]]></title>
-        <id>https://v.daum.net/v/20231230222227473</id>
-        <link href="https://v.daum.net/v/20231230222227473"/>
-        <updated>2023-12-30T14:14:33.832Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]한국영화감독조합이 안타깝게 세상을 떠난 故 이선균을 추모했다. 한국영화감독조합은 30일 "배우의 소임은 한 인간이 자신이 온몸으로 겪고 느낀 것들을 켜켜이 마음 한 곁에 쌓아두었다가 카메라 앞에 그간의 삶을 바쳐 꺼내어 놓는 일이 아닐까 한다. 이것만으로도 그는 이미 자기의 소임을 다했다"고 밝혔다. 이어 "감독에게 배우란]]></content>
     </entry>
 </feed>
