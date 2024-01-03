@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-03T05:16:30.429Z</updated>
+    <updated>2024-01-03T06:21:57.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['마인크래프트' 실사 영화 나온다...주인공은 잭 블랙 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240103144730174</id>
+        <link href="https://v.daum.net/v/20240103144730174"/>
+        <updated>2024-01-03T06:21:56.978Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유소연 기자] '잭 형'으로 국내에서도 많은 사랑을 받는 할리우드 배우 잭 블랙(Jack Black)이 마인크래프트 실사 영화에 캐스팅돼 기대를 모으고 있다. 지난 2일(현지 시간) 미국 매체 데드라인의 보도에 따르면 마이크로소프트·모장에서 마인크래프트 장편 영화가 곧 제작될 예정이며, 잭 블랙은 스티븐 역을 맡는다. 제작에는 위너 브라더스(W]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄', 1200만 찍고 어디까지 가나 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240103141924704</id>
+        <link href="https://v.daum.net/v/20240103141924704"/>
+        <updated>2024-01-03T06:21:56.979Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 1200만 고지를 넘어선 영화 ‘서울의 봄’의 최종 누적 관객수에 관심이 쏠린다. 28일 간 일별 박스오피스 1위를 유지하다가 2위로 안착, 관객들의 선택을 받고 있기 때문이다. 멈출 기세를 보이지 않는 ‘서울의 봄’이 기록할 역대 흥행 순위가 어떠할지 궁금하다. 3일 영진위 영화관입장권 통합전산망 집계를 보면 ‘서울의 봄’은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄2'→'글래디에이터2', 올해도 치열한 할리우드 속편 전쟁 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240103141135445</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20240103103905318"/>
         <updated>2024-01-03T02:27:10.186Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자]파라마운트+가 OTT 중 국내 최초로 '트랜스포머' 7번째 시리즈를 공개한다. 이와 함께 메디컬 드라마 '스카이메드' 시즌2부터 'NCIS'의 첫 인터내셔널 시리즈까지 선보일 예정이다. 항공 구급 이송팀 강렬한 여정, '스카이메드' 시즌2 '스카이메드'는 캐나다 북부 변방의 항공 구급 이송팀 신입 간호사와 조종사들이 겪는 성공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인' 2부, 대단원 마무리…기상천외 볼거리 터진다 '관전포인트 셋' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240103101946549</id>
-        <link href="https://v.daum.net/v/20240103101946549"/>
-        <updated>2024-01-03T02:27:10.187Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 독창적인 세계관 속 매력적인 캐릭터들의 눈부신 시너지와 역대급 스케일의 볼거리를 선사할 영화 ’외계+인’ 2부가 관람 포인트 세 가지를 공개해 이목이 집중된다. ‘외계+인’ 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 첫 번째 관람 포인트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량', 379만 돌파→'서울의 봄' 역대 韓 영화 매출 4위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240103100912098</id>
-        <link href="https://v.daum.net/v/20240103100912098"/>
-        <updated>2024-01-03T01:13:03.794Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 노량: 죽음의 바다, 서울의 봄 / 사진=영화 포스터'노량: 죽음의 바다'가 박스오피스 1위를 유지한 가운데, '서울의 봄'이 장기 흥행을 이어가고 있다. 3일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 '노량: 죽음의 바다'는 7만 971명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 379만 93]]></content>
     </entry>
 </feed>
