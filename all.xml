@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T20:18:38.077Z</updated>
+    <updated>2024-01-22T21:16:22.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[홍상수♥김민희, 또 베를린영화제 간다…'여행자의 필요' 공식 초청 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240123061418962</id>
+        <link href="https://v.daum.net/v/20240123061418962"/>
+        <updated>2024-01-22T21:16:21.642Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 홍상수 감독의 31번째 신작 영화 '여행자의 필요'가 제74회 베를린국제영화제 경쟁부문에 공식 초청됐다. 22일 해외 배급사인 ㈜화인컷에 따르면 베를린국제영화제 집행위원회는 기자회견을 통해 홍상수 감독 신작 '여행자의 필요'의 장편 경쟁부문 공식 초청을 발표했다. 이는 홍상수 감독의 전작들 '도망친 여자', '인트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라미란이라서 가능했던 '시민덕희' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240123000051051</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240122171509668"/>
         <updated>2024-01-22T08:23:25.933Z</updated>
         <content type="html"><![CDATA[새하얀 설원 위에서 피를 흘리며 죽음을 맞이한 한 남자. 자택에서 떨어진 것으로 추정되지만 이를 제대로 본 이는 없었다. 시각장애를 지닌 아들과 안내견이 그를 발견했을 뿐. 부검 결과도 남자의 추락사가 자살인지, 타살인지, 사고인지 이야기해주지 않았다. 그는 왜 추운 한겨울, 그곳에서 더 차갑게 식어버린 걸까. 오는 31일 개봉하는 영화 '추락의 해부'는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 외신도 ‘사운드 오브 프리덤’ 한국개봉 주목 “제작비 1700% 대박” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240122171439638</id>
-        <link href="https://v.daum.net/v/20240122171439638"/>
-        <updated>2024-01-22T08:23:25.934Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 북미 박스오피스에서 흥행 대박을 터뜨린 인디 영화 '사운드 오브 프리덤'이 오는 2월 21일 국내 개봉하는 가운데, 외신도 이를 주목하고 있다. 미국 영화 전문 매체 버라이어티는 1월 19일(현지시간) 국내서 '사운드 오브 프리덤'(감독 알레한드로 몬테베르데)이 개봉한다는 사실을 주요하게 보도했다. 해당 매체는 '사운드 오브 프리덤]]></content>
     </entry>
 </feed>
