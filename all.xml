@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T03:18:40.440Z</updated>
+    <updated>2024-01-24T04:21:31.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['오펜하이머', 96회 아카데미 13개 최다후보..'패스트 라이브즈' 작품상·감독상 후보 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240124123508727</id>
+        <link href="https://v.daum.net/v/20240124123508727"/>
+        <updated>2024-01-24T04:21:31.006Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]크리스토퍼 놀란 감독의 '오펜하이머'가 제96회 아카데미 최다후보가 됐다. 한국계 셀린 송 감독의 '패스트 라이브즈'는 작품상 감독상 후보에 지명됐다. 23일 오후(한국시간, 현지시간 23일 오전) 유튜브를 통해 제96회 아카데미 시상식 최종 후보가 발표된 가운데 크리스토퍼 놀란 감독의 '오펜하이머'가 최다 13개 부문 후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘열대야’ 우도환X장동건→이혜리, 태국 방콕서 크랭크인 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240124121648480</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240124102709256"/>
         <updated>2024-01-24T02:32:04.172Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 동명의 인기 네이버웹소설을 원작으로 한 영화 '전지적 독자 시점'이 이민호, 안효섭, 채수빈, 신승호, 나나, 박호산, 최영준, 지수 등 캐스팅을 확정했다. 영화 '전지적 독자 시점'은 10년 동안 연재된 소설처럼 멸망해버린 현실에서 유일하게 결말을 알고 있는 김독자(안효섭)가 소설 속 주인공 유중혁(이민호)과 함께 세상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소풍' 임영웅, ‘모래 알갱이’ 음원 수익 전액 기부.."영웅시대 이름으로" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240124101119471</id>
-        <link href="https://v.daum.net/v/20240124101119471"/>
-        <updated>2024-01-24T01:16:41.182Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;2월 7일 설 연휴 개봉을 앞두고 영화 '소풍'(제작: ㈜로케트필름 | 공동제작: ㈜콘텐츠파크엔터테인먼트, 청년필름㈜, ㈜에스크로드 | 배급: 롯데엔터테인먼트 | 제공: 롯데엔터테인먼트, ㈜에스크로드, (주)로케트필름 | 감독: 김용균)의 제작사인 로케트필름과 부산영상위원회가 부산연탄은행이 후원하는 독거 어르신 초청 특별 시사회]]></content>
     </entry>
 </feed>
