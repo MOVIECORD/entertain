@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-27T05:14:48.130Z</updated>
+    <updated>2024-01-27T06:18:52.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최민식→이도현 '파묘', 파묘파탈 신선한 팀워크 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240127141552751</id>
+        <link href="https://v.daum.net/v/20240127141552751"/>
+        <updated>2024-01-27T06:18:51.848Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '파묘'가 개성 넘치는 캐릭터들이 만들어낸 '파묘파탈' 파트너 스틸을 공개해 호기심을 끌어올린다. '파묘'(감독 장재현, 제공배급 ㈜쇼박스, 제작 ㈜쇼박스・㈜파인타운 프로덕션, 공동제작 ㈜엠씨엠씨)는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화다. 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈 ‘탑건3’ 제작 취소될 듯, 감독 “36년후에 가능” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240127141225728</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240127092605514"/>
         <updated>2024-01-27T01:08:47.980Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '시민덕희'(감독 박영주)가 3일 연속 박스오피스 1위를 기록했다. 27일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '시민덕희'는 전날 6만6914명의 관객을 동원하며 박스오피스 1위 자리에 올랐다. 누적 관객수는 20만8460명이다. 지난 24일 개봉한 '시민덕희'는 개봉 첫 날 바로 박스오피스 1위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘황야’ 마동석표 액션의 한계를 보다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240127090206238</id>
-        <link href="https://v.daum.net/v/20240127090206238"/>
-        <updated>2024-01-27T01:08:47.985Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 포스트 아포칼립스 세계관 속에서 펼쳐지는 캐릭터 플레이와 적재적소에서 터지는 유머들이 시간 가는 줄 모르고 영화에 빠져들게 만든다. 다만 긴장감은 없고 타격감만 남은, 마동석표 액션의 한계를 보는 듯한 액션신이 아쉬움을 남긴다. ‘황야’의 이야기다. 넷플릭스 영화 ‘황야’(감독 허명행)는 폐허가 된 세상, 오직 힘이 지배하는]]></content>
     </entry>
 </feed>
