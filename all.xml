@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-10T01:07:17.417Z</updated>
+    <updated>2024-02-10T02:19:35.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘소풍’ 나문희 “남편과 ‘백만송이 장미’처럼 사랑했죠” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240210103304546</id>
+        <link href="https://v.daum.net/v/20240210103304546"/>
+        <updated>2024-02-10T02:19:35.064Z</updated>
+        <content type="html"><![CDATA[‘국민 할머니’라 불리는 배우 나문희(83)는 “날개 달고 연기하다 죽어도 되는 팔자”라며 “나에게 주어진 것에 대해 시키면 또 해보는 것”이라며 여전히 뜨거운 연기 열정을 뽐냈다. 영화 ‘소풍’(감독 김용균)은 절친이자 사돈 지간인 두 친구가 60년 만에 함께 고향 남해로 여행을 떠나며 16살의 추억을 다시 마주하게 되는 이야기다. 노년의 삶과 노인 문제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나문희 "김영옥과 우정 유지 비결? 서로 '경우 지키기'" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240210100102171</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240209222103026"/>
         <updated>2024-02-09T14:14:23.100Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 데미 무어(61)가 영화 ‘사랑과 영혼’(1990)에서 호흡을 맞췄던 故 패트릭 스웨이즈를 회상했다. 그는 지난 6일(현지시간) ‘더 드류 베리모어 쇼’에 출연해 영화 ‘사랑과 영혼’ 촬영장에서 스웨이지와 함께 만든 점토 모형을 아직도 갖고 있다고 말했다. ‘사랑과 영혼’은 불의의 사고로 목숨을 잃은 샘(패]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헤일로’ 시즌2, 로튼토마토 신선도 93% 극찬 “맥박이 뛰고 강렬하다” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240209195651200</id>
-        <link href="https://v.daum.net/v/20240209195651200"/>
-        <updated>2024-02-09T11:14:40.998Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]SF 블록버스터 '헤일로' 시즌2가 8일 티빙 ‘파라마운트+ 브랜드관’에서 첫 공개된 가운데 전 세계 평단의 극찬이 쏟아졌다. 9일 영화비평사이트 로튼토마토에 따르면, ‘헤일로’ 시즌2의 신선도 지수는 무려 93%에 달한다. 시즌1의 70%를 훌쩍 뛰어넘는 수치다. 인버스는 “새 시즌은 더 많은 액션과 인상적인 연출, 인]]></content>
     </entry>
 </feed>
