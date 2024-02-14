@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-14T04:19:41.641Z</updated>
+    <updated>2024-02-14T05:16:10.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['건국전쟁'→'길위에 김대중'… 총선 앞두고 정치 다큐 붐 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240214132312549</id>
+        <link href="https://v.daum.net/v/20240214132312549"/>
+        <updated>2024-02-14T05:16:10.159Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 전직 대통령들을 주인공으로 내세운 정치 다큐멘터리 영화가 극장가에서 붐을 일으키고 있다. 이승만 초대 대통령의 업적을 다룬 영화 ‘건국전쟁’(감독 김덕영)과 김대중 전 대통령의 삶의 궤적을 조명한 ‘길위에 김대중’(감독 민환기)이 대표적이다. 정치권과 지지세력들을 중심으로 오는 4월 총선 선거철을 앞두고 여권과 야권을 각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킬쇼' 서현우 "금니+장발 빌런, 기시감 들지 않게 노력했죠" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240214122021452</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240214090505119"/>
         <updated>2024-02-14T01:10:11.229Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 연인의 감성을 포스터에 모두 담았다.  애틋한 눈빛 그리고 서정적인 분위기의 색감이 관객들을 매료시킬 것으로 보인다.  CJ ENM과 미국 할리우드 스튜디오 A24가 공동으로 투자배급하는 영화 '패스트 라이브즈'(PAST LIVES)가 오는 3월 6일 개봉을 앞두고 독보적인 감성을 예고하는 메인 포스터, 인연 포스터 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희' 21일만에 150만 돌파→우디네극동영화제 경쟁 섹션 초청 '쾌거' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240214085502782</id>
-        <link href="https://v.daum.net/v/20240214085502782"/>
-        <updated>2024-02-14T01:10:11.229Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 범죄 수사 영화 '시민덕희'(박영주 감독, 씨제스스튜디오·페이지원필름 제작)가 개봉 21일 만에 150만 관객을 동원한데 이어 제26회 우디네극동영화제 경쟁 섹션에 초청돼 화제를 모았다. 지난 설 연휴 기간 동안 한국 영화 박스오피스 1위를 수성하고 흥행 역주행 신드롬의 주인공이 된 '시민덕희'가 지난 13일 영화관]]></content>
     </entry>
 </feed>
