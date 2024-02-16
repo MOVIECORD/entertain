@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-16T22:15:28.565Z</updated>
+    <updated>2024-02-16T23:15:56.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘웡카’ 17일째 1위...‘건국전쟁’ 50만 넘고 2위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240217081201819</id>
+        <link href="https://v.daum.net/v/20240217081201819"/>
+        <updated>2024-02-16T23:15:55.843Z</updated>
+        <content type="html"><![CDATA[‘웡카’가 17일 연속 박스오피스 정상을 차지한 가운데, 다큐 영화 ‘건국전쟁’의 기세도 만만치 않다. 쌍끌이 흥행 중이다. 17일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 ‘웡카’는 전날 8만 1613명의 관객을 동원해 누적 관객수는 210만 9961명을 기록했다. 티모시 샬라메 주연의 ‘웡카’는 가진 것은 달콤한 꿈과 낡은 모자뿐인 ‘윌리 웡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[150만 돌파한 '시민덕희' 역주행 흥행 비결은 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240217060003758</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240216123009483"/>
         <updated>2024-02-16T04:18:56.178Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이희준 / 사진=넷플릭스'살인자ㅇ난감'의 이희준이 최우식, 손석구의 연기에 감탄했다고 밝히며 공황장애도 막지 못한 연기 열정을 자랑했다. 16일 서울시 종로구 삼청동의 한 카페에서 넷플릭스 오리지널 시리즈 '살인자ㅇ난감'의 이희준과 만나 다양한 이야기를 나눴다. '살인자ㅇ난감'은 우연히 살인을 시작하게 된 평범한 남자와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살인자ㅇ난감' 이희준 "'스승' 김성수 감독 연기 칭찬에 감격" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240216115402585</id>
-        <link href="https://v.daum.net/v/20240216115402585"/>
-        <updated>2024-02-16T03:18:17.573Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이희준 / 사진=넷플릭스'살인자ㅇ난감'의 이희준이 김성수 감독에게 연기 칭찬을 받고 기뻤다고 밝혔다. 16일 서울시 종로구 삼청동의 한 카페에서 넷플릭스 오리지널 시리즈 '살인자ㅇ난감'의 이희준과 만나 다양한 이야기를 나눴다. '살인자ㅇ난감'은 우연히 살인을 시작하게 된 평범한 남자와 그를 지독하게 쫓는 형사의 이야기를]]></content>
     </entry>
 </feed>
