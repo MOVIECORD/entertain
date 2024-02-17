@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-17T22:17:42.717Z</updated>
+    <updated>2024-02-17T23:16:08.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웡카', 18만↑ 동원하며 18일 연속 박스오피스 1위…누적 229만]]></title>
+        <id>https://v.daum.net/v/20240218081023811</id>
+        <link href="https://v.daum.net/v/20240218081023811"/>
+        <updated>2024-02-17T23:16:07.581Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '웡카'(감독 폴 킹)가 18일째 박스오피스 1위 자리를 지켰다. 18일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '웡카'는 17일 18만5923명의 관객을 동원하며 박스오피스 1위 자리에 올랐다. 누적 관객수는 229만5878명이다. 지난달 31일 개봉한 '윙카'는 개봉 첫 날 바로 박스오피스 1위로 직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['웡카' 18일째 흥행 정상…누적 229만 관객]]></title>
+        <id>https://v.daum.net/v/20240218074404590</id>
+        <link href="https://v.daum.net/v/20240218074404590"/>
+        <updated>2024-02-17T23:16:07.582Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] 영화 '웡카'가 18일 연속 극장가 선두에서 꾸준한 저력을 발휘하고 있다. 18일 영진위 통합전산망 집계에 따르면 '웡카'는 전날&nbsp;18만5921명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객 수는&nbsp;229만5876명이다. '웡카'는&nbsp;가진 것은 달콤한 꿈과 낡은 모자뿐인 '윌리 웡카'가 세계 최고의 초콜릿 메이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['D-1' 英아카데미…유태오, 한국 배우 최초 남우주연상 받을까]]></title>
         <id>https://v.daum.net/v/20240218070023238</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217083002952"/>
         <updated>2024-02-17T01:09:02.966Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '꼭 봐야할 영화'들이 살아남는 시대다. 티켓 값이 상승하고 극장 영화를 대체할 콘텐츠가 홍수를 이루고 있는 요즘, 관객들은 극장에 가서 볼 영화를 고르지 않는다. '꼭 봐야만 한다'고 인식된 작품들을 골라 티켓을 예매한 뒤 극장을 향한다. 이런 분위기 가운데, 최근 극장가에서는 관객의 정치적 성향에 따라 일부 '꼭 봐야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웡카’ 17일째 1위...‘건국전쟁’ 50만 넘고 2위]]></title>
-        <id>https://v.daum.net/v/20240217081201819</id>
-        <link href="https://v.daum.net/v/20240217081201819"/>
-        <updated>2024-02-16T23:15:55.843Z</updated>
-        <content type="html"><![CDATA[‘웡카’가 17일 연속 박스오피스 정상을 차지한 가운데, 다큐 영화 ‘건국전쟁’의 기세도 만만치 않다. 쌍끌이 흥행 중이다. 17일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 ‘웡카’는 전날 8만 1613명의 관객을 동원해 누적 관객수는 210만 9961명을 기록했다. 티모시 샬라메 주연의 ‘웡카’는 가진 것은 달콤한 꿈과 낡은 모자뿐인 ‘윌리 웡]]></content>
     </entry>
 </feed>
