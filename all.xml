@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-22T10:17:11.746Z</updated>
+    <updated>2024-02-22T11:13:55.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['파묘' 최민식 "김고은=손흥민이자 메시…이도현 생소했지만" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240222195003452</id>
+        <link href="https://v.daum.net/v/20240222195003452"/>
+        <updated>2024-02-22T11:13:55.118Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 최민식이 '파묘'에서 호흡을 맞춘 후배 김고은과 이도현에 대해 이야기했다. 22일 오전 서울 종로구의 한 카페에서 영화 '파묘'(감독 장재현) 인터뷰를 위해 최민식과 엑스포츠뉴스가 만났다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화로 '사바하']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최민식은 신인, 김고은은 무르익은 베테랑"…장재현, K오컬트 피날레 '파묘' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240222190105339</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240222165602601"/>
         <updated>2024-02-22T08:20:23.000Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '파묘' 장재현 감독이 김고은의 무당 연기를 칭찬했다. 장재현 감독은 22일 서울 종로구 삼청동 한 카페에서 영화 '파묘'에 대한 다양한 이야기를 전했다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 영화다. 작품은 '사바하' '검은 사제들'을 통해 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 장재현 감독 "호불호 각오했었다, 진보하는 게 목적"② (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240222164452237</id>
-        <link href="https://v.daum.net/v/20240222164452237"/>
-        <updated>2024-02-22T08:20:23.002Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 장재현 감독이 영화 ‘파묘’에 등장하는 ‘험한 것’의 정체와 후반부의 전개를 둘러싼 엇갈린 반응들에 대한 솔직한 생각을 밝혔다. 또 전작 ‘검은 사제들’, ‘사바하’ 때에 비해 진보한 모습을 ‘파묘’를 통해 보여주고 싶었다는 취지도 전했다. 장재현 감독은 영화 ‘파묘’의 개봉일인 22일 서울 종로구의 한 카페에서 취재진]]></content>
     </entry>
 </feed>
