@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-24T01:06:24.969Z</updated>
+    <updated>2024-02-24T02:19:03.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[심상치 않은 '파묘', 이틀 연속 압도적 1위..첫 주말 100만 갈까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240224101711109</id>
+        <link href="https://v.daum.net/v/20240224101711109"/>
+        <updated>2024-02-24T02:19:02.716Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터'파묘'의 흥행 기세가 심상치 않다. 24일 영화진흥위원회 통합전산망에 따르면 전날 '파묘'는 37만 4503명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 71만 655명. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독-주연-각본-제작까지 1인 4역, 흥행은 덤 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240224094500697</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240223175810769"/>
         <updated>2024-02-23T09:15:44.848Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 티모시 샬라메가 4박5일 간의 내한 일정을 알차고 완벽하게 즐겼다. 배우 티모시 샬라메는 영화 '듄: 파트2'(감독 드니 빌뇌브) 홍보 차 지난 2월 19일 인천국제공항을 통해 입국, 공항에 몰려든 팬들에게 사인을 해주는 아낌없는 팬서비스로 내한 일정을 열었다. 공식 내한 행사는 21일과 22일로 계획돼 있었지만, 그보다 빨리 입국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['막걸리가 알려줄거야' 감독 "김희원·박효주를 조연으로? 굉장히 조심스러워" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240223172700886</id>
-        <link href="https://v.daum.net/v/20240223172700886"/>
-        <updated>2024-02-23T09:15:44.848Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '막걸리가 알려줄거야'를 연출한 김다민 감독이 배우 캐스팅 비하인드를 전했다.&nbsp; 23일 오후 서울 종로구 판씨네마 사옥에서 영화 '막걸리가 알려줄거야'를 연출한 김다민 감독과의 인터뷰가 진행됐다. 영화 '막걸리가 알려줄거야'는 인생 권태기 11살 동춘이와 말하는 막걸리의 판타스틱한 우정과 모험을 그린 성장 드라마다. 독보적]]></content>
     </entry>
 </feed>
