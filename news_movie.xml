@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-27T22:16:51.529Z</updated>
+    <updated>2024-02-27T23:16:30.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 오늘 300만 돌파 전망…6일 연속 1위]]></title>
+        <id>https://v.daum.net/v/20240228081305454</id>
+        <link href="https://v.daum.net/v/20240228081305454"/>
+        <updated>2024-02-27T23:16:30.132Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘파묘’가 300만 돌파를 앞두고 있다. 28일 영진위 영화관입장권 통합전산망 집계를 보면 ‘파묘’는 어제(27일) 29만 8471명이 들어 일별 박스오피스 1위에 올랐다. 지난 22일 개봉해 6일째 1위를 유지한 것이다. 누적 관객수는 292만 8377명으로, 오늘(28일) 개봉 6일 만에 300만을 동원할 것으로 전망된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘', 6일 연속 1위…300만 돌파 눈앞]]></title>
         <id>https://v.daum.net/v/20240228071405419</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240227220106084"/>
         <updated>2024-02-27T13:17:43.065Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = "내년 2월이요? 기카면 그때까지 어카고 지냅니까." 벨기에 정부에 난민 지위 신청을 한 남자 기완(송중기 분)이 다음 면접은 몇 달 후라는 통역사의 말을 듣자 놀라 묻는다. "잘 버티셔야죠." 통역사는 뭘 그런 당연한 걸 묻느냐는 말투로 답한다. 김희진 감독이 연출한 넷플릭스 영화 '로기완'의 주인공 기완은 이때부터 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처절한 이방인의 삶…구원 서사로 완성된 송중기의 '로기완']]></title>
-        <id>https://v.daum.net/v/20240227220004067</id>
-        <link href="https://v.daum.net/v/20240227220004067"/>
-        <updated>2024-02-27T13:17:43.067Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 극단적인 상황 속에서도 살아가기 위해서 고군분투하는 이와, 삶의 끝에서 죽고 싶어 하는 이가 만났다. 삶의 극단에 선 두 사람이 우연히 만나 서로를 치유하며, 구원한다. 넷플릭스 영화 '로기완'이다. 오는 3월 1일 넷플릭스에서 공개되는 영화 '로기완'은 소설 ']]></content>
     </entry>
 </feed>
