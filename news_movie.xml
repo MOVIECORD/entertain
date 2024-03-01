@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-01T22:15:21.533Z</updated>
+    <updated>2024-03-01T23:16:11.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 삼일절 85만 관객 동원…누적 454만]]></title>
+        <id>https://v.daum.net/v/20240302081452790</id>
+        <link href="https://v.daum.net/v/20240302081452790"/>
+        <updated>2024-03-01T23:16:11.102Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '파묘'가 500만 관객 돌파를 향해 속도를 내고 있다. 2일 영진위 통합전산망 집계에 따르면 '파묘'는 전날&nbsp;85만1599명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;454만8868명이다. 이로써 '파묘'는 지난 2월22일 개봉 이후 9일째 박스오피스 정상을 달렸다. 또 3월1일 하루에만 85만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 최민식, 호불호 우려에도 장재현 감독 믿었던 이유]]></title>
+        <id>https://v.daum.net/v/20240302073300387</id>
+        <link href="https://v.daum.net/v/20240302073300387"/>
+        <updated>2024-03-01T23:16:11.108Z</updated>
+        <content type="html"><![CDATA[배우 최민식이 또 한 번의 인생작을 탄생시켰다. 그가 출연한 ‘파묘’는 개봉 9일 만에 400만 고지를 넘고 올해 최고 흥행작으로 등극, 벌써 손익분기점을 뛰어넘었다. 이에 최민식은 “이 꿈이 깨지 않았으면 스타트는 좋은 것 같다. 개인적으로 오래간만에 극장에서 관객들을 뵙고 영화로 인사를 드리고 그러니까 더 좋다”라고 소감을 전했다. 그의 새로운 인생작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미일 애니메이션 대전···봄철 극장가 관객 사로잡는다]]></title>
         <id>https://v.daum.net/v/20240302070109167</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240301161220797"/>
         <updated>2024-03-01T07:15:11.022Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] CJ ENM과 미국 할리우드 스튜디오 A24가 공동으로 투자배급하는 영화&nbsp;'패스트 라이브즈'(PAST LIVES)의&nbsp;셀린&nbsp;송 감독과&nbsp;'헤어질 결심'&nbsp;정서경 작가가 글로벌 크리에이터를 꿈꾸는 차세대 신진 작가들과 이 영화를 오래 기다려 온 팬들, 400여명이 함께 만나 뜻깊은 시간을 가졌다. 전 세계가 사랑하고 주목하는&nbsp;'헤어질 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식이 이순신 동전 던진 이유? 감독이 직접 밝힌 '파묘' 비하인드]]></title>
-        <id>https://v.daum.net/v/20240301160810735</id>
-        <link href="https://v.daum.net/v/20240301160810735"/>
-        <updated>2024-03-01T07:15:11.024Z</updated>
-        <content type="html"><![CDATA[[서울경제] 정지은 영화 기자와 함께 영화 이슈에 관한 수다를 나눕니다. '무비이슈다' 영화 '파묘'가 개봉 4일 만에 200만, 개봉 7일 만에 300만, 그리고 1일 기준 400만 관객 수를 돌파하며 2024년 최고의 흥행 기운을 업고 극장가를 점령 중이다. 이에 서울경제스타는 '파묘'를 연출한 장재현 감독을 직접 만나 비하인드 스토리를 들어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['패스트 라이브즈' 셀린 송 감독·정서경 작가, 스페셜 GV 만남 "'기생충'이 열어준 길"]]></title>
-        <id>https://v.daum.net/v/20240301160439660</id>
-        <link href="https://v.daum.net/v/20240301160439660"/>
-        <updated>2024-03-01T07:15:11.025Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '패스트 라이브즈'(PAST LIVES)의 셀린 송 감독과 '헤어질 결심' 정서경 작가가 글로벌 크리에이터를 꿈꾸는 차세대 신진 작가들과 영화를 기다려 온 팬들, 400여 명이 함께 만나 뜻깊은 시간을 가졌다. 지난 2월 29일 CGV 용산아이파크몰에서 진행된 CJ ENM VISIONARY INSIGHT TALK, ''패스]]></content>
     </entry>
 </feed>
