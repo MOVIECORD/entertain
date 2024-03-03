@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-03T21:14:08.175Z</updated>
+    <updated>2024-03-03T22:15:24.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 각종 영화상 휩쓸고 오스카 정조준…‘패스트 라이브즈’ 셀린 송 감독과 배우 유태오]]></title>
+        <id>https://v.daum.net/v/20240304063014893</id>
+        <link href="https://v.daum.net/v/20240304063014893"/>
+        <updated>2024-03-03T22:15:24.097Z</updated>
+        <content type="html"><![CDATA[영화 ‘패스트 라이브즈’로 데뷔한 셀린 송 감독(왼쪽)은 “이민자의 이야기는 전 세계에서 보편적인 소재가 됐다”고 말했다. 배우 유태오는 “내 아내인 니키 리는 내가 땅에 발붙이고 살 수 있게 해준, 나의 구원자다”라며 애정을 드러냈다. 사진제공｜CJ ENM 윤여정이 주연한 ‘미나리’에 이어 또다시 한국계 감독과 한국 배우가 의기투합한 할리우드 영화가 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4050세대 잡은 ‘파묘’, 열흘 만에 500만 질주]]></title>
+        <id>https://v.daum.net/v/20240304063008882</id>
+        <link href="https://v.daum.net/v/20240304063008882"/>
+        <updated>2024-03-03T22:15:24.102Z</updated>
+        <content type="html"><![CDATA[영화 ‘파묘’가 올해 개봉한 영화 중 처음으로 500만 관객을 넘겼다. 사진제공｜쇼박스영화 ‘파묘’(제작 쇼박스)가 무서운 속도로 흥행몰이를 이어가고 있다. 지난달 22일 개봉 후 100만, 200만 관객도 순식간에 돌파하더니 열흘 만에 500만 관객 고지까지 넘어섰다. 이 기세로 올해 첫 ‘1000만 영화’가 탄생할지도 관심이 집중된다. 3일 영화진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 최민식 삽질 헛되지 않았다, 천만까지 팔까]]></title>
         <id>https://v.daum.net/v/20240304061031699</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240303122702557"/>
         <updated>2024-03-03T04:20:21.244Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] &nbsp;▲ &nbsp;A24 인터내셔널 대표 '사샤 로이드'와 CJ ENM '고경범' 영화사업부장ⓒ CJ ENM&nbsp; 오는 6일 개봉을 앞둔 &lt;패스트 라이브즈&gt;는 CJ ENM과 할리우드 스튜디오 A24가 공동으로 투자 배급한 작품이다. 지난 2월 29일 A24 인터내셔널 대표 사샤 로이드-CJ ENM 고경범 영화사업부장과 삼청동의 카페에서 만났다.&nbsp; A24는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고경범 영화사업부장 "CJ 영화 흥행 부진 인식...내부적 개선 먼저"]]></title>
-        <id>https://v.daum.net/v/20240303113217753</id>
-        <link href="https://v.daum.net/v/20240303113217753"/>
-        <updated>2024-03-03T03:16:46.433Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;(인터뷰①에 이어) 고경범 CJ ENM 영화사업부장이 최근 이어진 CJ ENM 개봉 영화 흥행 부진에 답했다. 최근&nbsp;서울 종로구 소격동의 한 카페에서는 영화 ‘패스트 라이브즈' 제작사&nbsp;A24 인터내셔널 대표 사샤 로이드, CJ ENM 고경범 영화사업부장의 인터뷰가 진행됐다. 오는 6일 국내 개봉 예정인 ‘패스트&nbsp;라이브즈’는 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 A24 샤샤 로이드 대표 "한국 영화 시장, 크리에이터에 힘 실어줘야"]]></title>
-        <id>https://v.daum.net/v/20240303113023725</id>
-        <link href="https://v.daum.net/v/20240303113023725"/>
-        <updated>2024-03-03T03:16:46.434Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 제작사 A24 대표 샤샤 로이드가 한국 시장의 전망에 대해 생각을 밝혔다. 최근&nbsp;서울 종로구 소격동의 한 카페에서는 영화 ‘패스트 라이브즈' 제작사&nbsp;A24 인터내셔널 대표 사샤 로이드, CJ ENM 고경범 영화사업부장의 인터뷰가 진행됐다. ‘패스트&nbsp;라이브즈’는 한국계 캐다나인 셀린 송이 감독 및 각본을 맡은 첫 번째 연출작으로,]]></content>
     </entry>
 </feed>
