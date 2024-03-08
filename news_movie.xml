@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-08T04:19:35.645Z</updated>
+    <updated>2024-03-08T05:17:27.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠바 스톤이 완성한 새로운 '프랑켄슈타인', 놀랍다]]></title>
+        <id>https://v.daum.net/v/20240308141204633</id>
+        <link href="https://v.daum.net/v/20240308141204633"/>
+        <updated>2024-03-08T05:17:26.660Z</updated>
+        <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다. 뛰어난 재능을 지녔지만 사고방식이 다소 비뚤어진 과학자 '갓윈 백스터'(윌렘 대포). 그는 자기가 실험을 통해 새로이 되살려낸 피조물 '벨라 백스터'(엠마 스톤)를 키우고 관찰하느라 여념이 없다. 갓윈의 보살핌 속에서 말과 에티켓을 배우고, 갓윈의 조수 '맥스'(라미 유세프)와 약혼하며 즐거운 나날]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘K-컬처 열풍’ 박지환-이상희, 해외로 향하는 다른 듯 같은 조연들의 힘]]></title>
+        <id>https://v.daum.net/v/20240308140001196</id>
+        <link href="https://v.daum.net/v/20240308140001196"/>
+        <updated>2024-03-08T05:17:26.661Z</updated>
+        <content type="html"><![CDATA[OTT 시대의 도래와 함께 한국의 드라마와 영화는 전 세계적으로 놀라운 인기를 끌고 있다. 주연 배우들의 섭외와 대본, 스케줄 등이 중요한 요소로 여겨지는 가운데, 최근에는 조연들의 존재감이 점점 더 중요해지고 있다는 것이 업계의 중론이다. 특히, 마동석과 송중기 같은 배우들은 국내뿐만 아니라 해외에서도 큰 사랑을 받으며 K-컬처의 저력을 보여주고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드래곤볼' 작가 토리야마 아키라, 갑작스러운 사망..향년 68세]]></title>
         <id>https://v.daum.net/v/20240308123710206</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240308095035636"/>
         <updated>2024-03-08T01:08:55.157Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 영화 '듄: 파트2'가 100만 관객을 돌파했다. 8일 오전 8시 '듄: 파트2'는 100만 관객을 기록했다. 개봉 10일 만이다. '듄: 파트2'는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메)이 복수를 위한 여정에서 전사의 운명을 찾아 나가는 액션 블록버스터.  9일 연속 외화 박스오피스 1위를 이어가고 있다. 전편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘', 역대 오컬트 1위 '곡성' 잡고 700만 가나]]></title>
-        <id>https://v.daum.net/v/20240308094417395</id>
-        <link href="https://v.daum.net/v/20240308094417395"/>
-        <updated>2024-03-08T01:08:55.158Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 영화 '파묘'가 700만 관객 돌파를 앞두고 있다. 8일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '파묘'는 지난 7일 하루 동안 16만 367명의 관객을 불러 모으며 15일 연속 박스오피스 1위를 차지했다. '누적관객수는 676만 6761명으로 역대 오컬트 영화 1위인 곡성의 687만 9908명의 기록 경신을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 15일 연속 1위, 700만 목전]]></title>
-        <id>https://v.daum.net/v/20240308094315360</id>
-        <link href="https://v.daum.net/v/20240308094315360"/>
-        <updated>2024-03-08T01:08:55.158Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '파묘'가 박스오피스 1위를 수성했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '파묘'(감독 장재현)가 전날인 7일 16만367명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 676만6761명이다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담]]></content>
     </entry>
 </feed>
