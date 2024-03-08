@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-08T03:17:04.727Z</updated>
+    <updated>2024-03-08T04:19:35.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드래곤볼' 작가 토리야마 아키라, 갑작스러운 사망..향년 68세]]></title>
+        <id>https://v.daum.net/v/20240308123710206</id>
+        <link href="https://v.daum.net/v/20240308123710206"/>
+        <updated>2024-03-08T04:19:34.970Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 드래곤볼 슈퍼: 브로리 스틸컷일본의 만화 작가 토리야마 아키라가 사망했다. 8일 스포츠호치 등 일본 매체에 따르면 토리야마 아키라 프로덕션 측은 공식 입장을 통해 "지난 3월 1일 토리야마 아키라가 급성 경막하혈종으로 영면했다"고 밝혔다. 향년 68세. 이어 "열심히 하고 있던 일도 있었고, 이루고 싶은 것도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['D-3' 아카데미 시상식, '오펜하이머' 잔치될까]]></title>
+        <id>https://v.daum.net/v/20240308123101119</id>
+        <link href="https://v.daum.net/v/20240308123101119"/>
+        <updated>2024-03-08T04:19:34.971Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 제96회 아카데미 시상식에서 트로피를 거머쥘 주인공을 향한 이목이 집중되고 있다. 그도 그럴 것이 국내외 매체들이 앞다퉈 유력한 수상 후보를 점치는 예측하는 보도를 쏟아내고 있다. 각 부문별로 차이는 있지만, 전 세계적으로 열풍을 일으킨 영화 '오펜하이머'가 가장 큰 영광을 안게 될 거라는 데는 이견이 없다.&nbsp; 오는 10일(현지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카일리 제너, ♥티모시 샬라메 질문 거절..결별설 불 붙였다]]></title>
         <id>https://v.daum.net/v/20240308121609846</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240308094315360"/>
         <updated>2024-03-08T01:08:55.158Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '파묘'가 박스오피스 1위를 수성했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 '파묘'(감독 장재현)가 전날인 7일 16만367명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 676만6761명이다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘', 15일째 굳건히 1위…'듄2' 100만 돌파]]></title>
-        <id>https://v.daum.net/v/20240308093703136</id>
-        <link href="https://v.daum.net/v/20240308093703136"/>
-        <updated>2024-03-08T01:08:55.158Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '파묘'가 15일 연속 박스오피스 1위 자리를 지키고 있다. 8일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '파묘'는 16만367명이 관람하며 누적 676만6761명으로 15일 연속 박스오피스 1위를 기록했다. 2위는 '듄: 파트2'는 3만9528명이 관람하며 누적 99만575명을 기록했다. 이후 이날 오전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘듄: 파트2’ 100만 돌파…전편보다 빠른 속도]]></title>
-        <id>https://v.daum.net/v/20240308093056857</id>
-        <link href="https://v.daum.net/v/20240308093056857"/>
-        <updated>2024-03-08T01:08:55.159Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] ‘듄: 파트2’ 100만 돌파…전편보다 빠른 속도 [DA:박스] 영화 ‘듄: 파트2’(수입/배급: 워너브러더스 코리아㈜)가 100만 관객을 돌파했다. 할리우드 천재 감독 드니 빌뇌브가 탄생시킨 또 하나의 역작 ‘듄: 파트2’는 영화 ‘듄: 파트2’는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메)이 복수를 위한 여정에서 전사의 운명을 찾아 나]]></content>
     </entry>
 </feed>
