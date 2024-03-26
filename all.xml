@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-26T12:30:48.043Z</updated>
+    <updated>2024-03-26T13:17:59.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 ‘삼체’ 도둑시청 중국, “문화대혁명 나쁘게 묘사” 분노 폭발 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240326221304474</id>
+        <link href="https://v.daum.net/v/20240326221304474"/>
+        <updated>2024-03-26T13:17:58.556Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]넷플릭스 새 시리즈 '삼체'가 화제를 모으는 가운데 작품 내 문화대혁명을 묘사한 부분을 두고 중국 네티즌이 분노를 표출했다. 이에 대해 넷플릭스 정식 서비스 국가가 아닌 중국 내에서 불법 시청한 것이 아니냐는 지적이 나오고 있다. ‘삼체’ 오프닝에서 문화대혁명 시기 베이징 명문 칭화대 물리학과 교수가 아인슈타인의 상대성 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오컬트 원조 ‘오멘’ 시리즈에 얽힌 공포 괴담 ‘섬뜩’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240326194204884</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240326162230318"/>
         <updated>2024-03-26T08:20:09.236Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 홍경이 영화 '댓글부대'로 새로운 연기를 예고해 기대감이 증폭되고 있다.&nbsp; 영화 '댓글부대'는 기업에 대한 기사를 쓴 후 정직당한 기자 '임상진'(손석구 분)에게 온라인 여론을 조작했다는 익명의 제보자가 나타나면서 벌어지는 이야기를 다룬다. 전작 '성실한 나라의 앨리스'를 통해 한국 사회를 적나라하면서도 유쾌하게 풍자하며 언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1980' 김규리 "정치색 프레임 피해자, 이것 또한 배우의 숙명" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240326160002190</id>
-        <link href="https://v.daum.net/v/20240326160002190"/>
-        <updated>2024-03-26T07:14:53.704Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '1980'(감독 강승용)의 배우 김규리가 26일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=제이앤씨미디어그룹 2024.03.26 /사진=이동훈배우 김규리가 자신을 바라보는 사람들의 시선에 대해 밝히며 "열심히 활동하는 게 답"이라고 밝혔다. 26일 서울시 종로구 삼청로의 한 카페에서 영화 '1980'(감독]]></content>
     </entry>
 </feed>
