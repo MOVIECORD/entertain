@@ -2,25 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-30T01:08:09.522Z</updated>
+    <updated>2024-03-30T02:19:59.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 또 1위…'댓글부대' 27만 관객 돌파]]></title>
+        <id>https://v.daum.net/v/20240330103523153</id>
+        <link href="https://v.daum.net/v/20240330103523153"/>
+        <updated>2024-03-30T02:19:58.852Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선 기자] 천만 영화 '파묘'의 인기가 이어지고 있다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면, '파묘'는 전날 8만7996명의 관객을 모으며 1위를 차지했다. 누적 관객 수는 1062만7293명이다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['씬', 복합장르 외피 쓴 맛없는 짬뽕...'파묘' 후광도 글쎄]]></title>
         <id>https://v.daum.net/v/20240330100630875</id>
         <link href="https://v.daum.net/v/20240330100630875"/>
         <updated>2024-03-30T01:08:08.848Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화에 담긴 n개의 화두 가운데 함께 나누고 싶은 재미를 선별한 리뷰입니다. 사심을 담아 고른 한 편의 영화 속 단 하나의 재미, 유일무비입니다.&nbsp;*기사 본문에 스포일러가 포함돼 있습니다. 뚝심이 부족했다. 결단력 있게 한 방향으로 나아가야 할 작품이 갈피를 못 잡고 흔들린다. 오컬트부터 미스터리, 호러까지. 관객에게 공포감을 선]]></content>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화에 담긴 n개의 화두 가운데 함께 나누고 싶은 재미를 선별한 리뷰입니다. 사심을 담아 고른 한 편의 영화 속 단 하나의 재미, 유일무비입니다.&nbsp;*기사 본문에 스포일러가 포함돼 있습니다. 뚝심이 부족했다. 결단력 있게 나아가야 할 작품이 갈피를 못 잡고 흔들린다. 오컬트부터 미스터리, 호러까지. 관객에게 공포감을 선사할 수 있는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인간 만나 멸종위기 ‘빨간불’]]></title>
         <id>https://v.daum.net/v/20240330100517859</id>
         <link href="https://v.daum.net/v/20240330100517859"/>
         <updated>2024-03-30T01:08:08.848Z</updated>
-        <content type="html"><![CDATA[[한겨레S] 주일우의 뒹굴뒹굴 만화 적색목록 지난 주말, 일본 도쿄 빅사이트에서 열린 애니메이션 페스티벌은 흥미로웠다. 우리나라 웹툰과 웹소설이 다양한 플랫폼을 타고 세계로 진출하는 것에만 관심을 쏟았는데, 일본의 전통적인 만화도 같은 경로를 통해서 한국으로, 세계로 향하고 있었다. 오랜 세월 쌓아온 콘텐츠가 다시 저력을 발휘하고 있다. 만화에서 출]]></content>
+        <content type="html"><![CDATA[지난 주말, 일본 도쿄 빅사이트에서 열린 애니메이션 페스티벌은 흥미로웠다. 우리나라 웹툰과 웹소설이 다양한 플랫폼을 타고 세계로 진출하는 것에만 관심을 쏟았는데, 일본의 전통적인 만화도 같은 경로를 통해서 한국으로, 세계로 향하고 있었다. 오랜 세월 쌓아온 콘텐츠가 다시 저력을 발휘하고 있다. 만화에서 출발해서 애니메이션과 캐릭터로 수십년씩 사랑을 받아온]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["닭강정은, 내게 극호"…류승룡, 기상천외의 묘미]]></title>
+        <title type="html"><![CDATA["닭강정, 내게는 극호"…류승룡, 기상천외의 묘미]]></title>
         <id>https://v.daum.net/v/20240330095601711</id>
         <link href="https://v.daum.net/v/20240330095601711"/>
         <updated>2024-03-30T01:08:08.851Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240329181817985"/>
         <updated>2024-03-29T10:17:52.395Z</updated>
         <content type="html"><![CDATA[[서울경제] 우리 곁을 떠나는 ‘푸바오’의 빈 자리를 채워 줄 또 다른 사랑스러운 판다가 온다. 알고 보면 푸바오보다 우리 곁을 먼저 지켰던 ‘쿵푸팬더’ 시리즈의 판다 ‘포’가 그 주인공. 8년 만에 돌아오는 포의 모험이 온 가족에게 웃음과 행복을 전달할 준비를 마쳤다. 이야기는 ‘용의 전사’ 지위를 내려놓을 준비를 하고 후계자를 물색하는 포로부터 시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완X불한당X길복순…'사마귀' 필승조합 완성]]></title>
-        <id>https://v.daum.net/v/20240329170137552</id>
-        <link href="https://v.daum.net/v/20240329170137552"/>
-        <updated>2024-03-29T08:19:55.153Z</updated>
-        <content type="html"><![CDATA[배우 임시완을 깐느로 이끈 '불한당' 변성현 감독의 연출력, 두터운 액션 누아르 마니아층을 구축한 '길복순' 세계관. 실패할 수 없는 필승조합 레시피가 완성됐다. 29일 iMBC연예 취재를 통해 임시완의 넷플릭스 영화 '사마귀'(감독 이태성·크리에이터 변성현·제작 씨앗필름) 출연 소식이 전해졌다. '사마귀'는 변성현 감독이 2023년 연출한 넷플릭스]]></content>
     </entry>
 </feed>
