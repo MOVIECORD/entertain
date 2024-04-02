@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-02T06:21:56.949Z</updated>
+    <updated>2024-04-02T07:17:17.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[베네딕트 컴버배치, 올리비아 콜맨으로부터 이혼 소송당한다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240402153600190</id>
+        <link href="https://v.daum.net/v/20240402153600190"/>
+        <updated>2024-04-02T07:17:17.035Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 배우 베네딕트 컴버배치(47)와 올리비아 콜맨(50)이 영화 '로즈' 출연을 확정하며, 이혼 소송에 휩싸인 부부를 연기할 예정이다. 1일(현지 시간), 외신 매체 '할리우드 리포터'는 배우 베네딕트 컴버배치와 올리비아 콜맨이 지난 1989년 개봉작인 '장미의 전쟁'의 리메이크 영화 '로즈'(The Roses)에 출연한다고 보도했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류준열, 한소희와 ‘현혹’ 불발→‘계시록’ 찍으며 아픔 잊는다‥SNS도 재개 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240402151749453</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240402130618612"/>
         <updated>2024-04-02T04:19:19.495Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 드림웍스 레전드 시리즈 '쿵푸팬더4'(수입배급 유니버설 픽쳐스)가 4월 10일 개봉을 앞둔 가운데 전체 영화 예매율 1위에 등극했다. 영화 '쿵푸팬더4'가 개봉 8일을 앞둔 가운데, 영화관입장권 통합전산망 실시간 예매율 2일 오전 9시 30분 기준 사전 예매량 2만 4,415장을 기록하며 전체 영화 예매율 1위에 등극했다.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마된 손예진, 박찬욱 감독 신작으로 복귀하나 "검토중" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240402130517586</id>
-        <link href="https://v.daum.net/v/20240402130517586"/>
-        <updated>2024-04-02T04:19:19.496Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 손예진이 거장 박찬욱 감독의 신작을 제안 받고 검토 중이다.&nbsp; 2일 오후 손예진의 소속사 측 관계자는 OSEN에 "박찬욱 감독의 신작을 제안 받고 검토 중"이라며 짧은 입장을 내놨다. 박찬욱 감독의 새 작품은 수년간 준비해 온 프로젝트로, 장르는 스릴러 물이라고. 업계에 따르면, 판권 계약이 완벽히 마무리되지 않은 상태로&nbsp;]]></content>
     </entry>
 </feed>
