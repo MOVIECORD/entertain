@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-03T22:14:53.822Z</updated>
+    <updated>2024-04-03T23:16:11.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 부동의 1위…신작 ‘비키퍼’·‘오멘’ 3·4위 출발 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240404075100790</id>
+        <link href="https://v.daum.net/v/20240404075100790"/>
+        <updated>2024-04-03T23:16:11.326Z</updated>
+        <content type="html"><![CDATA[영화 ‘파묘’가 신작 공세에도 박스오피스 정상을 유지했다. 4일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 ‘파묘’는 전날 4만 2959명의 관객을 동원해 누적관객수 1108만 4693명을 기록했다. 지난 달 24일 개봉한 영화는 32일 만에 1000만 관객을, 개봉 40일 만에 1100만 관객을 돌파하며 험한 기세를 꺾지 않고 있다. 지난달 27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘검증된’ 인력 원하는 OTT 쏠림 현상…커지는 스태프들 ‘불안감’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240404071430201</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240403154645546"/>
         <updated>2024-04-03T07:16:01.780Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 스릴러 영화 '조커: 폴리 아 되'(이하 '조커2', 토드 필립스 감독)가 올해 10월 개봉을 확정했다. 2019년 월드와이드 박스오피스 6위를 기록, 전 세계 10억달러의 흥행 수익 달성과 함께 국내에서도 525만 관객을 동원하며 전례없는 흥행 신드롬을 일으킨 '조커'의 두 번째 이야기 '조커2'. 먼저 전작 '조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복지관에서 내몰린 장애인 극단, 갈 데가 없다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240403151215948</id>
-        <link href="https://v.daum.net/v/20240403151215948"/>
-        <updated>2024-04-03T06:21:06.072Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 오래 전 보았던 어느 소설이 있다. 한 연인의 이야기였는데, 그들은 무척 가난하였다. 서로를 몹시 사랑했으나 사랑할 공간이 마땅치 않았다. 때는 몹시 추운 겨울, 그것도 러시아가 배경이었던가. 그들이 벽으로 가려진 저들의 보금자리를 찾는 여정이 얼마나 간절하고 처절하였던지 나는 오래도록 그 이야기를 잊지 못하였었다. 말하자면 공간의 없음은]]></content>
     </entry>
 </feed>
