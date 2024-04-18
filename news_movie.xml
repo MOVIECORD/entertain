@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-18T11:13:50.577Z</updated>
+    <updated>2024-04-18T12:30:10.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석, ♥예정화와 뒤늦은 결혼식…"의미 없었지만, 부모님 위해서"]]></title>
+        <id>https://v.daum.net/v/20240418205002681</id>
+        <link href="https://v.daum.net/v/20240418205002681"/>
+        <updated>2024-04-18T12:30:09.831Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 마동석이 '범죄도시' 시리즈에 대해 겸허한 자세를 보였다.&nbsp; 18일 오전 서울 종로구 삼청동의 한 카페에서 영화 '범죄도시4'(감독 허명행)에 출연한 마동석의 인터뷰가 진행됐다.&nbsp; '범죄도시4'는 괴물형사 마석도(마동석 분)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신의 빌런 백창기(김무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오 지브리, 칸 국제영화제 명예 황금종려상 수상 “역사상 최초”]]></title>
         <id>https://v.daum.net/v/20240418201105891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240418162937585"/>
         <updated>2024-04-18T08:21:55.562Z</updated>
         <content type="html"><![CDATA[박찬욱 감독이 OTT플랫폼 쿠팡플레이 독점 HBO 오리지널 리미티드 시리즈 ‘동조자’서 할리우드 배우 로버트 다우니 주니어(이하 로다주)를 캐스팅한 이유를 밝혔다. 박찬욱 감독은 18일 오후 서울 강남구 메가박스 코엑스점에서 진행된 ‘동조자’ 기자간담회에서 로다주에게 캐스팅 제안을 보낸 이유로 “훌륭한 배우가 많지만 1인 4역을 해낼 수 있는 백인 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 "'범죄도시' 시리즈 1,2,3,4편은 1부, 5,6,7,8편은 2부.. 완전 다른 2부 될 것"]]></title>
-        <id>https://v.daum.net/v/20240418162450382</id>
-        <link href="https://v.daum.net/v/20240418162450382"/>
-        <updated>2024-04-18T08:21:55.565Z</updated>
-        <content type="html"><![CDATA[흥행불패의 시리즈 '범죄도시 4'의 제작자이자 주인공으로 이번에도 핵주먹을 휘두르는 마동석을 만났다. 마동석은 '범죄도시 4'에서 서울 광수대의 괴물형사 '마석도'를 연기하며 배달앱을 이용한 마약 판매 사건을 수사하던 중 수배 중인 앱 개발자가 필리핀에서 사망한 사건이 대규모 온라인 불법 도박 조직과 연관되어 있음을 알아내고 범죄 소탕을 하는 연기를 펼쳤다]]></content>
     </entry>
 </feed>
