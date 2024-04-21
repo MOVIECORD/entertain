@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-21T22:16:21.421Z</updated>
+    <updated>2024-04-21T23:17:09.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쿵푸팬더4', 개봉 2주 차 주말 1위..124만 관객 돌파]]></title>
+        <id>https://v.daum.net/v/20240422081515377</id>
+        <link href="https://v.daum.net/v/20240422081515377"/>
+        <updated>2024-04-21T23:17:08.719Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 쿵푸팬더4 / 사진=영화 포스터'쿵푸팬더4'가 개봉 2주차 주말 박스오피스 1위를 수성했다. 22일 영화진흥위원회 통합전산망에 따르면 '쿵푸팬더4'는 지난 주말(19일~21일) 28만 2384명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 124만 8312명. '쿵푸팬더4'는 모든 쿵푸 마스터들의 능력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쿵푸팬더4', 11만↑ 동원하며 12일 연속 1위]]></title>
         <id>https://v.daum.net/v/20240422071442404</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240421111200975"/>
         <updated>2024-04-21T02:27:27.109Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 러시아에서 가장 애정하는 감독 키릴 세레브렌니코프의 신작이 개봉한다는 소식에 올해 들어 가장 크게 들떠서는 극장으로 달려온 걸음이었다. 영화 시간이 조금 남아 대기하고 있던 중 친구로부터 문자 한 통이 들어왔다. 누군가의 부고가 실린 한 토막 기사 링크였다. 지금으로부터 십 수 년 전, 그러니까 내가 고등학교에 갓 입학했던 시절 처음 접했던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극장가, 틈새 시장 공략법]]></title>
-        <id>https://v.daum.net/v/20240421092544406</id>
-        <link href="https://v.daum.net/v/20240421092544406"/>
-        <updated>2024-04-21T01:16:45.955Z</updated>
-        <content type="html"><![CDATA['범죄도시4'의 개봉일이 다가왔다. 1~3편이 모두 뜨거운 사랑을 받았던 만큼 흥행이  예견돼 있는 작품이다. 많은 영화들이 동시기 개봉으로 인한 전면전을 꺼리는 가운데 극장에서는 한국 상업영화를 찾아보기 어려운 상황이다. 오는 24일 개봉하는 '범죄도시4'는 괴물형사 마석도(마동석)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신의 빌런 백]]></content>
     </entry>
 </feed>
