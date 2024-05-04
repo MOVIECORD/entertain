@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-04T12:29:08.657Z</updated>
+    <updated>2024-05-04T13:18:07.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[벌써 700만 돌파..'범죄도시4' 황금연휴 시작하자마자 쾌속 질주 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240504214922315</id>
+        <link href="https://v.daum.net/v/20240504214922315"/>
+        <updated>2024-05-04T13:18:07.212Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '범죄도시4'가 700만 관객을 돌파하며 쾌속 질주 중이다. 영화 '범죄도시4'가 영화관입장권 통합전산망 기준, 개봉 11일째인 오늘(4일) 오후 7시 700만 관객을 돌파하는 기염을 토했다. '범죄도시4'는 개봉 2일째 100만, 4일째 200만과 300만 관객을 동시에 돌파한 데 이어 5일째 400만, 개봉 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케빈 파이기, “휴 잭맨 ‘울버린’ 복귀 반대했다” 폭로 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240504212041096</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240504113116705"/>
         <updated>2024-05-04T03:19:30.295Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '범죄도시4'가 파죽지세 시리즈 네임드를 증명하고 있다. 흥행은 따 놓은 당상. 4일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '범죄도시4'(감독 허명행)는 지난 3일 하루 동안 38만 684명의 관객을 불러모았으며 이는 박스오피스 1위인 수치다. 누적관객수는 643만 1479명으로 집계됐다. 영화는 지난 달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국영화사상 가장 충격적인 데뷔... 전주가 주목한 류승완의 시작 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240504104502215</id>
-        <link href="https://v.daum.net/v/20240504104502215"/>
-        <updated>2024-05-04T02:24:34.084Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 올해로 제25회째를 맞은 '전주국제영화제'다. 지난 사반세기의 시간이 흐르는 동안 전주국제영화제는 한국을 넘어 아시아에서 손꼽는 국제 경쟁영화제로 성공적으로 자리매김했다. 적잖은 수의 영화제가 내실을 키우지 못한 채 고꾸라졌음을 고려하면 이 영화제의 번듯한 오늘이 남다르게 느껴진다. 전주국제영화제가 오늘에 이르는 동안 한국영화 또한 성장을]]></content>
     </entry>
 </feed>
