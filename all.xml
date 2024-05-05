@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-05T05:16:05.815Z</updated>
+    <updated>2024-05-05T06:23:23.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['스타워즈 합류' 이정재, 한국 최초 제다이 마스터 변신 베일 벗었다 "믿기지 않아" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240505142322379</id>
+        <link href="https://v.daum.net/v/20240505142322379"/>
+        <updated>2024-05-05T06:23:22.721Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;디즈니+에서 공개되는 오리지널 시리즈 '애콜라이트'(원제: THE ACOLYTE / 연출: 레슬리 헤드랜드 / 출연: 아만들라 스텐버그, 이정재, 매니 자신토, 다프네 킨 외 / 제공: 월트디즈니 컴퍼니 코리아)에 한국 배우 최초 ‘스타워즈’ 세계관에 입성한 이정재의 활약상을 예고한 ‘마스터 ‘솔’ 이정재 스페셜 영상’이 전격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘애콜라이트’ 이정재, ‘스타워즈’ 입성기 어땠나 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240505141400266</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240505081731850"/>
         <updated>2024-05-05T01:17:43.721Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 범죄도시4 / 사진=에이비오엔터테인먼트'범죄도시4'가 흥행 쾌속 질주를 이어가고 있다. 5일 영화진흥위원회 통합전산망에 따르면 전날 '범죄도시4'는 68만 9899명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 711만 1369명. '범죄도시4'는 개봉 2일째 100만, 4일째 200만과 300만 관객을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타워즈 합류' 이정재, '스타워즈 데이' 맞아 부산行 "포스가 당신과 함께하기를" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240505080823774</id>
-        <link href="https://v.daum.net/v/20240505080823774"/>
-        <updated>2024-05-04T23:16:51.925Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 이정재가 '2024&nbsp;‘스타워즈 데이’를 맞아 부산에 떴다. 월트디즈니&nbsp;컴퍼니&nbsp;코리아(이하&nbsp;디즈니코리아)가&nbsp;올해&nbsp;‘스타워즈&nbsp;데이&nbsp;(Star Wars Day)’를&nbsp;맞이해 5월&nbsp;4일&nbsp;부산&nbsp;해운대&nbsp;해수욕장&nbsp;일대에서&nbsp;다채로운&nbsp;행사를&nbsp;실시했다.&nbsp; 매년&nbsp;5월&nbsp;4일인&nbsp;‘스타워즈&nbsp;데이’는&nbsp;전&nbsp;세계&nbsp;곳곳에서&nbsp;다양한&nbsp;행사가&nbsp;펼쳐지는&nbsp;스타워즈&nbsp;]]></content>
     </entry>
 </feed>
