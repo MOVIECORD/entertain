@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-09T11:14:53.355Z</updated>
+    <updated>2024-05-09T12:31:39.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변요한 "변태 연기, 두려움·미화 NO…신혜선과 멜로로 재회하고파"]]></title>
+        <id>https://v.daum.net/v/20240509205003300</id>
+        <link href="https://v.daum.net/v/20240509205003300"/>
+        <updated>2024-05-09T12:31:38.883Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 변요한이 '그녀가 죽었다'를 통해 변태로 변신한 소감을 전했다.&nbsp; 9일 오전 서울 종로구의 한 카페에서 영화 '그녀가 죽었다'(감독 김세휘) 인터뷰를 위해 변요한과 엑스포츠뉴스가 만났다. '그녀가 죽었다'는 훔쳐보기가 취미인 공인중개사 구정태(변요한 분)가 관찰하던 SNS 인플루언서 한소라(신혜선)의 죽음을 목격하고 살인자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조재현 딸' 조혜정, 취중진담 "사회생활 참 쉽지 않아.."]]></title>
         <id>https://v.daum.net/v/20240509201005548</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240509164042204"/>
         <updated>2024-05-09T08:21:41.926Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 최성은이 제25회 전주국제영화제의 주인공이 됐다. 최성은이 주연 영화 '힘을 낼 시간'(감독 남궁선)으로 제25회 전주국제영화제(이하 JIFF)에서 배우상을 수상했다. 영화 ‘힘을 낼 시간’은 흥행에 실패한 아이돌 삼인방의 뒤늦은 수학여행 이야기를 담은 영화다. 최성은은 극중 애매하게 활동하다 은퇴한 전직 아이돌 수민 역을 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조재현 딸 조혜정 근황, ‘감독’ 유지태와 전주국제영화제 참석]]></title>
-        <id>https://v.daum.net/v/20240509163436951</id>
-        <link href="https://v.daum.net/v/20240509163436951"/>
-        <updated>2024-05-09T08:21:41.927Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 유지태, 션 리차드, 조혜정이 영화 '톡투허'로 제25회 전주국제영화제에 참석해 자리를 빛냈다. 유지태가 연출한 영화 '톡투허'(Talk To Her)는 재미교포 출신인 영화감독 지망생 션과, 미국에서 연기를 공부하고 배우의 꿈을 품고 살아가는 혜정 두 사람의 삶의 방식을 다룬다. 두 주연배우 션 리차드와 조혜정은 지난 5월 5일]]></content>
     </entry>
 </feed>
