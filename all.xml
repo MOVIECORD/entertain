@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T12:34:19.279Z</updated>
+    <updated>2024-06-04T13:20:24.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영진위 신임 위원장에 한상준 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240604221201607</id>
+        <link href="https://v.daum.net/v/20240604221201607"/>
+        <updated>2024-06-04T13:20:24.371Z</updated>
+        <content type="html"><![CDATA[한상준 위원이 영진위 신임 위원장이 됐다. 영화진흥위원회(이하 영진위)는 4일 2024년 제9차 임시회의를 열어 한상준 위원을 신임 위원장으로 선출했다고 밝혔다. 한상준 위원장은 2000년부터 2002년까지 부산국제영화제 프로그래머를 역임하고, 2007년부터 2009년까지 부천국제판타스틱영화제 집행위원장을 맡았다. 한 위원장은 중앙대 첨단영상대학원 연구교수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘설계자’ 비밀 키워드 셋 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240604212401805</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240604174541268"/>
         <updated>2024-06-04T09:20:37.121Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 박보검이 지금의 소속사 더블랙레이블로 옮긴 과정과 함께 현 소속사 수장 테디와 작업해 음악 활동으로도 팬들과 대중을 만나고 싶은 바람을 내비쳤다. 박보검은 영화 ‘원더랜드’(감독 김태용)의 개봉을 앞두고 4일 서울 종로구의 한 카페에서 취재진과 인터뷰를 진행했다. ‘원더랜드’는 죽은 사람을 인공지능으로 복원하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드라이브' 박주현 "트렁크 안에서 연기, 폐소공포증 실감했죠" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240604173601970</id>
-        <link href="https://v.daum.net/v/20240604173601970"/>
-        <updated>2024-06-04T09:20:37.122Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 오는 12일 개봉하는 박동희 감독의 '드라이브'는 유명 인플루언서 납치사건을 그린 스릴러다. 80만명의 구독자를 거느린 유튜버 유나(박주현 분)는 소속사를 바꾸는 문제를 놓고 협상하던 중 정체불명의 괴한에게 납치돼 승용차 트렁크에 갇힌다. 유튜브 '라방'(라이브 방송)으로 한 시간 내로 6억5천만원을 모으면 살려준다는 납치]]></content>
     </entry>
 </feed>
