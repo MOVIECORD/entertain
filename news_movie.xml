@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-05T10:19:29.316Z</updated>
+    <updated>2024-06-05T11:15:20.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['韓 최초 제다이' 이정재가 밝힌 오디션 비하인드→캐스팅 이유는?]]></title>
+        <id>https://v.daum.net/v/20240605200009187</id>
+        <link href="https://v.daum.net/v/20240605200009187"/>
+        <updated>2024-06-05T11:15:20.041Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 세계인의 사랑을 받는 '스타워즈' 시리즈에 한국 배우 최초로 입성한 이정재. 과연 어떻게 참여하게 된 걸까. 5일 서울 용산구 CGV 용산아이파크몰에서 디즈니+ 오리지널 시리즈 '애콜라이트' 언론 시사회 및 기자간담회가 진행됐다. 이날은 배우 이정재가 참석했다. '애콜라이트'는 평화를 수호하는 제다이 기사단의 황금기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["광선검이 두 개지요"…이정재 '스타워즈' 세계관에 녹아들다]]></title>
         <id>https://v.daum.net/v/20240605191249176</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240605172134323"/>
         <updated>2024-06-05T08:22:12.402Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 용산구=김나라 기자] 배우 이정재가 5일 오후 서울 CGV용산아이파크몰에서 진행된 디즈니+ '애콜라이트' 1, 2회 시사 및 기자 간담회에 참석해 포즈를 취하고 있다. /2024.06.05 /사진=이동훈'월드 스타' 이정재가 '애콜라이트' 출연 소회부터 일부 인종차별적 반응에 대한 생각까지 모든 궁금증에 답했다. 5일 오후 서울 용산구 CG]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘애콜라이트’ 이정재 “영어로 표현 걱정…선생님 4명과 4개월 공부”]]></title>
-        <id>https://v.daum.net/v/20240605171528136</id>
-        <link href="https://v.daum.net/v/20240605171528136"/>
-        <updated>2024-06-05T08:22:12.402Z</updated>
-        <content type="html"><![CDATA[뉴시스  &nbsp; 한국 배우 최초로 스타워즈 시리즈에 합류한 배우 이정재(51·사진)가 전체 영어 연기를 위한 노력을 공개했다.&nbsp; 5일 오후 서울 CGV 용산아이파크몰에서 디즈니+ 시리즈&nbsp;‘애콜라이트’의 언론시사 및 기자간담회가 열렸다. 현장에서 1회와 2회가 소개됐으며, 이정재가 참석해 작품에&nbsp;대한 이야기를 나눴다. 이날 이정재는 처음으로 할리우드 작품]]></content>
     </entry>
 </feed>
