@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-10T10:20:23.427Z</updated>
+    <updated>2024-06-10T11:16:20.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빠르고 강렬하다...박주현의 90분 '숨멎' 질주 '드라이브']]></title>
+        <id>https://v.daum.net/v/20240610200011469</id>
+        <link href="https://v.daum.net/v/20240610200011469"/>
+        <updated>2024-06-10T11:16:19.656Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 빠르고 강렬하다. 숨가쁘게 몰아치는 질주로 아드레날린을 뿜어내는 영화 '드라이브'다. '드라이브'는 정체불명의 인물에게 납치되어 달리는 차의 트렁크에서 1시간 동안 라이브 방송을 하면서 6억 5천만 원을 벌어야 하는 인기 유튜버의 긴박한 사투를 그린 작품이다. 2022년 개봉한 영화 '특송' 각본을 맡았던 박동희 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드라이브’,‘원더랜드’ 제치고 韓 영화 예매율 1위]]></title>
         <id>https://v.daum.net/v/20240610191500760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240610162001110"/>
         <updated>2024-06-10T08:24:03.603Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 추리 애니메이션 '명탐정 코난'의 27번째 극장판 '명탐정 코난: 100만 달러의 펜타그램'이 오는 7월로 국내 개봉을 확정 짓고 론칭 포스터와 슈퍼 티저 예고편을 공개했다. '명탐정 코난'은 1994년 연재 시작 이후 원작 만화 누적 발행 부수 2.7억 부를 돌파, 부동의 인기를 구가하는 추리 만화. '명탐정 코난' 원작의 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공유·이종석, 여름 극장가 '핫하게' 만든 특별출연…영화 관람포인트 역할까지]]></title>
-        <id>https://v.daum.net/v/20240610161902080</id>
-        <link href="https://v.daum.net/v/20240610161902080"/>
-        <updated>2024-06-10T08:24:03.603Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김서윤 기자]특별출연으로 등장한 공유, 이종석이 관객들의 눈길을 사로잡았다. 주로 주인공을 맡아오던 이들이 특별출연으로 남다른 존재감을 뽐내며 여름 극장가를 더욱 '핫하게' 만들고 있다. 공유는 5일 개봉한 영화 '원더랜드'에 특별출연했다. '원더랜드'는 죽은 사람을 인공지능(AI)으로 복원하는 영상통화 서비스 원더랜드를 통해 사랑하는 사람과]]></content>
     </entry>
 </feed>
