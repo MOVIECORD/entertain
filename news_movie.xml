@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-16T01:24:02.930Z</updated>
+    <updated>2024-06-16T02:36:54.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조카 바보’ 하정우 “저도 50살 전엔 결혼할래요”]]></title>
+        <id>https://v.daum.net/v/20240616112814712</id>
+        <link href="https://v.daum.net/v/20240616112814712"/>
+        <updated>2024-06-16T02:36:53.537Z</updated>
+        <content type="html"><![CDATA[배우 하정우 앞에 새로운 수식어 하나가 또 붙었다. 바로 ‘조카 바보’. 최근 동생 부부가 아들을 출산하면서 삼촌이 된 것이다. “면회되는 날 바로 가서 봤어요. 이제 산후조리원에서 나왔는데요. 정말 작고 신비한 생명체라서 안지 못하겠더라고요. 그렇게 작은 아이는 처음 봤거든요. 제수씨인 황보라가 아이를 낳는 걸 보니 저도 이제 결혼해야겠다는 생각이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이드 아웃2', 土에만 77만명 관람…누적 135만 돌파]]></title>
+        <id>https://v.daum.net/v/20240616103848900</id>
+        <link href="https://v.daum.net/v/20240616103848900"/>
+        <updated>2024-06-16T02:36:53.540Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '인사이드 아웃2'가 개봉 4일 만에 누적 관객수 100만을 돌파했다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '인사이드 아웃2'는 77만7087명이 관람하며 누적 135만1435명을 기록, 4일 연속 박스오피스 1위를 기록했다. 2위는 '퓨리오사: 매드맥스 사가'로, 2만5568명이 관람해 누적 150]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이드 아웃2' 일 관객 77만 동원, 4일 연속 박스오피스 1위]]></title>
         <id>https://v.daum.net/v/20240616101806551</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240616073010390"/>
         <updated>2024-06-15T23:18:13.833Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 부산국제영화제, 전주국제영화제와 함께 국내 3대 영화제로 꼽히는 부천국제판타스틱영화제(BIFAN)가 다음 달 4일 개막한다. 올해로 28회를 맞은 BIFAN은 전 세계의 독특한 장르영화를 접할 기회다. 이번 영화제에선 49개국 작품 255편이 상영된다. 개·폐막식 예매는 이달 25일, 일반 상영작 예매는 27일부터 가능하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스 데뷔작 '타로'…'배우 김진영'의 가능성]]></title>
-        <id>https://v.daum.net/v/20240616070007164</id>
-        <link href="https://v.daum.net/v/20240616070007164"/>
-        <updated>2024-06-15T22:16:52.125Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 유튜버 겸 방송인 덱스가 본명 김진영으로 배우로 본격 데뷔했다. 지난 14일 개봉한 영화 '타로'(감독 최병길)는 덱스의 배우 데뷔작이다. '타로'는 한순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀버리는 잔혹 운명 미스터리를 그린 작품이다. 총 7개 에피소드 중 덱스가 조여정 고규필과 출연한 각기 다른 에피소드 3편이 먼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃2' 그 불안까지 사랑한 거야]]></title>
-        <id>https://v.daum.net/v/20240616063006034</id>
-        <link href="https://v.daum.net/v/20240616063006034"/>
-        <updated>2024-06-15T22:16:52.127Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 난 왜 이럴까, 쟨 또 왜 저럴까? 우리 안의 불안이를 만나는 순간 노여웠던 마음이 잠시 유해질지도 모른다. '인사이드 아웃2'는 2015년 개봉한 디즈니 픽사 영화 '인사이드 아웃'의 두 번째 이야기다. 사춘기가 된 라일리의 변화와 성장을 담았다. 기쁨, 슬픔, 버럭, 까칠, 소심이 자리 잡은 감정 컨트롤 본부에 사춘기 경]]></content>
     </entry>
 </feed>
