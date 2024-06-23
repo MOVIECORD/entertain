@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-23T01:22:49.524Z</updated>
+    <updated>2024-06-23T02:35:12.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 인생이 달라졌다" K리그2 선두질주 FC안양 이야기]]></title>
+        <id>https://v.daum.net/v/20240623111500514</id>
+        <link href="https://v.daum.net/v/20240623111500514"/>
+        <updated>2024-06-23T02:35:11.817Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] ▲ 수카바티: 극락축구단&nbsp;포스터ⓒ 나바루&nbsp; 놀랍게도 이뤄질 수 있겠다. &lt;수카바티: 극락축구단&gt;, 그 영화가 담고 있는 FC안양의 꿈이 현실이 될 수 있겠다는 말이다. 또 내가 오랫동안 응원해 온 FC서울이 그와 만나는 한국프로축구 역사상 기록할 만한 조우가 바로 내년 실현될 수 있겠다. &lt;수카바티&gt;와 내가 처음 만난 건 지난해 DMZ국제다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘탈주’ 구교환, 함께하는 성장의 즐거움]]></title>
         <id>https://v.daum.net/v/20240623100208387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240622220157937"/>
         <updated>2024-06-22T13:19:56.403Z</updated>
         <content type="html"><![CDATA['핸섬가이즈' 남동협 감독이 시사회 이후 영화에 대해 들었던 호평을 떠올렸다. 최근 남동협 감독은 iMBC연예와 서울 종로구 한 카페에서 영화 '핸섬가이즈'(감독 남동협) 인터뷰를 진행했다. '핸섬가이즈'는 한 번 보면 절대 잊을 수 없는 재필(이성민)과 상구(이희준)가 전원생활을 꿈꾸며 새집으로 이사 온 날, 지하실에 봉인됐던 악령이 깨어나며 벌어지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["형보다 나은 아우".. '인사이드 아웃2' 300만 돌파... 최고 흥행작 '엘리멘탈'도 넘을까]]></title>
-        <id>https://v.daum.net/v/20240622183030363</id>
-        <link href="https://v.daum.net/v/20240622183030363"/>
-        <updated>2024-06-22T10:19:22.240Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 디즈니·픽사 제작의 애니메이션 영화 '인사이드 아웃2'가 개봉 11일 만에 300만 관객을 돌파했다. 22일 영화진흥위원회 통합전산망에 따르면 '인사이드 아웃2'는 이날 오전 누적 관객 수 315만 3,234명을 기록하며 300민 고지를 점령했다. 이는 전편인 '인사이드 아웃'이 18일 만에 300만 관객을 동원한 것보다 무려 7]]></content>
     </entry>
 </feed>
