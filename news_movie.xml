@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-27T03:20:43.650Z</updated>
+    <updated>2024-06-27T04:24:19.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지·박보검 비주얼 케미에도…누적 62만 그친 '원더랜드', IPTV·VOD 시작]]></title>
+        <id>https://v.daum.net/v/20240627131705662</id>
+        <link href="https://v.daum.net/v/20240627131705662"/>
+        <updated>2024-06-27T04:24:19.303Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 김태용 감독의 영화 ‘원더랜드’가 누적 관객수 62만명대를 동원하는데 그치며, 오늘(27일)부터 극장동시 IPTV 및 VOD 서비스를 시작한다. 영화 ‘원더랜드’가 바로 오늘, 27일(목)부터 극장 동시 IPTV 및 VOD 서비스를 시작한다. ‘원더랜드’는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 ‘원더랜드’를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민·이희준 '핸섬가이즈', 아시아 지역 완판 기록]]></title>
         <id>https://v.daum.net/v/20240627122002602</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240627102847665"/>
         <updated>2024-06-27T02:33:53.122Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 정택운(빅스 레오)이 영화 ‘베란다’로 스크린 데뷔를 확정 지었다. 정택운은 로맨틱 스릴러 영화 ‘베란다’(감독 조성원)의 크랭크인 소식과 함께 스크린 데뷔를 알렸다. ‘베란다’는 공동 주택인 아파트라는 공간에서 투영되는 사람들의 비밀과 진실에 관한 이야기를 그린다. (주)26컴퍼니 측은 ‘에로틱 스릴러’라는 기존]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅스 레오 ‘베란다’로 영화 데뷔‥전소민 집 염탐하는 미스터리 캐릭터]]></title>
-        <id>https://v.daum.net/v/20240627102357450</id>
-        <link href="https://v.daum.net/v/20240627102357450"/>
-        <updated>2024-06-27T02:33:53.123Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 정택운(빅스 레오)이 스크린 데뷔를 확정했다. 정택운은 로맨틱 스릴러 영화 '베란다'(감독 조성원)로 스크린 데뷔한다. '베란다'는 공동 주택인 아파트라는 공간에서 투영되는 사람들의 비밀과 진실에 관한 이야기다. 극 중 '아덴' 역을 맡은 정택운은 '하연'(전소민 분)의 집을 염탐하며 그녀의 비밀을 알게 된 미스터리한 인물로 분한]]></content>
     </entry>
 </feed>
