@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-28T10:19:41.011Z</updated>
+    <updated>2024-06-28T11:16:26.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수요일 개봉 공식' 깨졌다…하정우·이선균, 금요일에 찾아온 이유]]></title>
+        <id>https://v.daum.net/v/20240628194602804</id>
+        <link href="https://v.daum.net/v/20240628194602804"/>
+        <updated>2024-06-28T11:16:25.893Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 《김지원의 까까오톡》 까놓고, 까칠하게 하는 오늘의 이야기. 김지원 텐아시아 기자가 연예계 이슈를 까다로운 시선으로 비평합니다. &nbsp; 10년 넘게 이어지던 '수요일 개봉' 공식이 점차 깨지고 있다. '하이재킹'과 다음달 개봉하는 '탈출: 프로젝트 사일런스'(이하 '탈출')는 개봉일을 금요일로 골랐다. 앞서 천만 영화에 등극한 '파묘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃다가 눈물남, 휴지 챙겨가길…‘핸섬가이즈’ 가이드3]]></title>
         <id>https://v.daum.net/v/20240628191931209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240628154424624"/>
         <updated>2024-06-28T07:18:16.045Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '파일럿'이 '가장 보통의 연애'로 보통 아닌 연출력을 인정받은 김한결 감독의 복귀작으로 주목을 받고 있다. 영화 '파일럿'이 올여름 기대작으로 관심을 모으고 있는 가운데, 작품을 연출한 김한결 감독에 대한 관심도 모아지고 있다. 김한결 감독은 2019년 10월 '가장 보통의 연애'로 데뷔해 평단과 관객들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석에 이동욱x헤리까지.."'핸섬가이즈' 너무 웃기네, 대박나세요"]]></title>
-        <id>https://v.daum.net/v/20240628154202536</id>
-        <link href="https://v.daum.net/v/20240628154202536"/>
-        <updated>2024-06-28T07:18:16.046Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 고자극 오싹 코미디 영화&nbsp;&lt;핸섬가이즈&gt;가 변우석부터 이동욱, 혜리, 우도환, 진선규, 이유미, 진구 등 배우들의 극찬을 받으며, 올여름 강력한 웃음 폭탄이 담긴 코미디임을 입증했다. &lt;핸섬가이즈&gt;&nbsp;를 관람한 변우석과 이동욱, 혜리, 우도환, 진선규, 이유미, 진구, EXID 솔지, EXID 혜린 등 셀럽들의 자발적 ‘찐’ 호평]]></content>
     </entry>
 </feed>
