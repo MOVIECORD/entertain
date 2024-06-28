@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-28T03:21:25.835Z</updated>
+    <updated>2024-06-28T04:22:27.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파일럿' 김한결 감독, '가장 보통의 연애' 보통 아닌 연출력 귀환]]></title>
+        <id>https://v.daum.net/v/20240628132015578</id>
+        <link href="https://v.daum.net/v/20240628132015578"/>
+        <updated>2024-06-28T04:22:26.645Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 영화 '파일럿'이 '가장 보통의 연애'로 보통 아닌 연출력을 인정받은 김한결 감독의 복귀작으로 기대를 모으고 있다.&nbsp; 오는 7월 31일 개봉을 앞둔 영화 '파일럿'(감독 김한결)은&nbsp;스타&nbsp;파일럿에서 하루아침에 실직자가 된 ‘한정우’(조정석)가 파격 변신 이후 재취업에 성공하며 벌어지는 코미디 작품이다. 올여름 기대작으로 주목 받고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이드 아웃2' 사춘기 10대부터 50대 부모까지 어루만진다]]></title>
+        <id>https://v.daum.net/v/20240628131605480</id>
+        <link href="https://v.daum.net/v/20240628131605480"/>
+        <updated>2024-06-28T04:22:26.646Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 애니메이션 영화 '인사이드 아웃2'가 10대부터 4050세대까지 공감을 자아내고 있다.&nbsp; 28일 '인사이드 아웃2'(감독 켈시 만) 측은 전 세대 공감 포인트를 밝혔다.&nbsp; '인사이드 아웃2'는&nbsp;13살이 된 ‘라일리'의 머릿속 감정 컨트롤 본부에 ‘불안’, ‘당황’, ‘따분’, ‘부럽’의 낯선 감정들이 새롭게 등장하면서 평화롭던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1초 빠른' 남자와 '1초 느린' 여자의 사랑 이야기]]></title>
         <id>https://v.daum.net/v/20240628120603090</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240628102430757"/>
         <updated>2024-06-28T02:35:44.902Z</updated>
         <content type="html"><![CDATA[영화 ‘행복의 나라’의 예고편이 공개됐다. 영화 ‘행복의 나라’ 측은 28일 오전 티저 예고편을 공개했다. ‘행복의 나라’는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 ‘박태주’와 그의 변호를 맡으며 대한민국 최악의 정치 재판에 뛰어 든 변호사 ‘정인후’의 이야기를 담는다. 공개된 예고편은 총소리를 시작으로 “1979년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃2', 이번 주말 500만 노린다…2위권과 격차 벌려]]></title>
-        <id>https://v.daum.net/v/20240628102102551</id>
-        <link href="https://v.daum.net/v/20240628102102551"/>
-        <updated>2024-06-28T02:35:44.904Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 디즈니·픽사 애니메이션 영화 '인사이드 아웃2'가 이번 주말 500만 돌파에 도전한다. 28일 영화진흥위원회 통합전산망 집계에 따르면 '인사이드 아웃2'는 27일 전국 10만 720명을 동원해 16일 연속 박스오피스 1위를 차지했다. 누적 관객 수는 462만 5,180명. '하이재킹', '콰이어트 플레이스: 첫째 날' 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故이선균 유작, '행복의 나라' 8월 14일 개봉 확정…최악의 정치재판 다룬다]]></title>
-        <id>https://v.daum.net/v/20240628101635318</id>
-        <link href="https://v.daum.net/v/20240628101635318"/>
-        <updated>2024-06-28T01:18:47.725Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '행복의 나라'(감독 추창민)가 티저 예고편을 공개했다. '행복의 나라'는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 박태주(이선균 분)와 그의 변호를 맡으며 대한민국 최악의 정치 재판에 뛰어 든 변호사 정인후(조정석)의 이야기를 그린 영화. 공개된 티저 예고편은 강렬한 총소리와 함께 "197]]></content>
     </entry>
 </feed>
