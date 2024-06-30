@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-30T05:16:50.996Z</updated>
+    <updated>2024-06-30T06:24:37.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하정우X여진구 '하이재킹', 100만 관객 돌파 "행복 운항 중"]]></title>
+        <id>https://v.daum.net/v/20240630144335673</id>
+        <link href="https://v.daum.net/v/20240630144335673"/>
+        <updated>2024-06-30T06:24:36.913Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선 기자] 영화 '하이재킹' 100만 관객을 돌파했다. 30일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 지난 21일 개봉한 영화 '하이재킹'은 개봉 10일 만인 이날 오전 10시 기준 누적 관객수 100만 406명을 기록했다. 30일 배급사 키다리스튜디오 측은 공식 계정을 통해 '하이재킹 100만 관객 돌파를 축하하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B급 만들려다 A급이 나왔네 '핸섬가이즈']]></title>
         <id>https://v.daum.net/v/20240630141438895</id>
@@ -17,7 +24,7 @@
         <id>https://v.daum.net/v/20240630140508758</id>
         <link href="https://v.daum.net/v/20240630140508758"/>
         <updated>2024-06-30T05:16:50.374Z</updated>
-        <content type="html"><![CDATA[1990년대 중후반 예술영화 황금기를 이끌었던 그때 그 영화들이 극장으로 돌아온다. 씨지브이(CGV) 아트하우스는 다음달 10일부터 23일까지 전국 15개 아트하우스에서 ‘라스 폰 트리에 감독전’을 개최한다. 올해로 데뷔 40주년을 맞는 라스 폰 트리에 감독은 1990년대 칸국제영화제를 휩쓸면서 전성기를 보냈다. 1992년 국내 개봉한 ‘유로파’로 이]]></content>
+        <content type="html"><![CDATA[1990년대 중후반 예술영화 황금기를 이끌었던 그때 그 영화들이 극장으로 돌아온다. 씨지브이(CGV) 아트하우스는 다음달 10일부터 23일까지 전국 15개 아트하우스에서 ‘라스 폰 트리에 감독전’을 개최한다. 올해로 데뷔 40주년을 맞는 라스 폰 트리에 감독은 1990년대 칸국제영화제를 휩쓸면서 전성기를 보냈다. 1992년 국내 개봉한 ‘유로파’로 이름]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 넘어 예능까지…콘텐츠 파고드는 샤머니즘]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240630112415165"/>
         <updated>2024-06-30T02:37:36.388Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 하이재킹 / 사진=영화 포스터영화 '하이재킹'이 100만 관객을 돌파했다. 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화 '하이재킹'이 100만 관객을 달성하며 흥행 열기를 이어가고 있다. 영화진흥위원회 통합전산망에 따르면 '하이재킹'은 30일 오전 10시 기준 누적 관객수 100만 40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 납치극 또 통했다..'하이재킹' 9일만에 100만 돌파 성공]]></title>
-        <id>https://v.daum.net/v/20240630111426959</id>
-        <link href="https://v.daum.net/v/20240630111426959"/>
-        <updated>2024-06-30T02:37:36.390Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 서스펜스 액션 영화 '하이재킹'(김성한 감독, 퍼펙트스톰필름·채널플러스 주식회사 제작)이 100만 관객을 돌파했다. '하이재킹'이 100만 관객을 달성하며 흥행 열기를 이어가고 있다. 영화진흥위원회 통합전산망에 따르면 '하이재킹'은 30일 오전 10시 기준 누적 관객수 100만0406명을 기록하며 100만 관객을 돌]]></content>
     </entry>
 </feed>
