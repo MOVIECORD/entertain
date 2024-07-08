@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-08T12:36:02.591Z</updated>
+    <updated>2024-07-08T13:22:29.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['핸섬가이즈' 입소문→역주행의 힘... 마침내 100만 고지 점령]]></title>
+        <id>https://v.daum.net/v/20240708214800803</id>
+        <link href="https://v.daum.net/v/20240708214800803"/>
+        <updated>2024-07-08T13:22:28.930Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '핸섬가이즈'가 기분 좋은 역주행 끝에 100만 관객을 돌파했다. 8일 영화진흥위원회 영화관입장권통합전산망에 따르면 '핸섬가이즈'는 이날 오후 누적 관객수 100만1057명을 기록하며 100만 고지를 점령했다. '핸섬가이즈'는 평화로운 전원생활을 꿈꾸던 두 남자가 하필이면 귀신 들린 집으로 이사 오며 벌어지는 일을 그린 코미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이렇게 웃길 수가" '핸섬가이즈' 극장가 초강력 웃음 선사하며 100만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20240708212736612</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240708183459301"/>
         <updated>2024-07-08T10:20:13.795Z</updated>
         <content type="html"><![CDATA[김휘정 상명대 문화기술대학원 교수 지난달 26일 개봉한 '핸섬가이즈'는 험한 인상을 가진 두 주인공에 대한 이야기다. 외모가 주는 선입견과 편견, 오해가 꼬리에 꼬리를 물어, 상상하지도 못한 일들이 연이어 벌어지는 오컬트 코미디 영화다. MZ세대가 좋아하는 B급 감성과 배우들의 열연이 어우려져 입소문이 나면서 역주행하고 있다. 지난 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["몰랐던 사건 알게해줬다"..'하이재킹', 역감사 인사 이유]]></title>
-        <id>https://v.daum.net/v/20240708183418291</id>
-        <link href="https://v.daum.net/v/20240708183418291"/>
-        <updated>2024-07-08T10:20:13.797Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 탄탄한 완성도와 장르적 쾌감을 꽉 채운 영화적 경험을 선사하며, 올 여름 극장 필람 무비로 호평을 자아내고 있는 영화 '하이재킹'이 관객들의 역감사 인사로 화제를 모으고 있다. 영화 '하이재킹'은 전 세계 유례없는 기적이라 불리는 1971년의 실제 여객기 공중 납치 사건을 모티브로 작가적 상상력을 더해 완성되었다. '하이재킹'은]]></content>
     </entry>
 </feed>
