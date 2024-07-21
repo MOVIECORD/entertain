@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-21T21:16:36.462Z</updated>
+    <updated>2024-07-21T22:17:14.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[200만 관객도 힘든 韓여름 영화, 쏟아지는 OTT 기대작에 더욱 긴장]]></title>
+        <id>https://v.daum.net/v/20240722070034564</id>
+        <link href="https://v.daum.net/v/20240722070034564"/>
+        <updated>2024-07-21T22:17:13.524Z</updated>
+        <content type="html"><![CDATA[넷플릭스 ‘크로스’, U+모바일tv ‘노 웨이 아웃’, 애플TV+ ‘파친코’, 디즈니+ ‘폭군’(왼쪽 위부터 시계방향으로) 등 화제작들이 OTT에 쏟아지면서 극장가에 긴장감이 맴돌고 있다. 사진제공|각 OTT여름 대목, 극장뿐 아니라 OTT(온라인 동영상 서비스) 간 콘텐츠 전쟁에도 불이 붙는다. 넷플릭스 ‘스위트홈’ 시즌3을 시작으로 8월까지 굵직한 O]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 온라인 흥행도 1위…美매체 선정 ‘2024 최고의 호러영화’ 등극]]></title>
+        <id>https://v.daum.net/v/20240722070029562</id>
+        <link href="https://v.daum.net/v/20240722070029562"/>
+        <updated>2024-07-21T22:17:13.531Z</updated>
+        <content type="html"><![CDATA[영화 ‘파묘’의 한 장면. 사진제공|쇼박스‘파묘’ 인기 아직 안 끝났다. 극장 최성수기라는 말이 무색하게 한국 영화 기대작들이 고전하고 있지만 지난 3월 극장서 1000만 관객을 돌파한 ‘파묘’는 OTT(온라인 동영상 서비스)와 VOD(주문형 비디오)을 통해 올여름 안방극장까지 휩쓸고 있어 눈길을 끈다. 이런 가운데 미국 유력 연예 매체가 ‘파묘’를 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공승연, 복합장르물에서 빛나는 정의의 얼굴]]></title>
         <id>https://v.daum.net/v/20240722061507039</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240721163303569"/>
         <updated>2024-07-21T08:21:23.588Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] * 이 글은 영화의 스포일러를 포함하고 있습니다. &nbsp;▲ &nbsp;영화 &lt;이매큘레이트&gt; 스틸컷ⓒ  (주)디스테이션&nbsp; 세실리아(시드니 스위니)는 어릴 적 얼어붙은 호수에 빠져 심장이 7분이나 멈추며 임사체험을 했다. 기적처럼 살아난 세실리아는 자신을 구원한 신의 존재를 굳게 믿으며 신실한 종교인으로 성장한다. 결국 수녀가 되어 헌신하겠다는 마음을 품던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '탈주', 누적 177만명 돌파…올해 韓 영화 3위]]></title>
-        <id>https://v.daum.net/v/20240721160440765</id>
-        <link href="https://v.daum.net/v/20240721160440765"/>
-        <updated>2024-07-21T07:16:21.169Z</updated>
-        <content type="html"><![CDATA[영화 탈주 포스터 /사진=뉴스1DB영화 '탈주'(감독 이종필)가 개봉 3주 차인 20일 전체 박스오피스 1위 자리에 올랐다. '파묘'와 '범죄도시4'에 이어 2024년 한국 영화 박스오피스 3위에 등극했다. 21일 영화진흥위원회 통합전산망에 따르면 '탈주'는 지난 20일 15만3660명의 관객을 동원했다. 누적관객수는 177만369명. '탈주'의 흥행은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈출' 김태곤 "故 이선균 현장에서 도움준 믿고 의지할 형이었다"]]></title>
-        <id>https://v.daum.net/v/20240721140137118</id>
-        <link href="https://v.daum.net/v/20240721140137118"/>
-        <updated>2024-07-21T05:18:55.925Z</updated>
-        <content type="html"><![CDATA[영화 '탈출: 프로젝트 사일런스'(이후 '탈출')를 만든 김태곤 감독을 만났다. 이 영화는 지난해 76회 칸국제영화제 미드나잇 스크리닝 부문에 초청을 받았으며 그로 인해 프랑스, 돌일, 미국, 스페인, 이탈리아, 홍콩, 일본 등 140개국에 선 판매되기도 했다. 칸에서 상영 당시 언론은 혹평을 쏟아냈지만 1년을 묵혀 이번에 공개한 이 작품은 故 이선균의 유]]></content>
     </entry>
 </feed>
