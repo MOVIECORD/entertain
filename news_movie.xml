@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-24T13:22:48.767Z</updated>
+    <updated>2024-07-24T14:19:12.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, 밥 딜런 완벽 변신 “소름돋는 스틸컷” 공개]]></title>
+        <id>https://v.daum.net/v/20240724231220830</id>
+        <link href="https://v.daum.net/v/20240724231220830"/>
+        <updated>2024-07-24T14:19:12.216Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 티모시 샬라메가 젊은 시절의 ‘포크록의 전설’ 밥 딜런으로 완벽 변신했다. 폭스 서치라이트는 23일(현지시간) 티모시 샬라메가 밥 딜런을 연기하는 제임스 맨골드 감독의 영화 ‘어 컴플리트 언노운(A Complete Unknown)’ 예고편을 공개했다. 이 영화는 1965년 뉴포트 포크 페스티벌 공연에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 58kg까지 극한 다이어트한 보람 있었다…'탈주'로 부진 탈출]]></title>
         <id>https://v.daum.net/v/20240724200102927</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240724152956125"/>
         <updated>2024-07-24T07:17:49.390Z</updated>
         <content type="html"><![CDATA[프로스포츠에서는 보통 한 시즌의 중반쯤에 그 해 잘했던 선수들을 모아놓고 특별한 이벤트 게임 ‘올스타전’을 연다. 올스타전을 보면 그해 그 스포츠의 판도와 경향을 알 수 있다. 한 해의 막 중간 정도가 된 7월 말. 안방의 시청자들은 연기 ‘올스타전’을 볼 수 있을지 모를 일이다. 그 예전 최동훈 감독이 영화판에서 스타들을 모아놓고 한바탕 난장을 펼쳤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 일 없었는데 임신, 늙은 수녀의 충격적 대답]]></title>
-        <id>https://v.daum.net/v/20240724152401889</id>
-        <link href="https://v.daum.net/v/20240724152401889"/>
-        <updated>2024-07-24T06:27:15.165Z</updated>
-        <content type="html"><![CDATA[[김동근 기자] (※ 이 기사는 영화의 스포일러를 포함하고 있습니다.) 삶의 방향성은 내가 직접 조정하며 가는 것이 맞을까? 정말 힘들거나 미래가 불확실할 때 우리는 누군가를 찾는다. 주변 사람들에게서 그 답을 찾지 못할 때나, 정말 너무 힘든 상황이 닥쳐오면 우리는 신을 찾는다. 예수나 부처 등 다양한 종교들이 그 힘든 상황을 위로해 준다. 마치 신의 뜻]]></content>
     </entry>
 </feed>
