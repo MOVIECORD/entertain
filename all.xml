@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-03T21:17:44.321Z</updated>
+    <updated>2024-08-03T22:16:30.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['파일럿', 4일째 박스오피스 1위+100만 돌파..'하루 44만 봤다' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240804071313474</id>
+        <link href="https://v.daum.net/v/20240804071313474"/>
+        <updated>2024-08-03T22:16:29.427Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=롯데엔터테인먼트영화 '파일럿'이 4일 연속 박스오피스 1위를 차지했다. 4일 영화관입장권 통합전산망 집계에 따르면 3일 '파일럿'은 44만 1,526명의 관객을 모았다. 누적 관객 수는 133만 9,775명이다. 이로써 '파일럿'은 지난 7월 31일 개봉 이후 4일째 박스오피스 1위 자리를 굳건히 지켰다. 특히 올여름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['리볼버' 전도연, 홍보 나섰다···유튜브 '요정재형' 출연 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240804060046651</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240803110106568"/>
         <updated>2024-08-03T02:35:06.931Z</updated>
         <content type="html"><![CDATA[영화 '리볼버'로 '더 글로리'의 '연진이'의 이미지를 확 갈아 엎은 배우 임지연을 만났다. 임지연은 영화에서 유흥업소 마담 '정유선'을 맡아 수영(전도연)을 돕는 한편 그녀를 노리는 자들에게 수영의 일거수일투족을 보고하는 조력자인지 배신자인지 알 수 없는 행동을 했다. 하는 작품마다 연기 호평에, 인상적인 연기를 펼치고 있는 임지연이 "자격지심이 많다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈퍼배드4’ 입소문 타고 100만 관객 돌파… 누적 수익 50억 달러 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240803104419412</id>
-        <link href="https://v.daum.net/v/20240803104419412"/>
-        <updated>2024-08-03T02:35:06.936Z</updated>
-        <content type="html"><![CDATA[영화 ‘슈퍼배드4’가 개봉 11일 만에 100만 관객을 돌파했다.&nbsp; 3일 영화관입장권 통합전산망에 따르면 ‘슈퍼배드4’는 이날 오전 7시 누적 관객수 101만 9415명을 기록했다. ‘슈퍼배드4’는 애니메이션 프랜차이즈 시리즈 최초로 누적 수익 50억 달러를 돌파했다. 개봉 후 입소문을 타면서 동시기 개봉작 ‘데드풀과 울버린’을 뛰어넘고 외화 박스오]]></content>
     </entry>
 </feed>
