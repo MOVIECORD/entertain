@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-11T02:41:26.508Z</updated>
+    <updated>2024-08-11T03:20:52.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["아이고 팔자야"... 오사카 묘지에 울려 퍼진 어미의 통곡 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240811120003959</id>
+        <link href="https://v.daum.net/v/20240811120003959"/>
+        <updated>2024-08-11T03:20:52.157Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 일본 니가타현 사도광산이 유네스코 세계문화유산으로 등재되며 일제에 의해 이뤄진 조선인 강제징용 문제가 다시금 주목받았다. 수년 전 군함도에 이어 또 한 번 어두운 역사만 싹 지운 채 보전 가치 있는 자산으로 탈바꿈한 것이다. 수많은 조선인이 가혹한 노동과 착취를 당한 역사를 이리 허망하게 씻을 수는 없는 일이다. 독립한 이 땅의 후손들이 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 "난 혜교 언니처럼 예쁘지 않은 배우, 자격지심 많았는데.." (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240811112643596</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240811082811158"/>
         <updated>2024-08-11T01:35:06.358Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '라이온 킹'의 프리퀄, '무파사: 라이온 킹'이 오는 12월 개봉한다. 디즈니 라이브 액션 영화 흥행 1위, 전 세계 역대 흥행 순위 9위를 기록한 영화 '라이온 킹'(2019)의 프리퀄 '무파사: 라이온 킹'(감독 배리 젠킨스)은 ‘심바’의 아버지이자 위대한 왕으로 불리는 ‘무파사’의 과거를 다루는 이야기로, 디즈니 애니메이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덕선이 아닌 필선이..'빅토리' 이혜리 "'응팔'은 내 마스터피스" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240811082802156</id>
-        <link href="https://v.daum.net/v/20240811082802156"/>
-        <updated>2024-08-11T01:35:06.360Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이혜리 / 사진=써브라임그룹 걸스데이 겸 배우 이혜리가 새로운 도전에 나섰다. 열정으로 완성한 '빅토리' 속 '필선'이를 통해 '응답하라 1988'의 '덕선'이와는 또 다른 매력을 보여주겠다는 각오다. 7일 서울시 종로구의 한 카페에서 영화 '빅토리'(감독 박범수)의 배우 이혜리와 만나 다양한 이야기를 나눴다. '빅토리']]></content>
     </entry>
 </feed>
