@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-16T03:23:37.071Z</updated>
+    <updated>2024-08-16T04:22:13.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 극장까지 접수…전체 예매율 1위 등극]]></title>
+        <id>https://v.daum.net/v/20240816131128611</id>
+        <link href="https://v.daum.net/v/20240816131128611"/>
+        <updated>2024-08-16T04:22:12.544Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 임영웅, 극장까지 접수…전체 예매율 1위 등극 영화 ‘임영웅│아임 히어로 더 스타디움’이 예매 오픈 2일 만에 전체 예매율 1위에 올랐다. ‘임영웅│아임 히어로 더 스타디움’은 10만 영웅시대와 함께 상암벌을 정복한 임영웅의 2024년 5월 서울월드컵경기장 공연 실황과 비하인드를 담은 스타디움 입성기. 이 작품은 예매 오픈 2일 만에 사전 예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅·BTS 정국·세븐틴, 극장가도 책임지는 특급 K-팝 ★들]]></title>
+        <id>https://v.daum.net/v/20240816123007001</id>
+        <link href="https://v.daum.net/v/20240816123007001"/>
+        <updated>2024-08-16T04:22:12.545Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 한수진 기자현재 CGV 영화 예매율 1위를 차지하고 있는 영화는 배우 조정석 주연의 '행복의 나라'도, 골든 글로브 수상자 정이삭 감독의 '트위스터스'도 아니다. 바로 가수 임영웅의 콘서트 실황을 담은 '임영웅│아임 히어로 더 스타디움'이다. '임영웅│아임 히어로 더 스타디움'은 지난 15일 0시 기준 CGV 개봉 예정 영화 중 예매율 1위를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박훈정 '폭군', 공개 하루 만에 플릭스패트롤 디즈니+ 2위]]></title>
         <id>https://v.daum.net/v/20240816122205869</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240816103218519"/>
         <updated>2024-08-16T02:38:13.811Z</updated>
         <content type="html"><![CDATA[첫 영화제작에 나선 김흥국 흥.픽쳐스 회장이 박정희 전 대통령, 육영수 여사의 다큐 영화 ‘그리고 목련이 필때면’의 개봉일 만원사례를 전했다. 흥.픽쳐스는 16일 “어제(15일) 서울 용산CGV, 롯데시네마 월드타워점을 비롯, 인천, 울산, 대구, 구미, 부산, 당진등 전국 각지에서 동시 개봉되었는데, 육영수 여사 서거 50주기를 맞아, 일부 극장들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석, 발가락 4개 잃을 뻔…"없어지는 느낌 받아"]]></title>
-        <id>https://v.daum.net/v/20240816101001595</id>
-        <link href="https://v.daum.net/v/20240816101001595"/>
-        <updated>2024-08-16T01:23:11.366Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] '행복의 나라'가 영화와 관련된 흥미로운 숫자들을 공개했다. '행복의 나라'는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 박태주(이선균)와 그의 변호를 맡으며 대한민국 최악의 정치 재판에 뛰어든 변호사 정인후(조정석)의 이야기를 그린 영화다. 개봉 후 관객들의 영화와 관련된 흥미로운 숫자들이 공개돼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안녕, 할부지' 푸공주→후쪽이…바오 패밀리, 극장 강타할 역대급 심쿵 비주얼]]></title>
-        <id>https://v.daum.net/v/20240816100812530</id>
-        <link href="https://v.daum.net/v/20240816100812530"/>
-        <updated>2024-08-16T01:23:11.367Z</updated>
-        <content type="html"><![CDATA[푸바오.[이데일리 스타in 김보영 기자] 9월 4일, 가을 극장가를 따뜻한 감성으로 물들일 영화 ‘안녕, 할부지’(감독 심형준)가 바오패밀리의 알쓸판잡을 담은 귀여운 스틸들을 깜짝 공개했다. 영화 ‘안녕, 할부지’는 선물로 찾아온 만남과 예정된 이별, 헤어짐을 알기에 매 순간 진심이었던 푸바오와 주키퍼들의 이야기다. ‘안녕, 할부지’가 사랑스러운 비주얼로]]></content>
     </entry>
 </feed>
