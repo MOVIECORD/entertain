@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-22T12:36:58.353Z</updated>
+    <updated>2024-08-22T13:22:13.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악뮤 수현, 애니메이션 ‘연의 편지’ 더빙 도전]]></title>
+        <id>https://v.daum.net/v/20240822221928973</id>
+        <link href="https://v.daum.net/v/20240822221928973"/>
+        <updated>2024-08-22T13:22:12.604Z</updated>
+        <content type="html"><![CDATA[악뮤 이수현. 주현희 기자 teth1147@donga.com남매 듀오 ‘악뮤’ 멤버 수현이 ‘연의 편지’를 통해 애니메이션 목소리 연기에 도전한다. 22일 배급사 롯데엔터테인먼트에 따르면 수현이 인기 웹툰을 바탕으로 한 장편 애니메이션 ‘연의 편지’에서 주인공 ‘소리’ 목소리 연기를 맡는다. ‘연의 편지’는 따돌림당하던 친구를 돕다 집단 괴롭힘을 당해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세완 "'빅토리', 퍼포먼스 상과 닮아있어… 많은 관람 부탁"]]></title>
         <id>https://v.daum.net/v/20240822212527160</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240822190531567"/>
         <updated>2024-08-22T10:21:24.151Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 임성균 기자] 가수 임영웅이  22일 오후 서울 용상CGV에서 열린 영화 '아임 히어로-더 스타디움' 언론시사회 및 무대인사에 참석해 인사말을 하고 있다. 2024.08.22 임성균 기자 tjdrbs23@mt.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 "상암벌 우중 공연, 오히려 좋았다"]]></title>
-        <id>https://v.daum.net/v/20240822190250471</id>
-        <link href="https://v.daum.net/v/20240822190250471"/>
-        <updated>2024-08-22T10:21:24.154Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 데뷔 첫 스타디움 입성이었던 5월 상암 콘서트를 회상했다. 22일 오후 서울 용산구 CGV용산아이파크몰에서 임영웅의 상암 월드컵경기장 공연 실황을 담은 영화 '임영웅│ 아임 히어로 더 스타디움' 언론배급시사회가 진행됐다. '임영웅│ 아임 히어로 더 스타디움'은 지난 5월 임영웅이 10만 영웅시대(임영웅 공식 팬클럽명)을 동원했던 '상암벌']]></content>
     </entry>
 </feed>
