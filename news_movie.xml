@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-26T06:28:13.602Z</updated>
+    <updated>2024-08-26T07:18:17.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘행복의 나라’ 유재명, 팬서비스도 진심‥관객에게 직접 팝콘 증정 ‘계탔네’]]></title>
+        <id>https://v.daum.net/v/20240826161759482</id>
+        <link href="https://v.daum.net/v/20240826161759482"/>
+        <updated>2024-08-26T07:18:17.156Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '행복의 나라' 유재명, 송영규, 이현균이 흥행을 위해 나섰다. 영화 '행복의 나라'(감독 추창민)는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 박태주와 그의 변호를 맡으며 대한민국 최악의 정치 재판에 뛰어든 변호사 정인후의 이야기를 그린 작품이다. ‘행복의 나라’에 출연한 유재명, 송영규, 이현균은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설경구·장동건·김희애 ‘보통의 가족’, 부국제서 본다]]></title>
+        <id>https://v.daum.net/v/20240826160303826</id>
+        <link href="https://v.daum.net/v/20240826160303826"/>
+        <updated>2024-08-26T07:18:17.156Z</updated>
+        <content type="html"><![CDATA[전 세계 유수 영화제를 휩쓸고 있는 영화 ‘보통의 가족’(허진호 감독)이 올해 부산국제영화제에서 국내 첫 공개된다. 영화는 각자의 신념을 가지고 살아가던 네 사람이 아이들의 범죄현장이 담긴 CCTV를 보게 되면서 모든 것이 무너져가는 모습을 담은 서스펜스 스릴러. 이미 국제 유수 영화제에서 호평 세례를 받으며 성공적인 해외 투어를 마치고 웰 메이드 기대작으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기 '보고타'→김성철 '지옥2', 부산에서 먼저 만난다]]></title>
+        <id>https://v.daum.net/v/20240826155450432</id>
+        <link href="https://v.daum.net/v/20240826155450432"/>
+        <updated>2024-08-26T07:18:17.158Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 제29회 부산국제영화제가 '한국영화의 오늘 – 스페셜 프리미어' 5편과 '온 스크린' 6편의 선정작을 공개했다. '한국영화의 오늘 – 스페셜 프리미어' 섹션은 대중적 매력과 위상을 지닌 동시대 한국 상업 영화의 최신작 및 대표작을 프리미어로 상영하는 섹션으로 올해에는 관객의 이목을 집중시킬 월드 프리미어 4편을 포함, 총 5편을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국민판다’ 푸바오를 주인공으로 한 영화 ‘안녕, 할부지’, 9월 4일 전국에서 동시개봉해]]></title>
         <id>https://v.daum.net/v/20240826151252756</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240826140600017"/>
         <updated>2024-08-26T05:18:48.803Z</updated>
         <content type="html"><![CDATA[매주 개봉되는 한국영화 작품을 소개합니다. &lt;기자말&gt; [빈장원 기자] (*이 기사는 영화의 스포일러를 포함하고 있습니다.) 옷깃을 스치는 바람, 흩날리는 꽃, 푸른 산, 흐르는 맑은 물, 흔들리지 않는 믿음, 최선의 삶, 타인을 향한 마음과 배려에 우리는 아름답다고 말한다. 그리고 그 아름다운 것들이 우리의 삶 속에서 얼마나 소중한지에 대해 묻고 생각하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국이 싫어서', 각자도생의 헬조선 떠나고픈 청춘들의 고뇌]]></title>
-        <id>https://v.daum.net/v/20240826140127842</id>
-        <link href="https://v.daum.net/v/20240826140127842"/>
-        <updated>2024-08-26T05:18:48.803Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 정수진(칼럼니스트)다분히 도발적이다. '한국이 싫어서'라니, 딱히 애국자는 아닐지라도 이 땅에 태어나 살고 있는 사람들에게 무언의 저항을 안기는 제목 아닌가. 한창 '헬조선 담론'이 일었던 2010년대 청춘의 마음을 낱낱이 짚어 젊은 층의 공감을 얻었던 장강명 작가의 소설을 원작으로 한 '한국이 싫어서'는 도발적인 제목만큼이나 맥을 잘못 짚기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['써니' 김보미♥윤전일, 결혼 4년 만에 둘째 임신…"하늘이 준 선물"]]></title>
-        <id>https://v.daum.net/v/20240826135253529</id>
-        <link href="https://v.daum.net/v/20240826135253529"/>
-        <updated>2024-08-26T05:18:48.806Z</updated>
-        <content type="html"><![CDATA[(사진=김보미 인스타그램)[이데일리 스타in 김보영 기자] 배우 김보미, 무용가 윤전일 부부가 둘째를 임신했다. 김보미의 소속사 A2Z 엔터테인먼트 측은 26일 공식입장을 통해 이같은 소식을 전했다. 소속사에 따르면 김보미는 현재 임신 17주차로 내년 1월 출산 예정이다. 소속사 측은 “김보미 배우의 둘째 임신 소식에 진심으로 축하를 전하며 건강하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 '보고타'→김성철 '지옥2'...부산국제영화제서 먼저 본다]]></title>
-        <id>https://v.daum.net/v/20240826135151491</id>
-        <link href="https://v.daum.net/v/20240826135151491"/>
-        <updated>2024-08-26T05:18:48.806Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 영화 '보통의 가족', '보고타', 넷플릭스 시리즈 '지옥' 시즌 2 등이 부산국제영화제에서 상영된다. 26일 제29회 부산국제영화제 측은 '한국영화의 오늘 – 스페셜 프리미어' 5편과 '온 스크린' 6편의 선정작을 공개했다. '한국영화의 오늘 – 스페셜 프리미어' 섹션은 대중적 매력과 위상을 지닌 동시대 한국 상업]]></content>
     </entry>
 </feed>
