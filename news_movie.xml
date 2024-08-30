@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-30T12:37:18.277Z</updated>
+    <updated>2024-08-30T13:23:26.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 밴드 스파이에어, '하이큐' 이어 신작 애니메이션 주제가 부른다]]></title>
+        <id>https://v.daum.net/v/20240830221937971</id>
+        <link href="https://v.daum.net/v/20240830221937971"/>
+        <updated>2024-08-30T13:23:25.355Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본의 인기 애니메이션 '하이큐' 시리즈의 주제가를 부른 것으로 유명한 락밴드 스파이에어(SPYAIR)가 신작 애니메이션 '푸른 미부로'의 오프닝 테마곡을 담당한다고 전해졌다. 29일(현지 시간), 외신 매체 '야후 재팬'이 일본의 밴드 스파이에어가 오는 10월 방영을 앞둔 TV 애니메이션 '푸른 미부로'(青のミブロ)의 오프닝 테]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감성 공감 무비 '안녕, 할부지' 차별화 포인트]]></title>
+        <id>https://v.daum.net/v/20240830220730856</id>
+        <link href="https://v.daum.net/v/20240830220730856"/>
+        <updated>2024-08-30T13:23:25.355Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]9월 4일 개봉하는 감성 공감 무비 '안녕, 할부지'는 바오패밀리 최초의 영화로 이별을 앞둔 푸바오와 주키퍼들의 못다 한 이야기를 담았다. 국민 판다 ‘푸바오’와 바오패밀리 최초의 영화의 극장 개봉 소식은 온 국민의 관심사가 되었다. 선물로 찾아온 만남과 예정된 이별, 헤어짐을 알기에 매 순간 진심이었던 푸바오와 주키퍼들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여배우 된 푸바오 ‘안녕, 할부지’ 동시기 개봉작 예매율 1위]]></title>
         <id>https://v.daum.net/v/20240830184852793</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240830145430558"/>
         <updated>2024-08-30T06:27:40.040Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 정호연 / 사진=SNS배우 정호연이 베니스 영화제를 빛냈다. 정호연은 29일(현지시간) Apple TV+ '누군가는 알고 있다 -- Disclaimer'(이하 '누군가는 알고 있다')의 감독 알폰소 쿠아론, 배우 케이트 블란쳇, 케빈 클라인, 사샤 바론 코헨, 코디 스밋 맥피, 루이스 패트리지, 레일라 조지와 함께 제81회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연, 베니스국제영화제 참석...알폰소 쿠아론X케이트 블란쳇과 레드카펫]]></title>
-        <id>https://v.daum.net/v/20240830145402542</id>
-        <link href="https://v.daum.net/v/20240830145402542"/>
-        <updated>2024-08-30T06:27:40.040Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 정호연이 제81회 베니스국제영화제(81st Venice International Film Festival)에 참석했다. 30일 소속사 사람엔터테인먼트 측은 "배우 정호연이 Apple TV+ '누군가는 알고 있다 — Disclaimer'의 프리미어 시사회를 위해 제81회 베니스국제영화제에 참석했다"라고 전했다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오겜의 딸’ 정호연, 붉은 드레스로 베니스영화제 접수]]></title>
-        <id>https://v.daum.net/v/20240830144801339</id>
-        <link href="https://v.daum.net/v/20240830144801339"/>
-        <updated>2024-08-30T06:27:40.041Z</updated>
-        <content type="html"><![CDATA[배우 정호연이 강렬한 붉은 드레스로 압도적 비주얼을 뽐내며 ‘베니스 국제 영화제’를 빛냈다. 30일 정호연 소속사 사람엔터테인먼트 측은 “배우 정호연이 Apple TV+ ‘누군가는 알고 있다 -- Disclaimer’의 프리미어 시사회를 위해 ‘제81회 베니스국제영화제’에 참석했다”고 알렸다. 지난 28일(현지 시간) 이탈리아 리도섬에서 개막한 ‘제81회]]></content>
     </entry>
 </feed>
