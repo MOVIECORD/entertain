@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-01T21:17:42.578Z</updated>
+    <updated>2024-09-01T22:19:02.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영상자료원, ‘50년의 역사’ 온라인 전시로 조망]]></title>
+        <id>https://v.daum.net/v/20240902071731533</id>
+        <link href="https://v.daum.net/v/20240902071731533"/>
+        <updated>2024-09-01T22:19:01.895Z</updated>
+        <content type="html"><![CDATA[한국영상자료원(원장 김홍준·영상자료원)은 창립 50주년을 기념해 1일부터 구글 아트 앤 컬처(Google Arts &amp; Culture)를 통해 ‘한국영상자료원 50년의 기록’ 온라인 전시를 개최한다. 구글 아트 앤 컬처는 전 세계 80여 개국, 3000개 이상의 기관과 협력하여 예술작품, 역사 자료, 세계문화유산 등을 감상할 수 있는 비영리 온라인 전시 플랫]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시네마 만난 K팝 ‘마이 아티 필름’, 익숙한 듯 색다른 시도]]></title>
         <id>https://v.daum.net/v/20240902060631734</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240901092233240"/>
         <updated>2024-09-01T01:45:39.584Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]‘굿파트너’ 장나라의 눈물이 진한 여운을 남겼다. 지난달 31일 방송된 SBS 금토드라마 ‘굿파트너’(극본 최유나, 연출 김가람, 기획·제작 스튜디오S·스튜디오앤뉴) 11회에서는 엄마와 변호사, 각자의 자리에서 홀로서기를 시작한 차은경(장나라)과 한유리(남지현)의 모습이 그려졌다. 회사에서도 딸 재희(유나)에게도 꼭 필요했던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃다가도 가슴 저미게 하는 그 이름, 가족…영화 '장손']]></title>
-        <id>https://v.daum.net/v/20240901090143870</id>
-        <link href="https://v.daum.net/v/20240901090143870"/>
-        <updated>2024-09-01T01:45:39.584Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 흔히들 가족을 사랑으로 맺어진 공동체라고 하지만, 그 밑에는 오랜 상처나 아픈 기억이 숨어 있곤 한다. 어떤 사건을 계기로 그런 것이 수면 위로 떠오르면 가족 관계는 위기를 맞게 된다. 오정민 감독의 신작 '장손'은 화목한 듯하면서도 내밀한 상처를 품고 있는 한 가족의 이야기를 그리면서 가족의 의미를 돌아보게 하는 작품이다]]></content>
     </entry>
 </feed>
