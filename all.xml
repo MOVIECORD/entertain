@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-03T12:38:22.412Z</updated>
+    <updated>2024-09-03T13:24:52.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[황정민 '남자가 사랑할 때', 태국판 리메이크...'내일 없는 사랑' 10월 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240903220151428</id>
+        <link href="https://v.daum.net/v/20240903220151428"/>
+        <updated>2024-09-03T13:24:52.201Z</updated>
+        <content type="html"><![CDATA[(MHN 스포츠 박예영 인턴기자, 정에스더 기자) 영화 '내일 없는 사랑'이 오는 10월에 개봉한다. '내일 없는 사랑'은 빌려준 돈은 반드시 받아내는 보와 병든 아버지를 대신해 빚을 갚으며 힘들게 살아가는 임, 두 사람이 만나 애절한 사랑을 담아낸 감성 멜로다. 지난 2014년 개봉한 황정민, 한혜진 주연의 한국 영화 '남자가 사랑할 때'의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT 영화로 포문 여는 BIFF…"흥 나는 영화제" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240903212635914</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240903174601850"/>
         <updated>2024-09-03T09:21:37.897Z</updated>
         <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;오는 10월 2일 개막하는 제 29회 부산국제영화제(BIFF)의 개막작으로는 한국 영화인 '전, 란'(김상만 감독)이, 폐막작에는 프랑스·싱가포르·일본 합작 영화인 '영혼의 여행'(에릭 쿠 감독)이 선정됐다.&nbsp; 올해 공식 초청 상영작은 63개국의 224편으로 지난해 209편에 비해 8% 가량 상영작이 늘어났다. 커뮤니티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“고로 씨 in 부산”…‘고독한 미식가 더 무비’ 부국제 오픈시네마 초청 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240903173528506</id>
-        <link href="https://v.daum.net/v/20240903173528506"/>
-        <updated>2024-09-03T09:21:37.897Z</updated>
-        <content type="html"><![CDATA[12년 동안 사랑받아온 일본 인기 드라마 ‘고독한 미식가’의 첫 극장판이 제29회 부산국제영화제를 찾는다. 3일 배급사 미디어캐슬은 영화 ‘고독한 미식가 더 무비’가 오는 10월 2일부터 11일까지 개최되는 제29회 부산국제영화제의 ‘오픈 시네마’ 섹션에 공식 초청되어 국내 관객들에게 첫 선을 보인다고 밝혔다. 지난 2012년 1월 첫 방송 이후 심야]]></content>
     </entry>
 </feed>
