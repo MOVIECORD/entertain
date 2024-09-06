@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-06T10:21:20.844Z</updated>
+    <updated>2024-09-06T11:17:55.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빈집인데 털이범이 없다…처참한 韓 박스오피스]]></title>
+        <id>https://v.daum.net/v/20240906200158109</id>
+        <link href="https://v.daum.net/v/20240906200158109"/>
+        <updated>2024-09-06T11:17:54.627Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 박스오피스가 침잠했다. 6일 박스오피스 순위는 푸바오와의 이별을 담은 다큐 '안녕, 할부지', 일본 애니메이션 '룩백', 영미 영화 '에일리언 로물루스', 팀 버튼 감독의 '비틀쥬스 비틀쥬스', 조정석 주연의 '파일럿' 순으로 집계됐다. 이렇다 할 흥행작도, 개봉작도 없는 가운데 눈여겨볼 점은 1위에서 5위까지 전부 1만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고은민, 제천국제음악제 레드카펫→‘리퀘스트’ GV 소통]]></title>
         <id>https://v.daum.net/v/20240906191501342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240906160603533"/>
         <updated>2024-09-06T07:18:49.910Z</updated>
         <content type="html"><![CDATA[[안치용 기자] (*영화의 전개와 결말을 알 수 있는 내용이 포함돼 있습니다.) 젊은 남녀가 주인공인데 별다른 사건이 벌어지지 않는 영화라면 대개 사랑 이야기다. 엄밀하게 말해 사건이 없다고 할 수는 없다. 사랑이 사건이다. 사건이 없고 사랑마저 없는 영화는 쉽게 상상이 되지 않는다. 소설의 3요소가 주제·구성·문체이고 소설구성의 3요소가 인물·사건·배경이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국고 예산 삭감에도... '20회 JIMFF' 문 활짝 열었다]]></title>
-        <id>https://v.daum.net/v/20240906155701179</id>
-        <link href="https://v.daum.net/v/20240906155701179"/>
-        <updated>2024-09-06T07:18:49.915Z</updated>
-        <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;제 20회 제천국제음악영화제가 5일 개막했다. ⓒ 제천시 제공어김없이 올해도 개막식에 비는 왔지만 전과 달리 라이브 음악이 주변을 감쌌다. 올해로 20회를 맞은 제천국제음악영화제가 5일 제천 예술의전당에서 개막식을 진행한 가운데 본격 행사들이 차질 없이 진행 중이다. 약 800석의 객석이 거의 들어찬 개막식 행사는 레드카펫 때부터 행사]]></content>
     </entry>
 </feed>
