@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-08T21:17:58.739Z</updated>
+    <updated>2024-09-08T22:18:29.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸바오도 못 이겨 '에이리언:로물루스' 4주 연속 1위]]></title>
+        <id>https://v.daum.net/v/20240909070702341</id>
+        <link href="https://v.daum.net/v/20240909070702341"/>
+        <updated>2024-09-08T22:18:28.939Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 영화 '에이리언:로물루스'가 4주 연속 주말 박스오피스 정상을 달렸다. 푸바오 다큐멘터리 '안녕, 할부지'는 공개 첫 주말 2위에 올랐다. '에이리언:로물루스'는 6~8일 11만9363명(영화진흥위원회 기준)이 봐 주말 박스오피스 최상단을 지켰다. 이 작품은 지난달 14일 공개된 이후 한 달 간 주말 박스오피스 1위를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“앞으로의 만남 기다려져” …‘빅토리‘ 붐업시킨 이혜리의 진심]]></title>
         <id>https://v.daum.net/v/20240909061509704</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240908155751813"/>
         <updated>2024-09-08T07:16:50.881Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] 충북 경찰이 제천국제음악영화제 폭죽 사고와 관련해 본격적인 수사에 들어섰다. 충북경찰청 측은 지난 6일 영화제 현장에서 발생한 폭죽 사고의 경위를 조사 중이다. 이날 영화제 야외 행사장에서는 특수 효과를 위해 설치한 불꽃 폭죽이 관람객을 향해 발사되면서 현장에 있던 17명이 부상을 당했다. 충북경찰청 과학수사계와 제천경찰서 형사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제천영화제 폭죽사고, 17명 부상…”깊은 사죄”]]></title>
-        <id>https://v.daum.net/v/20240908150928577</id>
-        <link href="https://v.daum.net/v/20240908150928577"/>
-        <updated>2024-09-08T06:26:21.748Z</updated>
-        <content type="html"><![CDATA[‘제20회 제천국제음악영화제’(이하 ‘영화제’) 야외 행사장 불꽃 특수효과 사고로 17명이 다친 가운데 영화제 측이 공식 사과했다.&nbsp; 영화제 측은 7일 공식 홈페이지를 통해 “6일 제천국제음악영화제 공연 중 발생한 특수효과 관련 사고로 인해 심려를 끼쳐드린 점 진심으로 사과드린다”며 “부상을 입으신 분들과 가족분들에게 깊은 사죄의 말씀을 드리며 피해자와]]></content>
     </entry>
 </feed>
