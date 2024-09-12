@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-12T11:16:55.815Z</updated>
+    <updated>2024-09-12T12:38:11.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이동휘X한지은 로코 ‘결혼, 하겠나?’ 10월 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20240912204200336</id>
+        <link href="https://v.daum.net/v/20240912204200336"/>
+        <updated>2024-09-12T12:38:10.443Z</updated>
+        <content type="html"><![CDATA[생계형 로맨틱 코미디 ‘결혼, 하겠나?’가 10월 개봉을 확정하고 1차 포스터를 공개했다. 영화 ‘결혼, 하겠나?’는 오래 연애 끝에 ‘우정’과의 행복한 결혼을 앞둔 ‘선우’, 아빠가 갑자기 뇌출혈로 쓰러지게 되고 눈덩이처럼 불어나는 치료비를 해결하기 위한 가족들의 고군분투를 그린다. 이동휘 한지은이 주연이다. 이동휘는 극 중 건축가를 꿈꾸는 대학 시간 강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 D-1 '베테랑2', 예매율 78% 압도…추석연휴 돌풍 예고 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20240912201328904</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240912165950104"/>
         <updated>2024-09-12T08:25:22.927Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 청춘 성장 애니메이션 '룩백'이 국내 언론과 관객들의 극찬이 담긴 리뷰 포스터를 공개했다. 만화에 대한 열정 하나로 이어진 두 소녀의 아름다운 우정을 그린 성장 애니메이션 '룩백'이 실관람객들의 호평이 담긴 아름다운 작화의 리뷰 포스터를 공개했다. 공개된 리뷰 포스터에는 “창작 충동과 공명을 담은 올해 가장 뜨거운 58분!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예매량 50만명 넘긴 '베테랑2' 추석 연휴 독주 예고 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20240912165543964</id>
-        <link href="https://v.daum.net/v/20240912165543964"/>
-        <updated>2024-09-12T08:25:22.930Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 영화 '베테랑2'가 예매만으로 50만명을 채우며 추석 연휴 박스오피스 사실상 장악했다. 12일 오후 4시40분 현재 '베테랑2' 예매 관객수는 약 51만8000명으로 예매 순위 1위를 달리고 있다. 예매 점유율(전체 영화 예매량 중 특정 영화 예매량)은 75%를 넘겼다. 예매 관객 4명 중 3명은 '베테랑2'를 본다는]]></content>
     </entry>
 </feed>
