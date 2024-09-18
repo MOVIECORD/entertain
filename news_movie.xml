@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-18T02:46:12.611Z</updated>
+    <updated>2024-09-18T03:22:26.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무도실무관' 공개 3일 만에 글로벌 TOP 10 영화  부문 1위 등극]]></title>
+        <id>https://v.daum.net/v/20240918115439152</id>
+        <link href="https://v.daum.net/v/20240918115439152"/>
+        <updated>2024-09-18T03:22:25.864Z</updated>
+        <content type="html"><![CDATA[넷플릭스(Netflix) 영화 '무도실무관'이 넷플릭스 글로벌 TOP 10 영화(비영어) 부문 1위를 석권하고, 미공개 스틸과 비하인드 스틸을 공개했다. 태권도, 검도, 유도 도합 9단 무도 유단자 이정도(김우빈)가 보호관찰관 김선민(김성균)의 제안으로 범죄를 예방하기 위해 전자발찌 대상자들을 24시간 밀착 감시하는 ‘무도실무관'으로 함께 일하게 되면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봉준호 감독 신작 '미키17' 1차 예고 공개]]></title>
+        <id>https://v.daum.net/v/20240918114939092</id>
+        <link href="https://v.daum.net/v/20240918114939092"/>
+        <updated>2024-09-18T03:22:25.865Z</updated>
+        <content type="html"><![CDATA[2025년 1월 28일 세계 최초 한국 개봉 및 1월 31일 글로벌 개봉을 확정한 봉준호 감독의 신작 '미키 17'이 1차 예고편을 공개했다. (영제: Mickey 17 l 각본/감독: 봉준호ㅣ주연: 로버트 패틴슨, 나오미 애키, 스티븐 연, 토니 콜렛 그리고 마크 러팔로ㅣ수입/배급: 워너브러더스 코리아㈜) '기생충' 이후, 세계가 궁금해하고 기다렸던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["팝 그 자체" 방탄소년단 정국, 진면모 담은 첫 다큐 오늘 개봉]]></title>
         <id>https://v.daum.net/v/20240918114350993</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240918105528105"/>
         <updated>2024-09-18T02:46:11.980Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS) 정국의 첫 단독 다큐멘터리 영화가 국내외서 개봉했다.&nbsp; 18일 방탄소년단 정국의 첫 단독 다큐멘터리 영화 ‘정국:아이 엠 스틸’(JUNG KOOK: I AM STILL)이 한국 CGV와 약 120개 국가/지역의 극장에서 개봉했다. 일본에서는 10월 4일 상영을 시작한다.&nbsp; 영화는 정국의 첫 솔로 싱글 ‘세븐(feat. 라토)’부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민·정해인, 제대로 通했다..'베테랑2' 400만 돌파]]></title>
-        <id>https://v.daum.net/v/20240918105032028</id>
-        <link href="https://v.daum.net/v/20240918105032028"/>
-        <updated>2024-09-18T02:46:11.983Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=영화 '베테랑2' 영화 '베테랑2'가 개봉 6일째 아침을 열며 400만 관객을 돌파했다. 18일 오전 9시 영화관 입장권 통합전산망 배급사에 따르면 '베테랑2'는가 누적 관객수 4,001,565명을 돌파해 손익분기점(400만 명)을 넘겼다. 거센 입소문 행보로 추석 연휴 기간 극장가를 뜨겁게 달구고 있는 '베테랑2']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베테랑2' 400만 관객 돌파…'파묘'보다 빠른 흥행 속도]]></title>
-        <id>https://v.daum.net/v/20240918104711985</id>
-        <link href="https://v.daum.net/v/20240918104711985"/>
-        <updated>2024-09-18T02:46:11.984Z</updated>
-        <content type="html"><![CDATA[개봉 6일 만에 400만+손익분기점 돌파 시즌1 이후 9년 만에 돌아온 시즌2…황정민·정해인 주연 '베테랑2' [더팩트ㅣ김샛별 기자] 배우 황정민 정해인 주연의 '베테랑2'가 개봉 6일째에 400만 관객을 돌파했다. 18일 영화관 입장권 통합전산망에 따르면 이날 오전 9시 '베테랑2'(감독 류승완)가 누적 관객 수 400만 1565명을 넘었다. 이는]]></content>
     </entry>
 </feed>
