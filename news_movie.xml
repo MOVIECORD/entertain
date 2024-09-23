@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-23T05:20:25.876Z</updated>
+    <updated>2024-09-23T06:30:10.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나나 하차→신세경 합류"…류승완표 첩보물 '휴민트', 조인성X박정민 치트키 신세경까지]]></title>
+        <id>https://v.daum.net/v/20240923152512903</id>
+        <link href="https://v.daum.net/v/20240923152512903"/>
+        <updated>2024-09-23T06:30:10.138Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 개봉 9일 만에 500만 관객을 사로잡으며 가을 극장가 흥행 톱티어로 이름값을 증명한 '베테랑2'의 류승완 감독이 쉬지 않고 신작 준비에 돌입한다. 올해 하반기 크랭크 인 할 첩보 액션 영화 '휴민트'(류승완 감독, 외유내강 제작)의 막판 캐스팅을 조율, '치트키' 신세경을 내세우며 더할 나위 없는 완벽한 앙상블을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신세경, 조인성X박정민 만난다 ‘휴민트’ 합류→나나 스케줄 탓 하차]]></title>
         <id>https://v.daum.net/v/20240923135752924</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240923114350773"/>
         <updated>2024-09-23T02:51:45.009Z</updated>
         <content type="html"><![CDATA[[스포츠한국 이유민 기자]&nbsp;CJ ENM(대표이사 윤상현)이 다음 달 2일 개막하는 제29회 부산국제영화제(BIFF)를 화려하게 수놓는다. K 콘텐츠 산업 발전을 함께 이끄는 계열사들과 협력해 다채로운 작품을 선보이는 것은 물론, K 콘텐츠 생태계 비전을 모색하는 포럼 개최부터 각종 이벤트로 부산 국제영화제를 꽉 채울 예정이다. CJ ENM은 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키에서 김고은, 장나라, 강다니엘까지…행사가 쏟아진다]]></title>
-        <id>https://v.daum.net/v/20240923114310732</id>
-        <link href="https://v.daum.net/v/20240923114310732"/>
-        <updated>2024-09-23T02:51:45.010Z</updated>
-        <content type="html"><![CDATA[추석 이후 온전한 한 주를 시작하는 월요일, 연예계에는 다채로운 행사가 쏟아진다. 미니 3집을 발매하는 가수 키는 오전 11시 서울 여의도 페어몬트 앰배서더 서울 그랜드볼룸에서 기자간담회를 연다. 키는 이날 오후 6시 세 번째 미니앨범 ‘플레저 숍(Pleasure Shop)’을 발매한다. 이 앨범은 일렉트로 하우스 장르의 타이틀곡 ‘플레저 숍’을 포]]></content>
     </entry>
 </feed>
