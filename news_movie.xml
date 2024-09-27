@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-27T08:27:08.316Z</updated>
+    <updated>2024-09-27T09:22:23.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배꼽 잡을 준비 되셨나요?···게이 남사친과 유쾌한 동거]]></title>
+        <id>https://v.daum.net/v/20240927174209921</id>
+        <link href="https://v.daum.net/v/20240927174209921"/>
+        <updated>2024-09-27T09:22:23.199Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 ‘대도시의 사랑법’은 동명의 소설이 원작이기에 ‘퀴어물’로 이미 ‘아웃팅’한 작품이다. 그러나 영화화된 ‘대도시의 사랑법’은 어둡고 마이너한 감성의 퀴어물의 전형을 따르지 않았다. 로맨틱 코미디이자, 성장 드라마에 가깝다. 웃음이 가득하지만 귀엽고 유쾌하고 아름답기까지 한 ‘대도시의 사랑법’은 올해 가장 성공한 중소규모의 영화가 될]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울독립영화제 예산 전액 삭감... 영화계 발끈]]></title>
+        <id>https://v.daum.net/v/20240927174200907</id>
+        <link href="https://v.daum.net/v/20240927174200907"/>
+        <updated>2024-09-27T09:22:23.199Z</updated>
+        <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;2023년 49회 서울독립영화제 개막식ⓒ 서울독립영화제 제공2025년 영화발전기금 예산안에서 서울독립영화제의 예산이 전액 삭감된 것으로 확인돼 영화계가 강하게 반발하고 있다. 서울독립영화제와 한국독립영화협회 등은 '최근 2025년 예산안에서 서울독립영화제 예산이 사라졌다'며 '공동주최 단체인 영진위와 한독협은 어떠한 논의를 거친 바 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[600만 흥행 ‘베테랑2’ 황정민X정해인, 2주만에 부산→대구 또 간다]]></title>
         <id>https://v.daum.net/v/20240927172620493</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240927145443416"/>
         <updated>2024-09-27T06:30:11.542Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 김고은, 노상현의 빛나는 앙상블과 유쾌한 에피소드, 가슴 찡한 공감으로 뜨거운 호평을 받고 있는 영화 '대도시의 사랑법'이 개봉 2주차 무대인사를 확정했다. '대도시의 사랑법'은 눈치보는 법이 없는 자유로운 영혼의 재희(김고은)와 세상과 거리두는 법에 익숙한 흥수(노상현)가 동거동락하며 펼치는 그들만의 사랑법을 그린다.&nbsp; 캐릭터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바른손이앤에이, 인도네시아와 호러영화 ‘Sorop’ 제작]]></title>
-        <id>https://v.daum.net/v/20240927145400383</id>
-        <link href="https://v.daum.net/v/20240927145400383"/>
-        <updated>2024-09-27T06:30:11.545Z</updated>
-        <content type="html"><![CDATA[바른손이앤에이(대표 최윤희)가 인도네시아 1위 스튜디오 MD 픽쳐스의 호러 영화 ‘Sorop’에 부분투자 및 해외 세일즈를 확정했다. 바른손이앤에이는 올해 제29회 부산국제영화제의 아시아콘텐츠&amp;필름마켓에서 ‘Sorop’의 해외 세일즈를 시작으로 MD 픽쳐스와 장기적인 협업을 이어갈 예정이다. MD 픽쳐스는 인도네시아 증권거래소에 상장된 최초의 영화사로 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2의 불한당원 탄생하나…변성현 감독·설경구, '굿뉴스'로 또 재회]]></title>
-        <id>https://v.daum.net/v/20240927144845210</id>
-        <link href="https://v.daum.net/v/20240927144845210"/>
-        <updated>2024-09-27T06:30:11.546Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 변성현 감독이 차기작 영화 '굿뉴스'로 배우 설경구와 네 번째 재회한다. 넷플릭스는 27일 "제73회 베를린 국제영화제 스페셜 부문에 초청되며 작품성을 인정 받고, 전 세계 시청자들의 뜨거운 사랑을 받았던 '길복순'의 변성현 감독 차기작 '굿뉴스'를 제작한다"고 밝혔다. '굿뉴스'는 1970년 무슨 수를 써서라도]]></content>
     </entry>
 </feed>
