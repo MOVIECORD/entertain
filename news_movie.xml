@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-29T04:24:33.012Z</updated>
+    <updated>2024-09-29T05:19:24.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀리서 찾지 않아야 진정한 행복이다]]></title>
+        <id>https://v.daum.net/v/20240929140302965</id>
+        <link href="https://v.daum.net/v/20240929140302965"/>
+        <updated>2024-09-29T05:19:23.689Z</updated>
+        <content type="html"><![CDATA[[정병진 기자] ▲ 어린 아들과 노숙인 쉼터에 들어가는 가드너&nbsp;한 교회가 마련한 노숙인 쉼터에 어린 아들과 함게 들어가는 가드너ⓒ 넷플릭스영화 &lt;행복을 찾아서&gt; (The Pursuit of Happyness)(2006)는 미국 억만장자 투자자이자 동기부여 연설가인 크리스 가드너(Chris Gardner, 1954~)의 일생을 다룬 영화입니다. 영화를 보기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 찾은 하츄핑, K-애니메이션 성장에 미칠 영향]]></title>
+        <id>https://v.daum.net/v/20240929132452311</id>
+        <link href="https://v.daum.net/v/20240929132452311"/>
+        <updated>2024-09-29T05:19:23.694Z</updated>
+        <content type="html"><![CDATA[국내 관객들에게 뜨거운 사랑을 받고 있는 '사랑의 하츄핑'이 중국을 찾았다. 세계 시장에서 한국 드라마, 영화와 비교했을 때 애니메이션의 존재감이 비교적 약했던 만큼 하츄핑의 행보가 더욱 이목을 집중시키고 있다. '사랑의 하츄핑'은 운명의 소울메이트를 찾아 나선 로미와 하츄핑의 첫 만남을 그린 애니메이션 영화다. TV 애니메이션 '캐치! 티니핑'의 프리퀄이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허진호 감독, 설경구와 식당에서 깊어진 인연]]></title>
         <id>https://v.daum.net/v/20240929132146252</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240929095248030"/>
         <updated>2024-09-29T01:45:07.671Z</updated>
         <content type="html"><![CDATA[[앵커] 대형 멀티플렉스 극장이 생기기 전, '영화의 메카'는 단연 충무로였죠. 충무로에서도 대한극장에서의 추억을 가진 분들 많으실텐데요. 극장이 이제 문을 닫는다고 합니다. 신새롬 기자가 다녀왔습니다. [기자] 한때 충무로 하면 영화, 영화하면 충무로였습니다. 1950년대부터 영화 제작사와 극장들이 몰려 충무로는 한국 영화의 메카로 자리잡았습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한인 민권운동 다룬 ‘프리 철수 리’, 美에미상 최우수 역사다큐 수상]]></title>
-        <id>https://v.daum.net/v/20240929094824958</id>
-        <link href="https://v.daum.net/v/20240929094824958"/>
-        <updated>2024-09-29T01:45:07.671Z</updated>
-        <content type="html"><![CDATA[미국 내 한인 민권운동에 큰 영향을 끼친 1970년대 이철수 씨 구명운동을 다룬 다큐멘터리 ‘프리 철수 리’(Free Chol Soo Lee)가 미 방송계 최고 권위상인 에미상을 거머쥐었다. 지난 26일(현지시각) 뉴욕 타임스퀘어 팔라디움에서 열린 제45회 뉴스·다큐멘터리 에미상 시상식에서 ‘프리 철수 리’는 최우수 역사 다큐멘터리 부문 에미상 수상작으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘해리포터’ 맥고나걸 역 배우 사망‥삼총사에 말포이까지 추모 “전설”]]></title>
-        <id>https://v.daum.net/v/20240929094751941</id>
-        <link href="https://v.daum.net/v/20240929094751941"/>
-        <updated>2024-09-29T01:45:07.672Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '해리 포터' 시리즈에서 맥고나걸 교수 역을 맡았던 매기 스미스가 89세의 나이로 사망한 가운데, 함께 연기 호흡을 맞췄던 배우들의 추모가 이어지고 있다. BBC 등 다수의 외신에 따르면, 매기 스미스는 지난 9월 27일(현지시간) 영국 런던 한 병원에서 눈을 감았다. 구체적인 사인은 밝혀지지 않았으나, 2009년부터 암 투병]]></content>
     </entry>
 </feed>
