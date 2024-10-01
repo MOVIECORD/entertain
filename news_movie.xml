@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-01T05:20:19.401Z</updated>
+    <updated>2024-10-01T06:31:13.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍석천 “‘대도시의 사랑법’ 나 같은 정체성 갖고 있는 친구한테 위로”]]></title>
+        <id>https://v.daum.net/v/20241001144427107</id>
+        <link href="https://v.daum.net/v/20241001144427107"/>
+        <updated>2024-10-01T06:31:13.031Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 홍석천이 '대도시의 사랑법'에 대한 호평을 남겼다. 영화 '대도시의 사랑법' 측은 지난 9월 27일 메가박스 성수에서 메가토크를 개최했다. 영화 상영에 앞서 노상현은 무대인사를 통해 개봉 전부터 영화를 보기 위해 자리한 관객들에게 진심 어린 감사 인사와 아낌없는 팬서비스를 전하며 현장 열기를 뜨겁게 달궜다. 상영 후 이은선 영화저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주현영 ‘괴기열차’ 주연 맡더니 데뷔 후 첫 부산국제영화제 참석]]></title>
         <id>https://v.daum.net/v/20241001141749677</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241001120105589"/>
         <updated>2024-10-01T03:36:13.470Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] '파묘' 감독이 '대도시의 사랑법'을 극찬했다. 영화 '대도시의 사랑법' 측은 9월 30일 감독들의 호평 리뷰를 공개했다. '대도시의 사랑법'은 눈치보는 법이 없는 자유로운 영혼의 재희(김고은)와 세상과 거리두는 법에 익숙한 흥수(노상현)가 동거동락하며 펼치는 그들만의 사랑법을 그린 영화. 먼저 1,191만 관객의 마음을 사로잡은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노상현 "미쓰에이 춤추겠다"..'대도시의 사랑법' 300만 흥행 공약]]></title>
-        <id>https://v.daum.net/v/20241001120055575</id>
-        <link href="https://v.daum.net/v/20241001120055575"/>
-        <updated>2024-10-01T03:36:13.470Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=SBS 파워FM '박하선의 씨네타운' 보이는 라디오 화면 캡처'대도시의 사랑법'이 오늘(1일) 개봉, 이언희 감독과 노상현은 1일 오전 SBS 파워FM '박하선의 씨네타운'의 보이는 라디오 생방송에 게스트로 출연했다. 이날 이들은 영화 '대도시의 사랑법'으로 관객들을 찾아간 바. 이 작품은 세계 3대 문학상 중 하]]></content>
     </entry>
 </feed>
