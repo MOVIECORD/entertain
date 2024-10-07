@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-07T11:19:34.258Z</updated>
+    <updated>2024-10-07T12:41:43.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['이혼' 수현 "폐 끼치고 싶지 않다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241007203701405</id>
+        <link href="https://v.daum.net/v/20241007203701405"/>
+        <updated>2024-10-07T12:41:42.503Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 이혼 소식을 수현이 작품 홍보 활동에 집중하고 있다고 밝혔다. 7일 서울 소격동의 한 카페에서 영화 '보통의 가족' 주연인 수현을 만났다. '보통의 가족'은 각자의 신념을 가지고 살아가던 형제 부부가 자녀들의 범죄현장이 담긴 CCTV를 보게 되면서 모든 것이 무너져가는 모습을 담은 서스펜스. 원작은 헤르만 코흐의 소설 '더 디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['설경구 2번째 부인' 수현 "장동건과 부부였다면 이상했을 듯" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241007201903102</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241007175008524"/>
         <updated>2024-10-07T09:24:03.727Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 제29회 부산국제영화제 사전 예매에서 2천여 석의 좌석을 초고속 전석 매진시킨 영화가 있다. 바로 23일 개봉을 앞둔 영화 ‘룸 넥스트 도어’가 주인공이다. 관객들의 극찬 세례를 받으며 기대감을 고조시키고 있다. 오랜만에 재회한 ‘마사’(틸다 스윈튼)와 ‘잉그리드’(줄리안 무어)가 인생의 중요한 순간을 함께하는 이야기 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 찾은 이정재, 온 김에 딱지까지…“‘오징어 게임2’ 시동” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241007174225286</id>
-        <link href="https://v.daum.net/v/20241007174225286"/>
-        <updated>2024-10-07T09:24:03.727Z</updated>
-        <content type="html"><![CDATA[이정재가 ‘오징어 게임2’ 딱지를 손에 쥐었다.&nbsp; 12월 공개를 앞둔 ‘오징어 게임’ 시즌2(이하 ‘오징어 게임2’)가 딱지맨 퍼포먼스로 글로벌 시청자들의 이목을 집중시키고 있다. ‘오징어 게임2’는 복수를 다짐하고 다시 돌아와 게임에 참가하는 기훈(이정재)과 그를 맞이하는 프론트맨(이병헌)의 치열한 대결, 그리고 다시 시작되는 진짜 게임을 담은 이야기]]></content>
     </entry>
 </feed>
