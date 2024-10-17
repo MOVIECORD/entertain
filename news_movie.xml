@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-17T13:28:43.931Z</updated>
+    <updated>2024-10-17T14:19:58.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포영화 줄줄이 개봉…‘롱레그스’ ‘지옥2’ ‘스마일2’ ‘사흘은’ 가을 호러가 기다린다]]></title>
+        <id>https://v.daum.net/v/20241017231749286</id>
+        <link href="https://v.daum.net/v/20241017231749286"/>
+        <updated>2024-10-17T14:19:57.557Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 극한의 공포를 느끼게 해줄 공포영화가 줄지어 개봉한다. 하반기 호러 대어는 ‘롱레그스’다. ‘롱레그스’는 모든 프레임에 악마의 단서가 심어져 있는 영화다. 7월 북미 개봉 때부터 ‘로튼토마토 신선도 지수 100%’, ‘올해 가장 무서운 영화’라는 입소문과 함께 글로벌 흥행 수익 1억 불을 넘어서자, 한국 네티즌 사이에서도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임오경 의원 “장애인 영화 접근성 강화를 위한 배리어프리 영화 확대해야”···영화 1만회 상영시 배리어프리 영화상영 1.5회 꼴]]></title>
         <id>https://v.daum.net/v/20241017221711559</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241017174518859"/>
         <updated>2024-10-17T09:22:21.075Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '베테랑2'가 역대 추석 개봉작 중 최고 흥행 성적을 올리며 9월 극장 매출을 이끌었다. 17일 영화진흥위원회가 발표한 '9월 한국 영화산업 결산 발표'에 따르면 2024년 9월 극장의 전체 매출액은 1,001억 원, 관객 수는 1,011만 명으로 전년 동월 대비 2배 이상 증가한 수치를 보였다. 이 중에서 한국 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 관객 가슴 벅차게 할 '소방관'...베일 벗으며 기대감 UP]]></title>
-        <id>https://v.daum.net/v/20241017173412422</id>
-        <link href="https://v.daum.net/v/20241017173412422"/>
-        <updated>2024-10-17T09:22:21.076Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 류가연 인턴기자, 장민수 기자) 실화를 바탕으로 한 영화 '소방관'이 오는 겨울 관객들의 가슴을 벅차게 할 예정이다. 17일 '소방관'이 1차 포스터를 공개하며 기대감을 높였다. '소방관'은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표를 가지고 투입된 소방관들의 상황을 그]]></content>
     </entry>
 </feed>
