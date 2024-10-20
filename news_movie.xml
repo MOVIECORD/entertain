@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-20T02:58:30.053Z</updated>
+    <updated>2024-10-20T03:32:08.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스에서 '건담'을 다룬다면? 그 도전이 궁금하다]]></title>
+        <id>https://v.daum.net/v/20241020122701249</id>
+        <link href="https://v.daum.net/v/20241020122701249"/>
+        <updated>2024-10-20T03:32:07.223Z</updated>
+        <content type="html"><![CDATA[[김상목 기자] ▲ "기동전사 건담 복수의 레퀴엠" 포스터&nbsp;영화 포스터 이미지ⓒ 넷플릭스1979년 텔레비전 애니메이션 시리즈로 처음 방영된 &lt;기동전사 건담&gt;은 일본 애니메이션 업계에서 '철인 28호'나 '마징가 Z' 부류 '슈퍼로봇'과 대비되는 '리얼 로봇' 시대를 열었다. 이후 45년이 지났음에도 시리즈는 수많은 분야로 확장되며 수명연장에 성공 중이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, BTS마저 이겼다 ‘아임 히어로 더 스타디움’ 100억 매출 임박]]></title>
         <id>https://v.daum.net/v/20241020115736778</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241019162105443"/>
         <updated>2024-10-19T08:25:04.873Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 김태형 기자] 영화 '베놈: 라스트 댄스'가 10월 극장가에 흥행 피날레를 펼칠 준비를 마쳤다. 19일 영화관입장권 통합전산망에 따르면 '베놈: 라스트 댄스'는 쟁쟁한 경쟁작들을 제치고 전체 예매율 1위를 수성했다. 이는 다양한 장르의 영화들의 공세 속 달성한 결과로, 예비 관객들이 가장 기대하는 작품이자 10월 극장가 최대 화제작임을 입증]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전,란’ 박정민, 강동원 노비 캐스팅만 기다린 이유?]]></title>
-        <id>https://v.daum.net/v/20241019153602506</id>
-        <link href="https://v.daum.net/v/20241019153602506"/>
-        <updated>2024-10-19T07:19:40.231Z</updated>
-        <content type="html"><![CDATA[OTT 넷플릭스를 통해 공개된 ‘전,란’의 강동원, 박정민, 차승원 배우가 오는 20일 MBC ‘출발! 비디오 여행’의 인터뷰 코너 ‘맞대본다’에 출연해 남다른 케미를 뽐낸다 ‘전,란’은 임진왜란이 일어난 혼란스러운 시대, 어린 시절을 함께한 친우였지만 선조(차승원)를 지키는 최측근 무관이 된 ‘종려’(박정민)와 그의 몸종이었지만 의병이 된 ‘천영’(강동원]]></content>
     </entry>
 </feed>
