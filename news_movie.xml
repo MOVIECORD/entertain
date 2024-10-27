@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-27T09:20:28.242Z</updated>
+    <updated>2024-10-27T10:19:58.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정성일 "강동원·박정민과 촬영, 연예인 보러 가는 느낌"]]></title>
+        <id>https://v.daum.net/v/20241027185252995</id>
+        <link href="https://v.daum.net/v/20241027185252995"/>
+        <updated>2024-10-27T10:19:57.512Z</updated>
+        <content type="html"><![CDATA['더 글로리'에서 나이스한 하도영을 연기한 배우 정성일이 일본군의 잔혹한 선봉장 캐릭터로 돌아왔다. '전,란'으로 연기 변신을 시도한 그의 곁에는 강동원과 박정민이 있었다. 정성일은 두 사람을 향한 애정을 드러내며 촬영장에 연예인을 보러 가는 느낌이었다고 전했다. 지난 24일 서울 종로구 삼청동 한 카페에서는 넷플릭스 영화 '전,란'과 관련해 정성일의 인터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지은, ♥이동휘 만난 ‘결혼, 하겠나?’…장성규 GV 출격 입담 뽐낸다]]></title>
         <id>https://v.daum.net/v/20241027181839333</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241027103343714"/>
         <updated>2024-10-27T01:45:20.971Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 선한 눈빛에 한 번, 눈빛 보다 더 짙은 선한 마음에 두 번 감탄하게 된다. 직접 만난 진선규는 ‘선하다’라는 말로는 더 표현할 말이 없을 정도로 선한 사람이었다. 진선규의 퍼스널리티는 그 선함에서 오는 옳고 단단한 마음이다. 진선규와 꼭 닮은 그의 연기가 대중에게 큰 힘과 울림을 남기는 이유도 여기에 있다. 30일 개봉되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활명수·청설·사흘·히든페이스…비수기 파괴작 또 나올까]]></title>
-        <id>https://v.daum.net/v/20241027100143197</id>
-        <link href="https://v.daum.net/v/20241027100143197"/>
-        <updated>2024-10-27T01:45:20.972Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '서울의 봄' 같은 '비수기 파괴작'이 하반기에도 나올 수 있을까. 웬만한 한국 영화들이 누적관객수 100만도 넘기기 힘든 가운데, 가을 신작들을 향한 시선 끝에 희망이 실리는 이유는 비수기에 개봉해 의외의 성공을 거둔 작품들이 근래 적잖이 존재했기 때문이다. 지난 2월 개봉해 천만 관객을 돌파한 '파묘'와, 지난해 11]]></content>
     </entry>
 </feed>
