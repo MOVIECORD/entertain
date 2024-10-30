@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-30T21:19:54.600Z</updated>
+    <updated>2024-10-30T22:20:20.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아마존 활명수’, 박스오피스 1위 출발…‘극한직업’ 영광 이을까]]></title>
+        <id>https://v.daum.net/v/20241031071123813</id>
+        <link href="https://v.daum.net/v/20241031071123813"/>
+        <updated>2024-10-30T22:20:19.610Z</updated>
+        <content type="html"><![CDATA[류승룡, 진선규 주연의 ‘아마존 활명수’가 박스오피스 1위로 출발했다. 31일 영진위 영화관입장권 통합전산망에 따르면 영화 ‘아마존 활명수’는 개봉일인 전날 8만8301명의 관객을 동원하며 박스오피스 정상에 올랐다. 누적관객수는 10만6841명이다. ‘아마존 활명수’는 집에서도 회사에서도 구조조정 대상인 전 양궁 국가대표가 한국계 볼레도르인 통역사와 신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘청설’ 홍경 “첫사랑 영화 꼭 해보고 싶었죠”]]></title>
+        <id>https://v.daum.net/v/20241031070312722</id>
+        <link href="https://v.daum.net/v/20241031070312722"/>
+        <updated>2024-10-30T22:20:19.610Z</updated>
+        <content type="html"><![CDATA[배우 홍경(28)이 첫사랑의 얼굴로 돌아왔다. 동명의 대만 영화를 리메이크한 ‘청설’(감독 조선호)은 사랑을 향해 직진하는 용준(홍경 분)과 진심을 알아가는 여름(노윤서 분), 두 사람을 응원하는 동생 가을(김민주 분)의 청량하고 설레는 순간들을 담았다. 홍경은 사랑 앞에서는 직진 뿐인 용준 역을 맡아 열연했다. 홍경은 지난 30일 서울 종로구 삼청동에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전,란’ 강동원 “나에 대한 믿음 생겼다”]]></title>
         <id>https://v.daum.net/v/20241031061507098</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241030180006798"/>
         <updated>2024-10-30T09:22:37.008Z</updated>
         <content type="html"><![CDATA[갈수록 줄어드는 드라마와 영화 제작편수는 역설적으로 배우들의 ‘투잡’을 이끌어내고 있다. 연출자로 거듭나는 스타들이 늘어난다. 배우 김승우는 30일 드라마 제작사 C2미디어를 통해 첫 장편 드라마 연출사실을 알렸다. 김승우는 내년 촬영이 예정된 드라마 ‘망원동 브라더스’를 연출한다. 이 작품은 김호연 작가의 동명 소설을 드라마화한 작품이다. 이미 같]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주, '최소한의 선의'로 보여준 연기 변신 '스크린 꽉 채웠다']]></title>
-        <id>https://v.daum.net/v/20241030175647642</id>
-        <link href="https://v.daum.net/v/20241030175647642"/>
-        <updated>2024-10-30T09:22:37.015Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 배우 장윤주가 한 발자국 앞으로 더 내디뎠다. 장윤주가 30일 개봉한 영화 ‘최소한의 선의’를 통해 지금까지 본 적 없는 진정성 넘치는 열연으로 연기 변신을 꾀했다. ‘최소한의 선의’는 난임으로 스트레스를 받던 고등학교 교사 희연(장윤주)이 반 학생 유미(최수인)의 임신으로 혼란을 겪지만, 유미의 상황을 고민하며 자신이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정시현, 영화 '솔직하지 못해서' 주연 배우로 관객들 만난다]]></title>
-        <id>https://v.daum.net/v/20241030174247029</id>
-        <link href="https://v.daum.net/v/20241030174247029"/>
-        <updated>2024-10-30T09:22:37.016Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 배우 정시현이 주연 배우로 관객들을 직접 만난다. 정시현은 내달 7일부터 열리는 '제14회 서울국제프라이드영화제' 출품작인 영화 '솔직하지 못해서'의 주연 배우로 영화제에 참석, 관객들을 만난다. 영화 '솔직하지 못해서'는 학생회 친구인 성준의 집에서 룸메이트 생활을 하고 있는 영화과 학생 원일이 어느 날 집에서 성준과 자고]]></content>
     </entry>
 </feed>
