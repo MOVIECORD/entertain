@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-30T11:18:11.033Z</updated>
+    <updated>2024-10-30T12:41:42.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남준의 진솔한 기록, 'RM: Right People, Wrong Place'...12월 글로벌 개봉]]></title>
+        <id>https://v.daum.net/v/20241030213004042</id>
+        <link href="https://v.daum.net/v/20241030213004042"/>
+        <updated>2024-10-30T12:41:41.332Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 안시현 인턴기자, 김현숙 기자) 방탄소년단(BTS)의 RM, 혹은 김남준의 특별한 청춘 일지 'RM: Right People, Wrong Place'가 연말 정식 개봉한다.&nbsp; 'RM: Right People, Wrong Place'는 아티스트 RM의 약 8개월에 걸친 두 번째 솔로 앨범 'Right Place, Wrong Person]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달동네 사라진 자리에 초고층 아파트가...바뀌지 않는 진실]]></title>
         <id>https://v.daum.net/v/20241030182400565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241030160634276"/>
         <updated>2024-10-30T08:30:30.403Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 강동원이 이명세 감독과의 인연과 의리로 영화 ‘더 킬러스’(감독 김종관, 노덕, 장항준, 이명세)를 든든히 지원사격했다. “여러 개성을 한 번에 맛볼 수 있다는 즐거움”, “한 그림에서 뻗어가는 네 가지 세계” 등 호평을 이끌고 있는 영화 ‘더 킬러스’가 배우 강동원, 이명세 감독과 함께한 GV를 성료했다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주완, 아시아 국제 영화제 남우주연상 “단단한 배우 되겠다”]]></title>
-        <id>https://v.daum.net/v/20241030160626267</id>
-        <link href="https://v.daum.net/v/20241030160626267"/>
-        <updated>2024-10-30T08:30:30.405Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 차주완이 '아시아 국제 영화제'에서 남우주연상을 수상했다. 차주완은 10월 26일 마카오 피셔맨스 워프 컨벤션 및 전시 센터에서 개최된 '아시아 국제 영화제(Asia International Film Festival, 약칭: AIFF)'에서 글로벌 OTT 드라마 '연애 지상주의 구역'으로 웹드라마 부문 남우주연상을 받았다. 차주완]]></content>
     </entry>
 </feed>
