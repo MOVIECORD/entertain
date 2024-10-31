@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-31T21:20:38.920Z</updated>
+    <updated>2024-10-31T22:20:10.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["난 이 게임 해봤어요"..이정재→이병헌, 마침내 드러난 '오징어게임2']]></title>
+        <id>https://v.daum.net/v/20241101071344925</id>
+        <link href="https://v.daum.net/v/20241101071344925"/>
+        <updated>2024-10-31T22:20:09.680Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] &lt;오징어 게임&gt;&nbsp;시즌2가 오는 12월 26일(목) 공개를 앞둔 가운데 티저 포스터와 티저 예고편 그리고 보도스틸이 베일을 벗었다.&nbsp; 1일 공개된 티저 포스터는 대척점에 서 있는 ‘기훈’과 ‘프론트맨’의 모습으로 시선을 사로잡는다. 다시 한번 초록색 트레이닝 복을 입고, 456번이 되어 오징어 게임에 참가한 ‘기훈’의 모습은 시즌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삭발한 이승기X'대 끊긴' 김윤석, 한 가족 됐다]]></title>
+        <id>https://v.daum.net/v/20241101070945882</id>
+        <link href="https://v.daum.net/v/20241101070945882"/>
+        <updated>2024-10-31T22:20:09.683Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;&lt;변호인&gt;, &lt;강철비&gt;의 양우석 감독 스크린 연출 컴백작 &lt;대가족&gt;(각본연출 양우석, 제공배급 롯데엔터테인먼트, 제작 게니우스)의 1차 보도스틸을 공개한다.&nbsp; 영화 &lt;대가족&gt;은 스님이 된 아들(이승기) 때문에 대가 끊긴 만두 맛집 ‘평만옥’ 사장(김윤석)에게 세상 본 적 없던 귀여운 손주들이 찾아오면서 생각지도 못한 기막힌 동거]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘청설’ 노윤서 “홍경과 첫 키스신 너무 떨렸죠”]]></title>
+        <id>https://v.daum.net/v/20241101070304821</id>
+        <link href="https://v.daum.net/v/20241101070304821"/>
+        <updated>2024-10-31T22:20:09.687Z</updated>
+        <content type="html"><![CDATA[배우 노윤서(24)가 첫사랑의 얼굴로 스크린에 도전장을 냈다. 동명의 대만 영화를 리메이크한 ‘청설’(감독 조선호)은 사랑을 향해 직진하는 용준(홍경 분)과 진심을 알아가는 여름(노윤서 분), 두 사람을 응원하는 동생 가을(김민주 분)의 청량하고 설레는 순간들을 담았다. 노윤서는 동생 가을을 지원하며 생계까지 책임지는 장녀 여름 역을 맡아 열연했다. 노윤서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집에서도 신나게…‘올리비아 로드리고’ 월드투어→‘타임 컷’]]></title>
         <id>https://v.daum.net/v/20241101061802109</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241031211656457"/>
         <updated>2024-10-31T12:40:57.803Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 전 세계 흥행 신드롬을 일으키고 있는 영화 ‘베놈: 라스트 댄스’가 영화관입장권 통합전산망 기준 개봉 9일째 100만 관객을 돌파했다. 이와 같은 흥행 속도는 10일 만에 100만 관객을 돌파한 ‘듄: 파트2’보다 빠른 속도로 그 의의를 더한다. 특히 올해 353만 관객을 동원한 흥행작 ‘웡카’와 동일한 속도로, 극장가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베놈: 라스트 댄스', 9일째 100만 돌파..'듄: 파트2'보다 빠르다]]></title>
-        <id>https://v.daum.net/v/20241031211020320</id>
-        <link href="https://v.daum.net/v/20241031211020320"/>
-        <updated>2024-10-31T12:40:57.804Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 대한민국 흥행 저력을 보여주고 있는 영화 '베놈: 라스트 댄스'(감독 켈리 마르셀, 각본 톰 하디·켈리 마르셀, 수입배급 소니 픽쳐스)가 개봉 9일째 100만 관객을 돌파했다. 전 세계 흥행 신드롬을 일으키고 있는 영화 '베놈: 라스트 댄스'가 영화관입장권 통합전산망 기준 개봉 9일째 100만 관객을 돌파했다. 이와 같은 흥행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블, 2025년 양으로 승부 한다...거의 매달 작품 공개]]></title>
-        <id>https://v.daum.net/v/20241031192631276</id>
-        <link href="https://v.daum.net/v/20241031192631276"/>
-        <updated>2024-10-31T11:17:53.179Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강나연 기자] 마블 스튜디오가 2025년 공개될 작품을 발표했다. 30일 마블 스튜디오는 올해 11월부터 2025년까지 디즈니플러스에서 공개될 시리즈 라인업을 발표했다. 올해 11월 12일에 디즈니플러스에서 '데드풀과 울버린'을 공개하며 '왓 이프...?' 애니메이션 시리즈의 세 번째이자 마지막 시즌은 올해 12월 22일 공개된다. 이 시즌은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['니코: 오로라 원정대의 모험' 12월 개봉…12년 만의 레전드 귀환]]></title>
-        <id>https://v.daum.net/v/20241031185147558</id>
-        <link href="https://v.daum.net/v/20241031185147558"/>
-        <updated>2024-10-31T10:22:54.784Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]올겨울의 스펙터클 어드벤처 애니 '니코: 오로라 원정대의 모험'이 오는 12월 국내 개봉을 확정했다. 2008년과 2012년 개봉한 '니코' 시리즈의 3번째 이야기 '니코:오로라 원정대의 모험'이 12년 만에 돌아온다. 12월 개봉을 확정하고 31일 티저 포스터를 공개했다. '니코'는 전 세계에 크리스마스 선물을 배송하는]]></content>
     </entry>
 </feed>
