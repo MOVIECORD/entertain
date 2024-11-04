@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-04T03:31:16.344Z</updated>
+    <updated>2024-11-04T04:25:26.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보통의 가족’의 가족의 범위]]></title>
+        <id>https://v.daum.net/v/20241104131824192</id>
+        <link href="https://v.daum.net/v/20241104131824192"/>
+        <updated>2024-11-04T04:25:25.796Z</updated>
+        <content type="html"><![CDATA[영화 ‘보통의 가족’(감독 허진호)는 형제 부부가 자녀의 범죄를 알았을 때 이성과 본능에서 갈등하는 부모의 모습을 잘 그리고 있습니다. 자녀에 대한 본능이 이성에 앞선다는 것을 극단적으로 표현한 장면 조금 아쉬웠습니다. 작품 속에서, 변호사인 형 재완(설경구 분)과 배우자 지수(수현 분), 의사인 동생 재규(장동건 분)과 배우자 연경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오징어게임2’ 박성훈→이병헌까지 떡밥 던졌다…벌써 후끈]]></title>
+        <id>https://v.daum.net/v/20241104124125506</id>
+        <link href="https://v.daum.net/v/20241104124125506"/>
+        <updated>2024-11-04T04:25:25.799Z</updated>
+        <content type="html"><![CDATA[‘오징어게임2’ 공개를 한 달 반 앞두고 벌써부터 작품을 기다리는 세계인의 기대감이 지구를 후끈 달구고 있다. 지난 1일 넷플릭스는 ‘오징어 게임’ 시즌2 예고편과 티저 포스터, 스틸 컷 등을 공개했다. 이날 예고편에서 시선을 모은 것은 새 시즌에 합류한 박성훈, 최승현(탑), 양동근, 임시완의 모습이었다. 특히 박성훈은 단발머리에 아이라인, 립스틱을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베놈3', 2주 연속 주말 박스오피스 정상… 누적 131만]]></title>
         <id>https://v.daum.net/v/20241104122732349</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241104112845181"/>
         <updated>2024-11-04T02:56:51.535Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '글래디에이터 Ⅱ'(감독 리들리 스콧)의 다채로운 매력을 지닌 캐릭터가 눈길을 모으고 있다. '글래디에이터 Ⅱ'는‘막시무스의 죽음으로부터 20여 년 후, 콜로세움에서 로마의 운명을 건 결투를 벌이는 루시우스(폴 메스칼 분)의 이야기를 그린 영화다. 로마와의 전쟁에서 패배해 아내를 잃고 노예로 팔려 온 루시우스는 로마에 대한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호·박정민 '1승', 12월 4일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20241104112601016</id>
-        <link href="https://v.daum.net/v/20241104112601016"/>
-        <updated>2024-11-04T02:56:51.538Z</updated>
-        <content type="html"><![CDATA['핑크스톰' 라인업 영상 공개…개성 넘치는 캐릭터들 등장 [더팩트｜박지윤 기자] 국내 최초 배구 소재 영화 '1승'이 12월 4일 극장가에 출격한다. 배급사 ㈜키다리스튜디오는 4일 "영화 '1승'(감독 신연식)이 12월 4일로 개봉일을 확정 지었다"고 밝혔다. 이와 함께 개성 넘치는 캐릭터들의 영상을 공개해 관심을 모은다. 작품은 이겨본 적 없는 감독과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대가족’ 만두 빚는 김윤석, 마라맛 역할 벗으니 그냥 동네 아저씨]]></title>
-        <id>https://v.daum.net/v/20241104112204755</id>
-        <link href="https://v.daum.net/v/20241104112204755"/>
-        <updated>2024-11-04T02:56:51.540Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김윤석이 '대가족'을 통해 파격 변신을 꾀한다. 12월 11일 개봉하는 영화 '대가족'(감독 양우석)은 스님이 된 아들(이승기) 때문에 대가 끊긴 만두 맛집 ‘평만옥’ 사장(김윤석)에게 세상 본 적 없던 귀여운 손주들이 찾아오면서 생각지도 못한 기막힌 동거 생활을 하게 되는 가족 코미디. '대가족'은 만두 하나로 자수성가를 이룬 자]]></content>
     </entry>
 </feed>
