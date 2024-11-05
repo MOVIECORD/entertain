@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-05T04:25:18.058Z</updated>
+    <updated>2024-11-05T05:20:56.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기, 머리 밀고 스님 변신…"숨겨둔 자식 있어" '대가족' 충격 스캔들 주인공]]></title>
+        <id>https://v.daum.net/v/20241105142011633</id>
+        <link href="https://v.daum.net/v/20241105142011633"/>
+        <updated>2024-11-05T05:20:55.870Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '대가족'이 이승기의 충격 변신이 담긴 스틸을 공개했다. 영화 '대가족'은 스님이 된 아들(이승기) 때문에 대가 끊긴 만두 맛집 ‘평만옥’ 사장(김윤석)에게 세상 본 적 없던 귀여운 손주들이 찾아오면서 생각지도 못한 기막힌 동거 생활을 하게 되는 가족 코미디. '변호인' '강철비' 양우석 감독의 스크린 연출 컴백작이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정호연, 할리우드에 녹아들었다]]></title>
+        <id>https://v.daum.net/v/20241105141124363</id>
+        <link href="https://v.daum.net/v/20241105141124363"/>
+        <updated>2024-11-05T05:20:55.870Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 배우 정호연이 '디스클레이머'에서 존재감을 드러냈다. 지난달 11일 첫 공개된 '디스클레이머'는 다른 사람의 악행을 폭로하며 명성을 쌓아 올린 저널리스트 ‘캐서린’(케이트 블란쳇 분)이 무명 작가로부터 한 소설을 받게 되면서 벌어지는 이야기를 그린 심리 스릴러 시리즈다. 정호연은 극 중 캐서린의 조수 '지수'로 분했다. 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사라진 영화 편집본, 촬영감독이 털어놓은 진실]]></title>
+        <id>https://v.daum.net/v/20241105140000893</id>
+        <link href="https://v.daum.net/v/20241105140000893"/>
+        <updated>2024-11-05T05:20:55.871Z</updated>
+        <content type="html"><![CDATA[[김상목 기자] (* 이 글은 영화의 스포일러를 포함하고 있습니다.) 독립영화 감독이 조연출과 함께 며칠 너끈히 철야를 치른 몰골로 컴퓨터 앞에 앉아 있다. 영화 제작의 마지막 단계, 편집이 곧 종료되기 직전이다. 마침내 작업이 끝났다. 환성을 지르며 감독은 그동안의 고생이 주마간산으로 펼쳐지는 것처럼 감회에 젖어 있다. 이제 '밝은 미래'만 남았다는 표정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[썰렁한 11월 극장가…'글래디에이터2' 등 외화가 채운다]]></title>
         <id>https://v.daum.net/v/20241105131002334</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '원정빌라'(감독 김선국)가 12월 개봉을 확정 짓고, 론칭 포스터를 공개했다. 세계 7대 정신병원, 대한민국 3대 흉가, 지하철 옥수역에 이어 섬뜩한 도시괴담을 다룬 '원정빌라'가 12월 개봉을 확정했다. '원정빌라'는 교외의 오래된 빌라, 어느 날 불법 전단지가 배포된 후 이로 인해 꺼림칙하게 된 이웃들로부터 가족을 지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['곤지암''옥수역귀신' 잇나…현실공포 원정빌라' 12월 개봉]]></title>
+        <title type="html"><![CDATA['곤지암'·'옥수역귀신' 잇나…현실공포 '원정빌라' 12월 개봉]]></title>
         <id>https://v.daum.net/v/20241105120457190</id>
         <link href="https://v.daum.net/v/20241105120457190"/>
         <updated>2024-11-05T03:24:38.717Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241105111455188"/>
         <updated>2024-11-05T02:49:56.331Z</updated>
         <content type="html"><![CDATA[대만·태국·필리핀 개봉 예정 [더팩트ㅣ최수빈 기자] 영화 '아마존 활명수'가 해외 관객들과 만난다. 배급사 ㈜바른손이앤에이는 5일 "'아마존 활명수'(감독 김창주)가 오는 13일 인도네시아 개봉을 시작으로 14일 싱가포르, 15일 베트남 개봉을 확정했다"며 "이어 대만 태국 필리핀 말레이시아 일본 등 다양한 아시아 국가에서 순차 개봉할 예정이다"라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 킬러스' 김민 "한예종 17학번, 전설의 10학번 뛰어넘고파"]]></title>
-        <id>https://v.daum.net/v/20241105111006958</id>
-        <link href="https://v.daum.net/v/20241105111006958"/>
-        <updated>2024-11-05T02:49:56.334Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 신인 배우 김민이 한국 배우계를 휩쓰는 한국예술종합학교(한예종) 출신으로서 포부를 드러냈다. 영화 '더 킬러스'(감독 김종관·노덕·장항준·이명세)를 공개한 배우 김민이 4일 오후 서울 상암동에 위치한 스포티비뉴스 사옥에서 인터뷰를 갖고 작품에 대한 다양한 이야기를 전했다. '더 킬러스'는 헤밍웨이 단편소설 '더 킬러스'를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더 이상 이 집에 아기는 없어!!...'자기만의 방', 현실 9남매 케미 돋보인다]]></title>
-        <id>https://v.daum.net/v/20241105111005956</id>
-        <link href="https://v.daum.net/v/20241105111005956"/>
-        <updated>2024-11-05T02:49:56.334Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 박서인 인턴기자, 박소연 기자) 영화 '자기만의 방'이 개봉을 앞두고 메인 포스터를 공개했다. 5일 '자기만의 방' 측은 현실 9남매 케미가 돋보이는 메인 포스터를 공개했다. 오는 20일 개봉 예정인 '자기만의 방'은 9남매 대가족 속에서 내 방을 지키기 위해 고군분투하는 10대 소녀 우담의 이야기를 그린 유쾌한 성장 드라마로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대가족’ 이승기 주지스님 됐다...파격 삭발]]></title>
-        <id>https://v.daum.net/v/20241105110307647</id>
-        <link href="https://v.daum.net/v/20241105110307647"/>
-        <updated>2024-11-05T02:49:56.335Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 이승기가 ‘대가족’에서 충격 변신으로 화제다. 영화 ‘대가족’은 스님이 된 아들(이승기) 때문에 대가 끊긴 만두 맛집 평만옥 사장(김윤석)에게 세상 본 적 없던 귀여운 손주들이 찾아오면서 생각지도 못한 기막힌 동거 생활을 하게 되는 가족 코미디. 주지스님 역할을 위해 삭발을 감행한 이승기의 용기와 도전이 눈길을 끈다. 이승기가 맡은 함문석 역]]></content>
     </entry>
 </feed>
