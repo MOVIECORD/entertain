@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-06T21:20:26.550Z</updated>
+    <updated>2024-11-06T22:21:18.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청설', 개봉 첫날 박스오피스 1위…'베놈: 라스트 댄스' 140만 목전]]></title>
+        <id>https://v.daum.net/v/20241107072000195</id>
+        <link href="https://v.daum.net/v/20241107072000195"/>
+        <updated>2024-11-06T22:21:17.693Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선 기자]&nbsp;'청설'이 개봉 첫날 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '청설'는 개봉 첫날인 6일 3만7164명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적 관객 수는 4만6778명이다. 동명의 대만 로맨스 영화를 리메이크한 영화 '청설'은 사랑을 향해 직진하는 '용준'(홍경 분)과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스의 자존심 같은 드라마 ‘외교관2’]]></title>
         <id>https://v.daum.net/v/20241107060652089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241106192431101"/>
         <updated>2024-11-06T11:18:37.576Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 영화 ‘글래디에이터 Ⅱ’가 개봉을 7일 앞두고, 폭발적 기세로 전체 예매율 1위에 올랐다. ‘글래디에이터 Ⅱ’는 막시무스의 죽음으로부터 20여 년 후, 콜로세움에서 로마의 운명을 건 결투를 벌이는 루시우스(폴 메스칼)의 이야기를 그린 영화다. 압도적 규모의 액션과 짜릿한 볼거리로 다채로운 재미를 선사할 영화 ‘글래디에이터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개봉 D-7 ‘글래디에이터 Ⅱ’ 전체 예매율 1위 등극]]></title>
-        <id>https://v.daum.net/v/20241106191546939</id>
-        <link href="https://v.daum.net/v/20241106191546939"/>
-        <updated>2024-11-06T10:22:11.407Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  개봉 D-7 ‘글래디에이터 Ⅱ’ 전체 예매율 1위 등극 영화 ‘글래디에이터 Ⅱ’가 개봉을 7일 앞두고 폭발적 기세로 전체 예매율 1위에 올라섰다. ‘글래디에이터 Ⅱ’는 ‘막시무스’의 죽음으로부터 20여 년 후, 콜로세움에서 로마의 운명을 건 결투를 벌이는 ‘루시우스’(폴 메스칼)의 이야기를 그린 영화. 1편에 이어 리들리 스콧 감독이 연출하]]></content>
     </entry>
 </feed>
