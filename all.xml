@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-09T04:23:55.206Z</updated>
+    <updated>2024-11-09T05:18:49.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[청설, 베놈:라스트 댄스 제치고 박스오피스 1위...3일 연속 '맑음' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241109134519288</id>
+        <link href="https://v.daum.net/v/20241109134519288"/>
+        <updated>2024-11-09T05:18:49.133Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 안수현 인턴기자, 김현숙 기자) 영화 '청설'이 관객들의 뜨거운 호응에 힘입어 3일 연속 박스오피스 1위를 기록하며 올가을 극장가에 설렘 가득한 청량 바람을 불어넣고 있다. '청설'은 올 하반기 기대작이었던 영화 '베놈: 라스트 댄스'를 제치고 흥행 선두를 차지하며 11월 극장가의 신흥 강자로 자리 잡았다. CGV 골든에그지수 9]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아의 포위 속 빛난 기자정신, '마리우폴에서의 20일'이 전하는 생생한 기록! (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241109132003047</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241109093849961"/>
         <updated>2024-11-09T01:34:50.425Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '청설'(감독 조선호)이 박스오피스에서 3일간 1위 자리를 지켰다. 9일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '청설'은 지난 8일 하루 3만 3541명의 관객을 동원해 1위에 올랐다. 누적관객수는 10만 4539명. 지난 6일 개봉한 이 영화는 3일째 박스오피스 정상을 지키는 데 성공했다. '청설'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드♥젠데이아, 크리스토퍼 놀란 감독 신작 캐스팅 “맷 데이먼·앤 해세웨이 합류” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241109092551854</id>
-        <link href="https://v.daum.net/v/20241109092551854"/>
-        <updated>2024-11-09T01:34:50.427Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 젠데이아와 앤 해서웨이가 크리스토퍼 놀란 감독의 신작에 캐스팅됐다고 8일(현지시간) 데드라인이 보도했다. 이에 앞서 놀란 감독은 젠데이아의 연인 톰 홀랜드와 '오펜하이머'의 맷 데이먼을 주연으로 캐스팅한 바 있다. ‘스파이더맨’ 커플이 놀란 감독의 신작에 나란히 출연하는 셈이다. 놀란 감독은 2026년 7월 1]]></content>
     </entry>
 </feed>
