@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-13T13:26:57.857Z</updated>
+    <updated>2024-11-13T14:19:46.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[칸영화제 수상작, '모든 것은 아르망에서 시작되었다' 12월 개봉 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241113223004867</id>
+        <link href="https://v.daum.net/v/20241113223004867"/>
+        <updated>2024-11-13T14:19:45.614Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 박서인 인턴기자, 박소연 기자) 제77회 칸영화제에서 황금카메라상을 수상한 영화 '모든 것은 아르망에서 시작되었다'를 국내에서 만나볼 수 있게 됐다. 13일 영화 '모든 것은 아르망에서 시작되었다'는 오는 12월 개봉을 확정하며 포스터를 공개했다. '모든 것은 아르망에서 시작되었다'는 '사랑할 땐 누구나 최악이 된다'로 칸영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김새론, 제약사 대표 손잡고 본업 복귀… 영화 '기타맨' 출연 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241113211743749</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241113175717584"/>
         <updated>2024-11-13T09:21:28.165Z</updated>
         <content type="html"><![CDATA[추수감사절 연휴 5일간 북미 역대 최고 수익을 기록할 것으로 예측되며 '겨울왕국 2'를 뛰어넘는 압도적 흥행 신드롬을 예고하는 '모아나 2'가 한층 스펙터클해진 모험을 엿볼 수 있는 ‘거친 바다 저 너머로’ 스틸을 공개해 이목을 집중시킨다. 13일 월트디즈니컴퍼니 코리아 측은 ‘모아나’의 눈부신 성장을 담은 ‘거친 바다 저 너머로’ 스틸을 공개했다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위로와 용기 전한다…‘괜찮아, 앨리스’, 오늘 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241113175452494</id>
-        <link href="https://v.daum.net/v/20241113175452494"/>
-        <updated>2024-11-13T09:21:28.165Z</updated>
-        <content type="html"><![CDATA[‘괜찮아, 앨리스’가 극장 관객들과 만난다. 13일 개봉한 영화 ‘괜찮아, 앨리스’는 경쟁 중심의 교육 시스템과 현대 사회 속에서 ‘어떤 인생을 살 것인가’라는 보편적인 질문을 던지는 다큐멘터리다. 이 작품은 단순히 교육 문제에 그치지 않고, 대한민국 사회에서의 삶과 행복에 대한 깊은 성찰을 끌어낸다. 영화의 연출을 맡은 양지혜 감독은 오랜 방송작가 경]]></content>
     </entry>
 </feed>
