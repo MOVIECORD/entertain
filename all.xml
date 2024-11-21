@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T19:17:33.861Z</updated>
+    <updated>2024-11-21T20:24:15.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이승기, 견미리 사위하길 잘했네…♥이다인과 결혼 후 "더 돈독해져" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241122051801425</id>
+        <link href="https://v.daum.net/v/20241122051801425"/>
+        <updated>2024-11-21T20:24:14.559Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]배우 이승기가 결혼 이후 가족과 더 돈독해졌다고 고백했다. 21일 오후 서울시 송파구 롯데시네마 월드타워에서는 영화 ‘대가족’ 언론시사회가 개최됐다. 이날 기자간담회에는 배우 김윤석, 이승기, 박수영 그리고 양우석 감독이 참석했다. 이날 이승기는 "대부분의 부자 관계가 살갑고 공익 광고에 나오는 것처럼 많은 대화를 나누는 것 같지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["박은빈-설경구, 본 적 없는 새로운 연기"...'하이퍼나이프', 기대된다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241122003004197</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241121182850523"/>
         <updated>2024-11-21T10:23:49.690Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 첩보 액션 블록버스터의 역사를 새로 쓴 '미션 임파서블'의 8번째 이야기, 영화 ' 미션 임파서블: 파이널 레코닝'의 포스터가 공개됐다. 이번에 공개된 포스터는 ‘에단 헌트’ 자체가 된 톰 크루즈의 얼굴로 시선을 사로잡으며 강한 임팩트를 남긴다. 얼굴 곳곳에 남은 상처 자국과 담담한 표정 속 강렬한 눈빛은 깊은 아우라를 자아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나인 퍼즐' 손석구 "금붕어처럼 먹는 스타일...살쪄서 현장 간식 바꿔" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241121182846514</id>
-        <link href="https://v.daum.net/v/20241121182846514"/>
-        <updated>2024-11-21T10:23:49.691Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 싱가포르, 장민수 기자) 배우 손석구가 '나인 퍼즐' 속 체중 변화를 눈여겨 봐달라고 당부했다. 21일(현지시간) 싱가포르 마리나베이 샌즈엑스포&amp;컨벤션센터에서 월트디즈니컴퍼니(이하 디즈니)의 '디즈니 콘텐츠 쇼케이스 APAC 2024'가 개최됐다. 2025년과 이후 극장 개봉작 및 스트리밍 예정작을 미리 만나볼 수 있는 행사다.]]></content>
     </entry>
 </feed>
