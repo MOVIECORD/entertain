@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-26T12:43:38.656Z</updated>
+    <updated>2024-11-26T13:31:02.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['코코' 감독과 '인사이드아웃' 제작진이 뭉쳤다... '엘리오' 내년 6월 개봉]]></title>
+        <id>https://v.daum.net/v/20241126222447186</id>
+        <link href="https://v.daum.net/v/20241126222447186"/>
+        <updated>2024-11-26T13:31:01.953Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 디즈니-픽사 애니메이션 '엘리오'가 오는 2025년 6월 국내 개봉을 확정했다. '엘리오'는 애니메이션 명가 디즈니-픽사의 신작으로 '코코'의 각본가이자 공동 연출을 맡았던 아드라인 몰리나 감독과 '인사이드 아웃2'의 제작진이 의기투합한 작품이다. 26일 '엘리오' 티저 예고편이 공개된 가운데 그 안엔 환상적인 우주 공간에서 다양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엘리오', '코코' 이을 디즈니픽사 신작 애니메이션...내년 6월 본다]]></title>
         <id>https://v.daum.net/v/20241126214005766</id>
@@ -45,7 +52,7 @@
         <id>https://v.daum.net/v/20241126175944872</id>
         <link href="https://v.daum.net/v/20241126175944872"/>
         <updated>2024-11-26T09:24:07.172Z</updated>
-        <content type="html"><![CDATA[19금 관람가 ‘히든페이스’가 평일 낮 특별한 무대인사로 관객들과 만난다. 29일 배급사 NEW는 ‘히든페이스’가 오는 29일 평일 낮 무대인사를 확정했다고 알렸다. 작품은 실종된 약혼녀 ‘수연’의 행방을 쫓던 성진(송승헌) 앞에 수연(조여정)의 후배 미주(박지현)가 나타나고, 사라진 줄 알았던 수연이 그들과 가장 가까운 비밀의 공간에 갇힌 채 벗겨진]]></content>
+        <content type="html"><![CDATA[19금 관람가 ‘히든페이스’가 평일 낮 특별한 무대인사로 관객들과 만난다. 26일 배급사 NEW는 ‘히든페이스’가 오는 29일 평일 낮 무대인사를 확정했다고 알렸다. 작품은 실종된 약혼녀 ‘수연’의 행방을 쫓던 성진(송승헌) 앞에 수연(조여정)의 후배 미주(박지현)가 나타나고, 사라진 줄 알았던 수연이 그들과 가장 가까운 비밀의 공간에 갇힌 채 벗겨진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘보고타’ 애 둘 아빠 송중기가 연기하는 20대 얼굴]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241126165307601"/>
         <updated>2024-11-26T08:29:14.859Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 박예영이 데뷔 10년을 넘겨 영화 '언니, 유정'에서 시나리오 윤색까지&nbsp;적극적으로 참여한 소감을 밝혔다. 박예영은 26일 오후 서울시 종로구 삼청동에서 국내 취재진과 만나 인터뷰를 진행했다. 그는 이 자리에서 영화 '언니, 유정'(감독 정해일)에 대해 이야기를 나눴다. '언니, 유정'은&nbsp;예기치 못한 한 사건으로, 차마 드러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신파 전문가' 감독의 신작, 착하긴 한데 이건 아쉽다]]></title>
-        <id>https://v.daum.net/v/20241126163902063</id>
-        <link href="https://v.daum.net/v/20241126163902063"/>
-        <updated>2024-11-26T08:29:14.861Z</updated>
-        <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;소방관&gt;의 한 장면.ⓒ ㈜바이포엠스튜디오제목부터 직관적이고 직접적이다. 2001년 서울 홍제동에서 발생한 화재 참사를 소재로 한 영화 &lt;소방관&gt;은 주인공도 주변 인물들도 모두 화재 현장과 사고 현장을 누비는 영웅들을 향해 있다. 25일 서울 용산 CGV에서 언론에 첫 공개된 영화는 캐릭터와 이야기 모두 무난한 짜임새 안에서 발현]]></content>
     </entry>
 </feed>
