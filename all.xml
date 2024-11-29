@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T15:23:38.346Z</updated>
+    <updated>2024-11-29T16:27:51.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄', 4관왕…웃지 못한 정우성 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241130010133312</id>
+        <link href="https://v.daum.net/v/20241130010133312"/>
+        <updated>2024-11-29T16:27:51.132Z</updated>
+        <content type="html"><![CDATA[이제훈·한지민, 첫 MC 호흡 황정민·김고은 남녀주연상 수상 [더팩트ㅣ최수빈 기자] 배우 황정민과 정우성 주연의 영화 '서울의 봄'이 제45회 청룡영화상의 주인공이 됐다. '서울의 봄'은 이날 최우수작품상을 포함해 총 4관왕의 영예를 안으며 수상의 기쁨을 누렸다. 그러나 주연 배우 정우성은 수상의 기쁨을 만끽하지 못하고 사생활 관련 논란을 언급했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼자 못 즐긴 정우성..'청룡' 민폐 손님 vs 박수 받은 배우·아빠의 책임감 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241130002226061</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241129230536411"/>
         <updated>2024-11-29T14:20:36.596Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) 배우 정해인과 남녀조연상을 수상했다.&nbsp; 29일 서울 여의도 KBS홀에서 배우 한지민과 이제훈의 사회로 제45회 청룡영화상 시상식이 진행됐다.&nbsp; 이날 남우조연상에는 구교환(탈주), 박해준(서울의 봄), 유해진(파묘), 이희준(핸섬가이즈), 정해인(베테랑2)이 후보에 이름을 올렸고, 정해인이 수상했다. 무대에 오른 정해인은 "기대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 작품상·남우주연상 등 4관왕→정우성 사과 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241129230447406</id>
-        <link href="https://v.daum.net/v/20241129230447406"/>
-        <updated>2024-11-29T14:20:36.597Z</updated>
-        <content type="html"><![CDATA[영화 ‘서울의 봄’이 작품상을 품으며 올해 청룡영화상 주인공이 됐다. ‘서울의 봄’이 이날 품은 트로피는 총 4개로 ‘파묘’와 함께 최다 수상작 영광을 차지했다. 29일 오후 서울 영등포구 여의도 KBS홀에서는 배우 한지민, 이제훈의 진행 아래 제45회 청룡영화상이 열렸다. 이날 최우수작품상은 ‘서울의 봄’에 돌아갔다. ‘서울의 봄’ 제작사 하이브미디어]]></content>
     </entry>
 </feed>
