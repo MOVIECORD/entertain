@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-30T02:56:56.373Z</updated>
+    <updated>2024-11-30T03:33:01.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위키드', 100만 관객 돌파…"코리아 축하합니다"]]></title>
+        <id>https://v.daum.net/v/20241130122757494</id>
+        <link href="https://v.daum.net/v/20241130122757494"/>
+        <updated>2024-11-30T03:33:01.143Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '위키드'가 1000만 관객을 돌파했다. 신시아 에리보, 아리아나 그란데가 투톱을 맡은 호화로운 뮤지컬 성찬 '위키드'(감독 존 추)는 영화관입장권 통합전산망 기준 30일 오전 7시 기준 100만 관객을 돌파했다. 뜨거운 입소문을 타며 쟁쟁한 경쟁작들의 공세에도 박스오피스 상위권을 유지하고 있는 '위키드'가 앞으로는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 청룡 MC 데뷔 소감 "한지민과 많이 긴장하고 떨어"]]></title>
+        <id>https://v.daum.net/v/20241130120144319</id>
+        <link href="https://v.daum.net/v/20241130120144319"/>
+        <updated>2024-11-30T03:33:01.144Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이제훈 / 사진=이제훈 인스타그램배우 이제훈이 청룡영화상 MC로 데뷔한 소감을 밝혔다. 이제훈은 30일 자신의 인스타그램에 "오랜 시간 동경하며 지켜봤던 청룡영화상 사회자로 인사드리게 되어 정말 영광이었습니다"라고 시작하는 글과 여러 사진을 공개했다. 이어 "부족한 부분이 많았지만 너그러운 마음으로 예쁘게 봐주셨으면 하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신파 없는 ‘1승’…오랜만에 보는 잘 짜인 스포츠 드라마]]></title>
         <id>https://v.daum.net/v/20241130115152254</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241130101155407"/>
         <updated>2024-11-30T01:43:06.897Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]배우 정해인이 '제45회 청룡영화상' 2관왕에 등극했다. 정해인은 지난 29일 열린 '제45회 청룡영화상'에서 영화 '베테랑2'(감독 류승완)로 청정원 인기스타상과 남우조연상을 수상하며 2관왕의 영광을 안았다. 1963년 한국 영화 산업의 발전을 위해 만들어진 '청룡영화상'은 오랜 전통과 권위를 지닌 국내 대표 영화제이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 공식 입장 밝힌 정우성, "모든 분들에게 사죄, 아빠로서 아들에 대한 책임 다하겠다"]]></title>
-        <id>https://v.daum.net/v/20241130100026270</id>
-        <link href="https://v.daum.net/v/20241130100026270"/>
-        <updated>2024-11-30T01:43:06.897Z</updated>
-        <content type="html"><![CDATA[[여의도=송정헌 기자] 배우 정우성은 29일 서울 여의도 KBS홀에서 열린 제45회 청룡영화상에서 최다관객상을 수상하며 최근 사생활 논란에 대한 첫 공식 입장을 밝혔다. 정우성은 "영화 '서울의 봄'을 관람해 주신 모든 관객 여러분에게 진심으로 감사드린다"라고 말문을 열었다. 정우성은 개인적인 문제로 인해 많은 이들에게 실망을 안겨준 것에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 사과만 있고 故김수미 추모는 없고..고인 잊은 ‘청룡영화상’]]></title>
-        <id>https://v.daum.net/v/20241130093743034</id>
-        <link href="https://v.daum.net/v/20241130093743034"/>
-        <updated>2024-11-30T01:43:06.897Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘제45회 청룡영화상’이 막을 내렸다. 혼외자 스캔들과 사생활 논란으로 주목받은 배우 정우성의 사과만 남았을 뿐 최근 하늘나라로 떠난 고(故) 김수미 추모는 없었다.&nbsp; 지난 29일 서울 여의도 KBS홀에서 제45회 청룡영화상&nbsp;시상식이 열렸다. 이날 가장 관심을 받은 인물은 정우성이었다. .&nbsp;최근 문가비의 혼외자 및 양다리 논란으]]></content>
     </entry>
 </feed>
