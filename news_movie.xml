@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-02T13:31:29.525Z</updated>
+    <updated>2024-12-02T14:22:05.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킬리언 머피 주연&제작 '이처럼 사소한 것들'...여성 강제노동 학대시설 '실화' 풀어낸다]]></title>
+        <id>https://v.daum.net/v/20241202230009796</id>
+        <link href="https://v.daum.net/v/20241202230009796"/>
+        <updated>2024-12-02T14:22:04.504Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 유지연 인턴기자) 배우 킬리언 머피의 신작 영화 '이처럼 사소한 것들'이 '막달레나 세탁소 사건' 실화를 기반으로 해 눈길을 끈다. 오는 11일 개봉하는 영화 '이처럼 사소한 것들'은 '영화 '오펜하이머'로 아카데미 남우주연상을 수상한 킬리언 머피가 제작 및 주연을 맡고, 유명 작가 클레어 키건의 대표작이자 부커상 후보에 올랐던 동명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유퀴즈' '피지컬: 100' 출연 박정호 교도관이 풀어내는 진짜 교도소 영화 '아들들']]></title>
         <id>https://v.daum.net/v/20241202223012603</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241202172251360"/>
         <updated>2024-12-02T08:30:39.325Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = "제 천성이 뭐든 재미가 없으면 안 하고 싶어 해요. 스포츠 영화를 연출해보고는 싶은데 이미 남들이 다 한 거는 안 하고 싶더라고요." 신연식 감독이 연출한 '1승'은 우리나라 영화로는 처음으로 배구를 소재로 한 작품이다. 만년 꼴찌 여자배구팀 핑크스톰이 신임 감독 우진(송강호 분)을 만나 단 한 번의 승리를 위해 분투하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현우 "데뷔 후 첫 연극, 자신감 생겨…퇴근길 팬소통도 감사해"③]]></title>
-        <id>https://v.daum.net/v/20241202172006249</id>
-        <link href="https://v.daum.net/v/20241202172006249"/>
-        <updated>2024-12-02T08:30:39.325Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 이현우가 연극 ‘사운드 인사이드’를 통해 데뷔 후 첫 연극 무대 연기에 도전한 소감과 이를 통해 얻은 배우로서의 원동력을 털어놨다. 이현우는 ‘원정빌라’의 개봉을 앞두고 2일 서울 종로구의 한 카페에서 인터뷰를 진행했다. ‘원정빌라’는 교외의 오래된 빌라, 어느 날 불법 전단지가 배포된 후 이로 인해 꺼림칙하게]]></content>
     </entry>
 </feed>
