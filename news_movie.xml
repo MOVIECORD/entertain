@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-12T13:31:22.805Z</updated>
+    <updated>2024-12-12T14:21:37.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 울릴 "어벤져스 어셈블"...'왓 이프' 시즌3, 관전 포인트는]]></title>
+        <id>https://v.daum.net/v/20241212230004064</id>
+        <link href="https://v.daum.net/v/20241212230004064"/>
+        <updated>2024-12-12T14:21:37.278Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 홍승혜 인턴기자, 정에스더 기자) 디즈니+ 오리지널 시리즈 '왓 이프...?' 시즌3가 오는 22일 첫 에피소드 공개를 앞두고 기대 포인트를 공개했다. 전 세계 마블 팬의 관심을 끌고 있는 '왓 이프...?' 시즌3의 첫 번째 기대 포인트는 천둥의 여신 스톰의 등장이다. 티저 예고편에서 짧게 모습을 드러내며 이목을 끈 스톰은 이번 작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이 장면은 콘티 없이 촬영"...'힘을 낼 시간', 프로덕션 비하인드 공개]]></title>
         <id>https://v.daum.net/v/20241212223004872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241212175727336"/>
         <updated>2024-12-12T09:24:30.356Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 김건희 여사 관련 미공개 영상이 화제를 모으고 있다. 12월 12일 개봉한 다큐멘터리 영화 '퍼스트레이디' 주요 출연자인 이명수 기자는 유튜브 채널 '매불쇼'에서 김건희 여사 관련 미공개 영상을 최초 공개했다. '퍼스트레이디'는 그동안 고가의 디올백 수수, 양평고속도로 노선 변경, 민간인 국정 개입 의혹 등 논란의 중심에 서 있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 연출작 ‘윗집 사람들’, 내달 크랭크인…공효진·김동욱·이하늬 출연]]></title>
-        <id>https://v.daum.net/v/20241212175456267</id>
-        <link href="https://v.daum.net/v/20241212175456267"/>
-        <updated>2024-12-12T09:24:30.357Z</updated>
-        <content type="html"><![CDATA[배우 공효진, 김동욱, 이하늬가 하정우의 네 번째 연출작에서 뭉친다. 11일 제작사 퍼펙트스톰필름에 따르면 영화 ‘윗집 사람들’(가제)은 하정우, 공효진, 김동욱, 이하늬 캐스팅을 확정 짓고 본격적인 촬영 준비에 돌입했다. ‘윗집 사람들’은 층간 소음으로 만난 두 부부가 함께 저녁 식사를 하며 벌어지는 소동극으로, 하정우와 이하늬, 공효진과 김동욱이 각]]></content>
     </entry>
 </feed>
