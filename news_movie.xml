@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-15T06:29:54.256Z</updated>
+    <updated>2024-12-15T07:20:20.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하얼빈’ 개봉 9일 전, 전체 예매율 1위]]></title>
+        <id>https://v.daum.net/v/20241215161355763</id>
+        <link href="https://v.daum.net/v/20241215161355763"/>
+        <updated>2024-12-15T07:20:19.814Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공｜CJ ENM영화 ‘하얼빈’이 개봉 9일 전 전체 예매율 1위에 등극했다. ‘하얼빈’은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품이다. ‘하얼빈’이 영화관입장권 통합전산망 집계 기준, 개봉 9일 전인 12월 15일(일) 오후 12시 46분 사전 예매량 83,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘D-9’ 하얼빈, 전체 예매율 1위... ‘사전 예매량 10만 장 전망’]]></title>
+        <id>https://v.daum.net/v/20241215154507241</id>
+        <link href="https://v.daum.net/v/20241215154507241"/>
+        <updated>2024-12-15T07:20:19.814Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 허윤수 기자] 개봉을 9일 앞둔 영화 하얼빈이 사전 예매량 8만 장을 넘기며 관객의 기대감을 입증했다. 사진=CJ ENMCJ ENM에 따르면 하얼빈은 15일 낮 12시 46분 기준 영화관입장권 통합전산망에서 사전 예매량 8만 3383장을 돌파하며 전체 예매율 1위에 올랐다. 하얼빈은 우민호 감독의 시선으로 목숨을 건 독립군들의 여정을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 D-9 ‘하얼빈’, 전체 예매율 1위 등극]]></title>
         <id>https://v.daum.net/v/20241215152515823</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241215100003854"/>
         <updated>2024-12-15T01:54:34.294Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 지난 3일 윤석열 대통령은 비상계엄을 선포했다가 국회가 2시간 30여 분 만에 해제 요구 결의안을 가결하자 6시간 만에 비상계엄을 해제했으나, 국가적 혼란이 초래되면서 영화계도 직격탄을 맞았다. 이후 지난 14일 오후 국회에서 야당의 주도로 윤석열 대통령에 대한 탄핵소추안 재표결이 이뤄졌고 찬성 204표, 반대 85표,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방관', 11일째 박스오피스 1위…150만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20241215092347421</id>
-        <link href="https://v.daum.net/v/20241215092347421"/>
-        <updated>2024-12-15T01:54:34.294Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '소방관'(감독 곽경택)이 11일째 박스오피스 1위를 지켰다. 15일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '소방관'은 지난 14일 하루 동안 25만9970명을 동원해 박스오피스 1위 자리를 지켰다. 누적관객수는 150만6573명으로 집계됐다. 앞서 지난 4일 개봉한 '소방관'은 8일 만에 100만 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반드시 탄핵"...'소방관', 곽 감독 호소 업고 흥행 질주 계속]]></title>
-        <id>https://v.daum.net/v/20241215091916354</id>
-        <link href="https://v.daum.net/v/20241215091916354"/>
-        <updated>2024-12-15T01:54:34.295Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 정승민 기자) 영화 '소방관'의 흥행 질주가 이어지고 있다. 15일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 전일 '소방관'이 25만 9,970명의 관객을 모으며 국내 박스오피스 1위를 달성했다. '소방관'은 2001년 홍제동 화재 참사 사건을 모티프로 한다. 열악한 환경 속에서도 화재 진압과 전원 구조라는 목표를 가지고]]></content>
     </entry>
 </feed>
