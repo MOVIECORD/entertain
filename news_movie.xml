@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-21T22:19:31.091Z</updated>
+    <updated>2024-12-21T23:18:54.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[제작비 300억 '하얼빈' vs 150억 '보고타', 빅매치 온다]]></title>
-        <id>https://v.daum.net/v/20241222071202750</id>
-        <link href="https://v.daum.net/v/20241222071202750"/>
-        <updated>2024-12-21T22:19:30.344Z</updated>
-        <content type="html"><![CDATA[코로나 팬데믹으로 큰 타격을 입었던 극장가는 최근 대통령 비상계엄과 탄핵 정국이라는 새로운 위기로 다시 한번 흔들리고 있다. '소방관'이 누적 관객 200만 명을 넘기며 의외의 흥행을 이어가고 있지만, 전반적인 관객 수는 크게 줄어든 상황이다. 영화진흥위원회 박스오피스 추이를 보면 탄핵 집회가 시작된 지난 6~8일동안 관객수는 163만 명으로 지난해보다 3]]></content>
+        <title type="html"><![CDATA[‘소방관’ 1위...오늘 손익 넘는다]]></title>
+        <id>https://v.daum.net/v/20241222081800180</id>
+        <link href="https://v.daum.net/v/20241222081800180"/>
+        <updated>2024-12-21T23:18:53.370Z</updated>
+        <content type="html"><![CDATA[‘소방관’이 250만 고지를 밟는다. 22일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 영화 ‘소방관’(감독 곽경택)은 전날 21만 264명을 동원해 박스오피스 1위를 차지했다. 누적 관객수는 240만 1980명이다. 지난 4일 개봉한 ‘소방관’은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하얼빈' 현빈, 시국 관련 "이걸로 끝이 아니라 계속해서 앞으로 나아가야 할 것"]]></title>
+        <id>https://v.daum.net/v/20241222080133081</id>
+        <link href="https://v.daum.net/v/20241222080133081"/>
+        <updated>2024-12-21T23:18:53.373Z</updated>
+        <content type="html"><![CDATA[영화 '하얼빈'의 안중근으로 변신한 배우 현빈을 만났다. 현빈은 '내부자들' '남산의 부장들'을 만든 우민호 감독과 함께 몽골, 라트비아 등에서 해외 로케이션을 진행하며 100여년 전 독립군들의 독립 루트를 재현해 냈으며 이 영화로 49회 토론토국제영화제에 초청되기도 했다. 여러 번 거절 끝에 안중근의 연기를 받아들였다는 현빈은 "저한테 제안을 주실 때]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우성 혼외자 스캔들에 발칵…영화계 5대 이슈 ②]]></title>
+        <id>https://v.daum.net/v/20241222080024050</id>
+        <link href="https://v.daum.net/v/20241222080024050"/>
+        <updated>2024-12-21T23:18:53.373Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 2024년에도 영화계의 장기 불황은 지속됐다. '파묘'와 '범죄도시4'는 올해 1000만 관객을 돌파했다. 하지만 이 두 편을 포함해 연간 박스오피스 10위권(12월 20일 기준) 내에 든 한국 영화는 6편이 전부였고, 이 중 '탈주'와 '소방관'은 200만 명대로 각각 8위와 9위를 차지했다. 영화계의 장기 불황이 계속]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1000만 영화 단 2편…K무비vs외화, 치열했던 100만대 생존 ①]]></title>
+        <id>https://v.daum.net/v/20241222080014034</id>
+        <link href="https://v.daum.net/v/20241222080014034"/>
+        <updated>2024-12-21T23:18:53.373Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 2024년에도 영화계 불황은 계속됐다. 한국 영화는 2월 개봉한 '파묘'(감독 장재현)부터 4월 베일을 벗은 '범죄도시4'(감독 허명행)까지 천만 영화가 두 편이나 나왔다. 하지만 두 작품을 제외하고는 손익분기점을 넘긴 작품이 많지 않았다. 특히 한국 장편상업영화의 경우 손익분기점 돌파에 성공한 작품은 '파묘' 및 '범죄]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박성훈, 트랜스젠더 변신..'오겜2' 황동혁 감독은 왜 해명했나]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241221154746904"/>
         <updated>2024-12-21T07:18:05.692Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 현빈이 ‘삼식이 똥차설’에 사과를 표했다.&nbsp; 현빈은 19일 오전 서울 종로구 삼청동의 한 카페에서 진행된 영화 ‘하얼빈’ 개봉 기념 인터뷰에서 최근 OTT 플랫폼 '웨이브 뉴클래식 프로젝트'를 통해 공개된 ‘내 이름은 김삼순'의 리마스터링 버전에 대한 질문을 받았다. ‘내 이름은 김삼순’은 2005년 방영 당시 50%가 넘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안중근 변신' 현빈 "日인기 의식 NO, 잊으면 안 돼"]]></title>
-        <id>https://v.daum.net/v/20241221153002749</id>
-        <link href="https://v.daum.net/v/20241221153002749"/>
-        <updated>2024-12-21T07:18:05.692Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 현빈이 안중근 장군으로 거듭나기까지의 과정을 밝혔다. 19일 오전 서울 종로구 삼청동의 한 카페에서 영화 '하얼빈'(감독 우민호) 현빈과 엑스포츠뉴스가 만났다.&nbsp; '하얼빈'은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 영화로, 현빈은 '늙은 늑대' 처단을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘내부자들’ 조승우 이병헌 회합 새한서점, 화재로 전소]]></title>
-        <id>https://v.daum.net/v/20241221124742416</id>
-        <link href="https://v.daum.net/v/20241221124742416"/>
-        <updated>2024-12-21T04:24:09.019Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 영화 ‘내부자들’ 촬영지로 유명한 ‘새한서점’이 화재로 전소됐다. 조승우와 이병헌의 회합 장소로 유명했던 곳이다. 지난 19일 오후 11시53분쯤 충북 단양군 적성면 현곡리 새한서점에서 화재가 발생했다. 이 불로 363㎡ 규모의 건물과 내부 서적 7만여권이 모두 탔다. 단양소방서에는 3400만원의 재산 피해가 발생했다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하얼빈' 현빈 "일본이 안중근 의사 영화 홍보, WHY NOT?"]]></title>
-        <id>https://v.daum.net/v/20241221090121515</id>
-        <link href="https://v.daum.net/v/20241221090121515"/>
-        <updated>2024-12-21T01:37:39.965Z</updated>
-        <content type="html"><![CDATA[영화 '하얼빈'의 안중근으로 변신한 배우 현빈을 만났다. 현빈은 '내부자들' '남산의 부장들'을 만든 우민호 감독과 함께 몽골, 라트비아 등에서 해외 로케이션을 진행하며 100여년 전 독립군들의 독립 루트를 재현해 냈으며 이 영화로 49회 토론토국제영화제에 초청되기도 했다. 역사가 스포인 이 영화에서의 하이라이트는 단연 안중근이 이토히로부미를 저격하는]]></content>
     </entry>
 </feed>
