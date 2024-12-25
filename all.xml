@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-25T08:27:19.312Z</updated>
+    <updated>2024-12-25T09:21:17.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[손예진 내조 통했다… '하얼빈', 개봉 2일 만에 100만 관객 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20241225173630390</id>
+        <link href="https://v.daum.net/v/20241225173630390"/>
+        <updated>2024-12-25T09:21:16.896Z</updated>
+        <content type="html"><![CDATA['하얼빈'이 개봉 2일 만에 100만 관객을 돌파했다. 영화 '하얼빈'은 영화관입장권 통합전산망 배급사 집계 기준 개봉 2일째인  25일 오후 100만 관객을 돌파했다. 이는 '범죄도시2' '범죄도시4'와 동일하고 '아바타: 물의 길'보다 빠른 속도다. 역대 겨울 영화 중 가장 빠른 속도로 100만 고지에 진입한 '하얼빈'의 흥행 레이스에 이목이 집중된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘, 보육원 아이들 향한 꾸준한 선행 눈길 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20241225172136078</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241225140600464"/>
         <updated>2024-12-25T05:20:25.595Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '하얼빈'이 개봉 이틀째에 100만 관객을 돌파하며 흥행 시동을 제대로 걸었다. 25일 영화관입장권 통합전산망에 따르면 '하얼빈'은 오후 누적 관객수 100만 명을 기록하며 흥행 역사를 다시 썼다. 이는 천만 영화로 기록된 '범죄도시2' '범죄도시4'와 동일한 속도로 역대 한국 영화 중 가장 빠르게 100만 고지에 도달하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안중근 된 현빈→♥손예진 내조 통했다…'하얼빈', 2일차 100만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241225135928202</id>
-        <link href="https://v.daum.net/v/20241225135928202"/>
-        <updated>2024-12-25T05:20:25.595Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자)&nbsp;영화 '하얼빈'(감독 우민호)이 개봉 2일 만에 100만 관객을 돌파했다. 25일 오후&nbsp;영화관입장권 통합전산망 배급사 집계 기준에 따르면&nbsp;영화 '하얼빈'이 개봉 2일째에 100만 관객을 돌파했다. 이는 대한민국 흥행 시리즈 '범죄도시2', '범죄도시4'와 동일한 속도이며 '아바타: 물의 길'(3일째 돌파)보다 빠른 속도다. 영화]]></content>
     </entry>
 </feed>
