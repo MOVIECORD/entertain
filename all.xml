@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-31T20:21:10.473Z</updated>
+    <updated>2024-12-31T21:19:49.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["액수는 비밀" 박나래→임시완x홍현희·제이쓴 부부도 참사 피해 '기부' 동참 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250101061926290</id>
+        <link href="https://v.daum.net/v/20250101061926290"/>
+        <updated>2024-12-31T21:19:48.588Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 개그우먼 박나래를 시작으로 연예인들이 추모에만 그치지 않고 실질적인 피해 지원금을 기부해 뭉클함을 안기고 있다.&nbsp; 앞서 지난 29일 오전 전남 무안국제공항에서는 태국 방콕발 제주항공 7C2216편 비행기가 활주로로 착륙을 시도하던 중 울타리에 부딪히는 사고가 발생했다. 항공기는 활주로 외벽과 충돌하며 반파됐고 후미를 제외한 대부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 韓영화 기대작은… ‘검은 수녀들’ 등 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250101011504019</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241231181059875"/>
         <updated>2024-12-31T09:20:59.156Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '사일런트 러브'가 야마다 료스케와 하마베 미나미의 완벽한 케미를 엿볼 수 있는 포스터를 공개해 눈길을 모은다. 1월 8일 개봉하는 영화 '사일런트 러브'(감독 우치다 에이지)는 목소리를 잃은 그와 빛을 잃은 그녀가 만나 사랑으로 서로를 채워가는 이야기. 청량한 푸른빛으로 물든 하늘을 배경으로 한 포스터는 정면을 응시한 채 나란히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기·이희준 '보고타' 홍보 일정 스톱…'살롱드립2' 등 결방 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20241231174956390</id>
-        <link href="https://v.daum.net/v/20241231174956390"/>
-        <updated>2024-12-31T09:20:59.158Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 무안공항에서 발생한 제주항공 참사 여파로 영화 '보고타: 마지막 기회의 땅' 주역들의 홍보 일정도 쉬어간다. '살롱드립' 측은 31일 유튜브 커뮤니티를 통해 "이날 공개 예정이었던 '살롱드립2' - 송중기&amp;이희준 편은 결방한다"며 "해당 회차는 오는 1월 7일 오후 6시 공개 예정"이라고 알렸다. 이어 "삼가 고인의 명복]]></content>
     </entry>
 </feed>
