@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-08T08:27:12.391Z</updated>
+    <updated>2025-01-08T09:22:20.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[계훈→케이주 ‘JYP 신예’ 킥플립 소개 영상 공개 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250108175912416</id>
+        <link href="https://v.daum.net/v/20250108175912416"/>
+        <updated>2025-01-08T09:22:19.682Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]        계훈→케이주 ‘JYP 신예’ 킥플립 소개 영상 공개 JYP엔터테인먼트(이하 JYP) 신인 보이그룹 킥플립(KickFlip) 계훈-아마루-동화-주왕-민제-케이주-동현이 데뷔 소감을 전하며 각오를 밝혔다. JYP는 8일 0시 킥플립 공식 SNS 채널에 개인 인트로덕션 비디오를 공개했다. 이번 티저 속 계훈-아마루-동화-주왕-민제-케이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥스퍼드 영어사전에 ‘달고나’ ‘형’ 추가…‘오징어게임’ 파워 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250108172329225</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250108160005503"/>
         <updated>2025-01-08T07:19:33.940Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 배우 이병헌 / 사진=넷플릭스 배우 이병헌(55)이 '오징어 게임' 시즌2를 통해 이정재와 처음으로 호흡을 맞춰봤다고 말했다. 이병헌은 8일 오후 서울 종로구 삼청동 한 카페에서 스타뉴스와 넷플릭스 '오징어게임' 시즌2 인터뷰를 가지고 작품에 대한 이야기를 전했다. 이병헌은 '오징어 게임' 시즌1에서 프론트맨 역을 맡아 연기했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임2' 박성훈 "현주 본명은 조현준...LGBTQ 희화화 경계" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250108155222118</id>
-        <link href="https://v.daum.net/v/20250108155222118"/>
-        <updated>2025-01-08T07:19:33.941Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 박성훈이 '오징어 게임' 시즌2에서 연기한 캐릭터 '조현주'의 본명이 '조현준'이라고 밝혔다. 8일 오후 서울 삼청동에서 열린 '오징어 게임' 시즌2 인터뷰에 참석한 박성훈은 성확정 수술비 마련을 위해 '오징어 게임'에 참여한 극 중 현주의 본명은 '현준'이라고 밝혔다. 박성훈은 "현주의 본명은 조현준이다. 이건 감]]></content>
     </entry>
 </feed>
