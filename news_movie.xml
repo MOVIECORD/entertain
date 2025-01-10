@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-10T03:27:53.057Z</updated>
+    <updated>2025-01-10T04:25:05.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검은수녀들' 송혜교, 절친 강민경 만난다…전여빈과 유튜브 출격]]></title>
+        <id>https://v.daum.net/v/20250110131921957</id>
+        <link href="https://v.daum.net/v/20250110131921957"/>
+        <updated>2025-01-10T04:25:05.136Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '검은 수녀들'의 송혜교와 전여빈이 가수 강민경과 만난다. 10일 배급사 NEW에 따르면 송혜교는 이날 밤 공개되는 유튜브 '걍밍경'에 출연한다. 2부는 오는 16일 공개된다. '검은 수녀들'은 강력한 악령에 사로잡힌 소년을 구하기 위해 금지된 의식에 나서는 사람들의 이야기를 그린 영화다. 절친한 사이로 알려진 송혜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기 “♥︎케이티 핸드폰 저장명은 여보..아빠는 처음이라 공부 중”]]></title>
         <id>https://v.daum.net/v/20250110120021693</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250110105722101"/>
         <updated>2025-01-10T02:55:08.835Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 김건휘 작가의 시나리오 '진주, 귀고리를 한 소녀'가 제1회 플러스엠 엔터테인먼트 시나리오 공모전 대상을 차지했다. 플러스엠 엔터테인먼트(대표 홍정인)가 주최한 '제1회 플러스엠 엔터테인먼트 시나리오 공모전'의 시상식이 지난 8일 오전 서울 성수동 메가박스 성수에서 개최됐다. 이번 공모전에는 총 1,479편의 작품이 출품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 '미키17', 2월 28일 한국 최초 개봉...로버트 패틴슨 내한까지]]></title>
-        <id>https://v.daum.net/v/20250110105616035</id>
-        <link href="https://v.daum.net/v/20250110105616035"/>
-        <updated>2025-01-10T02:55:08.838Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;봉준호 감독의 영화 '미키&nbsp;17'(각본/감독: 봉준호, 수입/배급: 워너브러더스 코리아㈜)이 2025년 2월 28일 전세계 최초, 한국 개봉을 확정했다. 이로써 '미키&nbsp;17'은 3월 7일로 예정된 글로벌 개봉보다 빨리, 한국 관객에게 가장 먼저 영화를 선보인다는 약속을 지켰다. 또한, ‘미키’를 연기한 배우 로버트 패틴슨이 1월]]></content>
     </entry>
 </feed>
