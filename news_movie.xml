@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-10T10:22:37.123Z</updated>
+    <updated>2025-01-10T11:17:22.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미키 17' 로버트 패틴슨, 20일 첫 내한 "꼭 오고 싶다는 강한 의지"]]></title>
+        <id>https://v.daum.net/v/20250110194304883</id>
+        <link href="https://v.daum.net/v/20250110194304883"/>
+        <updated>2025-01-10T11:17:21.898Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] 봉준호 감독의 영화 '미키 17'이 내달 28일 개봉되는 가운데, 주연 로버트 패틴슨이 한국을 방문한다. 10일 영화 '미키 17' 수입사 워너브러더스코리아는 2월 28일 전세계 최초 한국 개봉을 확정했다. '미키 17'은 3월 7일로 예정된 글로벌 개봉보다 빨리, 한국 관객에게 가장 먼저 영화를 선보인다는 약속을 지켰다. 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교-전여빈, 설날에도 ‘홍보 요정’…‘검은 수녀들’ 무대인사 확정]]></title>
         <id>https://v.daum.net/v/20250110191657427</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250110161256296"/>
         <updated>2025-01-10T07:19:39.775Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 2025년 새해 포문을 열, 첫 번째 패밀리 코미디 영화 ‘귀신경찰’(감독 김영준)이 고(故) 김수미와 신현준의 현실 모자 케미스트리가 빛나는 보도스틸들을 10일 공개했다. 영화 ‘귀신경찰’은 돈 벼락 한 번 못 맞고 때아닌 날벼락 맞은 이후 하찮은 능력을 갖게 된 경찰이 그의 가족과 예기치 못한 사건에 얽히며 벌어지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창동 감독, 차기작 정해졌나 "시나리오 작업 중…2025년 촬영 계획"]]></title>
-        <id>https://v.daum.net/v/20250110161115232</id>
-        <link href="https://v.daum.net/v/20250110161115232"/>
-        <updated>2025-01-10T07:19:39.776Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;이창동 감독이 신작 촬영 계획을 밝혀 눈길을 끈다. 지난해 12월 이창동 감독은 미국 더 뉴요커(The New Yorker)와의 인터뷰를 통해 다양한 이야기를 나눴다. 인터뷰 중 인터뷰어는 "당신의 가장 최근 작품은 '심장소리'라는 단편 영화다. 단편 소설과는 어떤 공통점이 있고, 또 현재 새로운 장편 영화의 작업을 하고 있느냐]]></content>
     </entry>
 </feed>
