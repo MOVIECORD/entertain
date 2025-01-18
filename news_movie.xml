@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-18T01:26:53.021Z</updated>
+    <updated>2025-01-18T02:41:39.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장도연, 데뷔 19년만 영화 주인공 된다..이옥섭·구교환과 의기투합]]></title>
+        <id>https://v.daum.net/v/20250118104829863</id>
+        <link href="https://v.daum.net/v/20250118104829863"/>
+        <updated>2025-01-18T02:41:38.697Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 개그우먼 장도연이 영화 ‘너의 나라’(가제)로 첫 영화를 찍는다. 최근 SNS와 온라인 커뮤니티에서는 오는 21일 발매 예정인 ‘씨네21’ 1941호 일부 내용이 공개됐다. 공개된 내용에서는 오는 2025년 개봉 예정인 영화 ‘너의 나라’(가제)에 대한 소개가 담긴 모습이다. ‘너의 나라’는 2X9HD에서 제작하고, 이옥섭과 구]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장도연, 절친 구교환♥이옥섭 감독 신작서 영화 데뷔 "촬영 마쳤다"]]></title>
+        <id>https://v.daum.net/v/20250118104007748</id>
+        <link href="https://v.daum.net/v/20250118104007748"/>
+        <updated>2025-01-18T02:41:38.697Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 코미디언 장도연이 절친 이옥섭 감독의 신작에 배우로 출연한다.&nbsp; 18일 티앤엔터테인먼트 관계자는 OSEN에 "장도연 씨가 이옥섭 감독의 새 영화에 출연한 게 맞다. 촬영까지 마쳤다"라고 공식입장을 밝혔다.&nbsp; 이옥섭 감독은 새 영화 '너의 나라'(가제) 공개를 준비 중이다. 그는 최근 영화전문잡지 씨네21과의 인터뷰에서 신작에 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임2' 22일만에 1위 내줬다… 신작 '엑스오키티2' 뭐길래]]></title>
         <id>https://v.daum.net/v/20250118101513423</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250118061817028"/>
         <updated>2025-01-17T22:18:24.994Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 김민희, 홍상수 감독이 불륜 10년차에 부모가 된다. 홍상수가 본처와 이혼을 마무리하지 않은 채 김민희와 불륜 관계 속에서 임신한 것.&nbsp; 지난 17일 디스패치가 김민희, 홍상수 커플이 임신 6개월차라고 보도했다. 10년여간 내연 관계로 지내던 두 사람은 지난해 여름 임신 사실을 알게 됐다고. 김민희, 홍상수 커플은 지난 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민희♥홍상수, 배우·감독에서 불륜 연인 이어 부모로 벌써 10년]]></title>
-        <id>https://v.daum.net/v/20250117234424022</id>
-        <link href="https://v.daum.net/v/20250117234424022"/>
-        <updated>2025-01-17T15:21:01.647Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김민희와 홍상수 감독이 배우에서 감독으로 만나 동행한 지 10년 만에 이제는 부모가 될 전망이다. 불륜 연인이라는 꼬리표가 여전한 가운데 베를린 국제 영화제까지 또 동반 참석할 것으로 예측돼 눈길을 끌고 있다.&nbsp; 17일, 홍상수 감독의 신작&nbsp;해외 배급을 맡고 있는 영화 배급사 화인컷 측 관계자는 OSEN에 "홍상수 감독 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 만나는 '미드나잇 인 파리'...1920년대 파리로 떠나는 낭만적 시간 여행]]></title>
-        <id>https://v.daum.net/v/20250117230005603</id>
-        <link href="https://v.daum.net/v/20250117230005603"/>
-        <updated>2025-01-17T14:18:19.644Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 안수현 인턴기자, 정에스더 기자) 영화 '미드나잇 인 파리'가 재개봉을 통해 다시 한번 관객들에게 마법 같은 아름다운 순간을 선사한다. 오는 2월 12일 개봉을 앞둔 영화는 매일 밤 정각이면 1920년대 문화 예술의 호황기를 누렸던 파리에서 벌어지는 판타지 로맨스를 그리고 있다. 오는 2월 12일 개봉을 앞둔 영화는 파리에 도착한]]></content>
     </entry>
 </feed>
