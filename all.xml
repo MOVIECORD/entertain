@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-18T07:17:39.532Z</updated>
+    <updated>2025-01-18T08:22:59.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[장도연, 데뷔 19년 만에 영화배우 도전…구교환·이옥섭 감독과 호흡 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250118163150910</id>
+        <link href="https://v.daum.net/v/20250118163150910"/>
+        <updated>2025-01-18T08:22:58.586Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 개그우먼 겸 방송인 장도연이 데뷔 19년 만에 영화배우로 데뷔해 구교환과 호흡을 맞춘다. 장도연.장도연의 소속사 티엔엔터테인먼트 측은 18일 장도연이 최근 영화 ‘너의 나라’(가제) 촬영을 마쳤다고 전했다. 앞서 최근 온라인 커뮤니티에서는 ‘구교환 영화 여주 장도연’이란 제목의 게시글과 함께 곧 발매될 예정인 영화 잡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['임신' 김민희♥홍상수, 애칭 '여보'였다.."며칠전 펑퍼짐한 옷차림 목격" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250118161721754</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250118080009934"/>
         <updated>2025-01-17T23:19:32.796Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 최근 1년 사이 한국 극장가가 외화 속편의 무덤이 되고 있다. 전편의 후광을 업은 할리우드 대작마저 줄줄이 고배를 마시면서다. 한국 관객의 눈높이가 깐깐해져 작품을 보다 신중하게 고르는 만큼 앞으로도 '메가 프랜차이즈'가 아닌 이상 관객의 선택을 받는 데 어려움을 겪을 것이라는 전망이 나온다. 18일 영화계에 따르면 디즈니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정준호 “공천 받았지만 거절...비전문가가 하니 정치 어수선한 것” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250118073315680</id>
-        <link href="https://v.daum.net/v/20250118073315680"/>
-        <updated>2025-01-17T23:19:32.797Z</updated>
-        <content type="html"><![CDATA[(인터뷰②에 이어)배우 정준호(55)가 ‘히트맨’ 시즌2(감독 최원석, 이하 ‘히트맨2’)로 새해 극장가를 찾는 가운데 항시 재기되는 ‘정치 입문설’에 시원하게 답했다. 최근 서울 종로구 삼청동 한 카페에서 만난 정준호는 ‘정치 가능성’에 대한 질문에 “뭐든 전문 분야는 전문가가 해야 한다. 그렇질 않으니 지금 시국이 이렇게 어수선한 게 아닌가”라고 일침]]></content>
     </entry>
 </feed>
