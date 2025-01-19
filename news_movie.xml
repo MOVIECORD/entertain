@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-19T09:18:47.719Z</updated>
+    <updated>2025-01-19T10:20:44.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로버트 패틴슨, 첫 내한에 활짝 웃었다..사인+악수 팬서비스 폭발]]></title>
+        <id>https://v.daum.net/v/20250119183825800</id>
+        <link href="https://v.daum.net/v/20250119183825800"/>
+        <updated>2025-01-19T10:20:43.634Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 배우 로버트 패틴슨이 처음으로 내한해 한국 팬들과 만났다. 로버트 패틴슨은 19일 오후 인천국제공항을 통해 입국했다. 봉준호 감독의 신작 '미키17' 홍보를 위해 처음으로 한국을 찾은 로버트 패틴슨은 선글라스를 낀 채 편한 차림으로 등장해 눈길을 끌었다. 공항에는 로버트 패틴슨을 보기 위해 수많은 팬들이 자리했고, 로버트 패틴슨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로버트 패틴슨, 한국 땅 처음 밟자마자 환한 미소·사인…'화끈' 팬서비스]]></title>
         <id>https://v.daum.net/v/20250119181538478</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250119140600681"/>
         <updated>2025-01-19T05:18:47.310Z</updated>
         <content type="html"><![CDATA[[김형욱 기자] * 이 기사는 영화의 스포일러를 포함하고 있습니다. 토라는 동성 연인 엘리자베트를 먼저 보냈다. 연로하지만 별 탈 없어 보이고 평온하게 관에 누워 있으니 당장이라도 눈을 뜰 것 같다. 하지만 그녀는 죽었고 토라는 이제 혼자 여생을 보내야 한다. 그런데 오슬로 전체에서 원인불명의 정전이 있은 후 엘리자베트가 살아서 집으로 돌아왔다. 이 무슨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정, ‘차기작 출연료’ 자진 삭감…왜?]]></title>
-        <id>https://v.daum.net/v/20250119132338894</id>
-        <link href="https://v.daum.net/v/20250119132338894"/>
-        <updated>2025-01-19T05:18:47.312Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=이명수 기자] 배우 고현정이 차기작 드라마에서 부족한 제작비를 위해 출연료를 자진 삭감한 일화가 공개됐다. 19일 뉴시스에 따르면, 고현정의 차기작인 SBS TV 드라마 ‘사마귀’를 촬영 중인 변영주 감독은 17일 공개된 영화주간지 ‘씨네21’과 인터뷰에서 “고현정 배우에겐 고마운 마음이 참 크다”면서 이렇게 밝혔다. “사실 ‘사마귀’는 예]]></content>
     </entry>
 </feed>
