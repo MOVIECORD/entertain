@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-26T05:19:16.946Z</updated>
+    <updated>2025-01-26T06:26:42.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우 무릎 열일…'히트맨2' 좌판율 1위→방방곡곡 무대인사 계속]]></title>
+        <id>https://v.daum.net/v/20250126143030473</id>
+        <link href="https://v.daum.net/v/20250126143030473"/>
+        <updated>2025-01-26T06:26:41.673Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 권상우 주연 코믹 액션 영화 ‘히트맨2’(감독 최원섭)가 지난 25일(토) 좌석판매율 1위를 기록하며 뜨거운 입소문을 이어가고 있는 가운데, 전국 방방곡곡 무대인사가 성황리에 진행 중이다. 26일 오전 영화관입장권통합전산망에 따르면 영화 ‘히트맨2’가 1월 26(일) 쟁쟁한 경쟁작이자 현재 전체 박스오피스 1위인 ‘검은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코미디·오컬트·판타지로맨스, 설 극장가 韓 영화 3파전]]></title>
         <id>https://v.daum.net/v/20250126141810328</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[(MHN스포츠 강예진 인턴기자) 2025년 을사년(乙巳年) 새해 설 연휴를 앞두고 TV 특선 영화가 풍성하게 마련됐다. 코미디부터 액션, 로맨스, 천만 영화까지 볼거리가 다양한 만큼&nbsp;설 특선 영화 일정을 미리 살펴보고 놓치지 말자. ▷ 임시 공휴일 27일 월요일 먼저 MBC는 오는 27일 오전 10시 45분 '리바운드'를 방송한다. '리바운드'는]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['검은수녀들', 흥행 바람 매섭다! 이틀 연속 1위!]]></title>
+        <title type="html"><![CDATA['검은수녀들', 흥행 바람 매섭다! 이틀 연속 1위]]></title>
         <id>https://v.daum.net/v/20250126120956099</id>
         <link href="https://v.daum.net/v/20250126120956099"/>
         <updated>2025-01-26T03:22:14.177Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250126095820013"/>
         <updated>2025-01-26T01:39:30.889Z</updated>
         <content type="html"><![CDATA[영화 '검은 수녀들'이 이틀 연속 박스오피스 1위를 차지하며 흥행 가도를 달리고 있다. 26일 영화진흥위원회 영화관입장권통합전산망에 따르면 '검은 수녀들'은 지난 25일 하루 동안 21만 7,532명의 관객을 동원해 박스오피스 1위를 기록했다. 누적관객수는 39만 8,917명이다. '검은 수녀들'은 강력한 악령에 사로잡힌 소년을 구하기 위해 금지된 의식에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히트맨2', 코미디 영화 인기 시리즈 노린다]]></title>
-        <id>https://v.daum.net/v/20250126093829768</id>
-        <link href="https://v.daum.net/v/20250126093829768"/>
-        <updated>2025-01-26T01:39:30.889Z</updated>
-        <content type="html"><![CDATA[2020년 개봉했던 '히트맨'이 시즌2로 돌아왔다. 시즌2 역시 유쾌한 매력으로 대중의 시선을 사로잡는 중이다. '히트맨'은 인기 시리즈로 자리잡게 될 수 있을까. 영화 '히트맨2'는 지난 22일 개봉했다. 이 작품은 대히트 흥행 작가에서 순식간에 뇌절작가로 전락한 준이 야심 차게 선보인 신작 웹툰을 모방한 테러가 발생하고, 하루아침에 범인으로 몰리면서 벌]]></content>
     </entry>
 </feed>
