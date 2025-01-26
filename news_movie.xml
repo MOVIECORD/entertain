@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-26T09:19:22.394Z</updated>
+    <updated>2025-01-26T10:19:47.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바디호러→고어, 장르적 한계에도 30만 금자탑... '서브스턴스'가 해냈다]]></title>
+        <id>https://v.daum.net/v/20250126191830694</id>
+        <link href="https://v.daum.net/v/20250126191830694"/>
+        <updated>2025-01-26T10:19:46.978Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '서브스턴스'가 장르의 한계를 깨고 누적 관객수 30만 명의 금자탑을 쌓았다. 26일 영화 수입사 찬란에 따르면 이날 '서브스턴스'는 30만 관객을 돌파하며 또 한 번 마의 벽을 넘었다. '서브스턴스'는 나, 그리고 더 나은 버전의 나와의 지독한 대결을 그린 논스톱 블러디 스릴러물로 '리벤지' 코랄리 파르쟈 감독이 메가폰을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검은수녀들' VS '히트맨2' 설 연휴 극장가, 제대로 불붙었다]]></title>
+        <id>https://v.daum.net/v/20250126182001162</id>
+        <link href="https://v.daum.net/v/20250126182001162"/>
+        <updated>2025-01-26T10:19:46.981Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] '검은수녀들' 대 '히트맨2', 설연휴 극장가의 최종 승자는 누가 될까. 일단 시작은 대동소이하다. 26일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '검은수녀들'은 지난 24일 개봉해 이틀 만에 39만 9000여 명의 관객을 동원하며 박스오피스 1위에 올랐다. '검은 수녀들'은 강력한 악령에 사로잡힌 소년을 구하기 위해 금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검은 수녀들', 설 연휴 개봉 첫 주말 박스오피스 1위… 강렬한 흥행 신호탄]]></title>
         <id>https://v.daum.net/v/20250126162026816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250126103940679"/>
         <updated>2025-01-26T02:49:40.153Z</updated>
         <content type="html"><![CDATA[송혜교 주연 ‘검은 수녀들’이 이틀째 박스오피스 1위를 유지했다. 26일 영화진흥위원회 통합전산망 집계에 따르면 전날 개봉 2일차에 접어든 ‘검은 수녀들’은 당일 21만 7532명 관객과 만나 전체 박스오피스 1위에 올랐다. 누적 관객은 39만 8917명이다.&nbsp; 이로써 ‘검은 수녀들’은 배우 권상우 주연의 ‘히트맨2’를 꺾었다. 지난 22일 개봉한 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 송혜교 ‘검은 수녀들’ 이틀째 박스오피스 1위…설 연휴 흥행 조짐]]></title>
-        <id>https://v.daum.net/v/20250126102122394</id>
-        <link href="https://v.daum.net/v/20250126102122394"/>
-        <updated>2025-01-26T01:39:30.881Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '검은 수녀들'의 흥행 열기가 뜨겁다. 1월 26일 영화진흥위원회 통합전산망 집계에 따르면 지난 24일 개봉한 '검은 수녀들'(감독 권혁재)은 전날 21만 7,532명의 관객을 동원해 박스오피스 1위에 올랐다. 누적 관객수는 39만 8,917명이다. 권상우 주연의 '히트맨2'(감독 최원섭)는 15만 7,075명이 관람해 이틀 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스크린 주연작 7편 도경수…한방 아쉬운 필모 만회할까]]></title>
-        <id>https://v.daum.net/v/20250126100031082</id>
-        <link href="https://v.daum.net/v/20250126100031082"/>
-        <updated>2025-01-26T01:39:30.885Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 그룹 엑소 멤버 겸 배우 도경수가 첫 멜로 도전작인 '말할 수 없는 비밀'로 극장가를 찾아온다. 오는 28일 개봉하는 '말할 수 없는 비밀'은 뼈아픈 참패를 안겼던 '더 문'(2023) 이후 처음 선보이는 작품이라는 점에서 이번 흥행 결과가 더욱 주목된다. 연기력은 이견 없이 호평을 받는 반면, 흥행에선 좀처럼 큰 한방이]]></content>
     </entry>
 </feed>
