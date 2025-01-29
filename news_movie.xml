@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-29T08:27:07.530Z</updated>
+    <updated>2025-01-29T09:21:00.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['히트맨2' '검은 수녀들', 나란히 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20250129175616831</id>
+        <link href="https://v.daum.net/v/20250129175616831"/>
+        <updated>2025-01-29T09:20:59.742Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 영화 ‘히트맨2’와 ‘검은 수녀들’이 나란히 100만 관객을 돌파했다. 영화 ‘히트맨2’(왼쪽)와 ‘검은 수녀들’ 포스터.29일 배급사 바이포엠스튜디오와 NEW에 따르면 ‘히트맨2’와 ‘검은 수녀들’은 각각 오전, 오후 100만 고지를 넘어섰다. ‘히트맨2’는 올해 개봉작 중 첫 100만 관객을 달성했을 뿐만 아니라,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교·권상우 '방긋'…설날 나란히 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20250129174048711</id>
+        <link href="https://v.daum.net/v/20250129174048711"/>
+        <updated>2025-01-29T09:20:59.743Z</updated>
+        <content type="html"><![CDATA[[한국경제TV 이휘경 기자] 설 당일인 29일 영화 '히트맨 2'와 '검은 수녀들'이  나란히 100만 관객을 돌파했다. 배급사 바이포엠스튜디오와 뉴(NEW)에 따르면 '히트맨 2'는 개봉 8일 만에, '검은 수녀들'은 6일 만에 100만 관객을 달성했다. 설 황금연휴를 노리고 개봉한 두 영화는 지난 24일부터 박스오피스 1위 자리를 놓고 경쟁을 벌이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 주연 '검은 수녀들', 100만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20250129172305570</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250129164500284"/>
         <updated>2025-01-29T08:27:06.851Z</updated>
         <content type="html"><![CDATA[‘검은 수녀들’이 개봉 6일째 100만 관객을 돌파했다. 영화 ‘검은 수녀들’ 측에 따르면 29일 오후 3시 46분 기준 100만 관객을 돌파했다. ‘검은 수녀들’의 손익분기점은 약 160만이다. 뿐만 아니라 ‘검은 수녀들’은 동시기 개봉한 인도네시아에서 개봉일인 지난 24일부터 28일까지 5일 연속 박스오피스 1위에 올랐다. 누적 관객 수 약 56만 96]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 '검은 수녀들', 100만 관객 돌파...개봉 6일째]]></title>
-        <id>https://v.daum.net/v/20250129164330275</id>
-        <link href="https://v.daum.net/v/20250129164330275"/>
-        <updated>2025-01-29T08:27:06.852Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 배우 송혜교 주연 영화 '검은 수녀들'이 개봉 6일째 100만 관객을 돌파했다. 29일 영화관 입장권 통합전산망에 따르면 '검은 수녀들'은 100만 관객을 동원했다. ‘검은 수녀들’은 강력한 악령에 사로잡힌 소년을 구하기 위해 금지된 의식에 나서는 사람들의 이야기를 그린 영화다. '검은 수녀들'은 동시기 개봉한 인도네시아에서 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 '검은 수녀들' 개봉 엿새만에 100만명↑]]></title>
-        <id>https://v.daum.net/v/20250129164016253</id>
-        <link href="https://v.daum.net/v/20250129164016253"/>
-        <updated>2025-01-29T08:27:06.853Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 배우 송혜교가 주연한 영화 '검은 수녀들'이 공개 엿새 만에 100만 관객 고지를 밟았다. '검은 수녀들'은 29일 오후 누적 관객수 100만명을 넘겼다. 전날까지 관객수는 89만명이었다. 올해 공개된 한국영화 중 누적 100만명을 넘긴 건 '히트맨2' 이후 두 번째다. '히트맨2'는 이날 오전 100만명을 돌파했다.]]></content>
     </entry>
 </feed>
