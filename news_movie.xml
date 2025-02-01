@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-01T20:21:44.218Z</updated>
+    <updated>2025-02-01T21:18:17.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1승' 송강호 "매작품마다 나 자신 증명해보여야 한다는 열망 지녀"]]></title>
+        <id>https://v.daum.net/v/20250202061244749</id>
+        <link href="https://v.daum.net/v/20250202061244749"/>
+        <updated>2025-02-01T21:18:17.236Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 배우 송강호는 영화 '괴물'(봉준호 감독/2006), '변호인'(양우석 감독/2013), '택시운전사'(장훈 감독/2017), '기생충'(봉준호 감독/2019) 총 4편의 1000만 영화를 보유한 국내 최고 흥행배우이자 2020년 미국 아카데미 시상식 작품상 포함 4관왕을 차지한 '기생충'의 주연배우였고, 2023년 '브로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故나카야마 미호를 추억하며... '러브레터' 9번째 재개봉에도 10만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20250201175301662</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250201093004118"/>
         <updated>2025-02-01T01:42:02.615Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 김서윤 인턴기자) 2월 극장과 OTT 플랫폼에서 다양한 미스터리 장르 작품들이 공개를 앞두고 있다. 먼저 극장판 애니메이션 '명탐정 코난: 14번째 표적'이 오는 2월 14일 개봉을 앞두고 있으며, 하정우·김남길 주연의 범죄 추적극 '브로큰'이 오는 2월 5일 극장에서 개봉한다. 또한, 미스터리 걸스릴러 드라마 '선의의 경쟁'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 수녀들', 송혜교 파워 실감했다..120만 찍고 손익분기점 코앞]]></title>
-        <id>https://v.daum.net/v/20250201092515054</id>
-        <link href="https://v.daum.net/v/20250201092515054"/>
-        <updated>2025-02-01T01:42:02.616Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 송혜교와 전여빈의 밀고 당기기가 오컬트 장르의 매력보다 위에 있다. 영화 '검은 수녀들'이 두 걸출한 배우들의 연대감으로 설연휴에 100만 관객을 돌파하며 손익분기점을 코앞에 두고 있다. 31일 영화진흥위원회 영화관 입장권 통합전산망에 따르면, 지난 30일까지 영화 '검은 수녀들'(감독 권혁재, 제공/배급&nbsp;NEW,&nbsp;제작:]]></content>
     </entry>
 </feed>
