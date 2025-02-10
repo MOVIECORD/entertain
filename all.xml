@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-10T16:26:35.827Z</updated>
+    <updated>2025-02-10T17:16:39.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대중문화 뉴노멀 제시한 CJ… K무비·K팝 생태계 구축 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250211021602176</id>
+        <link href="https://v.daum.net/v/20250211021602176"/>
+        <updated>2025-02-10T17:16:38.312Z</updated>
+        <content type="html"><![CDATA[‘공동경비구역 JSA’(2000), ‘설국열차’(2013), ‘국제시장’(2014), ‘베테랑’(2015), ‘기생충’(2019), ‘헤어질 결심’(2022)…. 국내외 관객들의 사랑을 받은 한국영화 뒤엔 CJ그룹이 있었다. 영화 산업의 제도적 기반을 구축하고 독창적인 이야기를 발굴하며 CJ는 한국영화를 세계적인 수준으로 성장시켰다. CJ의 문화 사업은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['히트맨2'·'검은 수녀들', 아쉬운 후속작들의 성적표 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250211000047289</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250210171814115"/>
         <updated>2025-02-10T08:27:35.952Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 음악 영화 '위플래쉬'가 개봉 10주년을 맞아 오는 3월 12일 재개봉한다. '위플래쉬'는 최고의 드러머를 꿈꾸는 학생 앤드류와 완벽을 추구하는 교수 플레쳐가 펼치는 집념과 광기를 그린 레전드 음악영화. 2015년 제87회 아카데미 시상식에서 남우조연상, 편집상, 음향믹싱상 3관왕을 비롯해 제30회 선댄스영화제, 제72회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수♥원진아, 핑크빛 역주행…'말할 수 없는 비밀', 흥행 속도 박차 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250210171647063</id>
-        <link href="https://v.daum.net/v/20250210171647063"/>
-        <updated>2025-02-10T08:27:35.952Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '말할 수 없는 비밀'이 개봉 2주차 주말에 전체 박스오피스 2위에 오른 가운데 좌석 판매율과 한국 영화 예매율 1위를 차지했다.&nbsp; 판타지 로맨스 영화 '말할 수 없는 비밀'(감독 서유민)은 시간의 비밀이 숨겨진 캠퍼스 연습실에서 유준과 정아가 우연히 마주치면서 시작되는, 기적 같은 마법의 순간을 담는다.&nbsp; '말할 수 없는 비밀]]></content>
     </entry>
 </feed>
