@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-11T02:50:51.607Z</updated>
+    <updated>2025-02-11T03:24:51.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[곰팡이 핀 떡국 먹는 할머니에게 밝히지 못한 사건 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250211115101916</id>
+        <link href="https://v.daum.net/v/20250211115101916"/>
+        <updated>2025-02-11T03:24:50.603Z</updated>
+        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;벌레&gt; 스틸컷ⓒ 인디그라운드* 이 글은 영화의 스포일러를 포함하고 있습니다. 01. 노동자를 둘러싼 인권과 환경 문제는 독립예술영화가 오랫동안 관심을 가져온 주제 가운데 하나다. &lt;천막&gt;(2016)과 &lt;휴가&gt;(2021)에 이어 작년 &lt; 3학년 2학기 &gt;(2024)까지 끊임없이 한 자리를 바라봐 온 이란희 감독의 작품이 대표적이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17번의 GV, 타셈 열정 통했다…'더 폴', 12만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250211114525655</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250211100141015"/>
         <updated>2025-02-11T01:38:44.579Z</updated>
         <content type="html"><![CDATA[호평 속 필리핀 2주 연속 박스오피스 1위 [더팩트｜박지윤 기자] '검은 수녀들'이 뜨거운 글로벌 흥행 열기를 보여주고 있다. 배급사 NEW는 11일 "'검은 수녀들'(감독 권혁재)이 인도네시아 누적 관객 수 100만 명을 돌파한 데 이어 필리핀에서 개봉 이후 2주 연속 박스오피스 1위를 기록했다"고 밝혔다. 지난달 24일 국내 개봉한 '검은 수녀들'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫 번째 키스', 역대 日멜로 최고 기록 '오세이사'  신드롬 뛰어넘을까? 日흥행 1위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250211095730716</id>
-        <link href="https://v.daum.net/v/20250211095730716"/>
-        <updated>2025-02-11T01:38:44.581Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 로맨스 영화 '첫 번째 키스'(츠카하라 아유코 감독)가 지난 7일 일본에서 개봉, 개봉주 압도적 주말 박스오피스 1위에 등극하며 2025년 일본 영화의 새로운 흥행 바람을 만들고 있다. 칸국제영화제 각본상을 수상한 '괴물'(고레에다 히로카즈 감독)의 각본가 사카모토 유지의 신작 '첫 번째 키스'가 지난 7일 일본에서]]></content>
     </entry>
 </feed>
