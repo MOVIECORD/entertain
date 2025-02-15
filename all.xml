@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-15T01:37:40.202Z</updated>
+    <updated>2025-02-15T02:48:44.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['브로큰' 김진황 감독 "거친 악인들 사이 신산한 삶 사는 여인에게 아이디어 떠올려" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250215111457581</id>
+        <link href="https://v.daum.net/v/20250215111457581"/>
+        <updated>2025-02-15T02:48:44.139Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;"슛이 들어가면 사자같은 에너지 뿜어내는 하정우와 풍부한 감정 펼쳐준 김남길에 감사해요." 배우 하정우는 '브로큰'을 연출한 김진황 감독에 대해 "'브로큰' 시나리오에 김진황 감독님의 자전적 이야기들이 녹아 있었다. 인물을 바라보는 태도가 흥미로웠고 김진황 감독님이 만들어내는 캐릭터와 이야기가 어떨까 궁금했다. 감독님의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전지적 독자 시점' 안효섭X이민호, 강렬한 첫 만남 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250215103519162</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250215083823845"/>
         <updated>2025-02-15T01:37:39.402Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 영화 ‘전지적 독자 시점’이 오는 7월 개봉을 확정 짓고 런칭 예고편과 포스터를 공개했다. 영화 ‘전지적 독자 시점’은 10년 이상 연재된 소설이 완결된 날 소설 속 세계가 현실이 되어 버리고, 유일한 독자였던 김독자가 소설의 주인공 ‘유중혁’ 그리고 동료들과 함께 멸망한 세계에서 살아남기 위한 판타지 액션 영화다. 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수 연기 어떨까...안효섭∙이민호∙나나 '전독시' 6월 개봉 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250215083123757</id>
-        <link href="https://v.daum.net/v/20250215083123757"/>
-        <updated>2025-02-15T01:37:39.403Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;영화 '전지적 독자 시점'(감독 김병우)이 2025년 7월 개봉을 확정 짓고 런칭 예고편과 포스터를 공개했다. '전지적 독자 시점'은 10년 이상 연재된 소설이 완결된 날 소설 속 세계가 현실이 되어 버리고, 유일한 독자였던 ‘김독자’가 소설의 주인공 ‘유중혁’ 그리고 동료들과 함께 멸망한 세계에서 살아남기 위한 판타지 액션 영]]></content>
     </entry>
 </feed>
