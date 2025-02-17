@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-17T06:30:20.069Z</updated>
+    <updated>2025-02-17T07:20:06.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 여름, 한선화 만난다 ‘교생실습’ 출연 확정]]></title>
+        <id>https://v.daum.net/v/20250217161610142</id>
+        <link href="https://v.daum.net/v/20250217161610142"/>
+        <updated>2025-02-17T07:20:05.384Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 그룹 우주소녀 여름이 스크린 데뷔를 알렸다. 2월 17일 소속사 킹콩 by 스타쉽 측은 "여름이 영화 '교생실습'에 박샛별 역으로 출연한다. 많은 기대와 응원 부탁드린다"고 전했다. '교생실습'은 모교로 교생실습을 온 의욕 충만한 예비 선생님이 전국 모의고사 1등을 달리고 있는 동아리 소녀들의 비밀을 밝혀내기 위한 고군분투를 다룬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테러 현장 생중계, 언론은 '진실'을 제대로 담았나]]></title>
         <id>https://v.daum.net/v/20250217152400871</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250217131142552"/>
         <updated>2025-02-17T04:25:09.418Z</updated>
         <content type="html"><![CDATA[지난 16일 배우 고(故) 김새론이 유명을 달리했다는 비보가 전해진 가운데, 동료 연예인들이 추모를 이어가고 있다. 김새론을 널리 알렸던 영화 ‘아저씨’에서 호흡을 맞췄던 원빈은 송파구 서울아산병원 장례식장에 마련된 빈소에 근조화한을 보냈다. 배우 김보라와 FT아일랜드, 배우 공명 등 동료 연예인도 근조화환으로 애도를 표했다. 영화 ‘동네사람들’에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 여름, 영화 ‘교생실습’ 뜬다···스크린 데뷔]]></title>
-        <id>https://v.daum.net/v/20250217130712480</id>
-        <link href="https://v.daum.net/v/20250217130712480"/>
-        <updated>2025-02-17T04:25:09.420Z</updated>
-        <content type="html"><![CDATA[우주소녀 여름이 영화 ‘교생실습’에 캐스팅됐다. 27일, 소속사 킹콩 by 스타쉽 측은 “여름이 영화 ‘교생실습’에 ‘박샛별’ 역으로 출연한다. 많은 기대와 응원 부탁드린다”라고 전했다. ‘교생실습’은 모교로 교생실습을 온 의욕 충만한 예비 선생님이 전국 모의고사 1등을 달리고 있는 동아리 소녀들의 비밀을 밝혀내기 위한 고군분투를 다룬 코미디 영화로]]></content>
     </entry>
 </feed>
