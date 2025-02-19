@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-19T12:38:47.809Z</updated>
+    <updated>2025-02-19T13:26:39.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["이병헌과 투톱인데" 영화 '승부' 예고편  석방된 유아인 가렸다...득일까, 실일까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250219220013966</id>
+        <link href="https://v.daum.net/v/20250219220013966"/>
+        <updated>2025-02-19T13:26:38.988Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 개봉까지 오랜시간을 기다렸다. 마약류 상습 투약 혐의로 1심에서 실형을 선고받고 법정구속됐던 배우 유아인의 출연작 영화 '승부'(김형주 감독)가 드디어 베일을 벗는다. 주연 배우의 마약혐의로 '극장 개봉을 못할 수도 있다' 혹은 'OTT를 통해 공개된다' 등 영화의 공개를 둘러싸고 많은 고심을 했던 '승부'가 오는 3월 26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진영 "트와이스 다현, 잘해서 부러워"…아이돌 선배의 '찐' 고백 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250219213002555</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250219191703689"/>
         <updated>2025-02-19T10:22:26.704Z</updated>
         <content type="html"><![CDATA[영화 ‘그 시절, 우리가 좋아했던 소녀’의 조영명 감독이 배우 박성웅 신은정 부부의 깜짝 출연에 대해 이야기했다. 조영명 감독은 19일 서울 용산구 CGV아이파크몰에서는 ‘그 시절, 우리가 좋아했던 소녀’ 언론·배급 시사회 및 기자간담회에서 실제 부부인 박성웅과 신은정이 부부로 깜짝 출연하는 것을 두고 “원작처럼 과하지 않은 진심을 표현하고 싶었다”며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연기돌’ 첫 출발 다현 “첫 데뷔 떨리지만 설레기도···개봉일 기다린다” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250219191653683</id>
-        <link href="https://v.daum.net/v/20250219191653683"/>
-        <updated>2025-02-19T10:22:26.704Z</updated>
-        <content type="html"><![CDATA[그룹 트와이스 다현이 배우로서 첫 출발을 알린 소감을 전했다. 다현은 19일 서울 용산구 CGV아이파크몰에서는 ‘그 시절, 우리가 좋아했던 소녀’ 언론·배급 시사회 및 기자간담회에서 “영화 데뷔작이라 떨리기도 하지만 설레는 마음으로 21일을 기다리고 있다”고 밝혔다. 다현은 “배우라는 꿈은 오래 전부터 가져왔지만 어떻게 시작해야할지 잘 몰랐다. 감사]]></content>
     </entry>
 </feed>
