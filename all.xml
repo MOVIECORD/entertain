@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-21T02:52:22.251Z</updated>
+    <updated>2025-02-21T03:26:13.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['괜괜괜' 이레 "성인 역할 큰 기대 NO…증명 욕심 보단 몰두할래" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250221120724588</id>
+        <link href="https://v.daum.net/v/20250221120724588"/>
+        <updated>2025-02-21T03:26:12.955Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이레가 뭔가를 증명하려고 하기보다는 주어진 역할에 몰두하는 데 더 집중하고 있다며 성인이 된 이후에도 이어가게 될 배우로서의 삶에 대한 각오를 전했다. 이레는 지난 20일 오후 서울 종로구 삼청동 한 카페에서 진행된 영화 '괜찮아 괜찮아 괜찮아!'(감독 김혜영)관련 인터뷰에서 미성년자 때 찍은 작품을 만 19세를 앞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[007시리즈 창작권, 아마존 MGM에 넘어가 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250221115133086</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250221110106049"/>
         <updated>2025-02-21T02:52:21.608Z</updated>
         <content type="html"><![CDATA[9번째 영화인데도 불구하고 전세계 관객이 기대하는 영화 '미키17'로 돌아온 봉준호 감독을 만났다. 영화 '살인의 추억'으로 대한민국영화대상, 대종상영화제를 비롯해 국제적인 영화제에서 작품상, 감독상을 휩쓸었던 봉준호 감독이다. 실화를 바탕으로 했던 이 영화를 만들며 엄청난 부담감을 느꼈고 다시는 실화를 바탕으로 하는 영화를 만들지 않겠다고 다짐까지 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수, '만삭' 김민희 없이 홀로 등장…시상식은 동반 참석할까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250221105957956</id>
-        <link href="https://v.daum.net/v/20250221105957956"/>
-        <updated>2025-02-21T02:52:21.610Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 홍상수 감독이 베를린 국제영화제에서 배우 김민희 없이 홀로 포토타임을 가진 가운데 시상식에는 동반 참석할지 주목된다. 20일 오후(이하 현지시각) 제75회 베를린 국제영화제에서 진행된 '그 자연이 네게 뭐라고 하니' 프리미어 및 기자간담회에서는 홍상수 감독 홀로 등장해 포토월에 섰다. 홍상수 감독은 신작 '그 자연이 네게]]></content>
     </entry>
 </feed>
