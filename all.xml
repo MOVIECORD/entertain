@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-07T21:18:15.476Z</updated>
+    <updated>2025-03-07T22:17:11.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[줄줄이 해체 속 '마의 7년' 벽 깼는데.."트와이스, 갈 길 멀어" 다현은 아직 목 마르다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250308071201862</id>
+        <link href="https://v.daum.net/v/20250308071201862"/>
+        <updated>2025-03-07T22:17:10.853Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 영화 '그 시절, 우리가 좋아했던 소녀'의 주연 다현이 2월 27일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=(주)영화사테이크그룹 트와이스 다현(26)이 9인 멤버 중 최초로 '연기돌' 데뷔 신고식을 치렀다. 다현은 지난달 21일 개봉한 '그 시절, 우리가 좋아했던 소녀'(감독 조영명, 이하 '그 시절')로 처음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이철우, 드라마 ‘결혼장사’ 주연→영화 ‘침범’ 신스틸러 열일 행보ing (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250308030051547</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250307171455629"/>
         <updated>2025-03-07T08:28:16.512Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '백설공주' 외모 불만 때문에 사진 행사가 사라졌다. 3월 6일(현지시간) 해외 매체 데일리메일에 따르면 디즈니는 영국 런던에서 열리는 영화 '인어공주'(감독 마크 웹) 관련 행사를 대폭 축소했다. 레드카펫, 포토월 등의 행사를 생략하고 언론을 대상으로 한 시사회와 간담회만 진행한다. 디즈니 측 관계자는 "영화에 대한 부정적 반응을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최고의 앙상블"…박병은→차주영·박해수, 베테랑 '로비' 팀으로 뭉쳤다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250307170642421</id>
-        <link href="https://v.daum.net/v/20250307170642421"/>
-        <updated>2025-03-07T08:28:16.514Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '로비'가 '베테랑 로비 팀'의 모습을 담은 캐릭터 스틸을 공개했다. 공개된 캐릭터 스틸에는 기술력으로 승부 보려 했던 스타트업 대표 창욱(하정우)이 맞서는 상대인 로비력으로 사업을 따내는 라이벌 회사 대표 광우(박병은)가 주도하는 '베테랑 로비 팀' 구성원의 개성 있는 모습이 담겨 눈길을 사로잡는다. 먼저]]></content>
     </entry>
 </feed>
