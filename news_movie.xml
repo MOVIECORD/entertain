@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-09T01:23:18.218Z</updated>
+    <updated>2025-03-09T02:35:09.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 건 DC '중증외상센터'의 첫 집도의는 슈퍼맨?]]></title>
+        <id>https://v.daum.net/v/20250309113004480</id>
+        <link href="https://v.daum.net/v/20250309113004480"/>
+        <updated>2025-03-09T02:35:07.744Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 영림(칼럼니스트)할리우드는 마블 시네마틱 유니버스, DC 확장 유니버스 등 세계관 기반 콘텐츠에 올인해 왔다. 팬심을 사로잡는 세계관 구축에 다소 시간과 막대한 비용이 투자되는 어려움이 있지만, 일단 성공만 한다면 그야말로 '황금알을 낳는 거위'이기 때문이다. 하지만 막상 'DC 유니버스'(DCU)는 오랜 기간 마블과 경쟁하며 독자적인 정체성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 ‘미키 17’ 북미서 하루만 36억 대박 “경쟁자 없는 박스오피스 1위”]]></title>
         <id>https://v.daum.net/v/20250309100328018</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250308163536724"/>
         <updated>2025-03-08T08:22:00.123Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '미키 17'(감독 봉준호)가 흥행 돌풍을 일으키며 8일 연속 박스오피스 1위를 기록했다. 8일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '미키 17'은 7일 하루 동안 10만 9850명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 164만 6215명이다. '미키 17'은 봉준호 감독의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 다현 "첫사랑 아이콘? 부담되지만 너무 소중한 수식어"]]></title>
-        <id>https://v.daum.net/v/20250308151900800</id>
-        <link href="https://v.daum.net/v/20250308151900800"/>
-        <updated>2025-03-08T06:23:49.967Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;트와이스 다현이 첫사랑의 아이콘이 되어 배우 데뷔에 나섰다.&nbsp; 영화 '그 시절, 우리가 좋아했던 소녀'를 통해 스크린 데뷔에 나선 다현이 지난달 27일 서울 삼청동의 한 카페에서 스포츠한국과 인터뷰를 진행했다.&nbsp; 영화 '그 시절, 우리가 좋아했던 소녀'(조영명 감독/이하 '그시절')는 꿈도 열정도 없이 살아가던 남고생]]></content>
     </entry>
 </feed>
