@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T10:23:01.237Z</updated>
+    <updated>2025-03-12T11:18:06.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“윤석열, 지체없이 파면하라” 문화예술인들 단식 농성 돌입 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250312194306672</id>
+        <link href="https://v.daum.net/v/20250312194306672"/>
+        <updated>2025-03-12T11:18:06.230Z</updated>
+        <content type="html"><![CDATA[“헌법재판소가 내란 우두머리 윤석열을 지체없이 파면 하기를 촉구한다” ‘내란수괴 윤석열 즉각 파면’을 요구하는 문화예술인 광화문 긴급 집단 단식 및 농성이 시작됐다. 12일 오전부터 서울 광화문에 설치된 시민농성장에서 김재상 문화연대 사무처장, 송경동 한국작가회의 사무총장, 정윤희 블랙리스트 이후 총괄디렉터 등 문화예술인이 농성에 돌입했다. 이들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨틱한 피날레…‘브리짓 존스의 일기: 뉴 챕터’ 개봉일 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250312192102276</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250312164506523"/>
         <updated>2025-03-12T08:29:30.534Z</updated>
         <content type="html"><![CDATA[[TV리포트=조은지 기자] 봉준호 감독의 신작 '미키 17'이 전 세계의 뜨거운 관심을 받고 있다. 지난달 28일 한국에서 최초 개봉한 영화 '미키 17'이 전 세계 박스오피스 1위를 차지했다. 그 결과 봉준호 감독은 한국 감독 최초로 전 세계 박스오피스 1위를 달성한 감독의 명예를 누리게 됐다. 가장 먼저 선보인 한국에선, 올해 개봉작 중 가장 빠른 속도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀신마저 AI가 대체한다?…긴장감 넘치는 '귀신들' 메인 예고편 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250312163558187</id>
-        <link href="https://v.daum.net/v/20250312163558187"/>
-        <updated>2025-03-12T08:29:30.534Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) AI소재의 영화 '귀신들'(감독 황승재)이 오는 긴장감 넘치는 메인 예고편을 공개했다.&nbsp; 공개된 예고편은 익숙한 뉴스와 함께 현재와 별반 다르지 않은 대한민국 모습으로 시작하지만 자세히 들여다보면 인간과 똑같이 생긴 AI들과 부대끼며 살아가고 있는 인간들의 모습이 펼쳐진다. “엄마 나 돈 좀 주세요” 백발의 노파(이주실 분)에게]]></content>
     </entry>
 </feed>
