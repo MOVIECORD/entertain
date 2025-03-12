@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T21:20:05.017Z</updated>
+    <updated>2025-03-12T22:21:31.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김히어라 '학폭 논란' 종결 후 전격 복귀..차기작은 '구원자' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250313072002171</id>
+        <link href="https://v.daum.net/v/20250313072002171"/>
+        <updated>2025-03-12T22:21:30.765Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 김히어라 /사진=스타뉴스 배우 김히어라가 학교 폭력 논란을 매듭 짓고 마침내 연기 활동을 재개한다. 13일 스타뉴스 취재 결과, 김히어라는 올해 개봉 예정인 영화 '구원자'(감독 신준)에 캐스팅됐다. 김히어라가 작품에 출연하는 것은 지난 2023년 tvN 드라마 '경이로운 소문2: 카운터 펀치', 뮤지컬 '프리다' 이후 약]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘위플래쉬’를 보며 대치맘 이소담 씨를 떠올리다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250313060511115</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250312184408454"/>
         <updated>2025-03-12T10:23:00.521Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 김태형 기자] 부산국제영화제가 "영화제 직원이 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 불구속 기소된 사건에 대해 깊이 사과드린다"며 고개를 숙였다. 12일 부산국제영화제(BIFF)는 공식입장을 통해 "구성원들이 안전하고 성평등하게 일할 수 있는 조직 문화를 정착시켜야 할 책무를 다하지 못해 죄송하다. 부산국제영화제 직원들과 부산국제영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 '미키 17', 1450억 손해 예상...워너브라더스 재정 위기 직면 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250312183130171</id>
-        <link href="https://v.daum.net/v/20250312183130171"/>
-        <updated>2025-03-12T10:23:00.521Z</updated>
-        <content type="html"><![CDATA[[TV리포트=진주영 기자] 봉준호 감독의 신작 SF 코미디 영화 '미키 17'이 제작 과정에서 예산이 초과되며 손실 규모가 커질 것으로 예상된다. 지난 10일(현지 시간) 외신에 따르면, 워너브라더스는 최근 대규모 프로젝트에 대한 투자로 논란을 빚고 있다. 폴 토마스 앤더슨 감독의 신작 역시 1억 달러 이상의 예산을 배정받았으며, 이는 그의 이전 작품보다]]></content>
     </entry>
 </feed>
