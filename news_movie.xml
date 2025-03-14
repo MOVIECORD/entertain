@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-14T03:33:52.450Z</updated>
+    <updated>2025-03-14T04:25:52.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘, 초라했던 무명시절‥인터넷 방송에서 막춤추고 발악]]></title>
+        <id>https://v.daum.net/v/20250314132245522</id>
+        <link href="https://v.daum.net/v/20250314132245522"/>
+        <updated>2025-03-14T04:25:51.628Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 강하늘의 180도 달라진 과거와 현재가 공개됐다. 3월 21일 개봉하는 영화 '스트리밍'(감독 조장호)은 구독자 수 1위의 범죄 채널 스트리머 우상이 풀리지 않던 연쇄살인사건의 단서를 발견하고 범인을 추적하는 과정을 실시간으로 방송하며 벌어지는 이야기를 그린 스릴러다. 공개된 과거 스틸 속에는 유명세를 얻기 위해 무엇이든 열심히]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하정우 vs 박병은, 4조원 사업 두고 치열한 '로비'…'요정재형'서 비하인드 푼다]]></title>
+        <id>https://v.daum.net/v/20250314130102075</id>
+        <link href="https://v.daum.net/v/20250314130102075"/>
+        <updated>2025-03-14T04:25:51.629Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 영화 '로비'의 팀 대표 하정우와 박병은이 오는 16일 오후 5시 유튜브 '요정재형'에 출연한다.&nbsp; '로비'는&nbsp;연구밖에 모르던 스타트업 대표 창욱(하정우)이 4조 원의 국책사업을 따내기 위해 인생 첫 로비 골프를 시작하는 이야기. '로비'가 오는 4월 2일 개봉을 앞두고 본격 홍보 릴레이의 첫 시작을 유튜브 '요정재형'과 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지, 오늘 '백설공주' OST 공개…희망의 메시지 선사]]></title>
         <id>https://v.daum.net/v/20250314121802291</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250314102112128"/>
         <updated>2025-03-14T01:43:06.931Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영국 출신의 명배우 제레미 아이언스가 설립 200주년을 기념하기 위해 제작된 영화 '프라도 위대한 미술관'에 출연해 명화의 세계로 관객을 안내한다. 스페인의 수도 마드리드에 위치한 '프라도 국립 미술관'은 파리의 루브르, 상트페테르부르크의 예르미타시와 함께 세계 3대 미술관으로 불리는 곳이다. 15세기 초부터 17세기까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 감독도 극찬…3040 "가슴이 웅장해진다" 인기폭발]]></title>
-        <id>https://v.daum.net/v/20250314101902032</id>
-        <link href="https://v.daum.net/v/20250314101902032"/>
-        <updated>2025-03-14T01:43:06.938Z</updated>
-        <content type="html"><![CDATA[1990년대 추억을 소환한 영화 '퇴마록'이 '덕후'(마니아)들의 심장을 두드리며 누적 관객 수 40만 관객을 돌파했다. 이 가운데 연출을 맡은 김동철 감독은 "앞으로 후속편을 위해 열심히 노력할 것"이라며 제작 의지를 밝혔다. 영화 '퇴마록'은 누적 판매 1천만 부를 달성한 이우혁 작가의 베스트셀러로 1993년부터 2001년까지 연재됐다. 무협, 엑소시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감독 하정우, 어깨가 무겁다‥‘요정재형’에서 ‘로비’ 홍보]]></title>
-        <id>https://v.daum.net/v/20250314101325794</id>
-        <link href="https://v.daum.net/v/20250314101325794"/>
-        <updated>2025-03-14T01:43:06.938Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '로비' 하정우가 본격 홍보를 시작한다. 영화 '로비' 팀 대표 하정우와 박병은은 오는 3월 16일 오후 5시 유튜브 '요정재형'에 출연한다. 이들은 극 중에서 4조 원의 국책사업을 따내기 위해 로비 골프를 시작하는 가운데, 각자 신입 로비 팀 및 베테랑 로비 팀의 대표로서 치열한 로비 전쟁을 펼치게 된다. '로비' 안에서도 살벌]]></content>
     </entry>
 </feed>
