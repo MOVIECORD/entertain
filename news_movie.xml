@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-19T10:25:23.856Z</updated>
+    <updated>2025-03-19T11:18:45.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['승부' 조훈현 삼킨 이병헌, 유아인 지워낸 연기의 신]]></title>
+        <id>https://v.daum.net/v/20250319200015297</id>
+        <link href="https://v.daum.net/v/20250319200015297"/>
+        <updated>2025-03-19T11:18:44.596Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 조용한데 강하다. 119분의 러닝타임 동안 배우들의 연기 향연이 펼쳐진다. 단순한 이야기지만, 탄탄한 연기력으로 완성된 영화 '승부'(감독 김형주) 이야기다. 영화는 바둑으로 세계를 제패하고 금의환향한 조훈현(이병헌)의 모습으로 시작된다. 조훈현은 바둑을 시작한 지 반년도 안 된 꼬마 이창호(김강훈·유아인)의 가능성을 알아보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공효진, ♥케빈오 질투나겠네! 7kg이 다리 위에? "염치 없이"]]></title>
         <id>https://v.daum.net/v/20250319192403530</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250319175112972"/>
         <updated>2025-03-19T09:24:52.657Z</updated>
         <content type="html"><![CDATA[주연 배우 유아인의 논란으로 표류하던 ‘승부’가 드라마틱한 실화 이야기로 극장 출격을 앞뒀다. 19일 오후 서울 CGV 용산아이파크몰에서 영화 ‘승부’ 시사회 및 간담회가 열렸다. 김형주 감독과 배우 이병헌 고창석 현봉식 문정희 조우진이 참석했다. ‘승부’는 대한민국 최고의 바둑 레전드 조훈현(이병헌 분)이 제자와의 대결에서 패한 후 타고난 승부사 기질로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌, 조훈현 삼켰다…'승부' 유아인 리스크 품고 4년만 개봉]]></title>
-        <id>https://v.daum.net/v/20250319175032940</id>
-        <link href="https://v.daum.net/v/20250319175032940"/>
-        <updated>2025-03-19T09:24:52.659Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배우 유아인의 마약 투약 혐의로 개봉이 불투명했던 영화 '승부'가 베일을 벗는다. 19일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '승부'(감독 김형주) 시사간담회가 개최됐다. 현장에는 배우 이병헌을 비롯해 고창석, 현봉식, 문정희, 조우진, 김형주 감독이 참석했다. '승부'는 대한민국 최고의 바둑 레전드 조훈현(이]]></content>
     </entry>
 </feed>
