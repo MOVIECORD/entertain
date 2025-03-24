@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-24T09:25:46.484Z</updated>
+    <updated>2025-03-24T10:25:08.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소시 막내' 서현, 제대로 흑화…"고대 주문 외며 악마 끌어내"]]></title>
+        <id>https://v.daum.net/v/20250324192430759</id>
+        <link href="https://v.daum.net/v/20250324192430759"/>
+        <updated>2025-03-24T10:25:07.683Z</updated>
+        <content type="html"><![CDATA[[TV리포트=구하나 기자] 배우 서현이 제대로 흑화했다. 내달 30일 개봉하는 영화 '거룩한 밤: 데몬 헌터스(이하 '거룩한 밤')' 예고편이 24일 공개됐다. '거룩한 밤'은 악을 숭배하는 집단에 의해 혼란에 빠진 도시에서 특별한 능력을 가진 어둠의 해결사 바우(마동석), 샤론(서현), 김군(이다윗)이 악의 무리를 처단하는 오컬트 액션 작품이다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌, '찐한형 신동엽' 유튜브서 '승부' 토크…30년 우정의 케미]]></title>
         <id>https://v.daum.net/v/20250324181503080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250324160851374"/>
         <updated>2025-03-24T07:24:01.812Z</updated>
         <content type="html"><![CDATA[개봉 전부터 원작 훼손이냐, 다양성 추구냐를 두고 논란이 됐던 디즈니의 실사 영화 '백설공주'가 개봉 이후에도 여전히 논란에서 벗어나지 못하고 있습니다. 영화 '백설공주'는 개봉 첫 주인 지난 주말 미국에서 흥행 1위를 기록했지만, 4,300만 달러를 벌어들이는 데 그쳤습니다. 영화 제작비로 2억7천만 달러, 우리 돈 4천억 원을 쓴 점을 고려하면, 기대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고독한 미식가' 개봉 첫주 5만명 돌파…극장은 고로 씨 열풍]]></title>
-        <id>https://v.daum.net/v/20250324160601256</id>
-        <link href="https://v.daum.net/v/20250324160601256"/>
-        <updated>2025-03-24T07:24:01.812Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘고독한 미식가 더 무비’(감독 마츠시게 유타카, ‘고독한 미식가’)가 다양한 신작들의 공세에도 개봉 첫 주 5만 관객을 돌파하며, 실관람객들의 폭발적인 반응을 얻고 있다. 이에 안방을 이를 극장판 ‘고독한 미식가’의 본격적인 흥행에 대한 기대를 높인다. (사진=미디어캐슬)24일 영화진흥위원회 영화관입장권 통합전산망]]></content>
     </entry>
 </feed>
