@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-30T01:53:52.405Z</updated>
+    <updated>2025-03-30T03:08:42.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인어공주'→'백설공주'까지…'100주년'에 굴욕 맞은 디즈니]]></title>
+        <id>https://v.daum.net/v/20250330120005671</id>
+        <link href="https://v.daum.net/v/20250330120005671"/>
+        <updated>2025-03-30T03:08:41.707Z</updated>
+        <content type="html"><![CDATA[마블 시네마틱 유니버스(MCU)와 DC 유니버스(DCU), '스타워즈' 등 해외 유명 프랜차이즈 작품들과 할리우드의 다양한 이야기들을 '덕후'의 입장에서 바라보는 코너입니다. 머글들을 위해 한 걸음 더 다가가겠습니다. &lt;편집자주&gt; (엑스포츠뉴스 이창규 기자) 디즈니, 픽사, 마블, 스타워즈 등 강력한 IP를 자랑하는 월트디즈니컴퍼니가 연일 체면을 구]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이런 이야기 없었잖아"…파묘된 김수현, 논란 끝도 없다..故김새론→설리에 수지까지 '불똥']]></title>
+        <id>https://v.daum.net/v/20250330112328096</id>
+        <link href="https://v.daum.net/v/20250330112328096"/>
+        <updated>2025-03-30T03:08:41.711Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 미성년자 그루밍 논란에 휩싸인 배우 김수현을 향한 파묘가 끝도 없다. 논란의 시발점이 된 고(故) 김새론을 비롯해 전작 영화 '리얼'(이사랑 감독, 코브픽쳐스 제작)에서 호흡을 맞춘 고 설리, 그리고 수지까지 관련된 일화가 뒤늦게 조명되면서 공분을 샀다. 설리의 유가족 측은 지난 28일 "2019년 설리의 장례식 당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골프 몰라도 OK...유머·풍자 다 넣은 하정우표 블랙코미디 '로비']]></title>
+        <id>https://v.daum.net/v/20250330110030323</id>
+        <link href="https://v.daum.net/v/20250330110030323"/>
+        <updated>2025-03-30T03:08:41.711Z</updated>
+        <content type="html"><![CDATA[※ 기사에는 영화 내용을 포함한 스포일러가 있을 수 있습니다. [TV리포트=박정수 기자] 감독 하정우가 두 번의 연출 경험을 집합해 블랙 코미디의 진수를 보여준다. 골프 로비지만 룰은 몰라도 상관없다. 골프는 거들 뿐. 하정우표 '말맛'으로 관객의 혼을 빼놓는다.&nbsp; 영화 '로비'는 연구밖에 모르던 스타트업 대표 창욱(하정우 분)이 4조 원의 국책사업을 따내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘, 미담 또 추가요..'스트리밍' 감독 "짜증 한 번 안 내고 기다려줘"]]></title>
         <id>https://v.daum.net/v/20250330104550017</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250330073924507"/>
         <updated>2025-03-29T23:20:12.044Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 김수현이 고 김새론 미성년자 교제 의혹에 이어 주연 영화 '리얼'(2017)로 다시 도마 위에 올랐다. 김수현이 주연을 맡고 그의 가족으로 알려진 이로베(과거 이사랑) 감독이 연출을 맡은 '리얼'이 강제 노출 오디션 놓고 뒤늦게 논란에 휘말린 가운데 중간 하차한 이정섭 감독이 해명하고 나섰다.&nbsp; 2017년 6월 개봉한 '리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감독·배우 하정우, 세 번째 연출작 '로비'로 흥행 도전]]></title>
-        <id>https://v.daum.net/v/20250330070045103</id>
-        <link href="https://v.daum.net/v/20250330070045103"/>
-        <updated>2025-03-29T22:19:43.533Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 하정우가 다시 한번 감독으로 돌아온다. 10년 만에 선보이는 연출 신작 '로비'가 바로 그의 세 번째 연출작이다. 오는 4월 2일 개봉하는 '로비'는 연구밖에 모르던 스타트업 대표 창욱(하정우 분)이 4조 원 규모의 국책사업을 따내기 위해 생애 첫 로비 골프에 나서면서 벌어지는 이야기를 그린 이 작품은 블랙 코미디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인터뷰라기보단 설교 말씀 들은 기분"…류준열의 美친 신앙심 그리고 믿음]]></title>
-        <id>https://v.daum.net/v/20250330062601497</id>
-        <link href="https://v.daum.net/v/20250330062601497"/>
-        <updated>2025-03-29T22:19:43.534Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자]"진짜 목사님이 말하는 것 같지 않아?" "인터뷰보다는 설교 말씀 들은 것 같아요!" 류준열과의 인터뷰가 끝난 이후 취재진 사이에서 나온 말이다. 지난 26일 서울 중구에 위치한 한 호텔에서 넷플릭스 '계시록' 류준열(성민찬 역)과 인터뷰를 했다. ‘계시록’은 실종 사건의 범인을 단죄하는 게 신의 계시라 믿는 목사와 죽은 동생의 환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['승부', '유아인 리스크'도 가릴 수 없는 진정성의 힘]]></title>
-        <id>https://v.daum.net/v/20250330000158057</id>
-        <link href="https://v.daum.net/v/20250330000158057"/>
-        <updated>2025-03-29T15:22:03.401Z</updated>
-        <content type="html"><![CDATA[유아인 마약 논란으로 공개 불투명해졌다가 극장行 사제지간으로 만난 이병헌·유아인이 열연…바둑의 매력도 담아 [더팩트｜박지윤 기자] 주연 배우의 마약 투약 혐의가 불거지면서 공개가 불투명해졌다가 우여곡절 끝에 관객들에게 닿은 작품이 있다. 영화보다 더 영화 같은 실화를 묵직하게 그려내며 감동을, 바둑의 매력으로 재미를 잡으면서 '유아인 리스크'를 품고 배]]></content>
     </entry>
 </feed>
