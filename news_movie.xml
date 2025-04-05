@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-04-05T03:35:37.566Z</updated>
+    <updated>2025-04-05T04:26:16.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100만 넘은 ‘승부’, 바짝 쫓는 ‘로비’]]></title>
+        <id>https://v.daum.net/v/20250405125809471</id>
+        <link href="https://v.daum.net/v/20250405125809471"/>
+        <updated>2025-04-05T04:26:15.551Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 ‘승부’가 100만 명을 돌파했다. '로비'와의 맞닿은 승부수를 확연히 제친 듯 보인다. 5일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 ‘승부’는 이날 오전 누적 관객수 105만 6921명을 기록했다. 영화는 개봉 이래 전체 박스오피스 1위 자리를 내내 유지해왔다. 결국 11일 반 오전 100만 명 돌파에 성공했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1위 ‘승부’ 100만 관객 돌파…개봉 11일만의 기록]]></title>
         <id>https://v.daum.net/v/20250405123040314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405084046930"/>
         <updated>2025-04-05T01:45:10.560Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 연상호 감독의 신작 영화 넷플릭스 '계시록'의 배우 류준열이 26일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2025.03.26 /사진=김휘선 hwijpg@배우 류준열이 '계시록'에서 광기의 목사 역할로 연기 변신에 성공했다. 류준열은 지난달 21일 넷플릭스 영화 '계시록'(감독/각본 연상호)로 전 세계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최고 비호감 갱신"..'로비' 김의성, 가장 잘하는 걸 했다]]></title>
-        <id>https://v.daum.net/v/20250405070013081</id>
-        <link href="https://v.daum.net/v/20250405070013081"/>
-        <updated>2025-04-04T22:21:00.421Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 '로비' 스틸컷"전작들의 비호감을 뛰어넘는 비호감 캐릭터가 나올 것이라 생각 못했다." 배우 김의성이 가장 잘하는 것을 하며 '로비'의 캐릭터 앙상블의 중심에 섰다. 영화 '로비'는 연구밖에 모르던 스타트업 대표 창욱(하정우 분)이 4조 원의 국책사업을 따내기 위해 인생 첫 로비 골프를 시작하는 이야기. 김의]]></content>
     </entry>
 </feed>
