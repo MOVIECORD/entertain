@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-04-05T01:45:11.207Z</updated>
+    <updated>2025-04-05T02:59:33.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌 '승부' 100만 돌파…바둑돌로 특별한 인사까지]]></title>
+        <id>https://v.daum.net/v/20250405111303584</id>
+        <link href="https://v.daum.net/v/20250405111303584"/>
+        <updated>2025-04-05T02:59:32.692Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 영화 '승부'가 개봉 11일째 100만 관객을 돌파했다. '승부'가 개봉 11일째인 5일 오전 누적 관객수 100만 명을 돌파하며 개봉 2주차 주말에도 상쾌한 흥행 순항을 이어갈 것을 알렸다. 박스오피스 1위는 물론, 개봉 2주차를 맞이한 현재 예매율에서도 상위권을 차지하고 있어 이번 주말에도 손익분기점 돌파를 향한 흥행 레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유아인 리스크 극복했다…'승부', 개봉 11일째 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20250405110450498</id>
+        <link href="https://v.daum.net/v/20250405110450498"/>
+        <updated>2025-04-05T02:59:32.692Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '승부'가 개봉 11일째 누적 관객수 100만 명을 돌파했다. 5일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '승부'가 개봉 11일째인 이날 오전 누적 관객수 100만 명을 돌파하는 기염을 토했다. 개봉 이래 꾸준히 전체 박스오피스 1위 자리를 유지하고 있는 '승부'는 누적 관객수 105만 6921]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유아인 리스크 無..이병헌 '승부', 개봉 11일만 100만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20250405104120248</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250405060013507"/>
         <updated>2025-04-04T21:20:14.146Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박경호 기자] 저마다 아픈 상처가 있다. 그 상처가 때로는 흉이 되기도 한다. 그래도 누군가 아픔을 알아준다면 작은 위안을 받고 인생을 살아갈 힘을 얻는다. 상처가 될 수밖에 있는 두 사람이 서로를 보듬는 버디 무비 ‘파란’이 9일 개봉한다. 영화 ‘파란’은 뒤바뀐 가해자의 아들과 피해자의 딸, 가족의 죄로 죽지 못해 살던 두 사람이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국영상자료원, 장애인의 날 맞아 배리어프리 영화 정기 상영회 개최···19일 김다민 감독 ‘막걸리가 알려줄 거야’ 무료상영]]></title>
-        <id>https://v.daum.net/v/20250405041835783</id>
-        <link href="https://v.daum.net/v/20250405041835783"/>
-        <updated>2025-04-04T19:18:44.896Z</updated>
-        <content type="html"><![CDATA[한국영상자료원(원장 김홍준, 이하 영상자료원)은 오는 19일 시네마테크KOFA(상암동 소재)에서 2025년 상반기 배리어프리 영화 정기 상영회를 개최한다. 상반기 정기 상영회는 장애인의 날(4월 20일) 시기에 맞춰 매해 진행돼 왔으며, 이번 상영회도 그 취지를 이어 장애인의 날을 기념하는 의미를 더한다. 영상자료원은 (사)배리어프리영화위원회와 201]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플레잉 디 오케스트라 2014', 스크린으로 부활한 류이치 사카모토 음악 여정의 결정판]]></title>
-        <id>https://v.daum.net/v/20250405020004300</id>
-        <link href="https://v.daum.net/v/20250405020004300"/>
-        <updated>2025-04-04T17:19:57.902Z</updated>
-        <content type="html"><![CDATA[(MHN 이주환 인턴기자) 한 시대를 울린 일본 영화 음악의 거장 류이치 사카모토의 선율이 다시 한 번 스크린을 수놓는다. 롯데시네마는 류이치 사카모토를 추모하는 마음을 담아, 그가 2014년 도쿄 필하모닉 오케스트라와 함께한 투어 'Playing the Orchestra 2014' 실황을 담은 영화 '류이치 사카모토: 플레잉 디 오케스트라 201]]></content>
     </entry>
 </feed>
