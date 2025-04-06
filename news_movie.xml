@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-04-06T04:27:51.113Z</updated>
+    <updated>2025-04-06T05:20:44.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일가를 덮친 '죽음의 저주'… 그런데, 할머니가 보통 할머니가 아니었다]]></title>
+        <id>https://v.daum.net/v/20250406135631904</id>
+        <link href="https://v.daum.net/v/20250406135631904"/>
+        <updated>2025-04-06T05:20:44.078Z</updated>
+        <content type="html"><![CDATA[[TV리포트=양원모 기자] 죽음보다 무서운 복수가 시작된다. 6일 낮 MBC '출발! 비디오 여행'에서는 일본의 장르 반전 하우스 호러 영화 '사유리'가 소개됐다. 치매를 앓는 할머니(네기시 토시에 분)를 모시기 위해 3층짜리 대저택으로 이사한 가족. 넓은 집을 행복으로 가득 채울 기대감에 부풀어 있던 것도 잠시. 밤마다 기이한 현상이 잇따르며 가족을 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘폭싹’ 문소리 “딸은 아이유 팬, 엄마랑 나와 신기하대요”]]></title>
         <id>https://v.daum.net/v/20250406132415178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250406081507622"/>
         <updated>2025-04-05T23:21:58.149Z</updated>
         <content type="html"><![CDATA[배우 이병헌·유아인이 주연을 맡은 영화 ‘승부’(감독 김형주)가 100만 고지를 밟으며 개봉 2주차에도 박스오피스 1위 자리를 굳건하게 지키고 있다. 영화관입장권통합전산망에 따르면 ‘승부’는 개봉 11일째인 5일 100만 관객을 달성했다. 이 날 20만8080명을 더한 ‘승부’의 누적 관객은 120만1113명이다. 극 중 조훈현 역을 맡은 이병헌은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘승부’ 120만 돌파..‘로비’ 가뿐히 막고 독주]]></title>
-        <id>https://v.daum.net/v/20250406080601572</id>
-        <link href="https://v.daum.net/v/20250406080601572"/>
-        <updated>2025-04-05T23:21:58.151Z</updated>
-        <content type="html"><![CDATA[영화 ‘승부’가 신작 ‘로비’를 가뿐히 따돌리고 박스오피스 왕좌를 굳혔다. 6일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 ‘승부’는 전날 20만 8080명의 관객을 동원하며 누적 관객수 120만 1113명을 기록했다. 예매율도 압도적 1위다. 지난 26일 개봉한 영화는 대한민국 최고의 바둑 레전드 조훈현(이병헌 분)이 제자 이창호(유아인 분)와의]]></content>
     </entry>
 </feed>
