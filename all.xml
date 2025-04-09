@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-09T11:19:42.615Z</updated>
+    <updated>2025-04-09T12:47:12.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['마인크래프트 무비', 폭발적 인기에 힘입어 개봉일 앞당겨 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250409214003174</id>
+        <link href="https://v.daum.net/v/20250409214003174"/>
+        <updated>2025-04-09T12:47:11.811Z</updated>
+        <content type="html"><![CDATA[(MHN 김은비 인턴기자) 전 세계를 강타한 화제의 영화 '마인크래프트 무비'가 국내 개봉일을 앞당겼다. 9일 워너브러더스코리아는 오는 30일로 예정됐던 '마인크래프트 무비'의 국내 개봉일을 오는 26일로 앞당긴다고 밝혔다. 이번 결정은 역대 비디오 게임 원작 영화 최고 오프닝 스코어를 기록한 것은 물론, 북미 개봉 직후 69개국 박스오피스 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문형배 재판관 길러낸 ‘어른 김장하’…폭발적 관심에 이례적 재개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250409183630473</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250409171048354"/>
         <updated>2025-04-09T08:32:23.388Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 휴먼 다큐멘터리 영화 '어른 김장하'(감독 김현지)가 재개봉한다. 9일 배급사 시네마 달에 따르면 '어른 김장하'는 관객 요청으로 이달 재개봉한다. 지난 4일 이후, '어른 김장하' 속 당시 문형배 헌법재판소장 권한대행이 '김장하 장학생'으로서 발언한 장면이 회자하며 장안의 화제에 올랐다. 사법시험 합격 후 찾아간 그에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영화 같은 모임 이야기'로…신한 29초영화제 응모하세요 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250409164702385</id>
-        <link href="https://v.daum.net/v/20250409164702385"/>
-        <updated>2025-04-09T08:32:23.390Z</updated>
-        <content type="html"><![CDATA[‘신한 29초영화제’(사진)가 11일부터 5월 28일까지 응모작을 받는다. 신한은행과 한국경제신문사가 공동 주최하고 29초영화제사무국이 주관하는 이번 영화제의 주제는 ‘영화 같은 모임 이야기’다. 가족, 친구, 동호회 등 웃음이 쌓이고 활력이 채워지는 우리 일상의 모든 모임 이야기를 29초 영상으로 만들면 된다. 신한은행 관계자는 “좋은 사람들과 함께 만드]]></content>
     </entry>
 </feed>
