@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T08:30:14.587Z</updated>
+    <updated>2025-04-10T09:24:39.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뉴욕타임스가 주목한 베스트셀러 ‘파과’…극장·서점 장악했다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250410174508981</id>
+        <link href="https://v.daum.net/v/20250410174508981"/>
+        <updated>2025-04-10T09:24:38.818Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 세계 유수 영화제에 초청받으며 개봉 전부터 글로벌한 관심을 받고 있는 영화 ‘파과’가 출판사 위즈덤하우스와 다양한 콜라보레이션을 진행한다 영화 ‘파과’는 바퀴벌레 같은 인간들을 처리하는 조직에서 40여 년간 활동한 레전드 킬러 조각과 평생 그를 쫓은 미스터리한 킬러 투우의 강렬한 대결을 그린 액션 드라마다. 장편소설 ‘파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 파면만 기다렸다...관련 영화들 줄줄이 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250410172711396</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250410160333829"/>
         <updated>2025-04-10T07:22:22.967Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘파과’가 원작 출판사 위즈덤하우스와 다양한 콜라보레이션을 진행한다. 4월 30일 개봉하는 영화 '파과'(감독 민규동)는 바퀴벌레 같은 인간들을 처리하는 조직에서 40여 년간 활동한 레전드 킬러 ‘조각’과 평생 그를 쫓은 미스터리한 킬러 ‘투우’의 강렬한 대결을 그린 액션 드라마다. 동명의 장편소설 '파과'를 원작으로 한 영화 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강말금·김금순, 스크린서도 하드캐리하는 '폭싹' 신스틸러들 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250410160008627</id>
-        <link href="https://v.daum.net/v/20250410160008627"/>
-        <updated>2025-04-10T07:22:22.969Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 넷플릭스 시리즈물 '폭싹 속았수다'는 주연 배우뿐 아니라 스쳐 지나가듯 본 조연 배우 한 명 한 명마저도 그냥 지나칠 수 없을 만큼 빛나는 진귀한 작품이다. 특히 이 드라마에서는 여성 캐릭터들의 활약상이 빛났는데, 그중에서도 악당 역할을 톡톡히 해내며 드라마에 긴장감을 부여한 남포장 여주인 금자(강말금 분)와 '졸부' 제]]></content>
     </entry>
 </feed>
