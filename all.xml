@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-13T03:14:21.870Z</updated>
+    <updated>2025-04-13T04:51:30.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['야당' 황병국 감독 "검사실의 바퀴벌레가 메타포" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://v.daum.net/v/20250413130146640</id>
+        <link href="https://v.daum.net/v/20250413130146640"/>
+        <updated>2025-04-13T04:51:29.435Z</updated>
+        <content type="html"><![CDATA[영화 '야당'으로 14년 만에 메가폰을 든 감독 황병국을 만났다. '야당'은 대한민국 마약판을 설계하는 브로커 ‘야당’, 더 높은 곳에 오르려는 ‘검사’, 마약 범죄 소탕에 모든 것을 건 ‘형사’가 서로 다른 목적을 가지고 엮이며 펼쳐지는 범죄 액션 영화. 영화 '태양은 없다'의 조감독 출신으로 '나의 결혼 원정기', '특수본'의 연출, '부당거래',]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 영화 보는데 한국 '막장' 드라마가 떠오른 이유 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://v.daum.net/v/20250413120000675</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250412222530405"/>
         <updated>2025-04-12T14:18:38.903Z</updated>
         <content type="html"><![CDATA[[TV리포트=강해인 기자] '람보'를 연출한 전설적인 감독이 세상을 떠났다. 11일(현지시간), CBC 등의 외신은 영화감독 테드 코체프가 지난 10일 사망했다고 보도했다. 향년 94세. 지난 7일이 그의 94번째 생일이었기에 더 충격적인 소식이었다. 그의 아들은 "아버지는 사랑하는 사람들에게 둘러싸여 평화롭게 죽었다"라고 전했다. 테드 코체프는 영화 및]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘·유해진 주연 ‘야당’, 이병헌의 ‘승부’ 넘었다…예매율 1위 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://v.daum.net/v/20250412222208396</id>
-        <link href="https://v.daum.net/v/20250412222208396"/>
-        <updated>2025-04-12T13:25:08.769Z</updated>
-        <content type="html"><![CDATA[황병국 감독의 영화 ‘야당’이 개봉 4일을 앞두고 전체 예매율 1위에 올랐다. ‘야당’은 영화관입장권 통합전산망 집계 기준으로 12일 오후 5시 기준으로 예매율 19.7%에 사전 예매량 3만4991장을 기록해 전체 1위에 올랐다. 이는 최근 개봉한 이병헌 주연의 영화 ‘승부’의 기록을 넘는 수치로 4월 극장가의 관심을 받을 준비를 마쳤다. ‘야당’]]></content>
     </entry>
 </feed>
